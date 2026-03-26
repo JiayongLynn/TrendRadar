@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T11:35:46.239309+08:00",
-  "total_titles_processed": 118,
+  "generated_at": "2026-03-26T13:45:33.760972+08:00",
+  "total_titles_processed": 186,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "【早报】深夜，中国资产全线上涨；伊朗：拒绝美国停战提议",
@@ -15,19 +15,102 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时35分"
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 13时45分]"
         },
         {
           "title": "伊朗拒绝美国停战提议！关于是否开展谈判，双方最新表态",
           "url": "https://www.cls.cn/detail/2325068",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 13时45分]"
+        },
+        {
+          "title": "据英国金融时报：由于伊朗战争导致石油销售暴跌，伊拉克经济岌岌可危。自战争爆发以来，伊朗的石油出口量已从每日340万桶骤降至约25万桶，储油罐接近临界值。",
+          "url": "https://flash.jin10.com/detail/20260326133746898800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时35分"
+          "time_info": "13时45分"
+        },
+        {
+          "title": "美国一边提停火方案一边加紧增兵，伊朗告诉调解方：怀疑和平谈判只是一个幌子",
+          "url": "https://wallstreetcn.com/articles/3768338",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 13时45分]"
+        },
+        {
+          "title": "伊朗外长：美国谈论“谈判”无异于承认“失败”",
+          "url": "https://www.zaochenbao.com/news/politics/202603/2667784.html",
+          "source": "联合早报",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 13时45分]"
+        },
+        {
+          "title": "伊朗或在曼德海峡开辟新战线 反制美国地面入侵",
+          "url": "https://www.zaochenbao.com/news/politics/202603/2667781.html",
+          "source": "联合早报",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 13时45分]"
+        },
+        {
+          "title": "顾清扬：从能源冲击到结构重塑——伊朗战局下的中国经济",
+          "url": "https://www.zaochenbao.com/news/opinion/202603/2667769.html",
+          "source": "联合早报",
+          "ranks": [
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 13时45分]"
+        },
+        {
+          "title": "伊朗断然回拒美国15点停战计划 重申五点停战前提条件反击",
+          "url": "https://www.zaochenbao.com/news/politics/202603/2667766.html",
+          "source": "联合早报",
+          "ranks": [
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 13时45分]"
+        },
+        {
+          "title": "掌握全球石油咽喉 霍尔木兹海峡成伊朗重要谈判筹码",
+          "url": "https://www.zaochenbao.com/news/politics/202603/2667763.html",
+          "source": "联合早报",
+          "ranks": [
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 13时45分]"
         },
         {
           "title": "阿联酋阿布扎比国家石油公司首席执行官：当伊朗以霍尔木兹海峡作为要挟筹码，全球每个国家的民众都要在加油站、超市和药店为此付出代价。不应允许任何国家以这种方式破坏全球经济，现在不允许，未来也绝不允许。",
@@ -41,37 +124,26 @@
           "time_info": "11时35分"
         },
         {
-          "title": "美国一边提停火方案一边加紧增兵，伊朗告诉调解方：怀疑和平谈判只是一个幌子",
-          "url": "https://wallstreetcn.com/articles/3768338",
-          "source": "华尔街见闻",
+          "title": "伊朗寻求对通过霍尔木兹海峡的船只征收通行费",
+          "url": "https://www.cls.cn/detail/2325114",
+          "source": "财联社热门",
           "ranks": [
             6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时35分"
+          "time_info": "13时45分"
         },
         {
-          "title": "伊朗外长：美国谈论“谈判”无异于承认“失败”",
-          "url": "https://www.zaochenbao.com/news/politics/202603/2667784.html",
-          "source": "联合早报",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
-          "title": "伊朗或在曼德海峡开辟新战线 反制美国地面入侵",
-          "url": "https://www.zaochenbao.com/news/politics/202603/2667781.html",
-          "source": "联合早报",
+          "title": "伊朗外长称“没有谈判”、总统“高层高度团结”，美方称“谈判仍在继续”、拟本周末在巴基斯坦开会讨论停战方案",
+          "url": "https://wallstreetcn.com/articles/3768413",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时35分"
+          "time_info": "13时45分"
         },
         {
           "title": "马凯硕谈伊朗战争：小国直言或等同于自杀",
@@ -79,17 +151,6 @@
           "source": "联合早报",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
-          "title": "顾清扬：从能源冲击到结构重塑——伊朗战局下的中国经济",
-          "url": "https://www.zaochenbao.com/news/opinion/202603/2667769.html",
-          "source": "联合早报",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -105,35 +166,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
-        },
-        {
-          "title": "伊朗断然回拒美国15点停战计划 重申五点停战前提条件反击",
-          "url": "https://www.zaochenbao.com/news/politics/202603/2667766.html",
-          "source": "联合早报",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
-          "title": "掌握全球石油咽喉 霍尔木兹海峡成伊朗重要谈判筹码",
-          "url": "https://www.zaochenbao.com/news/politics/202603/2667763.html",
-          "source": "联合早报",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时35分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "伊朗拒绝美国停战方案、称不允许特朗普决定停战时间，白宫称美伊在谈判且有成效，伊外长称信息交流并非谈判",
+          "url": "https://wallstreetcn.com/articles/3768393",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 13时45分]"
+        },
         {
           "title": "停战心切！特朗普欲遵循4-6周时间表，却发现毫无退路",
           "url": "https://flash.jin10.com/detail/20260326111014277800",
@@ -146,26 +196,28 @@
           "time_info": "11时35分"
         },
         {
-          "title": "伊朗拒绝美国停战方案、称不允许特朗普决定停战时间，白宫称美伊在谈判且有成效，伊外长称信息交流并非谈判",
-          "url": "https://wallstreetcn.com/articles/3768393",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
           "title": "野村辜朝明：“伊朗战争”发生在特朗普输掉“高院关税战”后几天，这不是巧合",
           "url": "https://wallstreetcn.com/articles/3768337",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时35分"
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 13时45分]"
+        },
+        {
+          "title": "特朗普：5月14至15日访华与习近平会晤",
+          "url": "https://www.zaochenbao.com/news/politics/202603/2667765.html",
+          "source": "联合早报",
+          "ranks": [
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 13时45分]"
         },
         {
           "title": "特朗普告知幕僚希望尽快结束伊朗战争",
@@ -179,15 +231,15 @@
           "time_info": "11时35分"
         },
         {
-          "title": "特朗普：5月14至15日访华与习近平会晤",
-          "url": "https://www.zaochenbao.com/news/politics/202603/2667765.html",
-          "source": "联合早报",
+          "title": "市场总结特朗普如何操控油价：闭市时升级局势，油价逼近100美元时紧急降温",
+          "url": "https://flash.jin10.com/detail/20260326131414037800",
+          "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时35分"
+          "time_info": "13时45分"
         },
         {
           "title": "受油价与伊朗战争冲击 特朗普支持率降创新低",
@@ -214,8 +266,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时35分"
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 13时45分]"
         },
         {
           "title": "谷歌推出压缩算法TurboQuant，宣称实现约6倍内存节省",
@@ -281,8 +333,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时35分"
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 13时45分]"
         },
         {
           "title": "美股收盘：中东停火期待推高三大指数 商业航天、CPU概念领涨",
@@ -292,8 +344,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时35分"
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 13时45分]"
         }
       ]
     },
@@ -306,11 +358,29 @@
           "url": "https://wallstreetcn.com/articles/3768419",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 13时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "摩根士丹利：流动性恶化，美债暴力平仓正在上演",
+          "url": "https://flash.jin10.com/detail/20260326131900216800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时35分"
+          "time_info": "13时45分"
         }
       ]
     }
