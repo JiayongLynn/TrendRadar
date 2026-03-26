@@ -1536,11 +1536,6 @@ def generate_html_report(
     with open(file_path, "w", encoding="utf-8") as f:
         f.write(html_content)
 
-    if is_daily_summary:
-        root_file_path = Path("index.html")
-        with open(root_file_path, "w", encoding="utf-8") as f:
-            f.write(html_content)
-
     return file_path
 
 
@@ -3346,6 +3341,17 @@ class NewsAnalyzer:
             self, mode_strategy: Dict, results: Dict, id_to_name: Dict, failed_ids: List
     ) -> Optional[str]:
         """执行模式特定逻辑"""
+        # daily 模式只保留当日汇总，不再生成每次执行的时间戳HTML
+        if self.report_mode == "daily":
+            summary_html = self._generate_summary_report(mode_strategy)
+            if self._should_open_browser() and summary_html:
+                summary_url = "file://" + str(Path(summary_html).resolve())
+                print(f"正在打开汇总报告: {summary_url}")
+                webbrowser.open(summary_url)
+            elif self.is_docker_container and summary_html:
+                print(f"汇总报告已生成（Docker环境）: {summary_html}")
+            return summary_html
+
         # 获取当前监控平台ID列表
         current_platform_ids = [platform["id"] for platform in CONFIG["PLATFORMS"]]
 
@@ -3479,26 +3485,32 @@ class NewsAnalyzer:
 
 # === API 功能部分 ===
 
-# 沿用旧版的固定ID列表用于API生成
-API_IDS = [
-    ("toutiao", "今日头条"), ("baidu", "百度热搜"), ("wallstreetcn-hot", "华尔街见闻"),
-    ("thepaper", "澎湃新闻"), ("bilibili-hot-search", "bilibili 热搜"), ("cls-hot", "财联社热门"),
-    ("ifeng", "凤凰网"), ("jin10", "金十数据"), ("wallstreetcn-quick", "华尔街见闻-快讯"),
-    ("tieba", "贴吧"), ("weibo", "微博"), ("douyin", "抖音"), ("zhihu", "知乎"),
-]
+def get_api_sources_from_config() -> List[Union[str, Tuple[str, str]]]:
+    """获取用于 API 生成的数据源，和主流程保持一致。"""
+    api_sources: List[Union[str, Tuple[str, str]]] = []
+    for platform in CONFIG["PLATFORMS"]:
+        platform_id = platform["id"]
+        platform_name = platform.get("name")
+        if platform_name:
+            api_sources.append((platform_id, platform_name))
+        else:
+            api_sources.append(platform_id)
+    return api_sources
 
 
 def generate_api_data(
     analyzer: "NewsAnalyzer",
 ) -> Tuple[Dict, List, int, List, Dict]:
     """
-    获取并分析来自固定源的趋势数据，返回API所需的所有数据。
+    获取并分析来自当前配置源的趋势数据，返回 API 所需的所有数据。
     """
     print("为API生成数据：开始获取和分析...")
+    api_sources = get_api_sources_from_config()
+    print(f"API使用当前配置的平台: {[item[0] if isinstance(item, tuple) else item for item in api_sources]}")
 
     # 1. 爬取数据
     results, id_to_name, failed_ids = analyzer.data_fetcher.crawl_websites(
-        API_IDS, analyzer.request_interval
+        api_sources, analyzer.request_interval
     )
 
     # 2. 保存原始数据（可选，但保持与主流程一致）
@@ -3506,7 +3518,7 @@ def generate_api_data(
 
     # 3. 分析数据
     api_id_list = [
-        item[0] if isinstance(item, tuple) else item for item in API_IDS
+        item[0] if isinstance(item, tuple) else item for item in api_sources
     ]
     all_results, final_id_to_name, title_info = read_all_today_titles(api_id_list)
 
@@ -3609,6 +3621,251 @@ def generate_static_api_files(analyzer: "NewsAnalyzer"):
         json.dump(api_data, f, ensure_ascii=False, indent=2)
 
     print(f"静态API文件已成功生成: {output_path}")
+
+    # 生成报告入口页和按天索引
+    generate_reports_portal()
+
+
+def _parse_date_folder(date_folder: str) -> Optional[str]:
+    """将 output 日期目录（如 2026年03月12日）转换为 ISO 日期。"""
+    match = re.match(r"^(\d{4})年(\d{1,2})月(\d{1,2})日$", date_folder)
+    if not match:
+        return None
+    year, month, day = match.groups()
+    return f"{year}-{int(month):02d}-{int(day):02d}"
+
+
+def collect_daily_reports() -> List[Dict]:
+    """收集已生成的每日汇总报告列表。"""
+    reports: List[Dict] = []
+    output_root = Path("output")
+    if not output_root.exists():
+        return reports
+
+    for date_dir in output_root.iterdir():
+        if not date_dir.is_dir():
+            continue
+        summary_file = date_dir / "html" / "当日汇总.html"
+        if not summary_file.exists():
+            continue
+
+        iso_date = _parse_date_folder(date_dir.name)
+        if not iso_date:
+            continue
+
+        reports.append(
+            {
+                "date": iso_date,
+                "date_folder": date_dir.name,
+                "summary_path": summary_file.as_posix(),
+            }
+        )
+
+    reports.sort(key=lambda item: item["date"])
+    return reports
+
+
+def generate_reports_portal() -> None:
+    """生成入口 index.html 和报告索引 api/reports_index.json。"""
+    reports = collect_daily_reports()
+    today_date = get_beijing_time().strftime("%Y-%m-%d")
+
+    index_payload = {
+        "today_date": today_date,
+        "reports": reports,
+    }
+    index_json_path = Path("api") / "reports_index.json"
+    index_json_path.parent.mkdir(parents=True, exist_ok=True)
+    with open(index_json_path, "w", encoding="utf-8") as f:
+        json.dump(index_payload, f, ensure_ascii=False, indent=2)
+    print(f"报告索引已生成: {index_json_path.as_posix()} (共 {len(reports)} 天)")
+
+    portal_html = """<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TrendRadar 日历入口</title>
+  <style>
+    :root {
+      --bg: #f7f8fb;
+      --card: #ffffff;
+      --text: #1f2937;
+      --muted: #6b7280;
+      --line: #e5e7eb;
+      --brand: #2563eb;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+      color: var(--text);
+      background: radial-gradient(circle at top right, #dbeafe 0%, var(--bg) 45%);
+    }
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 16px;
+    }
+    .toolbar {
+      display: flex;
+      gap: 10px;
+      align-items: center;
+      flex-wrap: wrap;
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 12px;
+      margin-bottom: 12px;
+    }
+    .title {
+      font-size: 18px;
+      font-weight: 700;
+      margin-right: auto;
+    }
+    .btn, input[type="date"] {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fff;
+      color: var(--text);
+      padding: 8px 10px;
+      font-size: 14px;
+    }
+    .btn {
+      cursor: pointer;
+    }
+    .btn:hover {
+      border-color: var(--brand);
+      color: var(--brand);
+    }
+    .status {
+      color: var(--muted);
+      font-size: 13px;
+      margin-left: 4px;
+    }
+    .frame-wrap {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      overflow: hidden;
+      min-height: 70vh;
+    }
+    iframe {
+      width: 100%;
+      height: 78vh;
+      border: 0;
+      background: #fff;
+    }
+    .empty {
+      padding: 24px;
+      color: var(--muted);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="toolbar">
+      <div class="title">TrendRadar 每日汇总入口</div>
+      <button class="btn" id="prevBtn">上一天</button>
+      <input id="datePicker" type="date" />
+      <button class="btn" id="nextBtn">下一天</button>
+      <button class="btn" id="todayBtn">回到今天</button>
+      <div class="status" id="statusText">正在加载...</div>
+    </div>
+    <div class="frame-wrap">
+      <iframe id="reportFrame" title="日报内容"></iframe>
+      <div id="emptyText" class="empty" style="display:none;">没有可展示的日报，请先运行一次抓取。</div>
+    </div>
+  </div>
+  <script>
+    const statusText = document.getElementById("statusText");
+    const datePicker = document.getElementById("datePicker");
+    const reportFrame = document.getElementById("reportFrame");
+    const emptyText = document.getElementById("emptyText");
+    const prevBtn = document.getElementById("prevBtn");
+    const nextBtn = document.getElementById("nextBtn");
+    const todayBtn = document.getElementById("todayBtn");
+
+    let reports = [];
+    let dateToReport = new Map();
+    let availableDates = [];
+    let todayDate = "";
+
+    function setEmpty(message) {
+      statusText.textContent = message;
+      reportFrame.style.display = "none";
+      emptyText.style.display = "block";
+      emptyText.textContent = message;
+    }
+
+    function loadReportByDate(date) {
+      const report = dateToReport.get(date);
+      if (!report) {
+        statusText.textContent = "该日期没有日报";
+        return;
+      }
+      datePicker.value = date;
+      reportFrame.style.display = "block";
+      emptyText.style.display = "none";
+      reportFrame.src = encodeURI(report.summary_path) + "?t=" + Date.now();
+      statusText.textContent = "当前日期: " + date + "（目录: " + report.date_folder + "）";
+    }
+
+    function moveDate(step) {
+      const current = datePicker.value;
+      const idx = availableDates.indexOf(current);
+      if (idx === -1) return;
+      const nextIdx = idx + step;
+      if (nextIdx < 0 || nextIdx >= availableDates.length) return;
+      loadReportByDate(availableDates[nextIdx]);
+    }
+
+    async function init() {
+      try {
+        const resp = await fetch("api/reports_index.json?t=" + Date.now());
+        const data = await resp.json();
+        reports = data.reports || [];
+        todayDate = data.today_date || "";
+
+        if (reports.length === 0) {
+          setEmpty("没有可展示的日报，请先运行一次抓取。");
+          return;
+        }
+
+        reports.forEach((item) => dateToReport.set(item.date, item));
+        availableDates = reports.map((item) => item.date).sort();
+
+        datePicker.min = availableDates[0];
+        datePicker.max = availableDates[availableDates.length - 1];
+
+        const defaultDate = dateToReport.has(todayDate)
+          ? todayDate
+          : availableDates[availableDates.length - 1];
+
+        loadReportByDate(defaultDate);
+      } catch (err) {
+        setEmpty("加载失败: " + err);
+      }
+    }
+
+    datePicker.addEventListener("change", () => loadReportByDate(datePicker.value));
+    prevBtn.addEventListener("click", () => moveDate(-1));
+    nextBtn.addEventListener("click", () => moveDate(1));
+    todayBtn.addEventListener("click", () => {
+      if (todayDate && dateToReport.has(todayDate)) {
+        loadReportByDate(todayDate);
+      }
+    });
+
+    init();
+  </script>
+</body>
+</html>
+"""
+
+    with open("index.html", "w", encoding="utf-8") as f:
+        f.write(portal_html)
+    print("入口页已生成: index.html")
 
 
 # --- Flask App (如果已安装) ---
