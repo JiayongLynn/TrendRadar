@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-27T06:41:17.765590+08:00",
-  "total_titles_processed": 205,
+  "generated_at": "2026-03-27T07:41:23.943419+08:00",
+  "total_titles_processed": 261,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "特朗普称5月14日至15日访华 分析：中东战事仍是习特会变数",
+          "url": "https://www.zaochenbao.com/news/politics/202603/2667839.html",
+          "source": "联合早报",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 07时41分]"
+        },
         {
           "title": "伊朗拒绝美国停战方案、称不允许特朗普决定停战时间，白宫称美伊在谈判且有成效，伊外长称信息交流并非谈判",
           "url": "https://wallstreetcn.com/articles/3768393",
@@ -20,15 +31,31 @@
           "time_info": "[01时14分 ~ 06时41分]"
         },
         {
-          "title": "特朗普称5月14日至15日访华 分析：中东战事仍是习特会变数",
-          "url": "https://www.zaochenbao.com/news/politics/202603/2667839.html",
-          "source": "联合早报",
+          "title": "特朗普：不知美伊能否达成协议、我不迫切，伊朗允许十艘油轮通行霍尔木兹，市场对冲突反应没预期剧烈",
+          "url": "https://wallstreetcn.com/articles/3768496",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            8,
+            7,
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 06时41分]"
+          "appearance_count": 4,
+          "time_info": "[04时44分 ~ 07时41分]"
+        },
+        {
+          "title": "伊朗战争还将持续多久？据传特朗普希望4-6周内终结战事",
+          "url": "https://www.cls.cn/detail/2325824",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 07时41分]"
         },
         {
           "title": "美财政部称纸币印特朗普签名“实至名归”",
@@ -37,21 +64,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
-        },
-        {
-          "title": "伊朗战争还将持续多久？据传特朗普希望4-6周内终结战事",
-          "url": "https://www.cls.cn/detail/2325824",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 06时41分]"
         },
         {
           "title": "称伊朗“恳求”达成协议 特朗普警告再不认真就太迟了",
@@ -61,8 +76,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 06时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 07时41分]"
         },
         {
           "title": "泽连斯基：特朗普要乌克兰割让顿巴斯地区",
@@ -72,8 +87,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 06时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 07时41分]"
         },
         {
           "title": "美媒：特朗普曾称可“帮忙搞定”蔡英文让北京震惊",
@@ -83,8 +98,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 06时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 07时41分]"
         },
         {
           "title": "习特会延至5月中 北京称中美就特朗普访华保持沟通",
@@ -94,21 +109,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 06时41分]"
-        },
-        {
-          "title": "特朗普：不知美伊能否达成协议、我不迫切，伊朗允许十艘油轮通行霍尔木兹，市场对冲突反应没预期剧烈",
-          "url": "https://wallstreetcn.com/articles/3768496",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时44分 ~ 06时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 07时41分]"
         },
         {
           "title": "特朗普再推迟对伊能源设施打击 4月6日成下个焦点",
@@ -171,13 +173,24 @@
           "time_info": "[04时44分 ~ 05时39分]"
         },
         {
+          "title": "特朗普还能压制油价多久？",
+          "url": "https://wallstreetcn.com/articles/3768434",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
           "title": "美国总统特朗普：你不能让一个疯子或疯狂的意识形态拥有核武器。",
           "url": "https://flash.jin10.com/detail/20260327053813277800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
         },
@@ -188,7 +201,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
         },
@@ -199,7 +212,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
         },
@@ -210,7 +223,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
         },
@@ -221,15 +234,37 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
+        },
+        {
+          "title": "白宫：特朗普总统签署行政令，禁止联邦承包商实施多元化、公平与包容措施（DEI）。",
+          "url": "https://flash.jin10.com/detail/20260327065804485800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
+          "title": "特朗普宣布：对伊能源打击再延10天，系应伊朗要求！",
+          "url": "https://flash.jin10.com/detail/20260327065103863800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "王毅同加拿大外长阿南德通电话：美国和伊朗都有重启谈判的意愿，国际社会应鼓励双方重回谈判桌，寻求政治解决的有效途径",
@@ -239,8 +274,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 06时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 07时41分]"
         },
         {
           "title": "伊朗：中国、俄罗斯、巴基斯坦、伊拉克、印度、孟加拉国等国船只安全通过了霍尔木兹海峡",
@@ -251,19 +286,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 06时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 07时41分]"
         },
         {
           "title": "伊朗通过中间人回应美15点停火提议 提出明确前提条件",
           "url": "https://www.cls.cn/detail/2326093",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 06时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 07时41分]"
         },
         {
           "title": "美国被曝制定“最后一击”方案，或进行地面战，伊朗：若地面入侵，将开辟新战线，曼德海峡是下个目标",
@@ -272,22 +308,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 06时41分]"
-        },
-        {
-          "title": "以色列称伊朗发射了新一波导弹。",
-          "url": "https://flash.jin10.com/detail/20260327060856795800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时41分"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 07时41分]"
         },
         {
           "title": "巴基斯坦官员：以方同意将伊朗外长和议长移出暗杀名单",
@@ -297,8 +323,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 06时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 07时41分]"
         },
         {
           "title": "伊朗外长称“没有谈判”、总统“高层高度团结”，美方称“谈判仍在继续”、拟本周末在巴基斯坦开会讨论停战方案",
@@ -307,11 +333,12 @@
           "ranks": [
             8,
             9,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 06时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 07时41分]"
         },
         {
           "title": "以媒：伊朗伊斯兰革命卫队海军司令在空袭中死亡",
@@ -321,8 +348,30 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 06时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 07时41分]"
+        },
+        {
+          "title": "以色列称伊朗发射了新一波导弹。",
+          "url": "https://flash.jin10.com/detail/20260327060856795800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "当地时间3月27日凌晨伊朗首都德黑兰传出爆炸声。伊朗防空系统已启动，拦截来袭的敌对目标。",
+          "url": "https://flash.jin10.com/detail/20260327071249685800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         },
         {
           "title": "美联储理事库克：鉴于伊朗战争，如今通胀风险升高。",
@@ -359,6 +408,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时44分 ~ 05时39分]"
+        },
+        {
+          "title": "伊朗通过中间人回应美15点停火提议 提出明确前提条件",
+          "url": "https://wallstreetcn.com/articles/3768491",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         },
         {
           "title": "伊朗总统府：伊朗总统明确，伊朗寻求彻底结束战争，实现地区安全与稳定。",
@@ -436,24 +496,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "古特雷斯：任命中东问题特使与伊朗方面进行“直接接触”",
+          "url": "https://flash.jin10.com/detail/20260327065023770800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "热门中概股美股盘前普跌，小鹏汽车跌超4%",
-          "url": "https://www.36kr.com/newsflashes/3739774059512072",
-          "source": "36氪",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 06时41分]"
-        },
         {
           "title": "美伊和谈陷入僵局，美股低开高走，纳指跌0.8%，布油突破100美元，现货金银跳水",
           "url": "https://wallstreetcn.com/articles/3768430",
@@ -466,15 +526,27 @@
           "time_info": "[01时14分 ~ 06时41分]"
         },
         {
-          "title": "美股纳指收跌2.4% 较历史高点累计下跌逾10%",
-          "url": "https://www.gelonghui.com/news/5197046",
-          "source": "格隆汇",
+          "title": "热门中概股美股盘前普跌，小鹏汽车跌超4%",
+          "url": "https://www.36kr.com/newsflashes/3739774059512072",
+          "source": "36氪",
           "ranks": [
-            1
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 07时41分]"
+        },
+        {
+          "title": "谈判僵局重燃市场恐慌，全球债市大跌，油价重新走强，芯片股拖累美股，美元冲高回落",
+          "url": "https://wallstreetcn.com/articles/3768430",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时41分"
+          "time_info": "07时41分"
         },
         {
           "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
@@ -487,6 +559,41 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时14分 ~ 06时41分]"
+        },
+        {
+          "title": "【早报】深夜巨震：油价狂飙，美股、金银齐跳水；美方被曝正酝酿针对伊朗的“最后一击”",
+          "url": "https://www.cls.cn/detail/2326291",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
+          "title": "美股收盘：标普、纳指创开战后最大单日跌幅 特朗普盘后发声",
+          "url": "https://www.cls.cn/detail/2326270",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时41分]"
+        },
+        {
+          "title": "美股纳指收跌2.4% 较历史高点累计下跌逾10%",
+          "url": "https://www.gelonghui.com/news/5197046",
+          "source": "格隆汇",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时41分]"
         },
         {
           "title": "油价重上100美元冲击市场 美股期指走低 金银下跌 | 今夜看点",
@@ -512,15 +619,15 @@
           "time_info": "[04时44分 ~ 05时39分]"
         },
         {
-          "title": "美股收盘：标普、纳指创开战后最大单日跌幅 特朗普盘后发声",
-          "url": "https://www.cls.cn/detail/2326270",
-          "source": "财联社热门",
+          "title": "美股三大指数集体收跌，Meta跌近8%",
+          "url": "https://www.36kr.com/newsflashes/3740363577999625",
+          "source": "36氪",
           "ranks": [
-            7
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时41分"
+          "time_info": "07时41分"
         },
         {
           "title": "金十图示：2026年03月26日（周四）热门中概股行情一览（美股收盘）",
@@ -555,11 +662,12 @@
           "url": "https://www.36kr.com/newsflashes/3739772334817536",
           "source": "36氪",
           "ranks": [
-            3
+            3,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 06时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 07时41分]"
         },
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -611,11 +719,12 @@
           "url": "https://wallstreetcn.com/articles/3768419",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 06时41分]"
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 07时41分]"
         }
       ]
     },
@@ -647,11 +756,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 06时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 07时41分]"
         }
       ]
     },
