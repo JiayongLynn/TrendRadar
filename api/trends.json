@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-28T18:41:34.918669+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-03-28T19:36:20.298356+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 88,
+      "match_count": 91,
       "titles": [
+        {
+          "title": "【早报】美国总统特使预计本周将与伊朗举行会谈；央行召开2026年金融稳定工作会议",
+          "url": "https://www.cls.cn/detail/2327698",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时41分 ~ 19时36分]"
+        },
         {
           "title": "报道：伊朗称霍尔木兹海峡已经关闭，已劝返三艘集装箱船",
           "url": "https://wallstreetcn.com/articles/3768582",
@@ -36,20 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时55分 ~ 18时41分]"
-        },
-        {
-          "title": "【早报】美国总统特使预计本周将与伊朗举行会谈；央行召开2026年金融稳定工作会议",
-          "url": "https://www.cls.cn/detail/2327698",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时41分 ~ 18时41分]"
+          "appearance_count": 13,
+          "time_info": "[01时55分 ~ 19时36分]"
         },
         {
           "title": "美国务卿：伊朗战事还将持续2至4周，实现对伊行动目标无需出动地面部队，未安排俄乌冲突会议",
@@ -61,8 +61,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时52分 ~ 18时41分]"
+          "appearance_count": 7,
+          "time_info": "[10时52分 ~ 19时36分]"
         },
         {
           "title": "伊朗称钢厂及核设施遭袭、无人机群袭以最大运输中心，警告美国地面行动将遭对等反制，考虑退出不扩散核武条约",
@@ -75,8 +75,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时41分 ~ 18时41分]"
+          "appearance_count": 8,
+          "time_info": "[07时41分 ~ 19时36分]"
         },
         {
           "title": "伊朗战争“避风港”：比亚迪3月大涨，电车股成恒科最佳之一",
@@ -164,11 +164,12 @@
           "source": "联合早报",
           "ranks": [
             3,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时09分 ~ 18时41分]"
+          "appearance_count": 5,
+          "time_info": "[15时09分 ~ 19时36分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗阿拉克的一处工业单位遭到空袭。",
@@ -191,17 +192,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
-        },
-        {
-          "title": "伊朗总统称不先发制人但会报复",
-          "url": "https://flash.jin10.com/detail/20260328182102132800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时41分"
         },
         {
           "title": "以军空袭伊朗阿拉克重水反应堆",
@@ -249,17 +239,6 @@
           "time_info": "03时07分"
         },
         {
-          "title": "伊朗称击毁敌方2架加油机",
-          "url": "https://flash.jin10.com/detail/20260328175210093800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时41分"
-        },
-        {
           "title": "伊朗发动“真实承诺-4”第84轮行动",
           "url": "https://flash.jin10.com/detail/20260327233125157800",
           "source": "金十数据",
@@ -293,6 +272,17 @@
           "time_info": "15时09分"
         },
         {
+          "title": "以色列国防军：以色列国防军刚刚完成了针对伊朗恐怖政权在德黑兰基础设施的又一轮打击，更多细节将随后公布。",
+          "url": "https://flash.jin10.com/detail/20260328184224782800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "国际原子能机构：伊朗通报称，布什尔核电站运行中的反应堆未受损，未报告任何放射性物质泄漏，核电站状况正常。",
           "url": "https://flash.jin10.com/detail/20260328061409973800",
           "source": "金十数据",
@@ -318,6 +308,19 @@
           "time_info": "[05时46分 ~ 07时41分]"
         },
         {
+          "title": "巴基斯坦总理办公室：伊朗总统佩泽希齐扬与巴基斯坦总理谢里夫讨论了敌对行动；谢里夫通报了其与美国和海湾国家的接触情况。",
+          "url": "https://flash.jin10.com/detail/20260328171958399800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时48分 ~ 19时36分]"
+        },
+        {
           "title": "美国中东问题特使威特科夫：我们期待伊朗对美国的15点计划作出回应。",
           "url": "https://flash.jin10.com/detail/20260328041138422800",
           "source": "金十数据",
@@ -329,6 +332,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时51分 ~ 06时43分]"
+        },
+        {
+          "title": "巴基斯坦总理办公室：伊朗总统佩泽希齐扬向巴基斯坦总理谢里夫表示，谈判需要信任，并赞扬巴基斯坦为和平作出的努力。",
+          "url": "https://flash.jin10.com/detail/20260328171942548800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时48分 ~ 19时36分]"
         },
         {
           "title": "美国中东问题特使威特科夫：伊朗的铀浓缩和储备是美国的关键界限。",
@@ -357,6 +373,19 @@
           "time_info": "[05时46分 ~ 07时41分]"
         },
         {
+          "title": "巴基斯坦总理办公室：伊朗总统佩泽希齐扬与巴基斯坦总理谢里夫就地区局势紧张及和平努力举行逾一小时通话。",
+          "url": "https://flash.jin10.com/detail/20260328171912447800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时48分 ~ 19时36分]"
+        },
+        {
           "title": "美媒：伊朗再袭沙特基地 10名美军受伤多架加油机受损",
           "url": "https://www.zaochenbao.com/news/politics/202603/2867951.html",
           "source": "联合早报",
@@ -370,16 +399,16 @@
           "time_info": "[10时52分 ~ 15时09分]"
         },
         {
-          "title": "巴基斯坦总理办公室：伊朗总统佩泽希齐扬与巴基斯坦总理谢里夫讨论了敌对行动；谢里夫通报了其与美国和海湾国家的接触情况。",
-          "url": "https://flash.jin10.com/detail/20260328171958399800",
+          "title": "伊朗总统称不先发制人但会报复",
+          "url": "https://flash.jin10.com/detail/20260328182102132800",
           "source": "金十数据",
           "ranks": [
             1,
-            14
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时48分 ~ 18时41分]"
+          "time_info": "[18时41分 ~ 19时36分]"
         },
         {
           "title": "国际原子能机构：已收到伊朗通报，该国布什尔核电站周边地区再次遭到袭击。",
@@ -420,40 +449,29 @@
           "time_info": "[05时46分 ~ 07时41分]"
         },
         {
-          "title": "巴基斯坦总理办公室：伊朗总统佩泽希齐扬向巴基斯坦总理谢里夫表示，谈判需要信任，并赞扬巴基斯坦为和平作出的努力。",
-          "url": "https://flash.jin10.com/detail/20260328171942548800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 18时41分]"
-        },
-        {
-          "title": "巴基斯坦总理办公室：伊朗总统佩泽希齐扬与巴基斯坦总理谢里夫就地区局势紧张及和平努力举行逾一小时通话。",
-          "url": "https://flash.jin10.com/detail/20260328171912447800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 18时41分]"
-        },
-        {
           "title": "伊朗军方称击中一艘美军舰艇",
           "url": "https://flash.jin10.com/detail/20260328171602627800",
           "source": "金十数据",
           "ranks": [
             4,
-            17
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时48分 ~ 19时36分]"
+        },
+        {
+          "title": "伊朗称击毁敌方2架加油机",
+          "url": "https://flash.jin10.com/detail/20260328175210093800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时48分 ~ 18时41分]"
+          "time_info": "[18时41分 ~ 19时36分]"
         },
         {
           "title": "伊朗决定促进人道主义货船安全通行霍尔木兹海峡",
@@ -532,6 +550,18 @@
           "time_info": "[10时52分 ~ 13时01分]"
         },
         {
+          "title": "伊朗总统：（对地区各国表示），若希望实现发展与安全，就绝不能让我们的敌人在你们的领土上发动战争。",
+          "url": "https://flash.jin10.com/detail/20260328174930200800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 19时36分]"
+        },
+        {
           "title": "伊朗称哈尔克岛石油出口正常进行",
           "url": "https://flash.jin10.com/detail/20260328155542706800",
           "source": "金十数据",
@@ -566,6 +596,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时46分 ~ 06时43分]"
+        },
+        {
+          "title": "伊朗总统重申，若基础设施和经济中心遭到袭击，将“强有力”地予以报复。",
+          "url": "https://flash.jin10.com/detail/20260328174841002800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 19时36分]"
+        },
+        {
+          "title": "伊朗军方称打击迪拜两处美军“隐匿据点”",
+          "url": "https://flash.jin10.com/detail/20260328174438083800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 19时36分]"
+        },
+        {
+          "title": "巴基斯坦总理同伊朗总统进行了“一个多小时”通话",
+          "url": "https://flash.jin10.com/detail/20260328174231195800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 19时36分]"
         },
         {
           "title": "据路透社记者：卡塔尔、阿曼和科威特正在私下努力推动尽快结束战争。阿联酋、沙特和巴林则表示，他们已做好应对战争升级的准备，并且不会接受战后伊朗仍然能够利用霍尔木兹海峡作为谈判筹码。",
@@ -662,6 +728,17 @@
           "time_info": "07时41分"
         },
         {
+          "title": "据伊朗媒体Fars News：伊朗伊斯兰革命卫队称，导弹“摧毁”了位于迪拜的乌克兰防空武器库。",
+          "url": "https://flash.jin10.com/detail/20260328184143384800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "国际原子能机构：已获伊朗通报，位于亚兹德省（又称阿尔达坎）的沙希德·雷扎耶·内贾德黄饼生产设施今日遭到袭击。",
           "url": "https://flash.jin10.com/detail/20260328022325501800",
           "source": "金十数据",
@@ -706,15 +783,15 @@
           "time_info": "01时55分"
         },
         {
-          "title": "伊朗总统：（对地区各国表示），若希望实现发展与安全，就绝不能让我们的敌人在你们的领土上发动战争。",
-          "url": "https://flash.jin10.com/detail/20260328174930200800",
+          "title": "马来西亚说伊朗允许马滞留油轮通行霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260328183408911800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时41分"
+          "time_info": "19时36分"
         },
         {
           "title": "美联储保尔森：伊朗战争给经济增长和通胀带来风险。",
@@ -739,17 +816,6 @@
           "time_info": "03时07分"
         },
         {
-          "title": "伊朗总统重申，若基础设施和经济中心遭到袭击，将“强有力”地予以报复。",
-          "url": "https://flash.jin10.com/detail/20260328174841002800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时41分"
-        },
-        {
           "title": "以色列军方表示，已识别出从伊朗向以色列发射的导弹。",
           "url": "https://flash.jin10.com/detail/20260328095832530800",
           "source": "金十数据",
@@ -759,17 +825,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
-        },
-        {
-          "title": "伊朗军方称打击迪拜两处美军“隐匿据点”",
-          "url": "https://flash.jin10.com/detail/20260328174438083800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时41分"
         },
         {
           "title": "据美国哥伦比亚广播公司：知情人士表示，白宫官员对与伊朗的最新谈判进展持谨慎乐观态度。",
@@ -803,17 +858,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
-        },
-        {
-          "title": "巴基斯坦总理同伊朗总统进行了“一个多小时”通话",
-          "url": "https://flash.jin10.com/detail/20260328174231195800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时41分"
         },
         {
           "title": "法国外交部长巴罗：俄罗斯在乌克兰和伊朗问题上均未维护国际法。",
@@ -1039,7 +1083,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "“末日博士”鲁比尼：特朗普更有可能升级伊朗局势而非选择退让",
@@ -1054,8 +1098,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时55分 ~ 18时41分]"
+          "appearance_count": 13,
+          "time_info": "[01时55分 ~ 19时36分]"
         },
         {
           "title": "特朗普发出威胁：“下一个是古巴”",
@@ -1068,8 +1112,23 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时01分 ~ 18时41分]"
+          "appearance_count": 6,
+          "time_info": "[13时01分 ~ 19时36分]"
+        },
+        {
+          "title": "特朗普在投资论坛扬言“古巴是下一个”",
+          "url": "https://www.zaochenbao.com/news/politics/202603/2867952.html",
+          "source": "联合早报",
+          "ranks": [
+            3,
+            8,
+            20,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时52分 ~ 19时36分]"
         },
         {
           "title": "美国与盟友裂痕加深 特朗普炮轰英澳北约“不帮忙”",
@@ -1083,18 +1142,18 @@
           "time_info": "[00时03分 ~ 07时41分]"
         },
         {
-          "title": "特朗普在投资论坛扬言“古巴是下一个”",
-          "url": "https://www.zaochenbao.com/news/politics/202603/2867952.html",
+          "title": "知情人士称沙特王储敦促特朗普继续对伊朗战争",
+          "url": "https://www.zaochenbao.com/news/politics/202603/2867957.html",
           "source": "联合早报",
           "ranks": [
             3,
-            8,
-            20,
-            22
+            15,
+            19,
+            21
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时52分 ~ 18时41分]"
+          "time_info": "[13时01分 ~ 19时36分]"
         },
         {
           "title": "特朗普：乌克兰曾试图干预美大选",
@@ -1110,17 +1169,17 @@
           "time_info": "[01时55分 ~ 10时52分]"
         },
         {
-          "title": "知情人士称沙特王储敦促特朗普继续对伊朗战争",
-          "url": "https://www.zaochenbao.com/news/politics/202603/2867957.html",
+          "title": "特朗普又批北约 威胁缩减对北约的“保护”开支",
+          "url": "https://www.zaochenbao.com/news/politics/202603/2867967.html",
           "source": "联合早报",
           "ranks": [
-            3,
-            15,
-            19
+            5,
+            12,
+            17
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时01分 ~ 18时41分]"
+          "time_info": "[15时09分 ~ 19时36分]"
         },
         {
           "title": "预测\"特朗普何时结束战争\"？这是五大关键点",
@@ -1134,18 +1193,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时46分 ~ 15时09分]"
-        },
-        {
-          "title": "特朗普又批北约 威胁缩减对北约的“保护”开支",
-          "url": "https://www.zaochenbao.com/news/politics/202603/2867967.html",
-          "source": "联合早报",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时09分 ~ 18时41分]"
         },
         {
           "title": "白宫备忘录：美国总统特朗普指示国土安全部部长和美国行政管理和预算局局长补偿美国运输安全管理局员工。",
@@ -1227,6 +1274,18 @@
           "time_info": "07时41分"
         },
         {
+          "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
+          "url": "https://wallstreetcn.com/articles/3768631",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时09分 ~ 19时36分]"
+        },
+        {
           "title": "美国中东问题特使威特科夫：认为本周将与伊朗举行会谈，特朗普希望达成和平协议。",
           "url": "https://flash.jin10.com/detail/20260328041150540800",
           "source": "金十数据",
@@ -1262,17 +1321,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时43分 ~ 07时41分]"
-        },
-        {
-          "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
-          "url": "https://wallstreetcn.com/articles/3768631",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时09分 ~ 18时41分]"
         },
         {
           "title": "美国总统特朗普谈伊朗：我们摧毁了伊朗97%的发射器。",
@@ -1382,6 +1430,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-28）",
+          "url": "https://flash.jin10.com/detail/20260328182648074800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "美国总统特朗普：将在迈阿密发表一场关于经济的盛大演讲。我们在伊朗的军事行动进展顺利！",
           "url": "https://flash.jin10.com/detail/20260328021918920800",
           "source": "金十数据",
@@ -1453,8 +1512,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时43分 ~ 18时41分]"
+          "appearance_count": 9,
+          "time_info": "[06时43分 ~ 19时36分]"
         },
         {
           "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
@@ -1464,8 +1523,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时41分 ~ 18时41分]"
+          "appearance_count": 8,
+          "time_info": "[07时41分 ~ 19时36分]"
         },
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -1516,8 +1575,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时52分 ~ 18时41分]"
+          "appearance_count": 7,
+          "time_info": "[10时52分 ~ 19时36分]"
         },
         {
           "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
@@ -1573,11 +1632,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时09分 ~ 18时41分]"
+          "appearance_count": 5,
+          "time_info": "[15时09分 ~ 19时36分]"
         },
         {
           "title": "金十图示：2026年03月27日（周五）美股热门股票行情一览（美股收盘）",
@@ -1593,6 +1653,18 @@
           "time_info": "[04时51分 ~ 06时43分]"
         },
         {
+          "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
+          "url": "https://wallstreetcn.com/articles/3768593",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 19时36分]"
+        },
+        {
           "title": "金十图示：2026年03月27日（周五）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260328040912356800",
           "source": "金十数据",
@@ -1604,17 +1676,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时51分 ~ 06时43分]"
-        },
-        {
-          "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
-          "url": "https://wallstreetcn.com/articles/3768593",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 18时41分]"
         },
         {
           "title": "美股纳指收盘大跌超2%，标普500指数录得周线五连跌",
@@ -1708,6 +1769,30 @@
           "time_info": "[00时03分 ~ 15时09分]"
         },
         {
+          "title": "苹果挖角谷歌高管 Lilian Rincon 执掌 AI 营销战略",
+          "url": "https://www.36kr.com/newsflashes/3742367427198976",
+          "source": "36氪",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 19时36分]"
+        },
+        {
+          "title": "谷歌接近达成协议，将为Anthropic的数据中心提供融资支持",
+          "url": "https://www.36kr.com/newsflashes/3742361946751241",
+          "source": "36氪",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 19时36分]"
+        },
+        {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
           "url": "https://flash.jin10.com/detail/20260328013224717800",
           "source": "金十数据",
@@ -1717,28 +1802,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
-        },
-        {
-          "title": "苹果挖角谷歌高管 Lilian Rincon 执掌 AI 营销战略",
-          "url": "https://www.36kr.com/newsflashes/3742367427198976",
-          "source": "36氪",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时41分"
-        },
-        {
-          "title": "谷歌接近达成协议，将为Anthropic的数据中心提供融资支持",
-          "url": "https://www.36kr.com/newsflashes/3742361946751241",
-          "source": "36氪",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时41分"
         },
         {
           "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
@@ -1754,6 +1817,23 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价大跌后迎抄底资金，分析师：结构性利好仍存",
+          "url": "https://flash.jin10.com/detail/20260328184122077800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -1765,11 +1845,12 @@
             7,
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时01分 ~ 18时41分]"
+          "appearance_count": 6,
+          "time_info": "[13时01分 ~ 19时36分]"
         }
       ]
     }
