@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T16:52:45.223580+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-03-28T17:48:31.851854+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 77,
+      "match_count": 82,
       "titles": [
         {
           "title": "报道：伊朗称霍尔木兹海峡已经关闭，已劝返三艘集装箱船",
@@ -20,8 +20,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 16时52分]"
+          "appearance_count": 12,
+          "time_info": "[00时03分 ~ 17时48分]"
         },
         {
           "title": "伊朗战争冲击金市，央行\"永久买家\"神话开始动摇！",
@@ -36,8 +36,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时55分 ~ 16时52分]"
+          "appearance_count": 11,
+          "time_info": "[01时55分 ~ 17时48分]"
         },
         {
           "title": "【早报】美国总统特使预计本周将与伊朗举行会谈；央行召开2026年金融稳定工作会议",
@@ -48,8 +48,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时41分 ~ 16时52分]"
+          "appearance_count": 6,
+          "time_info": "[07时41分 ~ 17时48分]"
         },
         {
           "title": "美国务卿：伊朗战事还将持续2至4周，实现对伊行动目标无需出动地面部队，未安排俄乌冲突会议",
@@ -57,11 +57,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时52分 ~ 16时52分]"
+          "appearance_count": 5,
+          "time_info": "[10时52分 ~ 17时48分]"
         },
         {
           "title": "伊朗称钢厂及核设施遭袭、无人机群袭以最大运输中心，警告美国地面行动将遭对等反制，考虑退出不扩散核武条约",
@@ -74,8 +75,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时41分 ~ 16时52分]"
+          "appearance_count": 6,
+          "time_info": "[07时41分 ~ 17时48分]"
         },
         {
           "title": "伊朗战争“避风港”：比亚迪3月大涨，电车股成恒科最佳之一",
@@ -180,6 +181,17 @@
           "time_info": "10时52分"
         },
         {
+          "title": "巴基斯坦总理办公室：伊朗总统佩泽希齐扬与巴基斯坦总理谢里夫讨论了敌对行动；谢里夫通报了其与美国和海湾国家的接触情况。",
+          "url": "https://flash.jin10.com/detail/20260328171958399800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时48分"
+        },
+        {
           "title": "以军空袭伊朗阿拉克重水反应堆",
           "url": "https://flash.jin10.com/detail/20260328013205052800",
           "source": "金十数据",
@@ -191,6 +203,17 @@
           "time_info": "01时55分"
         },
         {
+          "title": "巴基斯坦总理办公室：伊朗总统佩泽希齐扬向巴基斯坦总理谢里夫表示，谈判需要信任，并赞扬巴基斯坦为和平作出的努力。",
+          "url": "https://flash.jin10.com/detail/20260328171942548800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时48分"
+        },
+        {
           "title": "法国外交部长：我不想替美国国务卿鲁比奥发言，但鲁比奥曾暗示，美国的目标是摧毁伊朗的弹道导弹能力。",
           "url": "https://flash.jin10.com/detail/20260327233327988800",
           "source": "金十数据",
@@ -200,6 +223,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "巴基斯坦总理办公室：伊朗总统佩泽希齐扬与巴基斯坦总理谢里夫就地区局势紧张及和平努力举行逾一小时通话。",
+          "url": "https://flash.jin10.com/detail/20260328171912447800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时48分"
         },
         {
           "title": "黄金大买家的重大转向！土耳其央行在伊朗战争期间抛售80亿美元黄金",
@@ -223,6 +257,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "伊朗军方称击中一艘美军舰艇",
+          "url": "https://flash.jin10.com/detail/20260328171602627800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时48分"
+        },
+        {
+          "title": "伊朗官员称是时候退出《不扩散核武器条约》",
+          "url": "https://www.zaochenbao.com/news/politics/202603/2867969.html",
+          "source": "联合早报",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时09分 ~ 17时48分]"
         },
         {
           "title": "伊朗发动“真实承诺-4”第84轮行动",
@@ -373,18 +430,6 @@
           "time_info": "[05时46分 ~ 07时41分]"
         },
         {
-          "title": "伊朗官员称是时候退出《不扩散核武器条约》",
-          "url": "https://www.zaochenbao.com/news/politics/202603/2867969.html",
-          "source": "联合早报",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时09分 ~ 16时52分]"
-        },
-        {
           "title": "伊朗决定促进人道主义货船安全通行霍尔木兹海峡",
           "url": "https://www.zaochenbao.com/news/politics/202603/2867950.html",
           "source": "联合早报",
@@ -448,6 +493,30 @@
           "time_info": "[10时52分 ~ 13时01分]"
         },
         {
+          "title": "以军出动50余架战机打击伊朗核设施和武器基地",
+          "url": "https://flash.jin10.com/detail/20260328160345761800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 17时48分]"
+        },
+        {
+          "title": "伊朗称哈尔克岛石油出口正常进行",
+          "url": "https://flash.jin10.com/detail/20260328155542706800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 17时48分]"
+        },
+        {
           "title": "市场消息：伊朗向以色列中部发射导弹。",
           "url": "https://flash.jin10.com/detail/20260328043459760800",
           "source": "金十数据",
@@ -482,6 +551,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时43分 ~ 07时41分]"
+        },
+        {
+          "title": "据美国媒体报道，过去一周，超过24名美军士兵在伊朗对沙特阿拉伯的空军基地的袭击中受伤。",
+          "url": "https://flash.jin10.com/detail/20260328152714017800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 17时48分]"
         },
         {
           "title": "伊朗武装部队发言人阿布·法德尔·沙卡尔吉少将：我们是设定结束战争条件的一方，敌人将被迫接受这些条件。",
@@ -575,17 +656,6 @@
           "time_info": "15时09分"
         },
         {
-          "title": "以军出动50余架战机打击伊朗核设施和武器基地",
-          "url": "https://flash.jin10.com/detail/20260328160345761800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
-        },
-        {
           "title": "以色列报告称，对伊朗的行动可能会持续另一个4周。",
           "url": "https://flash.jin10.com/detail/20260328011957788800",
           "source": "金十数据",
@@ -619,15 +689,15 @@
           "time_info": "03时07分"
         },
         {
-          "title": "伊朗称哈尔克岛石油出口正常进行",
-          "url": "https://flash.jin10.com/detail/20260328155542706800",
+          "title": "伊朗伊斯兰革命卫队：在距离阿曼塞拉莱港“相当远”的地方，瞄准了一艘美国支援舰。",
+          "url": "https://flash.jin10.com/detail/20260328165548309800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时52分"
+          "time_info": "17时48分"
         },
         {
           "title": "以色列军方表示，已识别出从伊朗向以色列发射的导弹。",
@@ -672,17 +742,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
-        },
-        {
-          "title": "据美国媒体报道，过去一周，超过24名美军士兵在伊朗对沙特阿拉伯的空军基地的袭击中受伤。",
-          "url": "https://flash.jin10.com/detail/20260328152714017800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
         },
         {
           "title": "法国外交部长巴罗：俄罗斯在乌克兰和伊朗问题上均未维护国际法。",
@@ -834,7 +893,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         },
@@ -878,7 +937,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         },
@@ -923,8 +982,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时55分 ~ 16时52分]"
+          "appearance_count": 11,
+          "time_info": "[01时55分 ~ 17时48分]"
         },
         {
           "title": "美国与盟友裂痕加深 特朗普炮轰英澳北约“不帮忙”",
@@ -938,6 +997,19 @@
           "time_info": "[00时03分 ~ 07时41分]"
         },
         {
+          "title": "特朗普发出威胁：“下一个是古巴”",
+          "url": "https://www.cls.cn/detail/2327781",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 17时48分]"
+        },
+        {
           "title": "特朗普：乌克兰曾试图干预美大选",
           "url": "https://www.cls.cn/detail/2327470",
           "source": "财联社热门",
@@ -949,6 +1021,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时55分 ~ 10时52分]"
+        },
+        {
+          "title": "特朗普在投资论坛扬言“古巴是下一个”",
+          "url": "https://www.zaochenbao.com/news/politics/202603/2867952.html",
+          "source": "联合早报",
+          "ranks": [
+            3,
+            8,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时52分 ~ 17时48分]"
         },
         {
           "title": "预测\"特朗普何时结束战争\"？这是五大关键点",
@@ -1021,16 +1107,17 @@
           "time_info": "[00时03分 ~ 04时51分]"
         },
         {
-          "title": "特朗普发出威胁：“下一个是古巴”",
-          "url": "https://www.cls.cn/detail/2327781",
-          "source": "财联社热门",
+          "title": "知情人士称沙特王储敦促特朗普继续对伊朗战争",
+          "url": "https://www.zaochenbao.com/news/politics/202603/2867957.html",
+          "source": "联合早报",
           "ranks": [
-            7,
-            4
+            3,
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 16时52分]"
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 17时48分]"
         },
         {
           "title": "特朗普又批北约 威胁缩减对北约的“保护”开支",
@@ -1055,18 +1142,16 @@
           "time_info": "07时41分"
         },
         {
-          "title": "特朗普在投资论坛扬言“古巴是下一个”",
-          "url": "https://www.zaochenbao.com/news/politics/202603/2867952.html",
+          "title": "特朗普又批北约 威胁缩减对北约的“保护”开支",
+          "url": "https://www.zaochenbao.com/news/politics/202603/2867967.html",
           "source": "联合早报",
           "ranks": [
-            3,
-            8,
-            20,
-            22
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时52分 ~ 16时52分]"
+          "appearance_count": 3,
+          "time_info": "[15时09分 ~ 17时48分]"
         },
         {
           "title": "美国中东问题特使威特科夫：认为本周将与伊朗举行会谈，特朗普希望达成和平协议。",
@@ -1080,19 +1165,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时51分 ~ 06时43分]"
-        },
-        {
-          "title": "知情人士称沙特王储敦促特朗普继续对伊朗战争",
-          "url": "https://www.zaochenbao.com/news/politics/202603/2867957.html",
-          "source": "联合早报",
-          "ranks": [
-            3,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 16时52分]"
         },
         {
           "title": "美国总统特朗普：古巴将是下一个目标。",
@@ -1131,16 +1203,15 @@
           "time_info": "[06时43分 ~ 07时41分]"
         },
         {
-          "title": "特朗普又批北约 威胁缩减对北约的“保护”开支",
-          "url": "https://www.zaochenbao.com/news/politics/202603/2867967.html",
-          "source": "联合早报",
+          "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
+          "url": "https://wallstreetcn.com/articles/3768631",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            12
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时09分 ~ 16时52分]"
+          "appearance_count": 3,
+          "time_info": "[15时09分 ~ 17时48分]"
         },
         {
           "title": "美国总统特朗普谈伊朗：我们还有另外3554个目标要完成，这些目标将很快就会被完成。",
@@ -1165,17 +1236,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时43分 ~ 07时41分]"
-        },
-        {
-          "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
-          "url": "https://wallstreetcn.com/articles/3768631",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时09分 ~ 16时52分]"
         },
         {
           "title": "美国总统特朗普：（谈英国航空母舰） 它们不太好。它们速度慢，而且性能也不太好。",
@@ -1322,6 +1382,19 @@
           "time_info": "[00时03分 ~ 07时41分]"
         },
         {
+          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
+          "url": "https://www.cls.cn/detail/2327695",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时43分 ~ 17时48分]"
+        },
+        {
           "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
           "url": "https://wallstreetcn.com/articles/3768430",
           "source": "华尔街见闻",
@@ -1335,17 +1408,15 @@
           "time_info": "[00时03分 ~ 07时41分]"
         },
         {
-          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
-          "url": "https://www.cls.cn/detail/2327695",
-          "source": "财联社热门",
+          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
+          "url": "https://wallstreetcn.com/articles/3768537",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            1,
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[06时43分 ~ 16时52分]"
+          "time_info": "[07时41分 ~ 17时48分]"
         },
         {
           "title": "热门中概股美股盘前涨跌不一，京东跌超1%",
@@ -1361,28 +1432,18 @@
           "time_info": "[00时03分 ~ 13时01分]"
         },
         {
-          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
-          "url": "https://wallstreetcn.com/articles/3768537",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时41分 ~ 16时52分]"
-        },
-        {
           "title": "美股收盘大跌！纳指跌超2%，Meta、亚马逊跌近4%，中概指数跌1.9%",
           "url": "https://www.gelonghui.com/news/5198473",
           "source": "格隆汇",
           "ranks": [
             3,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时52分 ~ 16时52分]"
+          "appearance_count": 5,
+          "time_info": "[10时52分 ~ 17时48分]"
         },
         {
           "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
@@ -1446,6 +1507,18 @@
           "time_info": "[04时51分 ~ 06时43分]"
         },
         {
+          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
+          "url": "https://wallstreetcn.com/articles/3768633",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时09分 ~ 17时48分]"
+        },
+        {
           "title": "金十图示：2026年03月27日（周五）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260328040912356800",
           "source": "金十数据",
@@ -1459,18 +1532,6 @@
           "time_info": "[04时51分 ~ 06时43分]"
         },
         {
-          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
-          "url": "https://wallstreetcn.com/articles/3768633",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时09分 ~ 16时52分]"
-        },
-        {
           "title": "美股纳指收盘大跌超2%，标普500指数录得周线五连跌",
           "url": "https://www.36kr.com/newsflashes/3741910515843081",
           "source": "36氪",
@@ -1481,6 +1542,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时52分 ~ 13时01分]"
+        },
+        {
+          "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
+          "url": "https://wallstreetcn.com/articles/3768593",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 17时48分]"
         },
         {
           "title": "美股收盘：三大股指低开低走 明星科技股多数下跌",
@@ -1504,17 +1576,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
-        },
-        {
-          "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
-          "url": "https://wallstreetcn.com/articles/3768593",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
         },
         {
           "title": "美股延续跌势，纳斯达克综合指数跌幅扩大至2%，标普500指数现跌1.4%，道指跌1.44%。",
@@ -1607,11 +1668,12 @@
           "ranks": [
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 16时52分]"
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 17时48分]"
         }
       ]
     }
