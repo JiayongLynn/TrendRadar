@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T07:40:04.172742+08:00",
-  "total_titles_processed": 196,
+  "generated_at": "2026-03-29T11:26:10.322935+08:00",
+  "total_titles_processed": 276,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 44,
+      "match_count": 58,
       "titles": [
         {
           "title": "【早报】美国总统特使预计本周将与伊朗举行会谈；央行召开2026年金融稳定工作会议",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 07时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 11时26分]"
         },
         {
           "title": "伊朗称钢厂及核设施遭袭、无人机群袭以最大运输中心，警告美国地面行动将遭对等反制，考虑退出不扩散核武条约",
@@ -148,6 +148,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时38分 ~ 07时40分]"
+        },
+        {
+          "title": "阿联酋国防部表示，目前正应对来自伊朗的无人机和导弹。",
+          "url": "https://flash.jin10.com/detail/20260329110244084800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         },
         {
           "title": "巴基斯坦外交部：巴基斯坦外长与伊朗外长阿拉格齐通电话。",
@@ -466,6 +477,17 @@
           "time_info": "01时38分"
         },
         {
+          "title": "高盛对冲基金业务主管：我接触的机构几乎都看跌，了解现货商品的人更担忧，伊朗拖得越久，市场越倾向于短期投资",
+          "url": "https://wallstreetcn.com/articles/3768642",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
           "title": "伊朗外交部：伊朗外长指出，霍尔木兹海峡的局势动荡是美国和犹太复国主义政权对伊朗发动军事侵略的直接后果。伊朗依据国际法的既定原则，旨在阻止侵略者及其同盟利用这条航道来实现对伊朗的非法和侵略性目标，已采取了一系列措施来阻止敌对船只通行，并与伊朗相关军事安全部门协调以确保其他船只的安全通行。",
           "url": "https://flash.jin10.com/detail/20260329004438391800",
           "source": "金十数据",
@@ -477,6 +499,28 @@
           "time_info": "01时38分"
         },
         {
+          "title": "伊朗表示，周六针对以色列的雷达中心和机场等地点进行了打击。",
+          "url": "https://flash.jin10.com/detail/20260329103119322800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "伊朗战争显示国际冲突的规范已被颠覆",
+          "url": "https://www.zaochenbao.com/news/politics/202603/2968030.html",
+          "source": "联合早报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
           "title": "伊朗外交部：伊朗方面和希腊外长通话。希腊外长对战争的后果，特别是其对安全和经济的影响，表示深切关注，并希望该地区能够尽快恢复和平与稳定。",
           "url": "https://flash.jin10.com/detail/20260329004253134800",
           "source": "金十数据",
@@ -486,6 +530,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "巴基斯坦：伊朗同意新增放行20艘巴船只通过霍尔木兹海峡",
+          "url": "https://www.cls.cn/detail/2327971",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         },
         {
           "title": "以军称接近完成对伊朗约90%关键军工设施的打击",
@@ -510,6 +565,17 @@
           "time_info": "01时38分"
         },
         {
+          "title": "以色列军方表示，已确认伊朗发射一枚导弹。",
+          "url": "https://flash.jin10.com/detail/20260329102123832800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
           "title": "以军称袭击伊朗海洋工业组织总部等武器研发生产设施",
           "url": "https://flash.jin10.com/detail/20260329003421779800",
           "source": "金十数据",
@@ -521,6 +587,39 @@
           "time_info": "01时38分"
         },
         {
+          "title": "官员称美国向伊朗递交结束战争计划",
+          "url": "https://www.zaochenbao.com/news/politics/202603/2968025.html",
+          "source": "联合早报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "中东最大铝企：遭伊朗导弹、无人机袭击 主要炼厂严重受损",
+          "url": "https://www.cls.cn/detail/2327965",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "从药剂师到思乡博主：看伊朗战争的平民代价",
+          "url": "https://www.zaochenbao.com/news/politics/202603/2968023.html",
+          "source": "联合早报",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
           "title": "伊朗议长：伊强力反击将加速以色列政权崩溃",
           "url": "https://flash.jin10.com/detail/20260329002100893800",
           "source": "金十数据",
@@ -530,12 +629,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "美媒：五角大楼正筹备对伊朗的地面行动",
+          "url": "https://www.zaochenbao.com/news/politics/202603/2968021.html",
+          "source": "联合早报",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "指杯子影射哈梅内伊父子 伊朗关停首都连锁咖啡馆",
+          "url": "https://www.zaochenbao.com/news/politics/202603/2968020.html",
+          "source": "联合早报",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "中国代表严厉谴责美以两国袭击伊朗学校暴行",
+          "url": "https://www.zaochenbao.com/news/china/202603/2968016.html",
+          "source": "联合早报",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "美国盟友称 俄罗斯对伊朗的援助远超美国的认知",
+          "url": "https://flash.jin10.com/detail/20260329093018104800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "周文龙：伊朗战争都抑制不了的楼市热情",
+          "url": "https://www.zaochenbao.com/news/opinion/202603/2968008.html",
+          "source": "联合早报",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普发出威胁：“下一个是古巴”",
@@ -545,8 +699,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 07时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 11时26分]"
         },
         {
           "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
@@ -590,11 +744,67 @@
           "url": "https://wallstreetcn.com/articles/3768645",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时39分 ~ 07时40分]"
+          "appearance_count": 3,
+          "time_info": "[07时39分 ~ 11时26分]"
+        },
+        {
+          "title": "美国总统共特朗普签名将被印在美钞上",
+          "url": "https://www.zaochenbao.com/news/politics/202603/2968031.html",
+          "source": "联合早报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "“无王”示威再次席卷全美 逾800万人游行抗议特朗普政策",
+          "url": "https://www.zaochenbao.com/news/politics/202603/2968022.html",
+          "source": "联合早报",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "美国各地爆发反对特朗普的抗议活动 一半发生在共和党票仓",
+          "url": "https://flash.jin10.com/detail/20260329094312533800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "吴汉钧：特朗普的“真实”烟雾弹",
+          "url": "https://www.zaochenbao.com/news/opinion/202603/2968011.html",
+          "source": "联合早报",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "叶鹏飞：特朗普或成就西半球霸业",
+          "url": "https://www.zaochenbao.com/news/opinion/202603/2968010.html",
+          "source": "联合早报",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         }
       ]
     },
@@ -620,11 +830,12 @@
           "url": "https://www.cls.cn/detail/2327695",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 07时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 11时26分]"
         },
         {
           "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
@@ -642,11 +853,12 @@
           "url": "https://www.gelonghui.com/news/5198473",
           "source": "格隆汇",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 07时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 11时26分]"
         }
       ]
     },
@@ -659,22 +871,24 @@
           "url": "https://www.36kr.com/newsflashes/3742367427198976",
           "source": "36氪",
           "ranks": [
-            2
+            2,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 07时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 11时26分]"
         },
         {
           "title": "谷歌接近达成协议，将为Anthropic的数据中心提供融资支持",
           "url": "https://www.36kr.com/newsflashes/3742361946751241",
           "source": "36氪",
           "ranks": [
-            3
+            3,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 07时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 11时26分]"
         }
       ]
     },
@@ -700,11 +914,29 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时37分 ~ 07时40分]"
+          "appearance_count": 8,
+          "time_info": "[03时37分 ~ 11时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "通胀预期与实际收益率共振，金价剑指6600美元？",
+          "url": "https://flash.jin10.com/detail/20260329102213974800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         }
       ]
     }
