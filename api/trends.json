@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T13:48:06.618843+08:00",
-  "total_titles_processed": 317,
+  "generated_at": "2026-03-29T15:16:24.113911+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 63,
+      "match_count": 70,
       "titles": [
         {
           "title": "【早报】美国总统特使预计本周将与伊朗举行会谈；央行召开2026年金融稳定工作会议",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时44分 ~ 13时48分]"
+          "appearance_count": 15,
+          "time_info": "[00时44分 ~ 15时16分]"
         },
         {
           "title": "伊朗称钢厂及核设施遭袭、无人机群袭以最大运输中心，警告美国地面行动将遭对等反制，考虑退出不扩散核武条约",
@@ -172,6 +172,17 @@
           "time_info": "11时26分"
         },
         {
+          "title": "指涉美军工产业 伊朗袭击阿联酋和巴林铝厂",
+          "url": "https://www.zaochenbao.com/news/politics/202603/2968049.html",
+          "source": "联合早报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
           "title": "巴基斯坦外交部：巴基斯坦外长与伊朗外长阿拉格齐通电话。",
           "url": "https://flash.jin10.com/detail/20260329033950862800",
           "source": "金十数据",
@@ -246,6 +257,17 @@
           "time_info": "[02时55分 ~ 05时38分]"
         },
         {
+          "title": "以色列国防军已探测到伊朗再次发射的弹道导弹。预计在接下来的几分钟内，以色列南部将响起警报。",
+          "url": "https://flash.jin10.com/detail/20260329145652626800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
           "title": "倾向于加入美以行动？海湾多国联合声明谴责伊朗，沙特、阿联酋已有所动作",
           "url": "https://wallstreetcn.com/articles/3768632",
           "source": "华尔街见闻",
@@ -270,6 +292,29 @@
           "time_info": "[05时38分 ~ 07时40分]"
         },
         {
+          "title": "高盛对冲基金业务主管：我接触的机构几乎都看跌，了解现货商品的人更担忧，伊朗拖得越久，市场越倾向于短期投资",
+          "url": "https://wallstreetcn.com/articles/3768642",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 15时16分]"
+        },
+        {
+          "title": "巴基斯坦：伊朗同意新增放行20艘巴船只通过霍尔木兹海峡",
+          "url": "https://www.cls.cn/detail/2327971",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 15时16分]"
+        },
+        {
           "title": "以色列军方官员：胡塞武装只是一个干扰因素，我们将全力继续进行对伊朗的打击。",
           "url": "https://flash.jin10.com/detail/20260329022700833800",
           "source": "金十数据",
@@ -284,27 +329,15 @@
           "time_info": "[02时55分 ~ 05时38分]"
         },
         {
-          "title": "高盛对冲基金业务主管：我接触的机构几乎都看跌，了解现货商品的人更担忧，伊朗拖得越久，市场越倾向于短期投资",
-          "url": "https://wallstreetcn.com/articles/3768642",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 13时48分]"
-        },
-        {
-          "title": "巴基斯坦：伊朗同意新增放行20艘巴船只通过霍尔木兹海峡",
-          "url": "https://www.cls.cn/detail/2327971",
+          "title": "中东最大铝企：遭伊朗导弹、无人机袭击 主要炼厂严重受损",
+          "url": "https://www.cls.cn/detail/2327965",
           "source": "财联社热门",
           "ranks": [
-            8,
-            7
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 13时48分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 15时16分]"
         },
         {
           "title": "伊朗战争显示国际冲突的规范已被颠覆",
@@ -317,6 +350,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时26分 ~ 13时48分]"
+        },
+        {
+          "title": "周六，仅“四艘船”经由“伊朗走廊”穿越霍尔木兹海峡，其中两艘LPG船驶往印度",
+          "url": "https://wallstreetcn.com/articles/3768657",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 15时16分]"
         },
         {
           "title": "伊朗伊斯兰共和国广播电视台（IRIB）：如果事先未获得伊朗的许可，请勿驶入霍尔木兹海峡；否则，将会被遣返。",
@@ -393,17 +438,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时55分 ~ 04时41分]"
-        },
-        {
-          "title": "中东最大铝企：遭伊朗导弹、无人机袭击 主要炼厂严重受损",
-          "url": "https://www.cls.cn/detail/2327965",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 13时48分]"
         },
         {
           "title": "美媒：伊朗持续袭击导致拦截器库存紧张 以色列减少使用先进导弹拦截器",
@@ -509,17 +543,6 @@
           "source": "金十数据",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 13时48分]"
-        },
-        {
-          "title": "周六，仅“四艘船”经由“伊朗走廊”穿越霍尔木兹海峡，其中两艘LPG船驶往印度",
-          "url": "https://wallstreetcn.com/articles/3768657",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -727,6 +750,17 @@
           "time_info": "01时38分"
         },
         {
+          "title": "伊朗外长就黎巴嫩记者遇袭身亡表示哀悼",
+          "url": "https://flash.jin10.com/detail/20260329143435766800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
           "title": "伊朗议长：伊强力反击将加速以色列政权崩溃",
           "url": "https://flash.jin10.com/detail/20260329002100893800",
           "source": "金十数据",
@@ -738,6 +772,28 @@
           "time_info": "01时38分"
         },
         {
+          "title": "美以袭击邻近霍尔木兹海峡的伊朗码头 致5人死亡",
+          "url": "https://flash.jin10.com/detail/20260329142351784800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
+          "title": "伊朗招募年仅12岁的儿童在德黑兰检查站执勤",
+          "url": "https://flash.jin10.com/detail/20260329140930395800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
           "title": "美国盟友称 俄罗斯对伊朗的援助远超美国的认知",
           "url": "https://flash.jin10.com/detail/20260329093018104800",
           "source": "金十数据",
@@ -747,6 +803,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        },
+        {
+          "title": "据法尔斯通讯社报道，美以联军袭击伊朗霍尔木兹甘省，造成五人死亡。",
+          "url": "https://flash.jin10.com/detail/20260329133639823800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
+          "title": "以军称打击伊朗的临时指挥中心",
+          "url": "https://flash.jin10.com/detail/20260329133354205800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         }
       ]
     },
@@ -762,8 +840,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时44分 ~ 13时48分]"
+          "appearance_count": 15,
+          "time_info": "[00时44分 ~ 15时16分]"
         },
         {
           "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
@@ -792,6 +870,19 @@
           "time_info": "[00时44分 ~ 07时40分]"
         },
         {
+          "title": "特朗普：战争总会有意外，“有些本应打赢的战争却输了”，北约这次不帮美国，美国以后也不会帮北约！",
+          "url": "https://wallstreetcn.com/articles/3768645",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时39分 ~ 15时16分]"
+        },
+        {
           "title": "美媒：美国各地掀起“拒绝君王”集会 反对特朗普",
           "url": "https://flash.jin10.com/detail/20260329052513866800",
           "source": "金十数据",
@@ -803,29 +894,43 @@
           "time_info": "[06时38分 ~ 07时40分]"
         },
         {
-          "title": "特朗普：战争总会有意外，“有些本应打赢的战争却输了”，北约这次不帮美国，美国以后也不会帮北约！",
-          "url": "https://wallstreetcn.com/articles/3768645",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时39分 ~ 13时48分]"
-        },
-        {
           "title": "美国总统共特朗普签名将被印在美钞上",
           "url": "https://www.zaochenbao.com/news/politics/202603/2968031.html",
           "source": "联合早报",
           "ranks": [
             6,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 13时48分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 15时16分]"
+        },
+        {
+          "title": "吴汉钧：特朗普的“真实”烟雾弹",
+          "url": "https://www.zaochenbao.com/news/opinion/202603/2968011.html",
+          "source": "联合早报",
+          "ranks": [
+            24,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 15时16分]"
+        },
+        {
+          "title": "叶鹏飞：特朗普或成就西半球霸业",
+          "url": "https://www.zaochenbao.com/news/opinion/202603/2968010.html",
+          "source": "联合早报",
+          "ranks": [
+            25,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 15时16分]"
         },
         {
           "title": "“无王”示威再次席卷全美 逾800万人游行抗议特朗普政策",
@@ -834,30 +939,6 @@
           "ranks": [
             15,
             16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 13时48分]"
-        },
-        {
-          "title": "吴汉钧：特朗普的“真实”烟雾弹",
-          "url": "https://www.zaochenbao.com/news/opinion/202603/2968011.html",
-          "source": "联合早报",
-          "ranks": [
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 13时48分]"
-        },
-        {
-          "title": "叶鹏飞：特朗普或成就西半球霸业",
-          "url": "https://www.zaochenbao.com/news/opinion/202603/2968010.html",
-          "source": "联合早报",
-          "ranks": [
-            25,
-            26
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -902,8 +983,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时44分 ~ 13时48分]"
+          "appearance_count": 15,
+          "time_info": "[00时44分 ~ 15时16分]"
         },
         {
           "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
@@ -922,22 +1003,24 @@
           "source": "格隆汇",
           "ranks": [
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时44分 ~ 13时48分]"
+          "appearance_count": 15,
+          "time_info": "[00时44分 ~ 15时16分]"
         },
         {
           "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
           "url": "https://wallstreetcn.com/articles/3768658",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 13时48分]"
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 15时16分]"
         }
       ]
     },
@@ -1039,11 +1122,12 @@
           "url": "https://www.36kr.com/newsflashes/3743533154107399",
           "source": "36氪",
           "ranks": [
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 13时48分]"
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 15时16分]"
         }
       ]
     }
