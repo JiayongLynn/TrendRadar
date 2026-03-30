@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T03:12:32.887431+08:00",
-  "total_titles_processed": 144,
+  "generated_at": "2026-03-31T04:57:43.116461+08:00",
+  "total_titles_processed": 176,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗拒绝“停火协议”，美国筹划“地面进攻”，油价开盘突破115美元",
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时57分]"
+        },
+        {
+          "title": "伊朗外长：敦促撤回美国在该地区的军队。",
+          "url": "https://flash.jin10.com/detail/20260331043144721800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "联合国发言人：联合国秘书长古特雷斯周五与伊朗方面进行了交谈。",
@@ -36,9 +47,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "伊朗外长：伊朗尊重沙特阿拉伯王国，视其为兄弟国家。我们的行动是针对那些对阿拉伯人和伊朗人毫无尊重、无法提供任何安全保障的敌对侵略者。",
+          "url": "https://flash.jin10.com/detail/20260331042734334800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "以军称战争已进入“收尾阶段” 将打击伊朗经济目标",
@@ -47,9 +69,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "欧官员称伊朗促胡塞武装备战红海 后者内部存分歧",
+          "url": "https://flash.jin10.com/detail/20260331042201198800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "伊朗官员：计划对通过霍尔木兹海峡船只实施更严格的准入与收费制度",
@@ -59,8 +92,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时57分]"
         },
         {
           "title": "伊朗议会正研究退出《不扩散核武器条约》问题",
@@ -70,8 +103,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时57分]"
         },
         {
           "title": "伊朗称未与美国直接对话，代理防长：将继续“全力惩罚侵略者”！",
@@ -81,8 +114,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时57分]"
         },
         {
           "title": "伊朗战争叠加北京加强审查 香港IPO复苏遇阻",
@@ -92,8 +125,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时57分]"
         },
         {
           "title": "伊朗否认接受美国停火方案 指美方要求“不切实际”",
@@ -103,8 +136,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时57分]"
         },
         {
           "title": "伊朗外交部长发言人：伊朗通过调解方收到了关于美国寻求对话的信息，但认为这些要求过于苛刻且不合逻辑。伊朗不参加巴基斯坦主导的有关战争的会议。",
@@ -129,15 +162,59 @@
           "time_info": "01时06分"
         },
         {
+          "title": "伊朗议长：美以威胁伊朗是“重大错误”",
+          "url": "https://flash.jin10.com/detail/20260331040842048800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "鲍威尔：美联储利率处于“有利位置”，可忽略伊朗相关油价冲击、但要警惕通胀预期变化",
+          "url": "https://wallstreetcn.com/articles/3768795",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "阿联酋国防部：阿联酋的空中防御系统目前正在应对来自伊朗的导弹和无人机攻击。",
+          "url": "https://flash.jin10.com/detail/20260331040732587800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
           "title": "当地时间30日晚，伊朗首都德黑兰发生爆炸。",
           "url": "https://flash.jin10.com/detail/20260331020911130800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗石油部长称，我们已采取必要措施确保燃料供应，不会面临任何问题。",
+          "url": "https://flash.jin10.com/detail/20260331040455736800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "北约发言人：（就拦截飞往土耳其的伊朗导弹）北约已做好应对此类威胁的准备，并将始终采取必要措施捍卫所有盟友。",
@@ -151,13 +228,24 @@
           "time_info": "01时06分"
         },
         {
+          "title": "伊朗第一副总统警告美国：向哈尔克岛派兵将有去无回",
+          "url": "https://flash.jin10.com/detail/20260331040342888800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
           "title": "伊朗议会批准对霍尔木兹海峡征收通行费的法案。",
           "url": "https://flash.jin10.com/detail/20260331015804826800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
         },
@@ -168,7 +256,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
         },
@@ -179,7 +267,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
         }
@@ -197,8 +285,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时57分]"
         },
         {
           "title": "特朗普：若达不成协议将“摧毁伊朗所有发电厂、油井及哈尔克岛”，伊朗回应：若遭袭，将给整个地区断电！",
@@ -209,8 +297,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时57分]"
         },
         {
           "title": "分析：特朗普在凭直觉和伊朗打仗，很难如愿以偿",
@@ -220,8 +308,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时57分]"
         },
         {
           "title": "特朗普为伊朗战争下台阶同时追求两条出路",
@@ -231,8 +319,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时57分]"
         },
         {
           "title": "白宫 ：向中东增派军队是为了给特朗普提供更多选择",
@@ -241,7 +329,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
         },
@@ -263,7 +351,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
         },
@@ -274,7 +362,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
         },
@@ -296,7 +384,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
         },
@@ -307,7 +395,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
         }
@@ -315,7 +403,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "热门中概股美股盘前多数走强，爱奇艺涨超11%",
@@ -325,8 +413,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时57分]"
         },
         {
           "title": "抄底买盘提振，美股开盘全线上涨，存储概念股普涨，布油上涨2.67%、铝价上涨5%",
@@ -336,19 +424,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时12分]"
-        },
-        {
-          "title": "特朗普释放缓和信号 美股期指反弹 鲍威尔讲话来袭 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2329476",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时57分]"
         },
         {
           "title": "美股大型科技股盘前多数上涨，亚马逊涨超1%",
@@ -358,8 +435,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时57分]"
+        },
+        {
+          "title": "特朗普释放缓和信号 美股期指反弹 鲍威尔讲话来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2329476",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时57分]"
         },
         {
           "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
@@ -370,8 +459,58 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时57分]"
+        },
+        {
+          "title": "金十图示：2026年03月30日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260331040539391800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "金十图示：2026年03月30日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260331040537263800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 美光大跌近10%",
+          "url": "https://flash.jin10.com/detail/20260331040226554800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数30日上涨",
+          "url": "https://flash.jin10.com/detail/20260331040302686800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         }
       ]
     }
