@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T21:53:30.049606+08:00",
-  "total_titles_processed": 763,
+  "generated_at": "2026-03-31T23:12:57.488552+08:00",
+  "total_titles_processed": 818,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 67,
+      "match_count": 72,
       "titles": [
         {
           "title": "伊朗拒绝“停火协议”，美国筹划“地面进攻”，油价开盘突破115美元",
@@ -62,11 +62,27 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时20分 ~ 21时53分]"
+          "appearance_count": 8,
+          "time_info": "[11时20分 ~ 23时12分]"
+        },
+        {
+          "title": "鲍威尔：美联储暂不因伊朗战争加息",
+          "url": "https://www.zaochenbao.com/news/politics/202603/3168209.html",
+          "source": "联合早报",
+          "ranks": [
+            1,
+            12,
+            15,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时41分 ~ 23时12分]"
         },
         {
           "title": "据Borna News：卫生部官员称，伊朗基什岛的一座海水淡化厂自遇袭以来已停运，短期内无法完成维修。",
@@ -91,18 +107,18 @@
           "time_info": "[01时06分 ~ 07时45分]"
         },
         {
-          "title": "鲍威尔：美联储暂不因伊朗战争加息",
-          "url": "https://www.zaochenbao.com/news/politics/202603/3168209.html",
+          "title": "中国外交部：巴基斯坦外长访华期间将讨论伊朗问题",
+          "url": "https://www.zaochenbao.com/news/china/202603/3168218.html",
           "source": "联合早报",
           "ranks": [
-            1,
-            12,
-            15,
-            22
+            3,
+            8,
+            16,
+            23
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[15时41分 ~ 21时53分]"
+          "time_info": "[17时12分 ~ 23时12分]"
         },
         {
           "title": "内坦亚胡：伊朗会从内部瓦解 美以行动“已过半程”",
@@ -176,19 +192,6 @@
           "time_info": "03时12分"
         },
         {
-          "title": "中国外交部：巴基斯坦外长访华期间将讨论伊朗问题",
-          "url": "https://www.zaochenbao.com/news/china/202603/3168218.html",
-          "source": "联合早报",
-          "ranks": [
-            3,
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时12分 ~ 21时53分]"
-        },
-        {
           "title": "针对伊朗冲突发声 达赖喇嘛：暴力只会导致更多冲突",
           "url": "https://www.zaochenbao.com/news/china/202603/3168217.html",
           "source": "联合早报",
@@ -257,17 +260,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
-        },
-        {
-          "title": "伊朗高官：国家治理无内部分歧",
-          "url": "https://www.zaochenbao.com/news/politics/202603/3168229.html",
-          "source": "联合早报",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
         },
         {
           "title": "伊朗冲突以来首次 中国国企集装箱船通过霍尔木兹海峡",
@@ -381,6 +373,18 @@
           "time_info": "[04时57分 ~ 05时53分]"
         },
         {
+          "title": "伊朗高官：国家治理无内部分歧",
+          "url": "https://www.zaochenbao.com/news/politics/202603/3168229.html",
+          "source": "联合早报",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 23时12分]"
+        },
+        {
           "title": "伊朗议长：美国“把愿望包装成新闻”",
           "url": "https://www.zaochenbao.com/news/politics/202603/3168187.html",
           "source": "联合早报",
@@ -394,6 +398,18 @@
           "time_info": "[11时20分 ~ 15时41分]"
         },
         {
+          "title": "图解3月大事件：美以与伊朗冲突升级 贵州茅台宣布提价",
+          "url": "https://www.cls.cn/detail/2330721",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时04分 ~ 23时12分]"
+        },
+        {
           "title": "市场消息：美国在科威特的陆军营地布尔林遭伊朗袭击后损毁严重。基地内的飞机库、营房、健身房、仓库、发电站及其他设施均受到损坏。",
           "url": "https://flash.jin10.com/detail/20260331052552655800",
           "source": "金十数据",
@@ -404,18 +420,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时53分 ~ 06时48分]"
-        },
-        {
-          "title": "图解3月大事件：美以与伊朗冲突升级 贵州茅台宣布提价",
-          "url": "https://www.cls.cn/detail/2330721",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时04分 ~ 21时53分]"
         },
         {
           "title": "鲁比奥：伊朗战争结束后 美国或重新评估北约价值",
@@ -486,6 +490,17 @@
           "time_info": "15时41分"
         },
         {
+          "title": "消息：阿联酋极力推动美国对伊朗发动地面战",
+          "url": "https://www.zaochenbao.com/news/politics/202603/3168234.html",
+          "source": "联合早报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "伊朗称袭击阿联酋一处美军秘密指挥中心",
           "url": "https://flash.jin10.com/detail/20260331183210474800",
           "source": "金十数据",
@@ -495,6 +510,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
+        },
+        {
+          "title": "美以袭击伊朗最大岛屿",
+          "url": "https://wallstreetcn.com/articles/3768911",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "伊朗外交部长发言人：伊朗通过调解方收到了关于美国寻求对话的信息，但认为这些要求过于苛刻且不合逻辑。伊朗不参加巴基斯坦主导的有关战争的会议。",
@@ -528,6 +554,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
+        },
+        {
+          "title": "俄驻伊大使称伊朗最高领袖穆杰塔巴目前身处伊朗",
+          "url": "https://flash.jin10.com/detail/20260331225459474800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "伊朗称打击以色列多处军事工业设施",
@@ -662,6 +699,17 @@
           "time_info": "11时20分"
         },
         {
+          "title": "伊朗革命卫队：4月1日起将打击中东地区与美高科技公司有关的企业",
+          "url": "https://flash.jin10.com/detail/20260331223829904800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "伊朗方面坚称自战争爆发以来未与美国进行过谈判",
           "url": "https://flash.jin10.com/detail/20260331044602642800",
           "source": "金十数据",
@@ -728,6 +776,17 @@
           "time_info": "03时12分"
         },
         {
+          "title": "据俄新社援引俄罗斯特使称，伊朗最高领袖目前身在伊朗，但避免公开露面。",
+          "url": "https://flash.jin10.com/detail/20260331223252488800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "据英国金融时报：美国国防部长赫格塞思的经纪人曾在对伊朗发动袭击前寻求买入一只国防基金。摩根士丹利一位财富经理曾代表其就一项数百万美元的投资事宜与贝莱德接触。",
           "url": "https://flash.jin10.com/detail/20260331063800403800",
           "source": "金十数据",
@@ -786,7 +845,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普：若达不成协议将“摧毁伊朗所有发电厂、油井及哈尔克岛”，伊朗回应：若遭袭，将给整个地区断电！",
@@ -812,8 +871,20 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时20分 ~ 23时12分]"
+        },
+        {
+          "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
+          "url": "https://wallstreetcn.com/articles/3768825",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时20分 ~ 21时53分]"
+          "time_info": "[13时49分 ~ 23时12分]"
         },
         {
           "title": "特朗普再警告伊朗：不恢复海峡通航将摧毁油井发电厂",
@@ -825,18 +896,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时06分 ~ 07时45分]"
-        },
-        {
-          "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
-          "url": "https://wallstreetcn.com/articles/3768825",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时49分 ~ 21时53分]"
         },
         {
           "title": "特朗普：即使霍尔木兹海峡仍关闭也愿结束战争",
@@ -852,6 +911,18 @@
           "time_info": "[11时20分 ~ 17时13分]"
         },
         {
+          "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
+          "url": "https://www.cls.cn/detail/2330869",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 23时12分]"
+        },
+        {
           "title": "白宫：美伊对话进展顺利 特朗普有意呼吁阿拉伯国家为战争埋单",
           "url": "https://www.cls.cn/detail/2329869",
           "source": "财联社热门",
@@ -863,6 +934,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时20分 ~ 17时13分]"
+        },
+        {
+          "title": "美国总统特朗普：美国在伊朗问题上还有更多工作要做。",
+          "url": "https://flash.jin10.com/detail/20260331230514497800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "分析：特朗普在凭直觉和伊朗打仗，很难如愿以偿",
@@ -887,15 +969,48 @@
           "time_info": "[01时06分 ~ 07时45分]"
         },
         {
-          "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
-          "url": "https://www.cls.cn/detail/2330869",
-          "source": "财联社热门",
+          "title": "美国总统特朗普：美国不必在伊朗停留太久了。",
+          "url": "https://flash.jin10.com/detail/20260331230500923800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "据纽约邮报：美国总统特朗普表示，其他国家也可以重新打开霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260331230332668800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时53分"
+          "time_info": "23时12分"
+        },
+        {
+          "title": "特朗普：盟友应“自己去抢”霍尔木兹海峡燃油 美国不再帮忙",
+          "url": "https://www.zaochenbao.com/news/politics/202603/3168238.html",
+          "source": "联合早报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "美国总统特朗普：对伊朗的战争不会持续“太久”。",
+          "url": "https://flash.jin10.com/detail/20260331230252779800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "美媒：特朗普愿在霍尔木兹海峡被封锁下结束战争",
@@ -960,6 +1075,17 @@
           "time_info": "[11时20分 ~ 15时41分]"
         },
         {
+          "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
+          "url": "https://wallstreetcn.com/articles/3768886",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 23时12分]"
+        },
+        {
           "title": "伊朗僵局再次引发对特朗普“即兴外交”的质疑",
           "url": "https://www.zaochenbao.com/news/politics/202603/3168180.html",
           "source": "联合早报",
@@ -993,17 +1119,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时20分 ~ 13时49分]"
-        },
-        {
-          "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
-          "url": "https://wallstreetcn.com/articles/3768886",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
         },
         {
           "title": "以色列总理内塔尼亚胡：他们（伊朗方面）曾试图两次刺杀特朗普……他们仍在试图刺杀他。",
@@ -1122,7 +1237,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -1152,7 +1267,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
@@ -1229,13 +1344,24 @@
           "time_info": "[01时06分 ~ 04时57分]"
         },
         {
+          "title": "热门中概股美股盘前多数走强，名创优品涨超8%",
+          "url": "https://www.36kr.com/newsflashes/3746848980763143",
+          "source": "36氪",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 23时12分]"
+        },
+        {
           "title": "金十图示：2026年03月31日（周二）美股热门股票行情一览",
           "url": "https://flash.jin10.com/detail/20260331214324752800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -1257,9 +1383,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
+        },
+        {
+          "title": "特朗普释放停战信号，美股指涨幅扩大，纳指涨逾2%，房利美、房地美涨超10%，金银油齐涨",
+          "url": "https://wallstreetcn.com/articles/3768819",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "美股异动丨美光科技续跌超3%，遭花旗大幅下调目标价至425美元",
@@ -1268,7 +1405,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -1285,26 +1422,39 @@
           "time_info": "[17时12分 ~ 19时04分]"
         },
         {
-          "title": "热门中概股美股盘前多数走强，名创优品涨超8%",
-          "url": "https://www.36kr.com/newsflashes/3746848980763143",
-          "source": "36氪",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
           "title": "美股大型科技股盘前普涨，英伟达涨超1%",
           "url": "https://www.36kr.com/newsflashes/3746846119265031",
           "source": "36氪",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 23时12分]"
+        },
+        {
+          "title": "巴菲特：在苹果上赚了1000亿，但卖早了；目前美股不便宜，不抄底",
+          "url": "https://wallstreetcn.com/articles/3768902",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 23时12分]"
+        },
+        {
+          "title": "市场押注冲突缓和 美股三大期指齐涨近1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2330950",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 23时12分]"
         },
         {
           "title": "美股三大指数涨跌不一，纳指跌0.7%，房利美、房地美飙升，中概指数跌0.36%",
@@ -1324,29 +1474,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "巴菲特：在苹果上赚了1000亿，但卖早了；目前美股不便宜，不抄底",
-          "url": "https://wallstreetcn.com/articles/3768902",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "市场押注冲突缓和 美股三大期指齐涨近1% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2330950",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -1390,7 +1518,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -1421,8 +1549,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时45分 ~ 21时53分]"
+          "appearance_count": 9,
+          "time_info": "[07时45分 ~ 23时12分]"
         },
         {
           "title": "鲍威尔表态安抚市场，美债反弹，美股高开低走，半导体指数跌超4%，美元五连涨",
@@ -1489,6 +1617,34 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数30日上涨",
+          "url": "https://flash.jin10.com/detail/20260331040302686800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "美元指数DXY日内跌幅达0.50%，现报99.98。",
+          "url": "https://flash.jin10.com/detail/20260331223609501800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -1502,23 +1658,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数30日上涨",
-          "url": "https://flash.jin10.com/detail/20260331040302686800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
         }
       ]
     }
