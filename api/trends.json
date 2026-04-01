@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T14:02:00.458388+08:00",
-  "total_titles_processed": 443,
+  "generated_at": "2026-04-01T16:20:11.606653+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 50,
+      "match_count": 54,
       "titles": [
         {
           "title": "美以袭击伊朗最大岛屿",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时09分 ~ 14时02分]"
+          "appearance_count": 10,
+          "time_info": "[01时09分 ~ 16时20分]"
         },
         {
           "title": "科技巨头上”黑名单“！伊朗警告打击18家美企，Mag 7占六",
@@ -32,8 +32,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时14分 ~ 14时02分]"
+          "appearance_count": 9,
+          "time_info": "[03时14分 ~ 16时20分]"
         },
         {
           "title": "据以色列媒体报道称，因伊朗导弹袭击，以色列特拉维夫传出几声爆炸声。",
@@ -56,6 +56,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时09分 ~ 07时42分]"
+        },
+        {
+          "title": "伊朗总统称要结束战争、对方须保证不再侵略，伊外长称与美有信息交流但没谈判",
+          "url": "https://wallstreetcn.com/articles/3768922",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时33分 ~ 16时20分]"
         },
         {
           "title": "惠誉：伊朗战争外溢效应可能削弱欧盟银行强劲的2026年展望。",
@@ -126,16 +138,15 @@
           "time_info": "07时42分"
         },
         {
-          "title": "伊朗总统称要结束战争、对方须保证不再侵略，伊外长称与美有信息交流但没谈判",
-          "url": "https://wallstreetcn.com/articles/3768922",
-          "source": "华尔街见闻",
+          "title": "阿联酋航空：伊朗公民不得入境或过境阿联酋",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0168295.html",
+          "source": "联合早报",
           "ranks": [
-            6,
-            5
+            2
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 14时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "据伊朗媒体Fars News：如果阿联酋继续参与美国的空袭行动和导弹袭击，继续接纳情报人员并协助以色列，那么伊朗将会对富查伊拉港以及负责将石油运往霍尔木兹海峡外的重要的石油管道发动攻击。",
@@ -171,6 +182,17 @@
           "time_info": "11时33分"
         },
         {
+          "title": "伊朗：收到美国总统特使“私信”",
+          "url": "https://www.cls.cn/detail/2331889",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "阿联酋航空称禁止伊朗公民入境和过境",
           "url": "https://flash.jin10.com/detail/20260401050432446800",
           "source": "金十数据",
@@ -182,16 +204,54 @@
           "time_info": "05时50分"
         },
         {
+          "title": "据以色列媒体报道，自当地时间周三早晨以来，第四波伊朗导弹袭击了被占（巴勒斯坦）领土，现场传出巨大爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260401161041730800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "伊朗革命卫队警告 18家美国领先科企面临报复风险",
           "url": "https://www.zaochenbao.com/news/politics/202604/0168266.html",
           "source": "联合早报",
           "ranks": [
             9,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[11时33分 ~ 16时20分]"
+        },
+        {
+          "title": "美战争部长：美清楚中俄为帮助伊朗采取的行动",
+          "url": "https://www.zaochenbao.com/news/Chronicles/202604/0168260.html",
+          "source": "联合早报",
+          "ranks": [
+            15,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时33分 ~ 16时20分]"
+        },
+        {
+          "title": "廖振扬：伊朗战争以及更深的美中裂痕",
+          "url": "https://www.zaochenbao.com/news/opinion/202604/0168253.html",
+          "source": "联合早报",
+          "ranks": [
+            22,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时33分 ~ 16时20分]"
         },
         {
           "title": "俄罗斯大使：伊朗最高领袖目前身在伊朗",
@@ -200,30 +260,6 @@
           "ranks": [
             10,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 14时02分]"
-        },
-        {
-          "title": "美战争部长：美清楚中俄为帮助伊朗采取的行动",
-          "url": "https://www.zaochenbao.com/news/Chronicles/202604/0168260.html",
-          "source": "联合早报",
-          "ranks": [
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 14时02分]"
-        },
-        {
-          "title": "廖振扬：伊朗战争以及更深的美中裂痕",
-          "url": "https://www.zaochenbao.com/news/opinion/202604/0168253.html",
-          "source": "联合早报",
-          "ranks": [
-            22,
-            26
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -374,6 +410,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "伊朗总统办公室通讯与信息传播事务副代表：在战争期间，在政府竭尽全力确保人民生命遭受最小伤害的情况下，那些以任何借口大肆破坏总统形象的媒体路线都是可疑的。二流人物怎敢以政治体制的立场自居而夸夸其谈，而佩泽希齐扬博士却无权发表意见？！",
+          "url": "https://flash.jin10.com/detail/20260401160926380800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "美官员：第三方斡旋效果不佳 应直接与伊朗谈判",
@@ -577,8 +624,22 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
+        {
+          "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
+          "url": "https://wallstreetcn.com/articles/3768886",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时09分 ~ 16时20分]"
+        },
         {
           "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
           "url": "https://www.cls.cn/detail/2330869",
@@ -615,20 +676,6 @@
           "time_info": "[01时09分 ~ 07时42分]"
         },
         {
-          "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
-          "url": "https://wallstreetcn.com/articles/3768886",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时09分 ~ 14时02分]"
-        },
-        {
           "title": "白宫称特朗普希望4月6日前达成协议、有意让阿拉伯国家埋单、美伊对话持续且进展顺利，伊朗否认谈判",
           "url": "https://wallstreetcn.com/articles/3768804",
           "source": "华尔街见闻",
@@ -644,11 +691,25 @@
           "url": "https://www.cls.cn/detail/2331621",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
+          "appearance_count": 3,
+          "time_info": "[14时01分 ~ 16时20分]"
+        },
+        {
+          "title": "美伊转折点？特朗普：将在“两到三周”内结束战争，协议亦可能达成！",
+          "url": "https://www.cls.cn/detail/2331376",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时33分 ~ 16时20分]"
         },
         {
           "title": "特朗普将签署行政令限制邮寄选票",
@@ -671,18 +732,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
-        },
-        {
-          "title": "美伊转折点？特朗普：将在“两到三周”内结束战争，协议亦可能达成！",
-          "url": "https://www.cls.cn/detail/2331376",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 14时02分]"
         },
         {
           "title": "特朗普传出“退场”意向提振风险情绪，低费率港股通创新药ETF易方达（159316）涨超5%",
@@ -720,6 +769,18 @@
           "time_info": "[06时43分 ~ 07时42分]"
         },
         {
+          "title": "特朗普称将在“两到三周”内结束伊朗战事 霍尔木兹海峡由他国自行解决",
+          "url": "https://wallstreetcn.com/articles/3768931",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时33分 ~ 16时20分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗重建需要15到20年时间。",
           "url": "https://flash.jin10.com/detail/20260401061710804800",
           "source": "金十数据",
@@ -742,17 +803,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时43分 ~ 07时42分]"
-        },
-        {
-          "title": "特朗普称将在“两到三周”内结束伊朗战事 霍尔木兹海峡由他国自行解决",
-          "url": "https://wallstreetcn.com/articles/3768931",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 14时02分]"
         },
         {
           "title": "分析：特朗普习近平会晤延后 中美或累积更多摩擦",
@@ -1002,6 +1052,17 @@
           "time_info": "06时43分"
         },
         {
+          "title": "特朗普撤军表态重挫气价 欧洲基准TTF期货跌近5%",
+          "url": "https://flash.jin10.com/detail/20260401160003696800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "特朗普：美国将在两三周内结束伊朗战争",
           "url": "https://www.zaochenbao.com/news/politics/202604/0168246.html",
           "source": "联合早报",
@@ -1027,8 +1088,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
+          "url": "https://wallstreetcn.com/articles/3768819",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时42分 ~ 16时20分]"
+        },
         {
           "title": "美股收盘：美伊均释放冲突缓和言论 道指飙升逾1100点 纳指涨3.8%",
           "url": "https://www.cls.cn/detail/2331315",
@@ -1054,15 +1126,17 @@
           "time_info": "[01时09分 ~ 06时43分]"
         },
         {
-          "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
-          "url": "https://wallstreetcn.com/articles/3768819",
+          "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
+          "url": "https://wallstreetcn.com/articles/3768902",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            7,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时42分 ~ 14时02分]"
+          "appearance_count": 6,
+          "time_info": "[06时43分 ~ 16时20分]"
         },
         {
           "title": "特朗普释放停战信号，美股指涨幅扩大，纳指涨逾2%，房利美、房地美涨超10%，金银油齐涨",
@@ -1086,19 +1160,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时42分 ~ 14时02分]"
-        },
-        {
-          "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
-          "url": "https://wallstreetcn.com/articles/3768902",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时43分 ~ 14时02分]"
         },
         {
           "title": "美股黄金全线大涨！伊朗总统称伊方愿在诉求满足前提下结束战争",
@@ -1151,6 +1212,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时09分 ~ 06时43分]"
+        },
+        {
+          "title": "美股异动丨名创优品盘前续涨超2% 旗下TOP TOY重新递表港交所",
+          "url": "https://www.gelonghui.com/news/5201915",
+          "source": "格隆汇",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "上美股份(02145.HK)授出合共2.55万份限制性股票单位",
@@ -1238,24 +1310,24 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "OpenAI完成1220亿美元融资 美法官叫停白宫宴会厅改造项目 | 环球市场",
-          "url": "https://www.cls.cn/detail/2331334",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 14时02分]"
-        },
-        {
           "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
           "url": "https://www.cls.cn/detail/2331423",
           "source": "财联社热门",
           "ranks": [
             10,
             12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时33分 ~ 16时20分]"
+        },
+        {
+          "title": "OpenAI完成1220亿美元融资 美法官叫停白宫宴会厅改造项目 | 环球市场",
+          "url": "https://www.cls.cn/detail/2331334",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
