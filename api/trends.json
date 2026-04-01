@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T21:59:21.908249+08:00",
-  "total_titles_processed": 761,
+  "generated_at": "2026-04-01T23:21:27.217296+08:00",
+  "total_titles_processed": 814,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 62,
+      "match_count": 69,
       "titles": [
         {
           "title": "美以袭击伊朗最大岛屿",
@@ -22,6 +22,18 @@
           "time_info": "[01时09分 ~ 21时59分]"
         },
         {
+          "title": "伊朗总统称要结束战争、对方须保证不再侵略，伊外长称与美有信息交流但没谈判",
+          "url": "https://wallstreetcn.com/articles/3768922",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时33分 ~ 23时21分]"
+        },
+        {
           "title": "科技巨头上”黑名单“！伊朗警告打击18家美企，Mag 7占六",
           "url": "https://wallstreetcn.com/articles/3768916",
           "source": "华尔街见闻",
@@ -32,20 +44,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时14分 ~ 21时59分]"
-        },
-        {
-          "title": "伊朗总统称要结束战争、对方须保证不再侵略，伊外长称与美有信息交流但没谈判",
-          "url": "https://wallstreetcn.com/articles/3768922",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时33分 ~ 21时59分]"
+          "appearance_count": 13,
+          "time_info": "[03时14分 ~ 23时21分]"
         },
         {
           "title": "伊朗：收到美国总统特使“私信”",
@@ -140,6 +140,21 @@
           "time_info": "[01时09分 ~ 07时42分]"
         },
         {
+          "title": "阿联酋航空：伊朗公民不得入境或过境阿联酋",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0168295.html",
+          "source": "联合早报",
+          "ranks": [
+            2,
+            13,
+            17,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时20分 ~ 23时21分]"
+        },
+        {
           "title": "据伊朗媒体Fars News：伊朗中部的Sepid Dasht钢铁厂遭到美以袭击。",
           "url": "https://flash.jin10.com/detail/20260401070357895800",
           "source": "金十数据",
@@ -157,7 +172,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -195,15 +210,15 @@
           "time_info": "11时33分"
         },
         {
-          "title": "业界：伊朗战争或致英国食品饮料涨价近10%",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0168315.html",
+          "title": "当伊朗导弹穿透以色列铁穹 台湾之盾还可行吗",
+          "url": "https://www.zaochenbao.com/news/taiwan/202604/0168321.html",
           "source": "联合早报",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时59分"
+          "time_info": "23时21分"
         },
         {
           "title": "阿联酋航空称禁止伊朗公民入境和过境",
@@ -228,18 +243,16 @@
           "time_info": "16时20分"
         },
         {
-          "title": "阿联酋航空：伊朗公民不得入境或过境阿联酋",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0168295.html",
+          "title": "业界：伊朗战争或致英国食品饮料涨价近10%",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0168315.html",
           "source": "联合早报",
           "ranks": [
-            2,
-            13,
-            17,
-            24
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时20分 ~ 21时59分]"
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 23时21分]"
         },
         {
           "title": "伊朗革命卫队警告 18家美国领先科企面临报复风险",
@@ -303,6 +316,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时33分 ~ 14时02分]"
+        },
+        {
+          "title": "消息：美国驻伊朗大使馆旧址遭袭 建筑外墙受损",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0168313.html",
+          "source": "联合早报",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 23时21分]"
+        },
+        {
+          "title": "伊朗、真主党、胡塞武装联合袭击以色列",
+          "url": "https://www.cls.cn/detail/2332372",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 23时21分]"
         },
         {
           "title": "以色列高级将领称，在伊朗空域的行动几乎没有限制。",
@@ -417,17 +454,6 @@
           "time_info": "11时33分"
         },
         {
-          "title": "消息：美国驻伊朗大使馆旧址遭袭 建筑外墙受损",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0168313.html",
-          "source": "联合早报",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
           "title": "教宗利奥表示，他希望伊朗战争能在4月5日复活节前结束。",
           "url": "https://flash.jin10.com/detail/20260401023810579800",
           "source": "金十数据",
@@ -445,9 +471,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
+        },
+        {
+          "title": "伊朗以色列同时大规模互袭",
+          "url": "https://flash.jin10.com/detail/20260401225650744800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "叙利亚总统就伊朗冲突表示，除非我们遭到侵略且外交途径已无果，否则我们不会卷入战争。",
@@ -470,17 +507,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
-        },
-        {
-          "title": "伊朗、真主党、胡塞武装联合袭击以色列",
-          "url": "https://www.cls.cn/detail/2332372",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
         },
         {
           "title": "美官员：第三方斡旋效果不佳 应直接与伊朗谈判",
@@ -538,6 +564,17 @@
           "time_info": "07时42分"
         },
         {
+          "title": "据AXIOS记者：三位美国高级官员表示，美国和伊朗之间正在进行停火谈判，条件是开放霍尔木兹海。根据他们的说法，目前尚不清楚是否能达成协议。",
+          "url": "https://flash.jin10.com/detail/20260401225400674800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "伊朗总统佩泽希齐扬：我们准备结束战争，但希望获得保障。",
           "url": "https://flash.jin10.com/detail/20260401003640358800",
           "source": "金十数据",
@@ -558,6 +595,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "中东最大铝生产商因伊朗袭击关闭冶炼厂",
+          "url": "https://flash.jin10.com/detail/20260401225215939800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "伊朗外长：曼德海峡是该地区国家关注的问题，也门在这方面有自己的政策。",
@@ -582,6 +630,17 @@
           "time_info": "07时42分"
         },
         {
+          "title": "以色列国防军发言人：已在德黑兰核心地区展开大规模攻击。空军最近开始对伊朗在德黑兰核心地区的多个基础设施进行大规模攻击。",
+          "url": "https://flash.jin10.com/detail/20260401224859644800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "阿联酋最大能源公司负责人：伊朗封锁海峡是“经济勒索”",
           "url": "https://flash.jin10.com/detail/20260401180203307800",
           "source": "金十数据",
@@ -593,6 +652,17 @@
           "time_info": "18时13分"
         },
         {
+          "title": "市场消息：海湾地区主要铝生产商EGA在伊朗袭击后停运冶炼厂。",
+          "url": "https://flash.jin10.com/detail/20260401224513863800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "在封锁期间，经伊朗批准的通过霍尔木兹海峡的船只数量有所增加",
           "url": "https://flash.jin10.com/detail/20260401003018035800",
           "source": "金十数据",
@@ -602,6 +672,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "伊朗外交部：伊朗最高领袖身体健康 但因战争推迟公开露面",
+          "url": "https://flash.jin10.com/detail/20260401224437726800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "以军称过去一天打击伊朗20处武器生产及研发设施",
@@ -717,7 +798,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
@@ -802,8 +883,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时33分 ~ 21时59分]"
+          "appearance_count": 8,
+          "time_info": "[11时33分 ~ 23时21分]"
         },
         {
           "title": "美伊转折点？特朗普：将在“两到三周”内结束战争，协议亦可能达成！",
@@ -817,17 +898,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时33分 ~ 16时20分]"
-        },
-        {
-          "title": "特朗普料两三周结束战争 伊朗称准备好再战半年",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0168318.html",
-          "source": "联合早报",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
         },
         {
           "title": "特朗普将签署行政令限制邮寄选票",
@@ -847,18 +917,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "法官叫停特朗普白宫宴会厅改造项目",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0168317.html",
-          "source": "联合早报",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -885,15 +944,28 @@
           "time_info": "11时33分"
         },
         {
-          "title": "特朗普案头的六张战局牌：每条路径皆是高风险政治豪赌",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0168314.html",
+          "title": "特朗普料两三周结束战争 伊朗称准备好再战半年",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0168318.html",
           "source": "联合早报",
           "ranks": [
-            5
+            1,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 23时21分]"
+        },
+        {
+          "title": "法官叫停特朗普白宫宴会厅改造项目",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0168317.html",
+          "source": "联合早报",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 23时21分]"
         },
         {
           "title": "美国总统特朗普：（被问及伊朗威胁打击中东地区美国公司）拿什么威胁？玩具枪（BB guns）吗？他们已经没什么可以拿来威胁的了。",
@@ -942,6 +1014,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时43分 ~ 07时42分]"
+        },
+        {
+          "title": "特朗普案头的六张战局牌：每条路径皆是高风险政治豪赌",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0168314.html",
+          "source": "联合早报",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 23时21分]"
         },
         {
           "title": "分析：特朗普习近平会晤延后 中美或累积更多摩擦",
@@ -1059,6 +1143,17 @@
           "time_info": "07时42分"
         },
         {
+          "title": "特朗普称将很快撤出伊朗战事",
+          "url": "https://wallstreetcn.com/articles/3769012",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "美国联邦法官裁定特朗普政府终止移民身份行为违法",
           "url": "https://flash.jin10.com/detail/20260401004005511800",
           "source": "金十数据",
@@ -1087,7 +1182,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -1134,6 +1229,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时43分"
+        },
+        {
+          "title": "消息人士：美副总统称特朗普已失去耐心",
+          "url": "https://flash.jin10.com/detail/20260401224403260800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "美国总统特朗普：（被问及降低汽油价格的计划）我只需要离开伊朗。我们很快就会做到。",
@@ -1238,7 +1344,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
@@ -1248,8 +1354,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时42分 ~ 21时59分]"
+          "appearance_count": 9,
+          "time_info": "[07时42分 ~ 23时21分]"
         },
         {
           "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
@@ -1258,11 +1364,12 @@
           "ranks": [
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时43分 ~ 21时59分]"
+          "appearance_count": 10,
+          "time_info": "[06时43分 ~ 23时21分]"
         },
         {
           "title": "美股收盘：美伊均释放冲突缓和言论 道指飙升逾1100点 纳指涨3.8%",
@@ -1333,9 +1440,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 23时21分]"
         },
         {
           "title": "美伊结束冲突信号提振华尔街，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
@@ -1392,7 +1499,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -1421,6 +1528,17 @@
           "time_info": "[01时09分 ~ 05时50分]"
         },
         {
+          "title": "美股异动丨波音涨超5%，与美国国防部达成为期7年的飞弹交易",
+          "url": "https://www.gelonghui.com/news/5202458",
+          "source": "格隆汇",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "美股短线走强，纳指涨超3%，标普500指数、道指涨超2%。",
           "url": "https://flash.jin10.com/detail/20260401004225097800",
           "source": "金十数据",
@@ -1438,9 +1556,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
+        },
+        {
+          "title": "美股异动丨停战预期推动国际油价大幅回调，油气股集体下跌",
+          "url": "https://www.gelonghui.com/news/5202451",
+          "source": "格隆汇",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "WTI原油、现货黄金周三小幅高开，美股股指期货微跌。",
@@ -1482,7 +1611,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -1501,7 +1630,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
@@ -1540,6 +1669,17 @@
           "time_info": "[05时25分 ~ 05时50分]"
         },
         {
+          "title": "OpenAI二级市场失宠 投资者蜂拥转投Anthropic",
+          "url": "https://flash.jin10.com/detail/20260401225643648800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "据Axios：OpenAI在最近的一次私募融资中向个人投资者出售了约30亿美元的股份。",
           "url": "https://flash.jin10.com/detail/20260401041102848800",
           "source": "金十数据",
@@ -1568,6 +1708,17 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "美股大型科技股盘前普涨，谷歌涨超1%",
+          "url": "https://www.36kr.com/newsflashes/3748265445196294",
+          "source": "36氪",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 23时21分]"
+        },
+        {
           "title": "谷歌旗下YouTube面临禁令要求，禁止面向儿童投放人工智能生成视频",
           "url": "https://www.36kr.com/newsflashes/3748098113176066",
           "source": "36氪",
@@ -1577,17 +1728,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
-        },
-        {
-          "title": "美股大型科技股盘前普涨，谷歌涨超1%",
-          "url": "https://www.36kr.com/newsflashes/3748265445196294",
-          "source": "36氪",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
         },
         {
           "title": "美股大反弹！纳指涨近4%，英伟达、博通、谷歌涨超5%，中概指数涨2.8%",
