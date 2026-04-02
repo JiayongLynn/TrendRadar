@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T17:11:18.174182+08:00",
-  "total_titles_processed": 608,
+  "generated_at": "2026-04-02T19:02:01.229949+08:00",
+  "total_titles_processed": 693,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 67,
       "titles": [
         {
           "title": "特朗普称将很快撤出伊朗战事",
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时06分 ~ 17时11分]"
+          "appearance_count": 13,
+          "time_info": "[01时06分 ~ 19时02分]"
         },
         {
           "title": "特朗普称将在“两到三周”内结束伊朗战事 霍尔木兹海峡由他国自行解决",
@@ -41,8 +42,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时57分 ~ 17时11分]"
+          "appearance_count": 6,
+          "time_info": "[10时57分 ~ 19时02分]"
+        },
+        {
+          "title": "全球市场瞩目！9点“全美讲话”，特朗普会讲什么？",
+          "url": "https://wallstreetcn.com/articles/3769044",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时57分 ~ 19时02分]"
+        },
+        {
+          "title": "特朗普关键“全美讲话”前夕，美伊就“谈判现状”激烈交锋",
+          "url": "https://wallstreetcn.com/articles/3769022",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时57分 ~ 19时02分]"
         },
         {
           "title": "特朗普：接下来几周将对伊朗进行更强火力打击",
@@ -57,28 +82,18 @@
           "time_info": "[10时57分 ~ 17时11分]"
         },
         {
-          "title": "全球市场瞩目！9点“全美讲话”，特朗普会讲什么？",
-          "url": "https://wallstreetcn.com/articles/3769044",
-          "source": "华尔街见闻",
+          "title": "快速停火期望破灭？特朗普演讲震动市场：原油、美元齐涨 亚太股市转跌",
+          "url": "https://www.cls.cn/detail/2332994",
+          "source": "财联社热门",
           "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时57分 ~ 17时11分]"
-        },
-        {
-          "title": "特朗普关键“全美讲话”前夕，美伊就“谈判现状”激烈交锋",
-          "url": "https://wallstreetcn.com/articles/3769022",
-          "source": "华尔街见闻",
-          "ranks": [
+            6,
             4,
-            3
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时57分 ~ 17时11分]"
+          "appearance_count": 5,
+          "time_info": "[13时11分 ~ 19时02分]"
         },
         {
           "title": "特朗普正“认真考虑”让美国退出北约，美防长：对伊朗展开大规模行动时，北约盟友甚至连通行权限都不给美国",
@@ -117,6 +132,18 @@
           "time_info": "[10时57分 ~ 15时25分]"
         },
         {
+          "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
+          "url": "https://www.cls.cn/detail/2333305",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时11分 ~ 19时02分]"
+        },
+        {
           "title": "法官叫停特朗普白宫宴会厅改造项目",
           "url": "https://www.zaochenbao.com/news/politics/202604/0168317.html",
           "source": "联合早报",
@@ -139,17 +166,17 @@
           "time_info": "[01时06分 ~ 08时02分]"
         },
         {
-          "title": "快速停火期望破灭？特朗普演讲震动市场：原油、美元齐涨 亚太股市转跌",
-          "url": "https://www.cls.cn/detail/2332994",
-          "source": "财联社热门",
+          "title": "特朗普讲话“没有明确降温信号”，市场“很失望”",
+          "url": "https://wallstreetcn.com/articles/3769054",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
-            4,
-            2
+            8,
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时11分 ~ 17时11分]"
+          "appearance_count": 5,
+          "time_info": "[13时11分 ~ 19时02分]"
         },
         {
           "title": "美国白宫官员：北约秘书长吕特下周将与美国总统特朗普会面。",
@@ -174,6 +201,21 @@
           "time_info": "06时50分"
         },
         {
+          "title": "纪文宇：特朗普的战争观变了吗？",
+          "url": "https://www.zaochenbao.com/news/opinion/202604/0268334.html",
+          "source": "联合早报",
+          "ranks": [
+            15,
+            22,
+            24,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时57分 ~ 19时02分]"
+        },
+        {
           "title": "美国总统特朗普：（谈及伊朗问题）我在战争开始前曾预测，战争将在三天内结束。",
           "url": "https://flash.jin10.com/detail/20260402063337370800",
           "source": "金十数据",
@@ -183,6 +225,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时50分"
+        },
+        {
+          "title": "澳洲总理：伊朗战争最终目标不明 待特朗普确定",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0268368.html",
+          "source": "联合早报",
+          "ranks": [
+            1,
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时25分 ~ 19时02分]"
         },
         {
           "title": "美国总统特朗普（开玩笑的语气说）：如果伊朗协议没达成，我就怪副总统万斯。如果达成了，功劳全是我的。",
@@ -196,6 +251,19 @@
           "time_info": "06时50分"
         },
         {
+          "title": "特朗普威胁升级对伊战事，布油涨7%，全球股市走低，黄金跌破4600、白银日内跌超5%",
+          "url": "https://wallstreetcn.com/articles/3769052",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时25分 ~ 19时02分]"
+        },
+        {
           "title": "据纽约时报：美国总统特朗普曾考虑让环保署署长泽尔丁接替司法部长邦迪。",
           "url": "https://flash.jin10.com/detail/20260402063114466800",
           "source": "金十数据",
@@ -205,18 +273,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时50分"
-        },
-        {
-          "title": "特朗普讲话“没有明确降温信号”，市场“很失望”",
-          "url": "https://wallstreetcn.com/articles/3769054",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时11分 ~ 17时11分]"
         },
         {
           "title": "市场消息：美国总统特朗普已讨论解雇美国司法部长邦迪。",
@@ -239,29 +295,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
-        },
-        {
-          "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
-          "url": "https://www.cls.cn/detail/2333305",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时11分"
-        },
-        {
-          "title": "澳洲总理：伊朗战争最终目标不明 待特朗普确定",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0268368.html",
-          "source": "联合早报",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 17时11分]"
         },
         {
           "title": "专家：特朗普伊朗讲话令美公众更困惑",
@@ -339,20 +372,6 @@
           "time_info": "[10时57分 ~ 13时11分]"
         },
         {
-          "title": "纪文宇：特朗普的战争观变了吗？",
-          "url": "https://www.zaochenbao.com/news/opinion/202604/0268334.html",
-          "source": "联合早报",
-          "ranks": [
-            15,
-            22,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时57分 ~ 17时11分]"
-        },
-        {
           "title": "特朗普讲话后油价回升 全球基准上涨3%",
           "url": "https://www.zaochenbao.com/news/politics/202604/0268351.html",
           "source": "联合早报",
@@ -390,18 +409,6 @@
           "time_info": "[10时57分 ~ 13时11分]"
         },
         {
-          "title": "特朗普威胁升级对伊战事，布油涨7%，全球股市走低，黄金跌破4600、白银日内跌超5%",
-          "url": "https://wallstreetcn.com/articles/3769052",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 17时11分]"
-        },
-        {
           "title": "美国男子脸书威胁杀害特朗普被捕 面临长达40年监禁",
           "url": "https://www.zaochenbao.com/news/politics/202604/0268341.html",
           "source": "联合早报",
@@ -414,6 +421,17 @@
           "time_info": "[10时57分 ~ 13时11分]"
         },
         {
+          "title": "特朗普称对伊朗战争“即将结束”，未给出明确时间表",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0268382.html",
+          "source": "联合早报",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
+        },
+        {
           "title": "据ABC新闻：特朗普表示，美国正在与伊朗议会议长对话。",
           "url": "https://flash.jin10.com/detail/20260402035800707800",
           "source": "金十数据",
@@ -423,6 +441,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时56分 ~ 04时57分]"
+        },
+        {
+          "title": "特朗普卖油表态遭分析师反驳：美国并没有那么多航空燃油！",
+          "url": "https://www.cls.cn/detail/2333042",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
         },
         {
           "title": "美媒：特朗普将在黄金时段宣布战争即将结束，海峡责任全在北约",
@@ -758,7 +787,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 47,
+      "match_count": 56,
       "titles": [
         {
           "title": "伊朗总统称要结束战争、对方须保证不再侵略，伊外长称与美有信息交流但没谈判",
@@ -787,6 +816,19 @@
           "time_info": "[01时06分 ~ 15时25分]"
         },
         {
+          "title": "伊总统致美民众公开信：美国俨然以色列代理，伊朗对别国并无敌意、绝非发动战争",
+          "url": "https://wallstreetcn.com/articles/3769031",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时57分 ~ 19时02分]"
+        },
+        {
           "title": "【早报】伊朗总统发表致美国人民公开信；宇树科技、中科宇航被抽中现场检查",
           "url": "https://www.cls.cn/detail/2332729",
           "source": "财联社热门",
@@ -811,19 +853,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时06分 ~ 08时02分]"
-        },
-        {
-          "title": "伊总统致美民众公开信：美国俨然以色列代理，伊朗对别国并无敌意、绝非发动战争",
-          "url": "https://wallstreetcn.com/articles/3769031",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时57分 ~ 17时11分]"
         },
         {
           "title": "业界：伊朗战争或致英国食品饮料涨价近10%",
@@ -857,6 +886,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时06分 ~ 08时02分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队：此次对地区内与美国相关的钢铁和铝业设施的打击是一次警告；若伊朗工业设施再次遭到袭击，德黑兰的“下一次回应将更为沉重”。",
+          "url": "https://flash.jin10.com/detail/20260402185423788800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
+        },
+        {
+          "title": "中国外交部：美以对伊朗袭击是霍尔木兹海峡断航根源",
+          "url": "https://www.zaochenbao.com/news/china/202604/0268386.html",
+          "source": "联合早报",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
         },
         {
           "title": "伊朗总统强调捍卫国家独立与安全",
@@ -972,6 +1023,18 @@
           "time_info": "[10时57分 ~ 15时25分]"
         },
         {
+          "title": "伊朗战争扰乱供应 中国石油调运原油支援新加坡炼厂",
+          "url": "https://www.zaochenbao.com/news/world/202604/0268369.html",
+          "source": "联合早报",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时11分 ~ 19时02分]"
+        },
+        {
           "title": "阿联酋方面表示，该国所接纳的伊朗社群受到尊重和珍视。阿联酋重申其对伊朗社群的包容与接纳，该社群是阿联酋多元社会结构中不可或缺的一部分。",
           "url": "https://flash.jin10.com/detail/20260402041029020800",
           "source": "金十数据",
@@ -993,6 +1056,83 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时57分 ~ 13时11分]"
+        },
+        {
+          "title": "惠誉评级：阿联酋银行的房地产敞口是伊朗战争中资产质量风险的关键。",
+          "url": "https://flash.jin10.com/detail/20260402185155236800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
+        },
+        {
+          "title": "伊朗已向中国寻求安全保障？外交部回应",
+          "url": "https://www.cls.cn/detail/2333337",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
+        },
+        {
+          "title": "伊朗：美以对伊朗能力一无所知，将战至敌人投降",
+          "url": "https://wallstreetcn.com/articles/3769073",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
+        },
+        {
+          "title": "普京强化互联网管控，俄罗斯转向伊朗模式？",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0268380.html",
+          "source": "联合早报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
+        },
+        {
+          "title": "美军会怎样尝试攻占伊朗的石油枢纽哈尔克岛？",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0268379.html",
+          "source": "联合早报",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
+        },
+        {
+          "title": "击中伊朗体育馆的美国陆军新型武器是什么？",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0268378.html",
+          "source": "联合早报",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
+        },
+        {
+          "title": "伊朗对美以第90波打击 打击美国相关金属产业设施",
+          "url": "https://flash.jin10.com/detail/20260402184451616800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
         },
         {
           "title": "伊朗最高领袖外交政策顾问遇袭重伤",
@@ -1061,17 +1201,6 @@
           "time_info": "03时16分"
         },
         {
-          "title": "伊朗战争扰乱供应 中国石油调运原油支援新加坡炼厂",
-          "url": "https://www.zaochenbao.com/news/world/202604/0268369.html",
-          "source": "联合早报",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时11分"
-        },
-        {
           "title": "伊朗总统佩泽希齐扬：伊朗对普通美国人没有敌意。",
           "url": "https://flash.jin10.com/detail/20260402023946634800",
           "source": "金十数据",
@@ -1133,7 +1262,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -1243,7 +1372,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -1321,6 +1450,18 @@
           "time_info": "[06时50分 ~ 15时25分]"
         },
         {
+          "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
+          "url": "https://wallstreetcn.com/articles/3768936",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时02分 ~ 19时02分]"
+        },
+        {
           "title": "热门中概股美股盘前多数走强，理想汽车涨超3%",
           "url": "https://www.36kr.com/newsflashes/3748267329274632",
           "source": "36氪",
@@ -1331,18 +1472,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时06分 ~ 08时02分]"
-        },
-        {
-          "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
-          "url": "https://wallstreetcn.com/articles/3768936",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时02分 ~ 17时11分]"
         },
         {
           "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
@@ -1533,7 +1662,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股大型科技股盘前普涨，谷歌涨超1%",
@@ -1546,6 +1675,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时06分 ~ 08时02分]"
+        },
+        {
+          "title": "富国银行：将谷歌母公司Alphabet目标价从397美元下调至361美元；将Meta Platforms(META.O)目标价从856美元下调至765美元。",
+          "url": "https://flash.jin10.com/detail/20260402183208467800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
         }
       ]
     },
