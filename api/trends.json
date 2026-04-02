@@ -1,60 +1,38 @@
 {
-  "generated_at": "2026-04-03T01:05:15.736977+08:00",
-  "total_titles_processed": 112,
+  "generated_at": "2026-04-03T03:08:51.993789+08:00",
+  "total_titles_processed": 143,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 11,
+      "keyword_group": "伊朗",
+      "match_count": 13,
       "titles": [
         {
-          "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
-          "url": "https://www.cls.cn/detail/2333305",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
-          "url": "https://wallstreetcn.com/articles/3769051",
+          "title": "外媒称伊朗已向中国寻求安全保障，如果这些保障能够提供，美以伊或能达成停火协议，外交部：中方支持一切有利于和平的努力",
+          "url": "https://wallstreetcn.com/articles/3769089",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时08分]"
         },
         {
-          "title": "据CNN：美国总统特朗普免去帕姆·邦迪美国司法部长职务。",
-          "url": "https://flash.jin10.com/detail/20260403010200558800",
+          "title": "伊朗对美国公司发出威胁后，沙特多个商业中心转为远程办公",
+          "url": "https://flash.jin10.com/detail/20260403025329776800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时05分"
+          "time_info": "03时08分"
         },
         {
-          "title": "特朗普能单方面让美国退出北约吗？分析：须国会批准",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0268407.html",
-          "source": "联合早报",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "全球市场瞩目！9点“全美讲话”，特朗普会讲什么？",
-          "url": "https://wallstreetcn.com/articles/3769044",
-          "source": "华尔街见闻",
+          "title": "伊朗已向中国寻求安全保障？外交部回应",
+          "url": "https://www.cls.cn/detail/2333337",
+          "source": "财联社热门",
           "ranks": [
             4
           ],
@@ -63,76 +41,122 @@
           "time_info": "01时05分"
         },
         {
-          "title": "特朗普讲话“没有明确降温信号”，市场“很失望”",
-          "url": "https://wallstreetcn.com/articles/3769054",
-          "source": "华尔街见闻",
+          "title": "以军称打死伊朗导弹部队一指挥官",
+          "url": "https://flash.jin10.com/detail/20260403023732658800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时05分"
+          "time_info": "03时08分"
         },
         {
-          "title": "特朗普：伊朗是时候达成协议了，以免为时已晚",
-          "url": "https://flash.jin10.com/detail/20260403004016648800",
-          "source": "金十数据",
+          "title": "伊朗：美以对伊朗能力一无所知，将战至敌人投降",
+          "url": "https://wallstreetcn.com/articles/3769073",
+          "source": "华尔街见闻",
           "ranks": [
-            10
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时08分]"
         },
         {
-          "title": "不满夫人被指态度恶劣 马克龙批特朗普言论“不妥当”",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0268398.html",
+          "title": "伊拉克亲伊朗武装组织：美军不会有安全避风港",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0268401.html",
           "source": "联合早报",
           "ranks": [
-            11
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时08分]"
         },
         {
-          "title": "美国总统特朗普：伊朗到了该达成协议的时候了，以免为时已晚。",
-          "url": "https://flash.jin10.com/detail/20260403003832995800",
-          "source": "金十数据",
+          "title": "霍尔木兹主航道被堵，船只批量绕道伊朗拉腊克岛\"缴费通行\"",
+          "url": "https://wallstreetcn.com/articles/3769081",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时08分]"
+        },
+        {
+          "title": "美若未达协议仓促抽身 专家警示伊朗恐“愈炼愈强”",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0268396.html",
+          "source": "联合早报",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时08分]"
         },
         {
-          "title": "特朗普认为伊朗战争结束后 抵押贷款利率将会下降",
-          "url": "https://flash.jin10.com/detail/20260403003009535800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "特朗普称对伊朗战争“即将结束”，未给出明确时间表",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0268382.html",
+          "title": "普京强化互联网管控，俄罗斯转向伊朗模式？",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0268380.html",
           "source": "联合早报",
           "ranks": [
-            24
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时08分]"
+        },
+        {
+          "title": "伊总统致美民众公开信：美国俨然以色列代理，伊朗对别国并无敌意、绝非发动战争",
+          "url": "https://wallstreetcn.com/articles/3769031",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "当地时间4月2日晚，伊朗向以色列特拉维夫发动新一轮导弹袭击。",
+          "url": "https://flash.jin10.com/detail/20260403004413877800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：不能允许伊朗向各国收取通行费。",
+          "url": "https://flash.jin10.com/detail/20260403021259336800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "据塔斯社：俄罗斯外长拉夫罗夫与伊朗外长讨论霍尔木兹海峡局势。",
+          "url": "https://flash.jin10.com/detail/20260403014202150800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时08分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股大幅低开，黄金跌破4600、白银日内跌超5%",
@@ -142,8 +166,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时08分]"
         },
         {
           "title": "热门中概股美股盘前普跌，蔚来跌超3%",
@@ -153,8 +177,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时08分]"
         },
         {
           "title": "美股大型科技股盘前普跌，Arm跌超5%",
@@ -164,30 +188,44 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时08分]"
         },
         {
           "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2333830",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时08分]"
         },
         {
           "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
           "url": "https://wallstreetcn.com/articles/3768936",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时08分]"
+        },
+        {
+          "title": "什么信号？华尔街频频传来“避开美股”警告声……",
+          "url": "https://www.cls.cn/detail/2333333",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时08分]"
         },
         {
           "title": "美股异动丨美国稀土公司涨超10%，首条稀土磁体生产线投运",
@@ -197,19 +235,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "什么信号？华尔街频频传来“避开美股”警告声……",
-          "url": "https://www.cls.cn/detail/2333333",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时08分]"
         },
         {
           "title": "美股异动丨光纤行业迎来涨价潮，Applied Optoelectronics大涨超16%",
@@ -219,8 +246,19 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时08分]"
+        },
+        {
+          "title": "特朗普即将发表讲话，美股首度“两连涨”，黄金已“四连涨”，华尔街FOMO了",
+          "url": "https://wallstreetcn.com/articles/3769043",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时05分"
+          "time_info": "03时08分"
         },
         {
           "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股盘中）",
@@ -247,79 +285,101 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 9,
+      "keyword_group": "特朗普",
+      "match_count": 11,
       "titles": [
         {
-          "title": "外媒称伊朗已向中国寻求安全保障，如果这些保障能够提供，美以伊或能达成停火协议，外交部：中方支持一切有利于和平的努力",
-          "url": "https://wallstreetcn.com/articles/3769089",
+          "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
+          "url": "https://wallstreetcn.com/articles/3769051",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时08分]"
         },
         {
-          "title": "伊朗已向中国寻求安全保障？外交部回应",
-          "url": "https://www.cls.cn/detail/2333337",
-          "source": "财联社热门",
+          "title": "特朗普能单方面让美国退出北约吗？分析：须国会批准",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0268407.html",
+          "source": "联合早报",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时08分]"
+        },
+        {
+          "title": "全球市场瞩目！9点“全美讲话”，特朗普会讲什么？",
+          "url": "https://wallstreetcn.com/articles/3769044",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时08分]"
         },
         {
-          "title": "伊总统致美民众公开信：美国俨然以色列代理，伊朗对别国并无敌意、绝非发动战争",
-          "url": "https://wallstreetcn.com/articles/3769031",
+          "title": "特朗普讲话“没有明确降温信号”，市场“很失望”",
+          "url": "https://wallstreetcn.com/articles/3769054",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时08分]"
         },
         {
-          "title": "伊朗：美以对伊朗能力一无所知，将战至敌人投降",
-          "url": "https://wallstreetcn.com/articles/3769073",
-          "source": "华尔街见闻",
+          "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
+          "url": "https://www.cls.cn/detail/2333305",
+          "source": "财联社热门",
           "ranks": [
-            8
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
         },
         {
-          "title": "伊拉克亲伊朗武装组织：美军不会有安全避风港",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0268401.html",
-          "source": "联合早报",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "当地时间4月2日晚，伊朗向以色列特拉维夫发动新一轮导弹袭击。",
-          "url": "https://flash.jin10.com/detail/20260403004413877800",
+          "title": "据CNN：美国总统特朗普免去帕姆·邦迪美国司法部长职务。",
+          "url": "https://flash.jin10.com/detail/20260403010200558800",
           "source": "金十数据",
           "ranks": [
-            9
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
         },
         {
-          "title": "霍尔木兹主航道被堵，船只批量绕道伊朗拉腊克岛\"缴费通行\"",
-          "url": "https://wallstreetcn.com/articles/3769081",
-          "source": "华尔街见闻",
+          "title": "不满夫人被指态度恶劣 马克龙批特朗普言论“不妥当”",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0268398.html",
+          "source": "联合早报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时08分]"
+        },
+        {
+          "title": "特朗普称对伊朗战争“即将结束”，未给出明确时间表",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0268382.html",
+          "source": "联合早报",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时08分]"
+        },
+        {
+          "title": "特朗普：伊朗是时候达成协议了，以免为时已晚",
+          "url": "https://flash.jin10.com/detail/20260403004016648800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
@@ -328,9 +388,9 @@
           "time_info": "01时05分"
         },
         {
-          "title": "美若未达协议仓促抽身 专家警示伊朗恐“愈炼愈强”",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0268396.html",
-          "source": "联合早报",
+          "title": "美国总统特朗普：伊朗到了该达成协议的时候了，以免为时已晚。",
+          "url": "https://flash.jin10.com/detail/20260403003832995800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
@@ -339,15 +399,32 @@
           "time_info": "01时05分"
         },
         {
-          "title": "普京强化互联网管控，俄罗斯转向伊朗模式？",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0268380.html",
-          "source": "联合早报",
+          "title": "特朗普认为伊朗战争结束后 抵押贷款利率将会下降",
+          "url": "https://flash.jin10.com/detail/20260403003009535800",
+          "source": "金十数据",
           "ranks": [
-            26
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI：将ChatGPT企业版的年订阅价格从每用户25美元降至20美元。",
+          "url": "https://flash.jin10.com/detail/20260403014329436800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时08分"
         }
       ]
     }
