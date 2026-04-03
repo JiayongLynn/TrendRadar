@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-03T07:43:05.949237+08:00",
-  "total_titles_processed": 226,
+  "generated_at": "2026-04-03T11:17:59.277917+08:00",
+  "total_titles_processed": 332,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 29,
       "titles": [
         {
           "title": "外媒称伊朗已向中国寻求安全保障，如果这些保障能够提供，美以伊或能达成停火协议，外交部：中方支持一切有利于和平的努力",
           "url": "https://wallstreetcn.com/articles/3769089",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 07时43分]"
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 11时17分]"
         },
         {
           "title": "伊朗：美以对伊朗能力一无所知，将战至敌人投降",
@@ -24,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 07时43分]"
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 11时17分]"
         },
         {
           "title": "霍尔木兹主航道被堵，船只批量绕道伊朗拉腊克岛\"缴费通行\"",
@@ -40,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 07时43分]"
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 11时17分]"
         },
         {
           "title": "伊拉克亲伊朗武装组织：美军不会有安全避风港",
@@ -125,6 +127,28 @@
           "time_info": "01时05分"
         },
         {
+          "title": "伊朗与阿曼正起草协议 拟“监管”霍尔木兹海峡通行",
+          "url": "https://www.cls.cn/detail/2334040",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "中国尝试在伊朗战争中扮演和平调解者，这会奏效吗？",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0368441.html",
+          "source": "联合早报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
           "title": "以军称打死伊朗导弹部队一指挥官",
           "url": "https://flash.jin10.com/detail/20260403023732658800",
           "source": "金十数据",
@@ -134,6 +158,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "伊朗与阿曼起草协议共管霍尔木兹，阿联酋称愿参与海峡航道安全保障",
+          "url": "https://wallstreetcn.com/articles/3769135",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         },
         {
           "title": "普京强化互联网管控，俄罗斯转向伊朗模式？",
@@ -219,6 +254,17 @@
           "time_info": "01时05分"
         },
         {
+          "title": "伊朗战争导致全球氦气供应短缺，威胁芯片行业",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0368432.html",
+          "source": "联合早报",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
           "title": "欧盟外交与安全政策高级代表卡拉斯：不能允许伊朗向各国收取通行费。",
           "url": "https://flash.jin10.com/detail/20260403021259336800",
           "source": "金十数据",
@@ -228,6 +274,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "马克龙：应对伊朗战争应严肃 不能老是朝令夕改",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0368430.html",
+          "source": "联合早报",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "伊朗称打击甲骨文亚马逊在波斯湾数据中心",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0368427.html",
+          "source": "联合早报",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         },
         {
           "title": "据伊朗国家媒体：卡拉季B1桥遭袭击，造成8人死亡、95人受伤。",
@@ -241,6 +309,17 @@
           "time_info": "04时45分"
         },
         {
+          "title": "美媒：美情报部门评估伊朗约半数导弹发射装置完好无损",
+          "url": "https://flash.jin10.com/detail/20260403105053632800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
           "title": "据塔斯社：俄罗斯外长拉夫罗夫与伊朗外长讨论霍尔木兹海峡局势。",
           "url": "https://flash.jin10.com/detail/20260403014202150800",
           "source": "金十数据",
@@ -250,12 +329,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "叶鹏飞：决定伊朗战争的另一条战线",
+          "url": "https://www.zaochenbao.com/news/opinion/202604/0368416.html",
+          "source": "联合早报",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
@@ -386,11 +476,12 @@
           "url": "https://www.cls.cn/detail/2334086",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时42分 ~ 07时43分]"
+          "appearance_count": 3,
+          "time_info": "[07时42分 ~ 11时17分]"
         },
         {
           "title": "伊朗外长嘲讽特朗普：石器时代可没有油气",
@@ -416,6 +507,39 @@
           "time_info": "01时05分"
         },
         {
+          "title": "特朗普为何积极推动美国“重返月球”",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0368435.html",
+          "source": "联合早报",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "特朗普想甩手走人，盟友急了：40多国磋商“自己开海峡”，联合国武力方案被挡下",
+          "url": "https://flash.jin10.com/detail/20260403110254234800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "评论：特朗普真的实现了伊朗“政权更迭”吗？",
+          "url": "https://www.zaochenbao.com/news/opinion/202604/0368434.html",
+          "source": "联合早报",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
           "title": "美国总统特朗普：伊朗到了该达成协议的时候了，以免为时已晚。",
           "url": "https://flash.jin10.com/detail/20260403003832995800",
           "source": "金十数据",
@@ -425,6 +549,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "敲定100%关税！特朗普“剑指”进口专利药及制药成分",
+          "url": "https://www.cls.cn/detail/2334117",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         },
         {
           "title": "特朗普认为伊朗战争结束后 抵押贷款利率将会下降",
@@ -447,6 +582,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
+        },
+        {
+          "title": "特朗普：伊朗新政权领导层必须尽快去做该做的事",
+          "url": "https://flash.jin10.com/detail/20260403104321080800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "特朗普放狠话加剧冲突，美油暴涨超13%，即期布油飙破140美元，金银现“踩踏式撤退”。伊朗释放霍尔木兹协议信号，市场巨震不止.....后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260403103102775800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         }
       ]
     },
@@ -454,6 +611,20 @@
       "keyword_group": "美股",
       "match_count": 16,
       "titles": [
+        {
+          "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2333830",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 11时17分]"
+        },
         {
           "title": "热门中概股美股盘前普跌，蔚来跌超3%",
           "url": "https://www.36kr.com/newsflashes/3749670725583368",
@@ -479,17 +650,17 @@
           "time_info": "[01时05分 ~ 07时43分]"
         },
         {
-          "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2333830",
+          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
+          "url": "https://www.cls.cn/detail/2334066",
           "source": "财联社热门",
           "ranks": [
-            7,
             5,
-            6
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 07时43分]"
+          "appearance_count": 4,
+          "time_info": "[06时41分 ~ 11时17分]"
         },
         {
           "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股大幅低开，黄金跌破4600、白银日内跌超5%",
@@ -501,18 +672,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时05分 ~ 04时45分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
-          "url": "https://www.cls.cn/detail/2334066",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时41分 ~ 07时43分]"
         },
         {
           "title": "美股异动丨美国稀土公司涨超10%，首条稀土磁体生产线投运",
@@ -671,6 +830,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国媒体：DeepSeek V4或4月发布 多名核心成员离职",
+          "url": "https://www.zaochenbao.com/news/opinion/202604/0368444.html",
+          "source": "联合早报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         }
       ]
     },
