@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T21:22:11.809034+08:00",
-  "total_titles_processed": 753,
+  "generated_at": "2026-04-03T22:54:40.123569+08:00",
+  "total_titles_processed": 802,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 62,
+      "match_count": 73,
       "titles": [
         {
           "title": "外媒称伊朗已向中国寻求安全保障，如果这些保障能够提供，美以伊或能达成停火协议，外交部：中方支持一切有利于和平的努力",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时05分 ~ 15时22分]"
+        },
+        {
+          "title": "伊朗与阿曼起草协议共管霍尔木兹，阿联酋称愿参与海峡航道安全保障",
+          "url": "https://wallstreetcn.com/articles/3769135",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时17分 ~ 22时54分]"
         },
         {
           "title": "伊朗：美以对伊朗能力一无所知，将战至敌人投降",
@@ -34,29 +46,18 @@
           "time_info": "[01时05分 ~ 15时22分]"
         },
         {
-          "title": "伊朗与阿曼起草协议共管霍尔木兹，阿联酋称愿参与海峡航道安全保障",
-          "url": "https://wallstreetcn.com/articles/3769135",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时17分 ~ 21时22分]"
-        },
-        {
           "title": "外交部回应伊朗桥梁遭袭：中方反对袭击民用设施 有关方应立即停火",
           "url": "https://www.cls.cn/detail/2334610",
           "source": "财联社热门",
           "ranks": [
             8,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时05分 ~ 21时22分]"
+          "appearance_count": 7,
+          "time_info": "[17时05分 ~ 22时54分]"
         },
         {
           "title": "霍尔木兹主航道被堵，船只批量绕道伊朗拉腊克岛\"缴费通行\"",
@@ -72,6 +73,19 @@
           "time_info": "[01时05分 ~ 13时46分]"
         },
         {
+          "title": "伊朗警告将摧毁美以在中东所有资产",
+          "url": "https://www.cls.cn/detail/2334807",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时53分 ~ 22时54分]"
+        },
+        {
           "title": "伊朗与阿曼正起草协议 拟“监管”霍尔木兹海峡通行",
           "url": "https://www.cls.cn/detail/2334040",
           "source": "财联社热门",
@@ -85,16 +99,18 @@
           "time_info": "[11时17分 ~ 17时05分]"
         },
         {
-          "title": "伊朗警告将摧毁美以在中东所有资产",
-          "url": "https://www.cls.cn/detail/2334807",
-          "source": "财联社热门",
+          "title": "伊朗开始在霍尔木兹海峡“收费护航”，据“友好程度”分五档",
+          "url": "https://wallstreetcn.com/articles/3769193",
+          "source": "华尔街见闻",
           "ranks": [
+            9,
             7,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时53分 ~ 21时22分]"
+          "appearance_count": 6,
+          "time_info": "[18时53分 ~ 22时54分]"
         },
         {
           "title": "伊朗战争之后，世界从此不一样了",
@@ -107,8 +123,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时22分 ~ 21时22分]"
+          "appearance_count": 8,
+          "time_info": "[15时22分 ~ 22时54分]"
         },
         {
           "title": "伊朗：击落又一架美军F-35战机",
@@ -118,11 +134,12 @@
             1,
             8,
             18,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时05分 ~ 21时22分]"
+          "appearance_count": 7,
+          "time_info": "[17时05分 ~ 22时54分]"
         },
         {
           "title": "消息：美情报评估伊朗约半数导弹发射装置完好无损",
@@ -161,6 +178,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时05分 ~ 07时43分]"
+        },
+        {
+          "title": "伊朗发动第92波攻势 袭击美军基地",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0368488.html",
+          "source": "联合早报",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 22时54分]"
         },
         {
           "title": "梵蒂冈声明，教皇利奥敦促以色列总统赫尔佐格“重新开启所有对话渠道”，以结束伊朗战争。",
@@ -207,17 +236,16 @@
           "time_info": "[18时53分 ~ 18时54分]"
         },
         {
-          "title": "伊朗开始在霍尔木兹海峡“收费护航”，据“友好程度”分五档",
-          "url": "https://wallstreetcn.com/articles/3769193",
-          "source": "华尔街见闻",
+          "title": "伊朗外交官：美以不掌握伊朗核设施准确情报",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0368486.html",
+          "source": "联合早报",
           "ranks": [
-            9,
-            7,
+            3,
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时53分 ~ 21时22分]"
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 22时54分]"
         },
         {
           "title": "伊朗革命卫队：以色列对科威特海水淡化设施的非常规和非法攻击，显示了以色列占领者的堕落和恶行。",
@@ -259,18 +287,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "伊朗发动第92波攻势 袭击美军基地",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0368488.html",
-          "source": "联合早报",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -292,18 +309,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "伊朗外交官：美以不掌握伊朗核设施准确情报",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0368486.html",
-          "source": "联合早报",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -541,6 +547,17 @@
           "time_info": "01时05分"
         },
         {
+          "title": "阿联酋环球铝业公司：在阿布扎比哈利法经济区遭到伊朗导弹和无人机袭击后，遭受了重大损失。",
+          "url": "https://flash.jin10.com/detail/20260403223058325800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "当地时间4月2日晚，伊朗向以色列特拉维夫发动新一轮导弹袭击。",
           "url": "https://flash.jin10.com/detail/20260403004413877800",
           "source": "金十数据",
@@ -574,6 +591,17 @@
           "time_info": "17时05分"
         },
         {
+          "title": "市场消息：美国官员称，美国F-15战斗机在伊朗被击落，美方正搜寻坠毁F-15战斗机机组人员。",
+          "url": "https://flash.jin10.com/detail/20260403222031645800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "伊朗：第二架美军F-35战斗机被击落",
           "url": "https://flash.jin10.com/detail/20260403125108975800",
           "source": "金十数据",
@@ -583,6 +611,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
+        },
+        {
+          "title": "据半官方新闻机构伊朗学生通讯社：伊朗西南部一省省长表示，凡抓获或击毙被击落美机机组人员者，“将获省政府特别嘉奖”。",
+          "url": "https://flash.jin10.com/detail/20260403221940064800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "欧盟外交与安全政策高级代表卡拉斯：不能允许伊朗向各国收取通行费。",
@@ -602,7 +641,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -624,9 +663,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
+        },
+        {
+          "title": "伊朗媒体报道称，任何找到坠毁美军飞行员的公民将获得100亿托曼（约6万美元）的奖励。",
+          "url": "https://flash.jin10.com/detail/20260403221556445800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "美官员证实一架美军战斗机在伊朗境内被击落",
+          "url": "https://flash.jin10.com/detail/20260403221235900800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "据AXIOS网站：据伊朗媒体及一位消息人士称，伊朗此前击落了一架美军战斗机，目前搜救工作正在进行，以寻找两名机组成员。",
@@ -635,7 +696,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -695,6 +756,17 @@
           "time_info": "15时22分"
         },
         {
+          "title": "据塔斯尼姆通讯社：美以联军袭击致1人死亡，伊朗波斯湾港口查拉克的客运航站楼及民用基础设施受损。",
+          "url": "https://flash.jin10.com/detail/20260403220433934800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "美军沙特基地一“萨德”反导雷达在伊朗袭击中受损",
           "url": "https://flash.jin10.com/detail/20260403123801349800",
           "source": "金十数据",
@@ -712,9 +784,42 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
+        },
+        {
+          "title": "据华尔街日报：知情人士透露，一架美军战斗机在伊朗境内坠毁，搜救行动正在进行。这是自战争爆发以来已知的第一架在伊朗境内损失的战斗机。",
+          "url": "https://flash.jin10.com/detail/20260403220336618800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "市场消息：也门胡塞组织周四（4月2日）表示，他们与伊朗和黎巴嫩真主党联合发射了一波弹道导弹，目标是特拉维夫的以色列目标，但没有提供证据或敌方损失的细节。",
+          "url": "https://flash.jin10.com/detail/20260403220248757800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "伊朗胡齐斯坦省副安全官员：今天下午，观察到几架美国军队的直升机和战斗机在省内某些地区低空飞行，但敌对势力并未在胡齐斯坦进行任何行动或直升机着陆。",
+          "url": "https://flash.jin10.com/detail/20260403215656544800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "据塔斯社：俄罗斯外长拉夫罗夫与伊朗外长讨论霍尔木兹海峡局势。",
@@ -726,12 +831,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "据伊朗版官方媒体YJC：伊朗西南部一名官员呼吁展开大规模追捕行动，以找到被击落美军飞机的飞行员。",
+          "url": "https://flash.jin10.com/detail/20260403215610809800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "伊朗动员多地力量搜捕美军飞行员",
+          "url": "https://flash.jin10.com/detail/20260403215422678800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
@@ -789,8 +916,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时22分 ~ 21时22分]"
+          "appearance_count": 8,
+          "time_info": "[15时22分 ~ 22时54分]"
         },
         {
           "title": "特朗普再威胁打击伊朗桥梁发电厂",
@@ -828,6 +955,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时05分 ~ 07时43分]"
+        },
+        {
+          "title": "对伊开战关键期 特朗普突换陆军“一把手”",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0368487.html",
+          "source": "联合早报",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 22时54分]"
         },
         {
           "title": "美国白宫：特朗普2027财年的预算寻求1.5万亿美元国防支出。",
@@ -888,17 +1027,6 @@
           "time_info": "01时05分"
         },
         {
-          "title": "对伊开战关键期 特朗普突换陆军“一把手”",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0368487.html",
-          "source": "联合早报",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
           "title": "特朗普刚说“炸回石器时代”，美军就把伊朗大桥炸了",
           "url": "https://flash.jin10.com/detail/20260403061620774800",
           "source": "金十数据",
@@ -909,6 +1037,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时41分 ~ 07时43分]"
+        },
+        {
+          "title": "特朗普2027财年预算拟为美国卫生与公众服务部的自由裁量预算授权设定为1111亿美元，较2026财年的水平减少158亿美元，降幅为12.5%。",
+          "url": "https://flash.jin10.com/detail/20260403223158627800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "伊朗回应特朗普所谓已胜利 SpaceX有望冲刺2万亿美元估值 | 环球市场",
@@ -960,6 +1099,18 @@
           "time_info": "[11时17分 ~ 17时05分]"
         },
         {
+          "title": "特朗普下令征收100％专利药品关税 行业组织批：打击小制药厂",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0368483.html",
+          "source": "联合早报",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 22时54分]"
+        },
+        {
           "title": "伊朗外交部发言人巴加埃：（回应特朗普要“让伊朗人回到石器时代”的威胁）伊朗人一直是绿意和柏树的守护者。今天，每位伊朗人都在深厚文化智慧的指引下，怀着目的和意义种下一棵树。爱的国度种下了一棵生命的幼苗——它将茁壮成长，枝繁叶茂，延展到明天。",
           "url": "https://flash.jin10.com/detail/20260403183236002800",
           "source": "金十数据",
@@ -1006,15 +1157,37 @@
           "time_info": "[18时53分 ~ 18时54分]"
         },
         {
-          "title": "特朗普下令征收100％专利药品关税 行业组织批：打击小制药厂",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0368483.html",
-          "source": "联合早报",
+          "title": "一周热榜精选：特朗普并未TACO再引巨震！鲍威尔发言修正加息预期",
+          "url": "https://flash.jin10.com/detail/20260403223119763800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时22分"
+          "time_info": "22时54分"
+        },
+        {
+          "title": "美国总统特朗普预算案提议开始对运输安全管理局进行私有化。",
+          "url": "https://flash.jin10.com/detail/20260403223004160800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "特朗普2027年预算拟为环保署提供42亿美元的自由预算授权，比2026年减少46亿美元，降幅达52%。",
+          "url": "https://flash.jin10.com/detail/20260403222420452800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "特朗普：伊朗是时候达成协议了，以免为时已晚",
@@ -1045,9 +1218,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
+        },
+        {
+          "title": "特朗普2027财年向美国国家航空航天局申请188亿美元预算，较2026财年水平减少56亿美元，降幅达23%。",
+          "url": "https://flash.jin10.com/detail/20260403222116107800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "美国总统特朗普：伊朗到了该达成协议的时候了，以免为时已晚。",
@@ -1061,6 +1245,17 @@
           "time_info": "01时05分"
         },
         {
+          "title": "美国现代史上之最！特朗普抛出1.5万亿天价国防预算",
+          "url": "https://flash.jin10.com/detail/20260403221809438800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "特朗普认为伊朗战争结束后 抵押贷款利率将会下降",
           "url": "https://flash.jin10.com/detail/20260403003009535800",
           "source": "金十数据",
@@ -1070,6 +1265,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "美国总统特朗普发布2.164万亿美元的自由裁量预算请求。",
+          "url": "https://flash.jin10.com/detail/20260403220544691800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "美国白宫：根据总统特朗普修订后的232条款金属关税，某些金属密集型工业和电网设备将征收15%的关税。",
@@ -1100,7 +1306,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -1111,7 +1317,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -1328,7 +1534,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌现已支持在Google Vids中通过指令操控虚拟形象",
@@ -1351,6 +1557,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "土耳其竞争委员会：已就谷歌可能存在的广告计费差异展开调查。",
+          "url": "https://flash.jin10.com/detail/20260403215408333800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         }
       ]
     },
