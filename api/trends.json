@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T06:43:33.378658+08:00",
-  "total_titles_processed": 177,
+  "generated_at": "2026-04-04T07:43:00.014247+08:00",
+  "total_titles_processed": 184,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
         {
           "title": "伊朗开始在霍尔木兹海峡“收费护航”，据“友好程度”分五档",
@@ -15,41 +15,44 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时42分]"
         },
         {
           "title": "外交部回应伊朗桥梁遭袭：中方反对袭击民用设施 有关方应立即停火",
           "url": "https://www.cls.cn/detail/2334610",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时42分]"
         },
         {
           "title": "伊朗警告将摧毁美以在中东所有资产",
           "url": "https://www.cls.cn/detail/2334807",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时42分]"
         },
         {
           "title": "伊朗战争之后，世界从此不一样了",
           "url": "https://wallstreetcn.com/articles/3769162",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时42分]"
         },
         {
           "title": "伊朗发动第92波攻势 袭击美军基地",
@@ -59,8 +62,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时42分]"
+        },
+        {
+          "title": "伊朗外交官：美以不掌握伊朗核设施准确情报",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0368486.html",
+          "source": "联合早报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时42分]"
+        },
+        {
+          "title": "伊朗：击落又一架美军F-35战机",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0368463.html",
+          "source": "联合早报",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时42分]"
         },
         {
           "title": "美方曾提议停火48小时 伊朗以战场行动作出“回应”",
@@ -77,28 +102,6 @@
           "time_info": "[02时59分 ~ 06时43分]"
         },
         {
-          "title": "伊朗外交官：美以不掌握伊朗核设施准确情报",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0368486.html",
-          "source": "联合早报",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时43分]"
-        },
-        {
-          "title": "伊朗：击落又一架美军F-35战机",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0368463.html",
-          "source": "联合早报",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时43分]"
-        },
-        {
           "title": "据纽约时报：美国官员称，周五第二架美国战斗机（一架A-10攻击机）在霍尔木兹海峡附近坠毁，机上唯一的飞行员已安全获救。大约在同一时间，一架F-15战斗机在伊朗上空被击落。",
           "url": "https://flash.jin10.com/detail/20260404024259860800",
           "source": "金十数据",
@@ -112,50 +115,64 @@
           "time_info": "[02时59分 ~ 05时42分]"
         },
         {
-          "title": "伊朗议会议长卡利巴夫：全球石油、液化天然气、小麦、大米和化肥运输中有多少是通过曼德海峡的？哪些国家和公司通过曼德海峡的运输量最高？",
-          "url": "https://flash.jin10.com/detail/20260404061656452800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
-          "title": "据伊朗努尔新闻(Nour News)：伊朗省级官员表示，仍在搜寻被击落的美国战斗机失踪机组人员。",
-          "url": "https://flash.jin10.com/detail/20260404055805803800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
           "title": "据伊朗国家媒体称，伊朗在霍尔木兹海峡附近南部海域击中了一架A-10战机。",
           "url": "https://flash.jin10.com/detail/20260404031511491800",
           "source": "金十数据",
           "ranks": [
             2,
             19,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时49分 ~ 06时43分]"
+          "appearance_count": 5,
+          "time_info": "[03时49分 ~ 07时42分]"
         },
         {
-          "title": "消息人士：美国最新情报称伊朗短期内不太可能开放霍尔木兹海峡",
-          "url": "https://flash.jin10.com/detail/20260404055708984800",
+          "title": "市场消息：伊朗一枚携带了集束炸弹弹头的弹道导弹袭击了以色列中部地区，以色列当局正在对佩塔提克瓦、罗什哈因和比内布拉克进行安全扫描。",
+          "url": "https://flash.jin10.com/detail/20260404071839309800",
           "source": "金十数据",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时43分"
+          "time_info": "07时42分"
+        },
+        {
+          "title": "据叙利亚国家电视台：大马士革及其周边地区接连响起的爆炸声，系以色列防空系统拦截伊朗导弹所致。",
+          "url": "https://flash.jin10.com/detail/20260404070053518800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "以色列称监测到伊朗发射的导弹 南部多地响起防空警报",
+          "url": "https://flash.jin10.com/detail/20260404064618900800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "伊朗驳斥“防空系统已被摧毁”的说法 公布最新战果",
+          "url": "https://flash.jin10.com/detail/20260404035850403800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时48分 ~ 07时42分]"
         },
         {
           "title": "据华尔街日报：伊朗官员表示，其不愿在未来几天内于伊斯兰堡与美国官员会面，且美方提出的要求不可接受。",
@@ -171,15 +188,28 @@
           "time_info": "[01时42分 ~ 03时49分]"
         },
         {
-          "title": "三位消息人士称，美国情报部门警告称，伊朗近期不太可能放松对霍尔木兹海峡的控制。",
-          "url": "https://flash.jin10.com/detail/20260404055218337800",
+          "title": "当地时间3日23时15分， 伊朗首都德黑兰再次遭袭。",
+          "url": "https://flash.jin10.com/detail/20260404035246811800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时48分 ~ 07时42分]"
+        },
+        {
+          "title": "伊朗军方严正警告美方：若破坏伊基础设施必遭强硬回击",
+          "url": "https://flash.jin10.com/detail/20260404062116568800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时43分"
+          "time_info": "07时42分"
         },
         {
           "title": "美伊停火斡旋陷僵局 伊朗不愿会面 卡塔尔拒绝充当调解方",
@@ -193,30 +223,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时59分 ~ 05时42分]"
-        },
-        {
-          "title": "伊朗驳斥“防空系统已被摧毁”的说法 公布最新战果",
-          "url": "https://flash.jin10.com/detail/20260404035850403800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时48分 ~ 06时43分]"
-        },
-        {
-          "title": "当地时间3日23时15分， 伊朗首都德黑兰再次遭袭。",
-          "url": "https://flash.jin10.com/detail/20260404035246811800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时48分 ~ 06时43分]"
         },
         {
           "title": "据伊朗媒体Fars News：消息人士称，伊朗已拒绝美国提出的为期48小时的停火提议。",
@@ -245,6 +251,42 @@
           "time_info": "[02时59分 ~ 05时42分]"
         },
         {
+          "title": "伊朗议会议长卡利巴夫：全球石油、液化天然气、小麦、大米和化肥运输中有多少是通过曼德海峡的？哪些国家和公司通过曼德海峡的运输量最高？",
+          "url": "https://flash.jin10.com/detail/20260404061656452800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时43分 ~ 07时42分]"
+        },
+        {
+          "title": "据伊朗努尔新闻(Nour News)：伊朗省级官员表示，仍在搜寻被击落的美国战斗机失踪机组人员。",
+          "url": "https://flash.jin10.com/detail/20260404055805803800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时43分 ~ 07时42分]"
+        },
+        {
+          "title": "消息人士：美国最新情报称伊朗短期内不太可能开放霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260404055708984800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时43分 ~ 07时42分]"
+        },
+        {
           "title": "美国驻黎巴嫩大使馆表示，伊朗及其盟友武装组织可能正计划以黎巴嫩的大学为目标。",
           "url": "https://flash.jin10.com/detail/20260404001917598800",
           "source": "金十数据",
@@ -269,16 +311,29 @@
           "time_info": "[00时53分 ~ 01时42分]"
         },
         {
+          "title": "三位消息人士称，美国情报部门警告称，伊朗近期不太可能放松对霍尔木兹海峡的控制。",
+          "url": "https://flash.jin10.com/detail/20260404055218337800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时43分 ~ 07时42分]"
+        },
+        {
           "title": "伊朗军队称击落一架美军A-10攻击机",
           "url": "https://flash.jin10.com/detail/20260404033835745800",
           "source": "金十数据",
           "ranks": [
             8,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时48分 ~ 06时43分]"
+          "appearance_count": 4,
+          "time_info": "[04时48分 ~ 07时42分]"
         },
         {
           "title": "伊朗发起“真实承诺-4”行动第93波攻势",
@@ -327,6 +382,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 01时42分]"
+        },
+        {
+          "title": "一艘法籍集装箱船驶出霍尔木兹海峡，或为伊朗战争以来西欧船只首次通过",
+          "url": "https://wallstreetcn.com/articles/3769187",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时43分 ~ 07时42分]"
         },
         {
           "title": "微软总裁：伊朗导弹袭击后，数据中心安全必须变革。",
@@ -401,17 +467,6 @@
           "time_info": "[00时53分 ~ 01时42分]"
         },
         {
-          "title": "一艘法籍集装箱船驶出霍尔木兹海峡，或为伊朗战争以来西欧船只首次通过",
-          "url": "https://wallstreetcn.com/articles/3769187",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
           "title": "据伊朗Press TV援引伊朗官员表示，伊朗可以在霍尔木兹海峡封闭状态下维持多年，并将切断美国的军事后勤支持。",
           "url": "https://flash.jin10.com/detail/20260403233123127800",
           "source": "金十数据",
@@ -437,7 +492,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "对伊开战关键期 特朗普突换陆军“一把手”",
@@ -447,8 +502,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时42分]"
+        },
+        {
+          "title": "特朗普下令征收100％专利药品关税 行业组织批：打击小制药厂",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0368483.html",
+          "source": "联合早报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时42分]"
         },
         {
           "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
@@ -462,39 +528,30 @@
           "time_info": "[00时53分 ~ 03时00分]"
         },
         {
-          "title": "特朗普下令征收100％专利药品关税 行业组织批：打击小制药厂",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0368483.html",
-          "source": "联合早报",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时43分]"
-        },
-        {
-          "title": "特朗普发文吹嘘自己创造了一个强大的经济增长引擎",
-          "url": "https://flash.jin10.com/detail/20260404060440038800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
           "title": "美国总统特朗普最新发文称，保留石油，有人一起吗？",
           "url": "https://flash.jin10.com/detail/20260404032437560800",
           "source": "金十数据",
           "ranks": [
             1,
             18,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时49分 ~ 06时43分]"
+          "appearance_count": 5,
+          "time_info": "[03时49分 ~ 07时42分]"
+        },
+        {
+          "title": "特朗普发文吹嘘自己创造了一个强大的经济增长引擎",
+          "url": "https://flash.jin10.com/detail/20260404060440038800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时43分 ~ 07时42分]"
         },
         {
           "title": "特朗普：美国战机坠毁不会影响与伊朗的谈判",
@@ -502,11 +559,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时48分 ~ 06时43分]"
+          "appearance_count": 4,
+          "time_info": "[04时48分 ~ 07时42分]"
         },
         {
           "title": "据NBC新闻：美国总统特朗普表示，击落美国战机不会影响与伊朗的谈判。",
@@ -514,11 +572,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时48分 ~ 06时43分]"
+          "appearance_count": 4,
+          "time_info": "[04时48分 ~ 07时42分]"
         },
         {
           "title": "伊朗警告敢发动地面战绝不留活口，伊称击中敌先进战机、美否认，特朗普放炸桥视频施压",
@@ -530,6 +589,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时49分 ~ 05时42分]"
+        },
+        {
+          "title": "停火斡旋陷僵局，伊朗拒绝与美方伊斯兰堡会面，周五美或有两架战机坠毁，特朗普称战机被击落不影响谈判",
+          "url": "https://wallstreetcn.com/articles/3769228",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
         },
         {
           "title": "如果特朗普休市突袭！开盘第一单该怎么做？",
