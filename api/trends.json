@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T13:46:21.739047+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-04-03T15:22:54.943897+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
         {
           "title": "外媒称伊朗已向中国寻求安全保障，如果这些保障能够提供，美以伊或能达成停火协议，外交部：中方支持一切有利于和平的努力",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时05分 ~ 13时46分]"
+          "appearance_count": 10,
+          "time_info": "[01时05分 ~ 15时22分]"
         },
         {
           "title": "伊朗：美以对伊朗能力一无所知，将战至敌人投降",
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时05分 ~ 13时46分]"
+          "appearance_count": 10,
+          "time_info": "[01时05分 ~ 15时22分]"
         },
         {
           "title": "霍尔木兹主航道被堵，船只批量绕道伊朗拉腊克岛\"缴费通行\"",
@@ -45,6 +45,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时05分 ~ 13时46分]"
+        },
+        {
+          "title": "伊朗与阿曼正起草协议 拟“监管”霍尔木兹海峡通行",
+          "url": "https://www.cls.cn/detail/2334040",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时17分 ~ 15时22分]"
         },
         {
           "title": "伊拉克亲伊朗武装组织：美军不会有安全避风港",
@@ -93,18 +105,6 @@
           "time_info": "[07时42分 ~ 07时43分]"
         },
         {
-          "title": "伊朗与阿曼正起草协议 拟“监管”霍尔木兹海峡通行",
-          "url": "https://www.cls.cn/detail/2334040",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时17分 ~ 13时46分]"
-        },
-        {
           "title": "伊朗对美国公司发出威胁后，沙特多个商业中心转为远程办公",
           "url": "https://flash.jin10.com/detail/20260403025329776800",
           "source": "金十数据",
@@ -129,6 +129,18 @@
           "time_info": "[05时49分 ~ 07时43分]"
         },
         {
+          "title": "伊朗与阿曼起草协议共管霍尔木兹，阿联酋称愿参与海峡航道安全保障",
+          "url": "https://wallstreetcn.com/articles/3769135",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时17分 ~ 15时22分]"
+        },
+        {
           "title": "伊朗已向中国寻求安全保障？外交部回应",
           "url": "https://www.cls.cn/detail/2333337",
           "source": "财联社热门",
@@ -151,6 +163,17 @@
           "time_info": "03时08分"
         },
         {
+          "title": "消息：美情报评估伊朗约半数导弹发射装置完好无损",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0368457.html",
+          "source": "联合早报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
           "title": "普京强化互联网管控，俄罗斯转向伊朗模式？",
           "url": "https://www.zaochenbao.com/news/politics/202604/0268380.html",
           "source": "联合早报",
@@ -160,18 +183,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时05分 ~ 06时41分]"
-        },
-        {
-          "title": "伊朗与阿曼起草协议共管霍尔木兹，阿联酋称愿参与海峡航道安全保障",
-          "url": "https://wallstreetcn.com/articles/3769135",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时17分 ~ 13时46分]"
         },
         {
           "title": "中国尝试在伊朗战争中扮演和平调解者，这会奏效吗？",
@@ -278,7 +289,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
@@ -305,15 +316,37 @@
           "time_info": "01时05分"
         },
         {
+          "title": "伊朗战争之后，世界从此不一样了",
+          "url": "https://wallstreetcn.com/articles/3769162",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
           "title": "打了一个多月，伊朗一半导弹发射器还在？美情报打脸白宫“胜利宣言”",
           "url": "https://flash.jin10.com/detail/20260403125516885800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
+        },
+        {
+          "title": "傅聪：中国不认同伊朗对海合会国家的攻击",
+          "url": "https://www.zaochenbao.com/news/china/202604/0368450.html",
+          "source": "联合早报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "伊朗：第二架美军F-35战斗机被击落",
@@ -322,7 +355,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
@@ -371,13 +404,24 @@
           "time_info": "11时17分"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗军方通过一次精准打击，彻底摧毁了位于特拉维夫的摩萨德总部。",
+          "url": "https://flash.jin10.com/detail/20260403145005539800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
           "title": "美军沙特基地一“萨德”反导雷达在伊朗袭击中受损",
           "url": "https://flash.jin10.com/detail/20260403123801349800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
@@ -396,7 +440,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
@@ -500,6 +544,17 @@
           "time_info": "01时05分"
         },
         {
+          "title": "特朗普再威胁打击伊朗桥梁发电厂",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0368458.html",
+          "source": "联合早报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
           "title": "特朗普刚说“炸回石器时代”，美军就把伊朗大桥炸了",
           "url": "https://flash.jin10.com/detail/20260403061620774800",
           "source": "金十数据",
@@ -510,6 +565,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时41分 ~ 07时43分]"
+        },
+        {
+          "title": "伊朗回应特朗普所谓已胜利 SpaceX有望冲刺2万亿美元估值 | 环球市场",
+          "url": "https://www.cls.cn/detail/2334086",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时42分 ~ 15时22分]"
         },
         {
           "title": "特朗普称对伊朗战争“即将结束”，未给出明确时间表",
@@ -523,31 +591,6 @@
           "time_info": "[01时05分 ~ 06时41分]"
         },
         {
-          "title": "伊朗回应特朗普所谓已胜利 SpaceX有望冲刺2万亿美元估值 | 环球市场",
-          "url": "https://www.cls.cn/detail/2334086",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时42分 ~ 13时46分]"
-        },
-        {
-          "title": "特朗普为何积极推动美国“重返月球”",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0368435.html",
-          "source": "联合早报",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时17分 ~ 13时46分]"
-        },
-        {
           "title": "敲定100%关税！特朗普“剑指”进口专利药及制药成分",
           "url": "https://www.cls.cn/detail/2334117",
           "source": "财联社热门",
@@ -556,8 +599,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时17分 ~ 13时46分]"
+          "appearance_count": 3,
+          "time_info": "[11时17分 ~ 15时22分]"
         },
         {
           "title": "评论：特朗普真的实现了伊朗“政权更迭”吗？",
@@ -565,7 +608,20 @@
           "source": "联合早报",
           "ranks": [
             11,
-            16
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时17分 ~ 15时22分]"
+        },
+        {
+          "title": "特朗普为何积极推动美国“重返月球”",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0368435.html",
+          "source": "联合早报",
+          "ranks": [
+            10,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -604,6 +660,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
+        },
+        {
+          "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
+          "url": "https://www.cls.cn/detail/2334381",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "美国总统特朗普：伊朗到了该达成协议的时候了，以免为时已晚。",
@@ -676,8 +743,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时41分 ~ 13时46分]"
+          "appearance_count": 6,
+          "time_info": "[06时41分 ~ 15时22分]"
         },
         {
           "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
@@ -861,6 +928,34 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌现已支持在Google Vids中通过指令操控虚拟形象",
+          "url": "https://www.36kr.com/newsflashes/3750292847166209",
+          "source": "36氪",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时42分 ~ 07时43分]"
+        },
+        {
+          "title": "谷歌更新Gemini API定价，按推理使用分档计费",
+          "url": "https://www.36kr.com/newsflashes/3750718674436608",
+          "source": "36氪",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -898,28 +993,12 @@
           "source": "联合早报",
           "ranks": [
             1,
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时17分 ~ 13时46分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌现已支持在Google Vids中通过指令操控虚拟形象",
-          "url": "https://www.36kr.com/newsflashes/3750292847166209",
-          "source": "36氪",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时42分 ~ 07时43分]"
+          "appearance_count": 3,
+          "time_info": "[11时17分 ~ 15时22分]"
         }
       ]
     },
