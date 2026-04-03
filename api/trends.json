@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T22:54:40.123569+08:00",
-  "total_titles_processed": 802,
+  "generated_at": "2026-04-03T23:48:16.981227+08:00",
+  "total_titles_processed": 836,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 73,
+      "match_count": 76,
       "titles": [
         {
           "title": "外媒称伊朗已向中国寻求安全保障，如果这些保障能够提供，美以伊或能达成停火协议，外交部：中方支持一切有利于和平的努力",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时17分 ~ 22时54分]"
+          "appearance_count": 11,
+          "time_info": "[11时17分 ~ 23时48分]"
         },
         {
           "title": "伊朗：美以对伊朗能力一无所知，将战至敌人投降",
@@ -56,8 +56,49 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时05分 ~ 23时48分]"
+        },
+        {
+          "title": "伊朗警告将摧毁美以在中东所有资产",
+          "url": "https://www.cls.cn/detail/2334807",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[17时05分 ~ 22时54分]"
+          "time_info": "[18时53分 ~ 23时48分]"
+        },
+        {
+          "title": "伊朗开始在霍尔木兹海峡“收费护航”，据“友好程度”分五档",
+          "url": "https://wallstreetcn.com/articles/3769193",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时53分 ~ 23时48分]"
+        },
+        {
+          "title": "伊朗战争之后，世界从此不一样了",
+          "url": "https://wallstreetcn.com/articles/3769162",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时22分 ~ 23时48分]"
         },
         {
           "title": "霍尔木兹主航道被堵，船只批量绕道伊朗拉腊克岛\"缴费通行\"",
@@ -73,17 +114,20 @@
           "time_info": "[01时05分 ~ 13时46分]"
         },
         {
-          "title": "伊朗警告将摧毁美以在中东所有资产",
-          "url": "https://www.cls.cn/detail/2334807",
-          "source": "财联社热门",
+          "title": "伊朗：击落又一架美军F-35战机",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0368463.html",
+          "source": "联合早报",
           "ranks": [
-            7,
-            5,
-            4
+            1,
+            8,
+            18,
+            24,
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时53分 ~ 22时54分]"
+          "appearance_count": 8,
+          "time_info": "[17时05分 ~ 23时48分]"
         },
         {
           "title": "伊朗与阿曼正起草协议 拟“监管”霍尔木兹海峡通行",
@@ -97,49 +141,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时17分 ~ 17时05分]"
-        },
-        {
-          "title": "伊朗开始在霍尔木兹海峡“收费护航”，据“友好程度”分五档",
-          "url": "https://wallstreetcn.com/articles/3769193",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时53分 ~ 22时54分]"
-        },
-        {
-          "title": "伊朗战争之后，世界从此不一样了",
-          "url": "https://wallstreetcn.com/articles/3769162",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时22分 ~ 22时54分]"
-        },
-        {
-          "title": "伊朗：击落又一架美军F-35战机",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0368463.html",
-          "source": "联合早报",
-          "ranks": [
-            1,
-            8,
-            18,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时05分 ~ 22时54分]"
         },
         {
           "title": "消息：美情报评估伊朗约半数导弹发射装置完好无损",
@@ -178,18 +179,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时05分 ~ 07时43分]"
-        },
-        {
-          "title": "伊朗发动第92波攻势 袭击美军基地",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0368488.html",
-          "source": "联合早报",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时22分 ~ 22时54分]"
         },
         {
           "title": "梵蒂冈声明，教皇利奥敦促以色列总统赫尔佐格“重新开启所有对话渠道”，以结束伊朗战争。",
@@ -236,16 +225,17 @@
           "time_info": "[18时53分 ~ 18时54分]"
         },
         {
-          "title": "伊朗外交官：美以不掌握伊朗核设施准确情报",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0368486.html",
+          "title": "伊朗发动第92波攻势 袭击美军基地",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0368488.html",
           "source": "联合早报",
           "ranks": [
+            1,
             3,
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时22分 ~ 22时54分]"
+          "appearance_count": 3,
+          "time_info": "[21时22分 ~ 23时48分]"
         },
         {
           "title": "伊朗革命卫队：以色列对科威特海水淡化设施的非常规和非法攻击，显示了以色列占领者的堕落和恶行。",
@@ -279,6 +269,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时53分 ~ 18时54分]"
+        },
+        {
+          "title": "伊朗外交官：美以不掌握伊朗核设施准确情报",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0368486.html",
+          "source": "联合早报",
+          "ranks": [
+            3,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时22分 ~ 23时48分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们与美国朋友一起，将继续打击伊朗的恐怖政权。我们正在消灭指挥官，轰炸桥梁，轰炸基础设施。",
@@ -325,6 +328,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时49分 ~ 07时43分]"
+        },
+        {
+          "title": "据伊朗Press TV援引伊朗官员表示，伊朗可以在霍尔木兹海峡封闭状态下维持多年，并将切断美国的军事后勤支持。",
+          "url": "https://flash.jin10.com/detail/20260403233123127800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         },
         {
           "title": "伊朗已向中国寻求安全保障？外交部回应",
@@ -553,7 +567,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -569,6 +583,17 @@
           "time_info": "01时05分"
         },
         {
+          "title": "伊朗议长讽刺美国 从“政权更迭”到“找飞行员”",
+          "url": "https://flash.jin10.com/detail/20260403232836508800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
           "title": "打了一个多月，伊朗一半导弹发射器还在？美情报打脸白宫“胜利宣言”",
           "url": "https://flash.jin10.com/detail/20260403125516885800",
           "source": "金十数据",
@@ -578,6 +603,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
+        },
+        {
+          "title": "阿拉伯消息人士：在埃尔比勒的库伊桑贾格地区，反伊朗的库尔德恐怖组织总部在短短3分钟内遭到3次重击。",
+          "url": "https://flash.jin10.com/detail/20260403232600876800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         },
         {
           "title": "伊朗哈塔姆·安比亚中央司令部：任何对桥梁、电厂或能源基础设施的攻击都将引发伊朗报复",
@@ -597,7 +633,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -619,7 +655,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -674,7 +710,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -685,7 +721,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -762,7 +798,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -795,7 +831,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -806,7 +842,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -817,7 +853,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -839,7 +875,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -850,7 +886,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         }
@@ -858,7 +894,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
@@ -894,18 +930,6 @@
           "time_info": "[01时05分 ~ 07时43分]"
         },
         {
-          "title": "特朗普能单方面让美国退出北约吗？分析：须国会批准",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0268407.html",
-          "source": "联合早报",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 07时43分]"
-        },
-        {
           "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
           "url": "https://www.cls.cn/detail/2334381",
           "source": "财联社热门",
@@ -916,8 +940,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时22分 ~ 22时54分]"
+          "appearance_count": 9,
+          "time_info": "[15时22分 ~ 23时48分]"
+        },
+        {
+          "title": "特朗普能单方面让美国退出北约吗？分析：须国会批准",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0268407.html",
+          "source": "联合早报",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 07时43分]"
         },
         {
           "title": "特朗普再威胁打击伊朗桥梁发电厂",
@@ -957,18 +993,6 @@
           "time_info": "[01时05分 ~ 07时43分]"
         },
         {
-          "title": "对伊开战关键期 特朗普突换陆军“一把手”",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0368487.html",
-          "source": "联合早报",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时22分 ~ 22时54分]"
-        },
-        {
           "title": "美国白宫：特朗普2027财年的预算寻求1.5万亿美元国防支出。",
           "url": "https://flash.jin10.com/detail/20260403194055485800",
           "source": "金十数据",
@@ -989,6 +1013,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时42分 ~ 07时43分]"
+        },
+        {
+          "title": "对伊开战关键期 特朗普突换陆军“一把手”",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0368487.html",
+          "source": "联合早报",
+          "ranks": [
+            2,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时22分 ~ 23时48分]"
         },
         {
           "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
@@ -1045,7 +1082,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -1104,11 +1141,12 @@
           "source": "联合早报",
           "ranks": [
             6,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时22分 ~ 22时54分]"
+          "appearance_count": 3,
+          "time_info": "[21时22分 ~ 23时48分]"
         },
         {
           "title": "伊朗外交部发言人巴加埃：（回应特朗普要“让伊朗人回到石器时代”的威胁）伊朗人一直是绿意和柏树的守护者。今天，每位伊朗人都在深厚文化智慧的指引下，怀着目的和意义种下一棵树。爱的国度种下了一棵生命的幼苗——它将茁壮成长，枝繁叶茂，延展到明天。",
@@ -1163,9 +1201,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
+        },
+        {
+          "title": "如果特朗普休市突袭！开盘第一单该怎么做？",
+          "url": "https://flash.jin10.com/detail/20260403233021951800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         },
         {
           "title": "美国总统特朗普预算案提议开始对运输安全管理局进行私有化。",
@@ -1174,9 +1223,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
+        },
+        {
+          "title": "北约方面表示，北约秘书长将于4月8日至12日访美，会见美国总统特朗普、国务卿鲁比奥和国防部长赫格塞思。",
+          "url": "https://flash.jin10.com/detail/20260403232929062800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         },
         {
           "title": "特朗普2027年预算拟为环保署提供42亿美元的自由预算授权，比2026年减少46亿美元，降幅达52%。",
@@ -1185,7 +1245,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -1229,7 +1289,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -1251,9 +1311,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
+        },
+        {
+          "title": "据CNN援引白宫新闻秘书莱维特表示，美国总统特朗普已获知伊朗击落一架无人机的事件。",
+          "url": "https://flash.jin10.com/detail/20260403231509128800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         },
         {
           "title": "特朗普认为伊朗战争结束后 抵押贷款利率将会下降",
@@ -1273,7 +1344,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -1311,6 +1382,28 @@
           "time_info": "21时22分"
         },
         {
+          "title": "“再给点时间”！特朗普疯狂叫嚣，扬言要夺石油发大财",
+          "url": "https://flash.jin10.com/detail/20260403224906129800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
+          "title": "特朗普预算案预计在2027年将获得4640亿美元的关税收入。（外媒更正：非2027财年）",
+          "url": "https://flash.jin10.com/detail/20260403224401371800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
           "title": "美国总统特朗普的预算案提议终止对国家民主基金会 3.15亿美元的资助。",
           "url": "https://flash.jin10.com/detail/20260403204913621800",
           "source": "金十数据",
@@ -1331,6 +1424,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
+        },
+        {
+          "title": "特朗普的预算案预计2027财年CPI将上涨2.3%。",
+          "url": "https://flash.jin10.com/detail/20260403223912210800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         }
       ]
     },
@@ -1565,7 +1669,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         }
