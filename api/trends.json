@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T03:00:09.977235+08:00",
-  "total_titles_processed": 147,
+  "generated_at": "2026-04-04T03:49:46.559255+08:00",
+  "total_titles_processed": 152,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "伊朗开始在霍尔木兹海峡“收费护航”，据“友好程度”分五档",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 03时00分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 03时49分]"
         },
         {
           "title": "外交部回应伊朗桥梁遭袭：中方反对袭击民用设施 有关方应立即停火",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 03时00分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 03时49分]"
         },
         {
           "title": "伊朗警告将摧毁美以在中东所有资产",
@@ -37,42 +37,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 03时00分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 03时49分]"
         },
         {
           "title": "美方曾提议停火48小时 伊朗以战场行动作出“回应”",
           "url": "https://flash.jin10.com/detail/20260404025442248800",
           "source": "金十数据",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时00分]"
-        },
-        {
-          "title": "据纽约时报：美国官员称，周五第二架美国战斗机（一架A-10攻击机）在霍尔木兹海峡附近坠毁，机上唯一的飞行员已安全获救。大约在同一时间，一架F-15战斗机在伊朗上空被击落。",
-          "url": "https://flash.jin10.com/detail/20260404024259860800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时00分]"
-        },
-        {
-          "title": "据华尔街日报：伊朗官员表示，其不愿在未来几天内于伊斯兰堡与美国官员会面，且美方提出的要求不可接受。",
-          "url": "https://flash.jin10.com/detail/20260404011501739800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            22
+            1,
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时42分 ~ 03时00分]"
+          "time_info": "[02时59分 ~ 03时49分]"
+        },
+        {
+          "title": "据伊朗国家媒体称，伊朗在霍尔木兹海峡附近南部海域击中了一架A-10战机。",
+          "url": "https://flash.jin10.com/detail/20260404031511491800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时49分"
         },
         {
           "title": "伊朗战争之后，世界从此不一样了",
@@ -82,8 +71,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 03时00分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 03时49分]"
         },
         {
           "title": "伊朗发动第92波攻势 袭击美军基地",
@@ -93,8 +82,21 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 03时49分]"
+        },
+        {
+          "title": "据华尔街日报：伊朗官员表示，其不愿在未来几天内于伊斯兰堡与美国官员会面，且美方提出的要求不可接受。",
+          "url": "https://flash.jin10.com/detail/20260404011501739800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            22,
+            25
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时53分 ~ 03时00分]"
+          "time_info": "[01时42分 ~ 03时49分]"
         },
         {
           "title": "伊朗外交官：美以不掌握伊朗核设施准确情报",
@@ -104,8 +106,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 03时00分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 03时49分]"
+        },
+        {
+          "title": "据纽约时报：美国官员称，周五第二架美国战斗机（一架A-10攻击机）在霍尔木兹海峡附近坠毁，机上唯一的飞行员已安全获救。大约在同一时间，一架F-15战斗机在伊朗上空被击落。",
+          "url": "https://flash.jin10.com/detail/20260404024259860800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时59分 ~ 03时49分]"
+        },
+        {
+          "title": "伊朗：击落又一架美军F-35战机",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0368463.html",
+          "source": "联合早报",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 03时49分]"
         },
         {
           "title": "美国驻黎巴嫩大使馆表示，伊朗及其盟友武装组织可能正计划以黎巴嫩的大学为目标。",
@@ -132,15 +157,40 @@
           "time_info": "[00时53分 ~ 01时42分]"
         },
         {
-          "title": "伊朗：击落又一架美军F-35战机",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0368463.html",
-          "source": "联合早报",
+          "title": "美伊停火斡旋陷僵局 伊朗不愿会面 卡塔尔拒绝充当调解方",
+          "url": "https://flash.jin10.com/detail/20260404023244929800",
+          "source": "金十数据",
           "ranks": [
-            26
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 03时00分]"
+          "appearance_count": 3,
+          "time_info": "[02时59分 ~ 03时49分]"
+        },
+        {
+          "title": "据伊朗媒体Fars News：消息人士称，伊朗已拒绝美国提出的为期48小时的停火提议。",
+          "url": "https://flash.jin10.com/detail/20260404022308962800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时59分 ~ 03时49分]"
+        },
+        {
+          "title": "世卫组织总干事谭德塞：呼吁紧急支援受中东冲突影响的五个国家——黎巴嫩、伊朗、伊拉克、叙利亚和约旦的卫生系统。",
+          "url": "https://flash.jin10.com/detail/20260404022028488800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时59分 ~ 03时49分]"
         },
         {
           "title": "伊朗发起“真实承诺-4”行动第93波攻势",
@@ -155,15 +205,16 @@
           "time_info": "[01时42分 ~ 03时00分]"
         },
         {
-          "title": "美伊停火斡旋陷僵局 伊朗不愿会面 卡塔尔拒绝充当调解方",
-          "url": "https://flash.jin10.com/detail/20260404023244929800",
+          "title": "美军黑鹰直升机疑似被伊朗击中",
+          "url": "https://flash.jin10.com/detail/20260404014943186800",
           "source": "金十数据",
           "ranks": [
-            6
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时00分]"
+          "appearance_count": 3,
+          "time_info": "[02时59分 ~ 03时49分]"
         },
         {
           "title": "据伊朗努尔新闻(Nour News)：伊朗称空袭击中以色列大不里士一处休闲区。",
@@ -176,28 +227,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 01时42分]"
-        },
-        {
-          "title": "据伊朗媒体Fars News：消息人士称，伊朗已拒绝美国提出的为期48小时的停火提议。",
-          "url": "https://flash.jin10.com/detail/20260404022308962800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时00分]"
-        },
-        {
-          "title": "世卫组织总干事谭德塞：呼吁紧急支援受中东冲突影响的五个国家——黎巴嫩、伊朗、伊拉克、叙利亚和约旦的卫生系统。",
-          "url": "https://flash.jin10.com/detail/20260404022028488800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时00分]"
         },
         {
           "title": "因伊朗战争，意大利央行将2026年GDP增速预期从0.6%下调至0.5%。",
@@ -260,17 +289,6 @@
           "time_info": "[00时53分 ~ 01时42分]"
         },
         {
-          "title": "美军黑鹰直升机疑似被伊朗击中",
-          "url": "https://flash.jin10.com/detail/20260404014943186800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时00分]"
-        },
-        {
           "title": "伊朗方面报道称，一架美国F-16战斗机在沙特阿拉伯上空宣告紧急状态。",
           "url": "https://flash.jin10.com/detail/20260403234851597800",
           "source": "金十数据",
@@ -320,7 +338,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
@@ -334,6 +352,17 @@
           "time_info": "[00时53分 ~ 03时00分]"
         },
         {
+          "title": "美国总统特朗普最新发文称，保留石油，有人一起吗？",
+          "url": "https://flash.jin10.com/detail/20260404032437560800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时49分"
+        },
+        {
           "title": "对伊开战关键期 特朗普突换陆军“一把手”",
           "url": "https://www.zaochenbao.com/news/politics/202604/0368487.html",
           "source": "联合早报",
@@ -341,8 +370,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 03时00分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 03时49分]"
         },
         {
           "title": "特朗普下令征收100％专利药品关税 行业组织批：打击小制药厂",
@@ -352,8 +381,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 03时00分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 03时49分]"
+        },
+        {
+          "title": "伊朗警告敢发动地面战绝不留活口，伊称击中敌先进战机、美否认，特朗普放炸桥视频施压",
+          "url": "https://wallstreetcn.com/articles/3769139",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时49分"
         },
         {
           "title": "如果特朗普休市突袭！开盘第一单该怎么做？",
