@@ -1,22 +1,35 @@
 {
-  "generated_at": "2026-04-04T07:43:00.014247+08:00",
-  "total_titles_processed": 184,
+  "generated_at": "2026-04-04T10:50:41.266812+08:00",
+  "total_titles_processed": 250,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 40,
+      "match_count": 56,
       "titles": [
         {
           "title": "伊朗开始在霍尔木兹海峡“收费护航”，据“友好程度”分五档",
           "url": "https://wallstreetcn.com/articles/3769193",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 07时42分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 10时50分]"
+        },
+        {
+          "title": "伊朗警告将摧毁美以在中东所有资产",
+          "url": "https://www.cls.cn/detail/2334807",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 10时50分]"
         },
         {
           "title": "外交部回应伊朗桥梁遭袭：中方反对袭击民用设施 有关方应立即停火",
@@ -31,28 +44,17 @@
           "time_info": "[00时53分 ~ 07时42分]"
         },
         {
-          "title": "伊朗警告将摧毁美以在中东所有资产",
-          "url": "https://www.cls.cn/detail/2334807",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 07时42分]"
-        },
-        {
           "title": "伊朗战争之后，世界从此不一样了",
           "url": "https://wallstreetcn.com/articles/3769162",
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 07时42分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 10时50分]"
         },
         {
           "title": "伊朗发动第92波攻势 袭击美军基地",
@@ -135,7 +137,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -146,9 +148,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "停火斡旋陷僵局：伊朗拒绝与美方伊斯兰堡会面，卡塔尔退出调解",
+          "url": "https://wallstreetcn.com/articles/3769228",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "365名美军人员在伊朗军事行动中受伤",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0468517.html",
+          "source": "联合早报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         },
         {
           "title": "以色列称监测到伊朗发射的导弹 南部多地响起防空警报",
@@ -157,9 +181,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "伊朗战争推高能源成本，越南经济增长承压",
+          "url": "https://flash.jin10.com/detail/20260404100138437800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "消息：美情报指伊朗恐不会放弃对霍尔木兹海峡控制",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0468516.html",
+          "source": "联合早报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         },
         {
           "title": "伊朗驳斥“防空系统已被摧毁”的说法 公布最新战果",
@@ -207,9 +253,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "据伊朗媒体：伊朗中部的伊斯法罕听到了爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260404094016663800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         },
         {
           "title": "美伊停火斡旋陷僵局 伊朗不愿会面 卡塔尔拒绝充当调解方",
@@ -336,6 +393,18 @@
           "time_info": "[04时48分 ~ 07时42分]"
         },
         {
+          "title": "一艘法籍集装箱船驶出霍尔木兹海峡，或为伊朗战争以来西欧船只首次通过",
+          "url": "https://wallstreetcn.com/articles/3769187",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时43分 ~ 10时50分]"
+        },
+        {
           "title": "伊朗发起“真实承诺-4”行动第93波攻势",
           "url": "https://flash.jin10.com/detail/20260404003930767800",
           "source": "金十数据",
@@ -382,17 +451,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 01时42分]"
-        },
-        {
-          "title": "一艘法籍集装箱船驶出霍尔木兹海峡，或为伊朗战争以来西欧船只首次通过",
-          "url": "https://wallstreetcn.com/articles/3769187",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时43分 ~ 07时42分]"
         },
         {
           "title": "微软总裁：伊朗导弹袭击后，数据中心安全必须变革。",
@@ -467,6 +525,83 @@
           "time_info": "[00时53分 ~ 01时42分]"
         },
         {
+          "title": "伊朗驳斥“防空系统已被摧毁”的说法 公布最新战果",
+          "url": "https://www.cls.cn/detail/2335226",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "伊朗媒体：美国提议停火48小时 伊朗以猛攻回应",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0468504.html",
+          "source": "联合早报",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "两架美国战机坠毁一飞行员失踪 伊朗展开搜捕",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0468503.html",
+          "source": "联合早报",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "中东最高桥梁遭炸毁后 伊朗首次境内击落美战机誓捉飞行员",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0468502.html",
+          "source": "联合早报",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "伊朗赌局“翻车” 美国提前收兵以色列难单打独斗恐自困陷阱",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0468501.html",
+          "source": "联合早报",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "美国防部：365名美军人员在对伊朗军事行动中受伤",
+          "url": "https://flash.jin10.com/detail/20260404083528794800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "国际法专家：美国打伊朗或构成战争罪",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0468497.html",
+          "source": "联合早报",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
           "title": "据伊朗Press TV援引伊朗官员表示，伊朗可以在霍尔木兹海峡封闭状态下维持多年，并将切断美国的军事后勤支持。",
           "url": "https://flash.jin10.com/detail/20260403233123127800",
           "source": "金十数据",
@@ -478,6 +613,39 @@
           "time_info": "00时53分"
         },
         {
+          "title": "美国官员：伊朗袭击美驻沙特使馆造成的破坏远超披露程度",
+          "url": "https://flash.jin10.com/detail/20260404081925220800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "据华尔街日报：美国与伊朗官员均表示，上月伊朗对美国驻沙特大使馆发动的无人机袭击造成的破坏程度比此前所披露的更为严重。",
+          "url": "https://flash.jin10.com/detail/20260404081423149800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队任命穆哈比为发言人",
+          "url": "https://flash.jin10.com/detail/20260404080456848800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
           "title": "伊朗议长讽刺美国 从“政权更迭”到“找飞行员”",
           "url": "https://flash.jin10.com/detail/20260403232836508800",
           "source": "金十数据",
@@ -487,12 +655,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "市场消息：伊朗导弹袭击后，以色列特拉维夫多处地点发生火灾。",
+          "url": "https://flash.jin10.com/detail/20260404072408016800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "对伊开战关键期 特朗普突换陆军“一把手”",
@@ -597,9 +776,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "许耀楠：特朗普掀开“价值同盟”的遮羞布",
+          "url": "https://www.zaochenbao.com/news/opinion/202604/0468508.html",
+          "source": "联合早报",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "何越：北约被特朗普推着转型的困境",
+          "url": "https://www.zaochenbao.com/news/opinion/202604/0468507.html",
+          "source": "联合早报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         },
         {
           "title": "如果特朗普休市突袭！开盘第一单该怎么做？",
@@ -622,6 +823,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中金：黄金投资需求和价格或均存向上修复空间",
+          "url": "https://www.36kr.com/newsflashes/3751806625628929",
+          "source": "36氪",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "中金：黄金投资需求和价格或均存向上修复空间",
+          "url": "https://flash.jin10.com/detail/20260404084059092800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         }
       ]
     }
