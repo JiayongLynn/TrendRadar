@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-05T15:19:36.589977+08:00",
-  "total_titles_processed": 295,
+  "generated_at": "2026-04-05T16:56:03.823640+08:00",
+  "total_titles_processed": 340,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 77,
+      "match_count": 85,
       "titles": [
         {
           "title": "可能是伊朗战争迄今最全的一份“美国决策细节”披露",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时47分 ~ 15时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时47分 ~ 16时56分]"
         },
         {
           "title": "停火斡旋陷僵局：伊朗拒绝与美方伊斯兰堡会面，卡塔尔退出调解",
@@ -67,8 +67,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时47分 ~ 15时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时47分 ~ 16时56分]"
         },
         {
           "title": "美以空袭伊朗石化枢纽！美国驻沙特大使馆遭袭，伊朗谴责：是以色列干的；伊方警告中东诸国：“不想挨打，就让美军撤出”",
@@ -81,8 +81,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时47分 ~ 15时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时47分 ~ 16时56分]"
         },
         {
           "title": "伊朗总统：让国际社会评判 谁是谈判者谁是恐怖分子",
@@ -93,11 +93,12 @@
             5,
             6,
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时47分 ~ 15时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时47分 ~ 16时56分]"
         },
         {
           "title": "伊朗媒体：哈尔克岛石油出口量仍持续增长",
@@ -120,6 +121,33 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时47分 ~ 07时40分]"
+        },
+        {
+          "title": "美以“四次”轰炸“伊朗境内唯一运转核电站”！俄罗斯“紧急撤离198人”，伊朗外长：若发生核泄漏，周边国家将遭殃",
+          "url": "https://wallstreetcn.com/articles/3769269",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时27分 ~ 16时56分]"
+        },
+        {
+          "title": "消息：美军大规模调动增程导弹应对伊朗战事",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0568583.html",
+          "source": "联合早报",
+          "ranks": [
+            3,
+            4,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时27分 ~ 16时56分]"
         },
         {
           "title": "据伊朗官方媒体Press TV：如果美国入侵伊朗岛屿，美国将会遭受巨大的伤亡。美国的入侵很可能以彻底的灾难和彻底的耻辱告终。美国正被揭开面具，实质是一只“纸老虎”，只会空口许诺，却什么也兑现不了。",
@@ -188,6 +216,19 @@
           "time_info": "[00时47分 ~ 06时40分]"
         },
         {
+          "title": "伊朗战火未平，海格塞斯突然清洗陆军高层，疑惧“被夺权”先下手为强",
+          "url": "https://wallstreetcn.com/articles/3769259",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时27分 ~ 16时56分]"
+        },
+        {
           "title": "市场消息：伊朗外长与巴基斯坦、埃及外长举行会谈。",
           "url": "https://flash.jin10.com/detail/20260405034332465800",
           "source": "金十数据",
@@ -200,6 +241,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时43分 ~ 07时40分]"
+        },
+        {
+          "title": "科威特指伊朗无人机袭击政府大楼 石油公司总部亦遭殃",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0568581.html",
+          "source": "联合早报",
+          "ranks": [
+            5,
+            6,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时27分 ~ 16时56分]"
         },
         {
           "title": "伊朗回应：若局势升级，整个中东地区将是美以的地狱",
@@ -231,19 +286,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时56分 ~ 07时40分]"
-        },
-        {
-          "title": "消息：美军大规模调动增程导弹应对伊朗战事",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0568583.html",
-          "source": "联合早报",
-          "ranks": [
-            3,
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 15时19分]"
         },
         {
           "title": "据路透：一名以色列高级国防官员表示，以色列正筹备袭击伊朗能源设施，目前正等待美国的批准。",
@@ -291,28 +333,26 @@
           "time_info": "[04时43分 ~ 07时40分]"
         },
         {
-          "title": "美以“四次”轰炸“伊朗境内唯一运转核电站”！俄罗斯“紧急撤离198人”，伊朗外长：若发生核泄漏，周边国家将遭殃",
-          "url": "https://wallstreetcn.com/articles/3769269",
-          "source": "华尔街见闻",
+          "title": "伊朗议长发布疑似美军飞机残骸图片",
+          "url": "https://flash.jin10.com/detail/20260405162615625800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 15时19分]"
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 16时56分]"
         },
         {
-          "title": "伊朗战火未平，海格塞斯突然清洗陆军高层，疑惧“被夺权”先下手为强",
-          "url": "https://wallstreetcn.com/articles/3769259",
-          "source": "华尔街见闻",
+          "title": "伊朗称摧毁美国“飞行物” 包括军用运输机和黑鹰直升机",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0568599.html",
+          "source": "联合早报",
           "ranks": [
-            5,
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 15时19分]"
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 16时56分]"
         },
         {
           "title": "也门胡塞武装称与伊朗及黎真主党共同打击以境内目标",
@@ -327,17 +367,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时43分 ~ 07时40分]"
-        },
-        {
-          "title": "以军将领承认低估真主党实力 认为伊朗政权依然稳固",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0568597.html",
-          "source": "联合早报",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
         },
         {
           "title": "据安全部门消息人士透露，四架无人机袭击了伊拉克南部靠近伊朗边境的巴祖尔甘（Bazurgan）油田，并损坏了一处储油设施。",
@@ -355,39 +384,28 @@
           "time_info": "[03时38分 ~ 07时40分]"
         },
         {
+          "title": "以军将领承认低估真主党实力 认为伊朗政权依然稳固",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0568597.html",
+          "source": "联合早报",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 16时56分]"
+        },
+        {
           "title": "伊朗外长就美以袭击伊核设施致信联合国",
           "url": "https://flash.jin10.com/detail/20260405144512624800",
           "source": "金十数据",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "伊朗外交部长：（向巴基斯坦外长表示）伊朗感谢巴基斯坦的帮助，决心动用一切能力捍卫自身安全。",
-          "url": "https://flash.jin10.com/detail/20260405143757308800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "科威特指伊朗无人机袭击政府大楼 石油公司总部亦遭殃",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0568581.html",
-          "source": "联合早报",
-          "ranks": [
-            5,
-            6,
-            17
+            2,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 15时19分]"
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 16时56分]"
         },
         {
           "title": "国际能源署警告：伊朗战争期间各国不得囤积燃料",
@@ -402,13 +420,25 @@
           "time_info": "[11时27分 ~ 13时49分]"
         },
         {
+          "title": "伊朗外交部长：（向巴基斯坦外长表示）伊朗感谢巴基斯坦的帮助，决心动用一切能力捍卫自身安全。",
+          "url": "https://flash.jin10.com/detail/20260405143757308800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 16时56分]"
+        },
+        {
           "title": "伊朗称多部门行动击中救援美军机",
           "url": "https://flash.jin10.com/detail/20260405142832090800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -568,6 +598,18 @@
           "time_info": "[02时56分 ~ 05时40分]"
         },
         {
+          "title": "伊朗军方：伊拉克可通行霍尔木兹海峡",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0568592.html",
+          "source": "联合早报",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 16时56分]"
+        },
+        {
           "title": "美国共和党参议员格雷厄姆：若伊朗做出错误选择，事态将升级",
           "url": "https://flash.jin10.com/detail/20260405002705931800",
           "source": "金十数据",
@@ -668,6 +710,17 @@
           "time_info": "[11时27分 ~ 13时49分]"
         },
         {
+          "title": "伊朗：美军营救“任务失败”！美媒：获救飞行员已被送往科威特，在山区躲避搜索超24小时，随身武器仅一把手枪，当地海拔最高4400米",
+          "url": "https://wallstreetcn.com/articles/3769290",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 16时56分]"
+        },
+        {
           "title": "应美国政府要求 “星球实验室”无限期暂停发布伊朗战事卫星影像",
           "url": "https://flash.jin10.com/detail/20260405124234445800",
           "source": "金十数据",
@@ -689,6 +742,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时27分 ~ 11时28分]"
+        },
+        {
+          "title": "科威特称两座发电和海水淡化厂遭伊朗无人机袭击",
+          "url": "https://wallstreetcn.com/articles/3769275",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 16时56分]"
         },
         {
           "title": "两架美国“黑鹰”被伊朗山民击中",
@@ -715,6 +779,17 @@
           "time_info": "[13时49分 ~ 15时19分]"
         },
         {
+          "title": "巴林海湾石化工业公司称伊朗无人机袭击后装置起火已得到控制",
+          "url": "https://flash.jin10.com/detail/20260405155704548800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 16时56分]"
+        },
+        {
           "title": "伊朗说又击落一架MQ-9无人机",
           "url": "https://flash.jin10.com/detail/20260405101631837800",
           "source": "金十数据",
@@ -724,6 +799,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时27分 ~ 11时28分]"
+        },
+        {
+          "title": "伊朗外长与巴基斯坦外长通话 就地区形势交换意见",
+          "url": "https://flash.jin10.com/detail/20260405154047113800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 16时56分]"
         },
         {
           "title": "媒体：美国与伊朗的谈判已陷入僵局",
@@ -748,6 +834,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时47分 ~ 01时40分]"
+        },
+        {
+          "title": "据巴林国家通讯社：巴林海湾石化工业公司表示，伊朗无人机袭击后，其生产装置发生火灾，暂无人员伤亡报告。",
+          "url": "https://flash.jin10.com/detail/20260405153903410800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 16时56分]"
         },
         {
           "title": "科威特称两座发电和海水淡化厂遭伊朗无人机袭击",
@@ -807,6 +904,17 @@
           "time_info": "[11时27分 ~ 11时28分]"
         },
         {
+          "title": "以军称伊朗向以北部发动导弹袭击",
+          "url": "https://flash.jin10.com/detail/20260405152613045800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 16时56分]"
+        },
+        {
           "title": "泰国渔业因伊朗战争推高燃油成本而陷入困境",
           "url": "https://flash.jin10.com/detail/20260405090013833800",
           "source": "金十数据",
@@ -846,18 +954,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "伊朗军方：伊拉克可通行霍尔木兹海峡",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0568592.html",
-          "source": "联合早报",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -868,7 +965,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -879,7 +976,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -890,7 +987,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -901,7 +998,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -912,7 +1009,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -991,6 +1088,18 @@
           "time_info": "[05时40分 ~ 07时40分]"
         },
         {
+          "title": "特朗普警告伊朗：还剩“48小时”，伊朗军方回应“让侵略者付出代价”，战争升级至海湾“基础设施”？",
+          "url": "https://wallstreetcn.com/articles/3769270",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时27分 ~ 16时56分]"
+        },
+        {
           "title": "美国总统特朗普在社交平台上发布了三张图片，内容分别是：特朗普担任美国总统的支持率高达96%，94%的受访人员认为特朗普是他们一生中遇到的最好的总统，以及万斯担任美国副总统的支持率为92%。",
           "url": "https://flash.jin10.com/detail/20260405040644929800",
           "source": "金十数据",
@@ -1018,6 +1127,32 @@
           "time_info": "[05时40分 ~ 07时40分]"
         },
         {
+          "title": "自周三以来“未公开露面”！特朗普“一反常态”低调，周末“不停工作”连海湖庄园都不去了",
+          "url": "https://wallstreetcn.com/articles/3769276",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时49分 ~ 16时56分]"
+        },
+        {
+          "title": "特朗普称对德黑兰大规模空袭 多名伊朗军方领导人丧生",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0568582.html",
+          "source": "联合早报",
+          "ranks": [
+            4,
+            5,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时27分 ~ 16时56分]"
+        },
+        {
           "title": "特朗普就其移民政策发表最新讲话",
           "url": "https://flash.jin10.com/detail/20260405030425436800",
           "source": "金十数据",
@@ -1033,51 +1168,29 @@
           "time_info": "[03时38分 ~ 07时40分]"
         },
         {
-          "title": "特朗普称对德黑兰大规模空袭 多名伊朗军方领导人丧生",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0568582.html",
-          "source": "联合早报",
+          "title": "【早报】中国驻以使馆提醒：远离民用基础设施；特朗普再次警告伊朗",
+          "url": "https://www.cls.cn/detail/2335441",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            5,
-            16
+            10,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 15时19分]"
-        },
-        {
-          "title": "特朗普警告伊朗：还剩“48小时”，伊朗军方回应“让侵略者付出代价”，战争升级至海湾“基础设施”？",
-          "url": "https://wallstreetcn.com/articles/3769270",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 15时19分]"
-        },
-        {
-          "title": "自周三以来“未公开露面”！特朗普“一反常态”低调，周末“不停工作”连海湖庄园都不去了",
-          "url": "https://wallstreetcn.com/articles/3769276",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时49分 ~ 15时19分]"
+          "appearance_count": 6,
+          "time_info": "[11时27分 ~ 16时56分]"
         },
         {
           "title": "第二名飞行员获救 特朗普：美国史上最英勇搜救行动之一",
           "url": "https://www.zaochenbao.com/news/politics/202604/0568596.html",
           "source": "联合早报",
           "ranks": [
-            2
+            2,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 16时56分]"
         },
         {
           "title": "特朗普警告伊朗：若48小时内不重新开放霍尔木兹海峡 将进一步升级行动",
@@ -1091,19 +1204,6 @@
           "time_info": "[07时39分 ~ 13时49分]"
         },
         {
-          "title": "【早报】中国驻以使馆提醒：远离民用基础设施；特朗普再次警告伊朗",
-          "url": "https://www.cls.cn/detail/2335441",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 15时19分]"
-        },
-        {
           "title": "美军全球调拨隐形巡航导弹打伊朗，特朗普威胁“周一”地狱将至",
           "url": "https://flash.jin10.com/detail/20260405131216500800",
           "source": "金十数据",
@@ -1114,6 +1214,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时49分 ~ 15时19分]"
+        },
+        {
+          "title": "港教评会主席：“特朗普文化”教坏下一代 应作反面教材",
+          "url": "https://www.zaochenbao.com/news/hkMacao/202604/0568589.html",
+          "source": "联合早报",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 16时56分]"
+        },
+        {
+          "title": "伊朗拒绝特朗普“48小时”通牒！华尔街紧绷：4月6日后会发生什么？",
+          "url": "https://www.cls.cn/detail/2335478",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 16时56分]"
         },
         {
           "title": "特朗普再发出48小时最后通牒 伊朗：地狱之门将为你敞开",
@@ -1212,17 +1336,6 @@
           "time_info": "[13时49分 ~ 15时19分]"
         },
         {
-          "title": "港教评会主席：“特朗普文化”教坏下一代 应作反面教材",
-          "url": "https://www.zaochenbao.com/news/hkMacao/202604/0568589.html",
-          "source": "联合早报",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
           "title": "特朗普打的越猛，伊朗越强硬：霍尔木兹被推上谈判桌中央！",
           "url": "https://wallstreetcn.com/articles/3769266",
           "source": "华尔街见闻",
@@ -1232,17 +1345,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
-        },
-        {
-          "title": "伊朗拒绝特朗普“48小时”通牒！华尔街紧绷：4月6日后会发生什么？",
-          "url": "https://www.cls.cn/detail/2335478",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
         },
         {
           "title": "美国总统特朗普：美军完成了美国历史上最大胆的搜救行动之一。",
