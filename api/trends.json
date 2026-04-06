@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T18:18:08.227826+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-04-06T19:54:52.508260+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 65,
+      "match_count": 78,
       "titles": [
         {
           "title": "伊朗：美军营救“任务失败”！美媒：获救飞行员已被送往科威特，在山区躲避搜索超24小时，随身武器仅一把手枪，当地海拔最高4400米",
@@ -66,8 +66,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时48分 ~ 18时18分]"
+          "appearance_count": 14,
+          "time_info": "[00时48分 ~ 19时54分]"
         },
         {
           "title": "伊朗驳斥“防空系统已被摧毁”的说法 公布最新战果",
@@ -98,11 +98,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 18时18分]"
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 19时54分]"
         },
         {
           "title": "乌克兰总统泽连斯基：我们讨论了所有议题，从安全和国防问题、地区局势，到伊朗局势，再到两国间的能源和基础设施合作。我们还将继续在粮食安全方面开展工作。我们详细讨论了如何克服战争的后果，以及就俄乌冲突进行谈判的进程。",
@@ -128,6 +129,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：阿萨卢耶两家公用事业公司遭袭，导致石化装置供电中断。",
+          "url": "https://flash.jin10.com/detail/20260406193540180800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "据以色列媒体：周日伊朗导弹袭击海法一栋居民楼后，救援人员已寻获两名遇难者遗体。",
@@ -179,6 +191,21 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时40分 ~ 04时43分]"
+        },
+        {
+          "title": "科威特石油设施及总部遭伊朗无人机袭击受损",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0668646.html",
+          "source": "联合早报",
+          "ranks": [
+            6,
+            9,
+            23,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时31分 ~ 19时54分]"
         },
         {
           "title": "美国中央司令部承认，4月2日，一架F-15E战斗机在伊朗执行作战任务时被击落。",
@@ -256,6 +283,19 @@
           "time_info": "[05时41分 ~ 06时41分]"
         },
         {
+          "title": "韩国称朝鲜正疏远伊朗 望与美国建立新关系",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0668666.html",
+          "source": "联合早报",
+          "ranks": [
+            5,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 19时54分]"
+        },
+        {
           "title": "伊外长：美国威胁攻击伊朗能源设施等同于“认罪”",
           "url": "https://flash.jin10.com/detail/20260406041431315800",
           "source": "金十数据",
@@ -280,32 +320,6 @@
           "time_info": "[05时41分 ~ 06时41分]"
         },
         {
-          "title": "科威特石油设施及总部遭伊朗无人机袭击受损",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0668646.html",
-          "source": "联合早报",
-          "ranks": [
-            6,
-            9,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时31分 ~ 18时18分]"
-        },
-        {
-          "title": "韩国称朝鲜正疏远伊朗 望与美国建立新关系",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0668666.html",
-          "source": "联合早报",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 18时18分]"
-        },
-        {
           "title": "伊朗胡齐斯坦省官员：阿瓦士国际机场一天内第三次遭到炮击。",
           "url": "https://flash.jin10.com/detail/20260406020934374800",
           "source": "金十数据",
@@ -320,6 +334,19 @@
           "time_info": "[02时58分 ~ 05时41分]"
         },
         {
+          "title": "消息：美国伊朗和调解方推动达成45天停火协议",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0668664.html",
+          "source": "联合早报",
+          "ranks": [
+            7,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 19时54分]"
+        },
+        {
           "title": "伊朗能源部长：目前全国所有重要中心的电力供应都已得到保障，而且我们还有剩余电力。",
           "url": "https://flash.jin10.com/detail/20260406020857680800",
           "source": "金十数据",
@@ -331,6 +358,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时58分 ~ 04时43分]"
+        },
+        {
+          "title": "伊朗豁免过境限制 伊拉克敦促客户提交石油装载计划",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0668663.html",
+          "source": "联合早报",
+          "ranks": [
+            8,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 19时54分]"
         },
         {
           "title": "据以色列第14频道：以色列认为与伊朗达成协议的可能性很低，正在准备对伊朗能源基础设施（包括关键设施和新建设施）进行潜在的大规模打击。",
@@ -423,18 +463,6 @@
           "time_info": "[11时31分 ~ 16时26分]"
         },
         {
-          "title": "消息：美国伊朗和调解方推动达成45天停火协议",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0668664.html",
-          "source": "联合早报",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 18时18分]"
-        },
-        {
           "title": "伊朗导弹击中以色列海法导致多人受伤",
           "url": "https://flash.jin10.com/detail/20260406001125229800",
           "source": "金十数据",
@@ -457,18 +485,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时41分 ~ 06时41分]"
-        },
-        {
-          "title": "伊朗豁免过境限制 伊拉克敦促客户提交石油装载计划",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0668663.html",
-          "source": "联合早报",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 18时18分]"
         },
         {
           "title": "伊朗革命卫队海军称准备在波斯湾建立“新秩序”",
@@ -581,9 +597,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：为阿萨卢耶石化工厂提供电力、水和氧气的公司遭到袭击，帕尔斯石化公司未受影响。",
+          "url": "https://flash.jin10.com/detail/20260406192321854800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "据伊朗媒体Fars News：在获得伊朗的许可后，24小时内有15艘船只通过了霍尔木兹海峡。",
@@ -603,9 +630,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
+        },
+        {
+          "title": "伊朗发动“真实承诺-4”第98波攻势 打击美军两栖攻击舰",
+          "url": "https://flash.jin10.com/detail/20260406192139969800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "以色列国防军：伊朗最新发射的针对以色列南部的弹道导弹可能已被拦截。目前没有伤亡报告。",
@@ -619,6 +657,17 @@
           "time_info": "14时04分"
         },
         {
+          "title": "金十数据4月6日讯，伊朗伊斯兰革命卫队称，其袭击了美国两栖攻击舰LHA-7。",
+          "url": "https://flash.jin10.com/detail/20260406191558543800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "声明显示，伊朗武装力量统一司令部发言人表示，伊朗打击了美国位于科威特布比延岛的新营地。",
           "url": "https://flash.jin10.com/detail/20260406160058792800",
           "source": "金十数据",
@@ -628,6 +677,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        },
+        {
+          "title": "以色列国防部长卡茨：已指示以色列军方继续全力打击伊朗的“国家基础设施”。",
+          "url": "https://flash.jin10.com/detail/20260406191150038800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "以色列国防部长卡茨：以色列国防军对位于伊斯法罕的伊朗最大石化设施实施强力打击。目前，这两处设施（合计约占伊朗石化出口约85%）已被瘫痪，处于停运状态。",
+          "url": "https://flash.jin10.com/detail/20260406191124078800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "伊朗军方过去两天击落美军12架战机",
@@ -650,6 +721,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
+        },
+        {
+          "title": "以色列国防部长卡茨：以色列空军不久前袭击了伊朗“最大的石化设施”。",
+          "url": "https://flash.jin10.com/detail/20260406191050590800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "市场消息：伊朗方面报道称，卡塔尔船只在霍尔木兹海峡被迫掉头。",
+          "url": "https://flash.jin10.com/detail/20260406191030041800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "美国在伊朗的营救行动险些失败 原因是飞机无法起飞",
@@ -713,9 +806,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
+        },
+        {
+          "title": "国际原子能机构：可以确认，近期在伊朗布什尔核电站附近发生了军事打击。",
+          "url": "https://flash.jin10.com/detail/20260406190423312800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "科威特卫生部：科威特北部居民区遭伊朗袭击后，有六人受伤。",
@@ -729,6 +833,17 @@
           "time_info": "16时26分"
         },
         {
+          "title": "伊朗伊斯兰革命卫队：阿联酋与“犹太复国主义政权”的无人机联合生产中心，以及驻扎在阿里·萨利姆基地的数架飞机，均遭无人机和导弹精确打击。",
+          "url": "https://flash.jin10.com/detail/20260406190358039800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "以军称空袭伊朗德黑兰基础设施",
           "url": "https://flash.jin10.com/detail/20260406123140611800",
           "source": "金十数据",
@@ -738,6 +853,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
+        },
+        {
+          "title": "伊朗外交部发言人：美方营救飞行员行动或为窃取浓缩铀",
+          "url": "https://flash.jin10.com/detail/20260406185306338800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "据伊朗媒体：德黑兰的谢里夫理工大学遭到美以军队袭击。",
@@ -762,6 +888,17 @@
           "time_info": "16时26分"
         },
         {
+          "title": "据伊朗媒体Fars News：伊朗阿萨卢耶的南帕尔斯石化设施遭到袭击。",
+          "url": "https://flash.jin10.com/detail/20260406184901537800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "俄罗斯外交部：俄罗斯外长拉夫罗夫与伊朗外长阿拉格齐举行会谈，表示希望各方努力避免中东局势升级。",
           "url": "https://flash.jin10.com/detail/20260405233606185800",
           "source": "金十数据",
@@ -773,13 +910,24 @@
           "time_info": "00时48分"
         },
         {
+          "title": "伊朗外交部：伊朗外长阿拉格齐与日本外相茂木敏充进行了电话交谈，讨论了双边关系的最新状况以及地区和国际局势。",
+          "url": "https://flash.jin10.com/detail/20260406184342998800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "俄罗斯外交部：4月5日，俄罗斯外长拉夫罗夫与伊朗外长阿拉格齐进行了电话交谈。两位部长强调了立即停止对包括包括布什尔核电站在内的平民、工业和能源基础设施的鲁莽和非法攻击的重要性。",
           "url": "https://flash.jin10.com/detail/20260406173454672800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         }
@@ -787,7 +935,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "伊朗拒绝特朗普“48小时”通牒！华尔街紧绷：4月6日后会发生什么？",
@@ -798,8 +946,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时48分 ~ 18时18分]"
+          "appearance_count": 14,
+          "time_info": "[00时48分 ~ 19时54分]"
         },
         {
           "title": "自周三以来“未公开露面”！特朗普“一反常态”低调，周末“不停工作”连海湖庄园都不去了",
@@ -834,8 +982,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时48分 ~ 18时18分]"
+          "appearance_count": 14,
+          "time_info": "[00时48分 ~ 19时54分]"
         },
         {
           "title": "特朗普再次威胁：“4月7日将是伊朗的发电厂日和大桥日”，“打开那个该死的海峡”！",
@@ -850,8 +998,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时48分 ~ 18时18分]"
+          "appearance_count": 14,
+          "time_info": "[00时48分 ~ 19时54分]"
         },
         {
           "title": "特朗普：星期一与伊朗达成协议“可能性大”",
@@ -936,8 +1084,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时31分 ~ 18时18分]"
+          "appearance_count": 5,
+          "time_info": "[11时31分 ~ 19时54分]"
         },
         {
           "title": "据CNN：美国总统特朗普已经返回白宫。",
@@ -952,6 +1100,58 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时58分 ~ 05时41分]"
+        },
+        {
+          "title": "特朗普对伊朗激烈言辞遭批“令人尴尬且幼稚”",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0668645.html",
+          "source": "联合早报",
+          "ranks": [
+            7,
+            10,
+            24,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时31分 ~ 19时54分]"
+        },
+        {
+          "title": "【早报】特朗普暗示“最后期限”推迟1天，称有望于4月7日前达成协议",
+          "url": "https://www.cls.cn/detail/2335621",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时31分 ~ 19时54分]"
+        },
+        {
+          "title": "特朗普“飙脏话”威胁打开霍尔木兹海峡，伊朗最高领袖回应“将继续利用这一战略杠杆”，伊朗革命卫队称正备战“波斯湾新秩序”",
+          "url": "https://wallstreetcn.com/articles/3769302",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时04分 ~ 19时54分]"
+        },
+        {
+          "title": "特朗普再提退出北约：这对同盟前景有何启示",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0668668.html",
+          "source": "联合早报",
+          "ranks": [
+            3,
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 19时54分]"
         },
         {
           "title": "美国白宫：明天，特朗普总统在椭圆形办公室与军方人员共同举行新闻发布会。美国实力，全面展现，不容错过。",
@@ -992,16 +1192,16 @@
           "time_info": "[01时40分 ~ 03时41分]"
         },
         {
-          "title": "特朗普再提退出北约：这对同盟前景有何启示",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0668668.html",
-          "source": "联合早报",
+          "title": "特朗普：与伊朗协议有望达成 本周二将是“最终期限”",
+          "url": "https://www.cls.cn/detail/2335633",
+          "source": "财联社热门",
           "ranks": [
-            3,
-            11
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 18时18分]"
+          "appearance_count": 4,
+          "time_info": "[14时04分 ~ 19时54分]"
         },
         {
           "title": "伊朗回应特朗普“炸毁整个伊朗”的威胁：将对等报复",
@@ -1028,20 +1228,6 @@
           "time_info": "[04时43分 ~ 05时41分]"
         },
         {
-          "title": "特朗普对伊朗激烈言辞遭批“令人尴尬且幼稚”",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0668645.html",
-          "source": "联合早报",
-          "ranks": [
-            7,
-            10,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时31分 ~ 18时18分]"
-        },
-        {
           "title": "特朗普粗俗威胁伊朗 要求开放霍尔木兹海峡",
           "url": "https://www.zaochenbao.com/news/politics/202604/0668644.html",
           "source": "联合早报",
@@ -1056,30 +1242,6 @@
           "time_info": "[11时31分 ~ 18时18分]"
         },
         {
-          "title": "【早报】特朗普暗示“最后期限”推迟1天，称有望于4月7日前达成协议",
-          "url": "https://www.cls.cn/detail/2335621",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时31分 ~ 18时18分]"
-        },
-        {
-          "title": "特朗普“飙脏话”威胁打开霍尔木兹海峡，伊朗最高领袖回应“将继续利用这一战略杠杆”，伊朗革命卫队称正备战“波斯湾新秩序”",
-          "url": "https://wallstreetcn.com/articles/3769302",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时04分 ~ 18时18分]"
-        },
-        {
           "title": "特朗普威胁轰炸伊朗电厂，让伊朗陷入“地狱”",
           "url": "https://flash.jin10.com/detail/20260406061225210800",
           "source": "金十数据",
@@ -1090,18 +1252,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时41分 ~ 07时43分]"
-        },
-        {
-          "title": "特朗普：与伊朗协议有望达成 本周二将是“最终期限”",
-          "url": "https://www.cls.cn/detail/2335633",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时04分 ~ 18时18分]"
         },
         {
           "title": "美媒对于特朗普给出的伊朗“时间线”的报道存在偏差",
@@ -1115,6 +1265,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时48分 ~ 02时58分]"
+        },
+        {
+          "title": "中东局势牵动市场 特朗普今夜新闻会！日韩股震荡上涨",
+          "url": "https://www.cls.cn/detail/2335649",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 19时54分]"
         },
         {
           "title": "据美国《国会山报》：特朗普被问及是否会排除向伊朗派遣地面部队的可能性，他回答称“不会”。",
@@ -1202,17 +1364,6 @@
           "time_info": "[00时48分 ~ 01时40分]"
         },
         {
-          "title": "中东局势牵动市场 特朗普今夜新闻会！日韩股震荡上涨",
-          "url": "https://www.cls.cn/detail/2335649",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 18时18分]"
-        },
-        {
           "title": "据ABC新闻：美国总统特朗普表示，如果没有达成协议，他会在“几乎没有”谈判余地的情况下炸毁伊朗整个国家。",
           "url": "https://flash.jin10.com/detail/20260406000135800800",
           "source": "金十数据",
@@ -1287,7 +1438,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -1336,6 +1487,17 @@
           "time_info": "16时26分"
         },
         {
+          "title": "特朗普再次极限施压，和平协议成市场二元开关 | 每日市场观察4.6",
+          "url": "https://flash.jin10.com/detail/20260406185143337800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "美媒：特朗普称与伊朗“深入谈判”，曾一度接近举行直接谈判",
           "url": "https://flash.jin10.com/detail/20260405233400673800",
           "source": "金十数据",
@@ -1376,6 +1538,17 @@
           "time_info": "[06时41分 ~ 07时43分]"
         },
         {
+          "title": "美股大型科技股盘前多数上涨，特斯拉涨1%",
+          "url": "https://www.36kr.com/newsflashes/3755059209437953",
+          "source": "36氪",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 19时54分]"
+        },
+        {
           "title": "“48小时通牒”与“45天停火协议”挑动市场，周一油价冲高回落，黄金下跌、美股期货转涨，日韩股市收涨",
           "url": "https://wallstreetcn.com/articles/3769300",
           "source": "华尔街见闻",
@@ -1396,17 +1569,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
-        },
-        {
-          "title": "美股大型科技股盘前多数上涨，特斯拉涨1%",
-          "url": "https://www.36kr.com/newsflashes/3755059209437953",
-          "source": "36氪",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
         },
         {
           "title": "美股三大股指期货小幅上涨，标普500指数期货上涨0.2%，纳斯达克100指数期货上涨0.4%，道琼斯指数期货上涨0.1%",
@@ -1444,9 +1606,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 19时54分]"
         },
         {
           "title": "美元指数DXY回落至100下方，日内跌0.19%。",
@@ -1474,8 +1636,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 18时18分]"
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 19时54分]"
         },
         {
           "title": "OpenAI首席执行官和首席财务官在上市时间上存在分歧。",
@@ -1520,7 +1682,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         }
