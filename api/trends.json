@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T21:28:17.391432+08:00",
-  "total_titles_processed": 532,
+  "generated_at": "2026-04-06T22:58:42.365751+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 88,
+      "match_count": 93,
       "titles": [
         {
           "title": "伊朗：美军营救“任务失败”！美媒：获救飞行员已被送往科威特，在山区躲避搜索超24小时，随身武器仅一把手枪，当地海拔最高4400米",
@@ -63,11 +63,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时48分 ~ 21时28分]"
+          "appearance_count": 16,
+          "time_info": "[00时48分 ~ 22时58分]"
         },
         {
           "title": "伊朗驳斥“防空系统已被摧毁”的说法 公布最新战果",
@@ -82,6 +83,19 @@
           "time_info": "[00时48分 ~ 18时18分]"
         },
         {
+          "title": "报道：伊朗问题调停者正为45天停火协议做最后努力，伊朗称美“没做好永久停火准备”",
+          "url": "https://wallstreetcn.com/articles/3769307",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时26分 ~ 22时58分]"
+        },
+        {
           "title": "伊朗总统：让国际社会评判 谁是谈判者谁是恐怖分子",
           "url": "https://www.cls.cn/detail/2335312",
           "source": "财联社热门",
@@ -93,17 +107,28 @@
           "time_info": "[00时48分 ~ 07时43分]"
         },
         {
-          "title": "报道：伊朗问题调停者正为45天停火协议做最后努力，伊朗称美“没做好永久停火准备”",
-          "url": "https://wallstreetcn.com/articles/3769307",
-          "source": "华尔街见闻",
+          "title": "指IAEA不作为助长侵略 伊朗警告核电站遇袭或酿核灾",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0668691.html",
+          "source": "联合早报",
           "ranks": [
-            4,
-            3,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时26分 ~ 21时28分]"
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 22时58分]"
+        },
+        {
+          "title": "伊朗：美军营救行动或为“窃取浓缩铀”做掩护",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0668690.html",
+          "source": "联合早报",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 22时58分]"
         },
         {
           "title": "乌克兰总统泽连斯基：我们讨论了所有议题，从安全和国防问题、地区局势，到伊朗局势，再到两国间的能源和基础设施合作。我们还将继续在粮食安全方面开展工作。我们详细讨论了如何克服战争的后果，以及就俄乌冲突进行谈判的进程。",
@@ -148,18 +173,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "指IAEA不作为助长侵略 伊朗警告核电站遇袭或酿核灾",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0668691.html",
-          "source": "联合早报",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -181,20 +195,46 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
         {
-          "title": "伊朗：美军营救行动或为“窃取浓缩铀”做掩护",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0668690.html",
-          "source": "联合早报",
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗要求解除制裁、进行重建。",
+          "url": "https://flash.jin10.com/detail/20260406224128585800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时28分"
+          "time_info": "22时58分"
+        },
+        {
+          "title": "韩国称朝鲜正疏远伊朗 望与美国建立新关系",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0668666.html",
+          "source": "联合早报",
+          "ranks": [
+            5,
+            13,
+            19,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时26分 ~ 22时58分]"
+        },
+        {
+          "title": "伊媒：伊朗拒绝美国停火提案，强调永久结束战争",
+          "url": "https://flash.jin10.com/detail/20260406223944792800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "以色列：伊朗仍有超过1000枚导弹威胁着我！",
@@ -209,15 +249,15 @@
           "time_info": "[06时41分 ~ 07时43分]"
         },
         {
-          "title": "伊朗导弹致以色列两死多伤 以军誓加强打击黎真主党",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0668688.html",
-          "source": "联合早报",
+          "title": "伊媒：伊朗已向巴基斯坦传达对美国提案的答复，包括十项条款",
+          "url": "https://flash.jin10.com/detail/20260406223606912800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时28分"
+          "time_info": "22时58分"
         },
         {
           "title": "据报道，伊朗导弹袭击以色列海法，造成10人受伤。",
@@ -232,17 +272,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时48分 ~ 03时41分]"
-        },
-        {
-          "title": "拒绝美方“过分要求” 伊朗：已准备好就结束战争方案作出回应",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0668687.html",
-          "source": "联合早报",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
         },
         {
           "title": "伊朗最高领袖强调继续推进国土防御",
@@ -272,20 +301,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时31分 ~ 19时54分]"
-        },
-        {
-          "title": "韩国称朝鲜正疏远伊朗 望与美国建立新关系",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0668666.html",
-          "source": "联合早报",
-          "ranks": [
-            5,
-            13,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时26分 ~ 21时28分]"
         },
         {
           "title": "美国中央司令部承认，4月2日，一架F-15E战斗机在伊朗执行作战任务时被击落。",
@@ -324,6 +339,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 05时41分]"
+        },
+        {
+          "title": "伊朗导弹致以色列两死多伤 以军誓加强打击黎真主党",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0668688.html",
+          "source": "联合早报",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 22时58分]"
         },
         {
           "title": "伊朗发动“真实承诺-4”第97波攻势",
@@ -385,6 +412,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时41分 ~ 06时41分]"
+        },
+        {
+          "title": "拒绝美方“过分要求” 伊朗：已准备好就结束战争方案作出回应",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0668687.html",
+          "source": "联合早报",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 22时58分]"
         },
         {
           "title": "伊朗胡齐斯坦省官员：阿瓦士国际机场一天内第三次遭到炮击。",
@@ -528,6 +567,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时31分 ~ 16时26分]"
+        },
+        {
+          "title": "损失4架直升机和两架MC-130运输机、深入伊朗腹地300公里--这究竟是“成功”的营救行动，还是“失败”的突袭浓缩铀？",
+          "url": "https://wallstreetcn.com/articles/3769324",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 22时58分]"
         },
         {
           "title": "伊朗导弹击中以色列海法导致多人受伤",
@@ -724,17 +775,6 @@
           "time_info": "14时04分"
         },
         {
-          "title": "损失4架直升机和两架MC-130运输机、深入伊朗腹地300公里--这究竟是“成功”的营救行动，还是“失败”的突袭浓缩铀？",
-          "url": "https://wallstreetcn.com/articles/3769324",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
           "title": "金十数据4月6日讯，伊朗伊斯兰革命卫队称，其袭击了美国两栖攻击舰LHA-7。",
           "url": "https://flash.jin10.com/detail/20260406191558543800",
           "source": "金十数据",
@@ -744,6 +784,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
+        },
+        {
+          "title": "伊朗媒体称伊朗已回应美方停战提议",
+          "url": "https://wallstreetcn.com/articles/3769326",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "声明显示，伊朗武装力量统一司令部发言人表示，伊朗打击了美国位于科威特布比延岛的新营地。",
@@ -763,7 +814,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -832,6 +883,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
+        },
+        {
+          "title": "当地时间6日，伊朗情报部门宣布逮捕了17名美以方面间谍，这些人涉嫌向敌对方发送敏感地点坐标。",
+          "url": "https://flash.jin10.com/detail/20260406221152502800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "美国在伊朗的营救行动险些失败 原因是飞机无法起飞",
@@ -1027,7 +1089,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -1038,7 +1100,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         }
@@ -1046,7 +1108,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 53,
       "titles": [
         {
           "title": "伊朗拒绝特朗普“48小时”通牒！华尔街紧绷：4月6日后会发生什么？",
@@ -1057,8 +1119,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时48分 ~ 21时28分]"
+          "appearance_count": 16,
+          "time_info": "[00时48分 ~ 22时58分]"
         },
         {
           "title": "自周三以来“未公开露面”！特朗普“一反常态”低调，周末“不停工作”连海湖庄园都不去了",
@@ -1093,8 +1155,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时48分 ~ 21时28分]"
+          "appearance_count": 16,
+          "time_info": "[00时48分 ~ 22时58分]"
         },
         {
           "title": "特朗普再次威胁：“4月7日将是伊朗的发电厂日和大桥日”，“打开那个该死的海峡”！",
@@ -1159,8 +1221,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时31分 ~ 21时28分]"
+          "appearance_count": 7,
+          "time_info": "[11时31分 ~ 22时58分]"
         },
         {
           "title": "周三演讲“效果不佳”、对“媒体报道”不满、对“战争后果”沮丧！特朗普正考虑“大规模改组”内阁",
@@ -1208,8 +1270,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时04分 ~ 21时28分]"
+          "appearance_count": 6,
+          "time_info": "[14时04分 ~ 22时58分]"
         },
         {
           "title": "【早报】特朗普暗示“最后期限”推迟1天，称有望于4月7日前达成协议",
@@ -1220,19 +1282,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时31分 ~ 21时28分]"
-        },
-        {
-          "title": "分析：特朗普反复威胁要放弃霍尔木兹 动摇国际对美信心",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0668689.html",
-          "source": "联合早报",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
+          "appearance_count": 7,
+          "time_info": "[11时31分 ~ 22时58分]"
         },
         {
           "title": "特朗普：与伊朗协议有望达成 本周二将是“最终期限”",
@@ -1243,8 +1294,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时04分 ~ 21时28分]"
+          "appearance_count": 6,
+          "time_info": "[14时04分 ~ 22时58分]"
         },
         {
           "title": "特朗普再提退出北约：这对同盟前景有何启示",
@@ -1254,11 +1305,23 @@
             3,
             11,
             17,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时26分 ~ 21时28分]"
+          "appearance_count": 5,
+          "time_info": "[16时26分 ~ 22时58分]"
+        },
+        {
+          "title": "特朗普爆粗口帖子引来伊朗驻多国使领馆嘲讽",
+          "url": "https://flash.jin10.com/detail/20260406223521239800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "据CNN：美国总统特朗普已经返回白宫。",
@@ -1288,6 +1351,31 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时31分 ~ 19时54分]"
+        },
+        {
+          "title": "中东局势牵动市场 特朗普今夜新闻会！日韩股震荡上涨",
+          "url": "https://www.cls.cn/detail/2335649",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时26分 ~ 22时58分]"
+        },
+        {
+          "title": "分析：特朗普反复威胁要放弃霍尔木兹 动摇国际对美信心",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0668689.html",
+          "source": "联合早报",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 22时58分]"
         },
         {
           "title": "美国白宫：明天，特朗普总统在椭圆形办公室与军方人员共同举行新闻发布会。美国实力，全面展现，不容错过。",
@@ -1364,18 +1452,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时31分 ~ 18时18分]"
-        },
-        {
-          "title": "中东局势牵动市场 特朗普今夜新闻会！日韩股震荡上涨",
-          "url": "https://www.cls.cn/detail/2335649",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时26分 ~ 21时28分]"
         },
         {
           "title": "特朗普威胁轰炸伊朗电厂，让伊朗陷入“地狱”",
@@ -1552,9 +1628,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
+        },
+        {
+          "title": "假期要闻汇总：特朗普称与伊朗协议有望在7日最后期限前达成；苹果首款折叠屏手机已在试产",
+          "url": "https://www.cls.cn/detail/2335705",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "特朗普暗示“最后期限”推迟1天、有报道称美伊调解方为达成45天停火做最后努力，WTI原油一度跌破110美元......后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -1577,6 +1664,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
+        },
+        {
+          "title": "美国最高法院批准特朗普政府撤销班农刑事定罪请求",
+          "url": "https://flash.jin10.com/detail/20260406221309875800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "克里姆林宫：（就特朗普对伊朗的脏话威胁）紧张局势持续升级。",
@@ -1623,6 +1721,17 @@
           "time_info": "14时04分"
         },
         {
+          "title": "美国财政部选择纽约梅隆银行(BK.N)和Robinhood(HOOD.O)参与特朗普账户计划。",
+          "url": "https://flash.jin10.com/detail/20260406220338722800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "特朗普再次极限施压，和平协议成市场二元开关 | 每日市场观察4.6",
           "url": "https://flash.jin10.com/detail/20260406185143337800",
           "source": "金十数据",
@@ -1648,8 +1757,30 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "美股异动丨景顺跌4.5%，此前贝莱德提交新基金申请",
+          "url": "https://www.gelonghui.com/news/5204556",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "美股异动丨Applied Optoelectronics涨超8%，获7100万美元订单",
+          "url": "https://www.gelonghui.com/news/5204555",
+          "source": "格隆汇",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
         {
           "title": "维珍银河(SPCE.N)美股盘前大涨12.6%。",
           "url": "https://flash.jin10.com/detail/20260406160708669800",
@@ -1662,6 +1793,28 @@
           "time_info": "16时26分"
         },
         {
+          "title": "美股异动丨希捷科技涨7.6%创下历史新高",
+          "url": "https://www.gelonghui.com/news/5204554",
+          "source": "格隆汇",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "美股三大指数涨跌不一，存储概念股高开",
+          "url": "https://www.gelonghui.com/news/5204553",
+          "source": "格隆汇",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "美股大型科技股盘前多数上涨，特斯拉涨1%",
           "url": "https://www.36kr.com/newsflashes/3755059209437953",
           "source": "36氪",
@@ -1669,8 +1822,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时18分 ~ 21时28分]"
+          "appearance_count": 4,
+          "time_info": "[18时18分 ~ 22时58分]"
         },
         {
           "title": "美股三大股指期货周一低开，道指期货跌0.38%、标普500指数期货跌0.31%、纳指期货跌0.35%。",
@@ -1724,7 +1877,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         }
@@ -1742,8 +1895,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时18分 ~ 21时28分]"
+          "appearance_count": 4,
+          "time_info": "[18时18分 ~ 22时58分]"
         },
         {
           "title": "美元指数DXY短线上盘初走高近10点，报100.26。",
@@ -1783,8 +1936,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时26分 ~ 21时28分]"
+          "appearance_count": 5,
+          "time_info": "[16时26分 ~ 22时58分]"
         },
         {
           "title": "OpenAI首席执行官和首席财务官在上市时间上存在分歧。",
