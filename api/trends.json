@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T15:45:12.525948+08:00",
-  "total_titles_processed": 506,
+  "generated_at": "2026-04-07T17:15:31.586557+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 74,
       "titles": [
         {
           "title": "伊朗拒绝特朗普“48小时”通牒！华尔街紧绷：4月6日后会发生什么？",
@@ -40,6 +40,22 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时02分 ~ 07时45分]"
+        },
+        {
+          "title": "特朗普：伊朗停战回应还不够好，要“拿走石油”，7日最终期限不可改，美国该收霍尔木兹通行费",
+          "url": "https://wallstreetcn.com/articles/3769328",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时50分 ~ 17时15分]"
         },
         {
           "title": "“最后通牒”延后一天，特朗普称正与伊朗进行“深入谈判”，4月7日前“很有可能”与伊朗达成协议",
@@ -77,31 +93,17 @@
           "time_info": "[01时02分 ~ 11时21分]"
         },
         {
-          "title": "特朗普：伊朗停战回应还不够好，要“拿走石油”，7日最终期限不可改，美国该收霍尔木兹通行费",
-          "url": "https://wallstreetcn.com/articles/3769328",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时50分 ~ 15时45分]"
-        },
-        {
           "title": "特朗普：该由美国收霍尔木兹海峡“通行费”",
           "url": "https://www.cls.cn/detail/2335995",
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 15时45分]"
+          "appearance_count": 4,
+          "time_info": "[11时21分 ~ 17时15分]"
         },
         {
           "title": "特朗普：伊朗可在一夜内被击溃 或许就是7日晚上",
@@ -189,15 +191,15 @@
           "time_info": "[01时02分 ~ 07时45分]"
         },
         {
-          "title": "消息：特朗普和平委员会要求哈马斯本周末敲定裁军计划",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0768744.html",
-          "source": "联合早报",
+          "title": "特朗普威胁伊朗“最后期限”，中方表态",
+          "url": "https://www.cls.cn/detail/2336527",
+          "source": "财联社热门",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时45分"
+          "time_info": "17时15分"
         },
         {
           "title": "伊朗高级官员：特朗普已经“失去”对战争管理的控制",
@@ -212,6 +214,18 @@
           "time_info": "[04时50分 ~ 05时46分]"
         },
         {
+          "title": "特朗普公布营救飞行员细节：调集176架各类飞机、实施欺骗作战，正搜寻媒体泄密者",
+          "url": "https://wallstreetcn.com/articles/3769330",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时21分 ~ 17时15分]"
+        },
+        {
           "title": "东南亚态势报告2026：过半东南亚受访者对特朗普治下美国感担忧",
           "url": "https://www.zaochenbao.com/news/politics/202604/0768727.html",
           "source": "联合早报",
@@ -224,16 +238,29 @@
           "time_info": "[13时51分 ~ 15时45分]"
         },
         {
-          "title": "特朗普公布营救飞行员细节：调集176架各类飞机、实施欺骗作战，正搜寻媒体泄密者",
-          "url": "https://wallstreetcn.com/articles/3769330",
-          "source": "华尔街见闻",
+          "title": "消息：特朗普和平委员会要求哈马斯本周末敲定裁军计划",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0768744.html",
+          "source": "联合早报",
           "ranks": [
-            9,
-            8
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 17时15分]"
+        },
+        {
+          "title": "特朗普再发威胁：若伊朗不立即“投降”将打击民用设施 | 环球市场",
+          "url": "https://www.cls.cn/detail/2335992",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时21分 ~ 15时45分]"
+          "time_info": "[13时51分 ~ 17时15分]"
         },
         {
           "title": "特朗普“最后期限”强压伊朗 国际油价基准双双跳涨",
@@ -297,16 +324,16 @@
           "time_info": "[05时46分 ~ 06时48分]"
         },
         {
-          "title": "特朗普再发威胁：若伊朗不立即“投降”将打击民用设施 | 环球市场",
-          "url": "https://www.cls.cn/detail/2335992",
-          "source": "财联社热门",
+          "title": "分析：特朗普宣称飞行员救援行动胜利，但美国在伊朗面临的威胁挥之不去",
+          "url": "https://www.zaochenbao.com/news/opinion/202604/0768735.html",
+          "source": "联合早报",
           "ranks": [
             13,
-            12
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时51分 ~ 15时45分]"
+          "time_info": "[15时45分 ~ 17时15分]"
         },
         {
           "title": "特朗普再延长最后通牒24小时 调解方力争美伊停火45天",
@@ -319,6 +346,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时21分 ~ 13时51分]"
+        },
+        {
+          "title": "特朗普是如何将自己置于伊朗困局无法脱身的",
+          "url": "https://www.zaochenbao.com/news/opinion/202604/0768731.html",
+          "source": "联合早报",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 17时15分]"
         },
         {
           "title": "特朗普：伊朗提议有分量但不够好 强调最终期限",
@@ -355,6 +394,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "停火协议“希望渐灭”？美伊互下“最后通牒”：美以能源打击或已就绪，伊朗称特朗普“只剩20小时”！",
+          "url": "https://wallstreetcn.com/articles/3769368",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
           "title": "特朗普划下“断桥”生死线，截止日前夕市场却异常平静",
           "url": "https://flash.jin10.com/detail/20260407105900720800",
           "source": "金十数据",
@@ -372,7 +422,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         },
@@ -386,6 +436,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "特朗普：伊朗可在一夜内被击溃，或许就是7日晚，美国摧毁只需四小时",
+          "url": "https://wallstreetcn.com/articles/3769340",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         },
         {
           "title": "美国总统特朗普：我希望夺取伊朗的石油。",
@@ -441,17 +502,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
-        },
-        {
-          "title": "分析：特朗普宣称飞行员救援行动胜利，但美国在伊朗面临的威胁挥之不去",
-          "url": "https://www.zaochenbao.com/news/opinion/202604/0768735.html",
-          "source": "联合早报",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
         },
         {
           "title": "距离特朗普威胁要打击伊朗发电厂的最后通牒仅剩24小时多一点，伊朗东北部城市马什哈德的123号发电站遭到空袭。",
@@ -529,17 +579,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
-        },
-        {
-          "title": "特朗普是如何将自己置于伊朗困局无法脱身的",
-          "url": "https://www.zaochenbao.com/news/opinion/202604/0768731.html",
-          "source": "联合早报",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
         },
         {
           "title": "美国总统特朗普：这次行动我们本可能损失100到200人。",
@@ -820,7 +859,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "伊朗拒绝临时停火，提10项条款回应美国停战提议，称只要领导层认为合适就继续战斗",
@@ -830,8 +869,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 15时45分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 17时15分]"
         },
         {
           "title": "报道：伊朗问题调停者正为45天停火协议做最后努力，伊朗称美“没做好永久停火准备”",
@@ -846,6 +885,20 @@
           "time_info": "[01时02分 ~ 15时45分]"
         },
         {
+          "title": "损失4架直升机和两架MC-130运输机、深入伊朗腹地300公里--这究竟是“成功”的营救行动，还是“失败”的突袭浓缩铀？",
+          "url": "https://wallstreetcn.com/articles/3769324",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 17时15分]"
+        },
+        {
           "title": "美国战斗机在伊朗上空被击落 两人先后获救",
           "url": "https://www.zaochenbao.com/news/politics/202604/0768702.html",
           "source": "联合早报",
@@ -855,19 +908,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时13分 ~ 07时45分]"
-        },
-        {
-          "title": "损失4架直升机和两架MC-130运输机、深入伊朗腹地300公里--这究竟是“成功”的营救行动，还是“失败”的突袭浓缩铀？",
-          "url": "https://wallstreetcn.com/articles/3769324",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 15时45分]"
         },
         {
           "title": "伊朗最高领袖穆杰塔巴：“暗杀和犯罪行为”不会扰乱伊朗武装部队。",
@@ -962,17 +1002,6 @@
           "time_info": "13时51分"
         },
         {
-          "title": "伊朗国家媒体：伊朗拒绝停火提议",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0768745.html",
-          "source": "联合早报",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
           "title": "伊朗允许运载必需品的船只通过霍尔木兹海峡",
           "url": "https://www.cls.cn/detail/2335385",
           "source": "财联社热门",
@@ -997,6 +1026,18 @@
           "time_info": "[05时46分 ~ 06时48分]"
         },
         {
+          "title": "伊朗国家媒体：伊朗拒绝停火提议",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0768745.html",
+          "source": "联合早报",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 17时15分]"
+        },
+        {
           "title": "摩根大通CEO警告：伊朗战争恐推高通胀与利率",
           "url": "https://wallstreetcn.com/articles/3769323",
           "source": "华尔街见闻",
@@ -1005,8 +1046,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 15时45分]"
+          "appearance_count": 4,
+          "time_info": "[11时21分 ~ 17时15分]"
         },
         {
           "title": "黎洪和：伊朗冲突凸显越南能源与外交脆弱性",
@@ -1106,6 +1147,18 @@
           "time_info": "[13时51分 ~ 15时45分]"
         },
         {
+          "title": "还原在伊朗偏远地区坠机的美军军官被救过程",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0768734.html",
+          "source": "联合早报",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 17时15分]"
+        },
+        {
           "title": "伊朗军方说只要政治领导层认为“合适”就会继续战斗",
           "url": "https://flash.jin10.com/detail/20260407001300093800",
           "source": "金十数据",
@@ -1159,17 +1212,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
-        },
-        {
-          "title": "还原在伊朗偏远地区坠机的美军军官被救过程",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0768734.html",
-          "source": "联合早报",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
         },
         {
           "title": "伊朗最高领袖悼念伊朗伊斯兰革命卫队情报机构领导人",
@@ -1227,6 +1269,17 @@
           "time_info": "07时45分"
         },
         {
+          "title": "伊朗警方逮捕85名美以情报机构雇佣人员",
+          "url": "https://flash.jin10.com/detail/20260407165711449800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
           "title": "摩根大通顶级策略师警告：伊朗局势冲击能源价格，美国难独善其身！",
           "url": "https://flash.jin10.com/detail/20260407104559139800",
           "source": "金十数据",
@@ -1255,7 +1308,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         },
@@ -1269,6 +1322,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "乌情报声称俄“天眼”暗助伊朗，曾10天内侦察11个中东国家",
+          "url": "https://flash.jin10.com/detail/20260407165203863800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         },
         {
           "title": "乌克兰总统泽连斯基：目前，由于伊朗局势尚未解决，石油市场处于不稳定状态。包括俄罗斯在内的产油国现在可能会获得更多的收益。",
@@ -1288,7 +1352,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         },
@@ -1299,7 +1363,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         }
@@ -1316,11 +1380,12 @@
           "ranks": [
             3,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 15时45分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 17时15分]"
         },
         {
           "title": "美股异动丨景顺跌4.5%，此前贝莱德提交新基金申请",
@@ -1371,6 +1436,18 @@
           "time_info": "[01时02分 ~ 07时45分]"
         },
         {
+          "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
+          "url": "https://wallstreetcn.com/articles/3769329",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时45分 ~ 17时15分]"
+        },
+        {
           "title": "美股三大指数集体收涨，纳指涨0.54%",
           "url": "https://www.gelonghui.com/news/5204621",
           "source": "格隆汇",
@@ -1380,18 +1457,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时48分 ~ 07时45分]"
-        },
-        {
-          "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
-          "url": "https://wallstreetcn.com/articles/3769329",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时45分 ~ 15时45分]"
         },
         {
           "title": "美股大型科技股盘前多数上涨，特斯拉涨1%",
@@ -1488,6 +1553,79 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "贝索斯新实验室或将从OpenAI挖来xAI联合创始人",
+          "url": "https://www.36kr.com/newsflashes/3756537435111941",
+          "source": "36氪",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
+          "title": "OpenAI状态页显示：ChatGPT 网页版当前出现故障",
+          "url": "https://www.36kr.com/newsflashes/3754964348830470",
+          "source": "36氪",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 06时48分]"
+        },
+        {
+          "title": "OpenAI敦促加州和特拉华州调查马斯克的“反竞争行为”。",
+          "url": "https://flash.jin10.com/detail/20260407054852467800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 07时45分]"
+        },
+        {
+          "title": "OpenAI呼吁调查马斯克，称其行为阻碍AGI研发并涉嫌不正当竞争",
+          "url": "https://www.36kr.com/newsflashes/3755938700968450",
+          "source": "36氪",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "OpenAI据悉有望最早于第四季度进行IPO",
+          "url": "https://www.36kr.com/newsflashes/3755943540916992",
+          "source": "36氪",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "据CNBC：OpenAI计划最早于第四季度进行IPO。OpenAI首席执行官、首席财务官在筹集1220亿美元后对IPO“充满信心”。",
+          "url": "https://flash.jin10.com/detail/20260407000320677800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 5,
       "titles": [
@@ -1547,68 +1685,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "OpenAI状态页显示：ChatGPT 网页版当前出现故障",
-          "url": "https://www.36kr.com/newsflashes/3754964348830470",
-          "source": "36氪",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 06时48分]"
-        },
-        {
-          "title": "OpenAI敦促加州和特拉华州调查马斯克的“反竞争行为”。",
-          "url": "https://flash.jin10.com/detail/20260407054852467800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时48分 ~ 07时45分]"
-        },
-        {
-          "title": "OpenAI呼吁调查马斯克，称其行为阻碍AGI研发并涉嫌不正当竞争",
-          "url": "https://www.36kr.com/newsflashes/3755938700968450",
-          "source": "36氪",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时45分"
-        },
-        {
-          "title": "OpenAI据悉有望最早于第四季度进行IPO",
-          "url": "https://www.36kr.com/newsflashes/3755943540916992",
-          "source": "36氪",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时45分"
-        },
-        {
-          "title": "据CNBC：OpenAI计划最早于第四季度进行IPO。OpenAI首席执行官、首席财务官在筹集1220亿美元后对IPO“充满信心”。",
-          "url": "https://flash.jin10.com/detail/20260407000320677800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
         }
       ]
     },
