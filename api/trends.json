@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T00:24:08.141087+08:00",
-  "total_titles_processed": 115,
+  "generated_at": "2026-04-10T02:03:55.793166+08:00",
+  "total_titles_processed": 146,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 20,
       "titles": [
         {
           "title": "伊朗副外长：只有美国真正停止在中东地区的“侵略”行为，霍尔木兹海峡才会重新开放",
@@ -15,8 +15,30 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时03分]"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：霍尔木兹海峡管控将进入新阶段。",
+          "url": "https://flash.jin10.com/detail/20260410014226401800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时24分"
+          "time_info": "02时03分"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：我们的南方邻居们，你们正在见证一个奇迹——要正确看待它，站在正确的位置上。要对魔鬼的虚假承诺保持警惕。",
+          "url": "https://flash.jin10.com/detail/20260410014137549800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
         },
         {
           "title": "伊朗外交部发言人：进行停战谈判的前提是美国在所有战线，特别是在黎巴嫩，遵守停火承诺。",
@@ -30,6 +52,94 @@
           "time_info": "00时24分"
         },
         {
+          "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：我们将要求赔偿每一项损失，并索取烈士的血债。",
+          "url": "https://flash.jin10.com/detail/20260410014056129800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：我们仍在等待南部邻国作出恰当回应，以便我们能够“向你们展现我们的兄弟情谊”。",
+          "url": "https://flash.jin10.com/detail/20260410014043492800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：我们绝不会放过那些袭击我们国家的罪恶侵略者。",
+          "url": "https://flash.jin10.com/detail/20260410014022047800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "韩国外长将派遣特使访伊朗 就中东局势继续沟通",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0968930.html",
+          "source": "联合早报",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时03分]"
+        },
+        {
+          "title": "美联储会议纪要：伊朗战争带来双重风险，许多官员担心通胀加剧或有加息可能",
+          "url": "https://wallstreetcn.com/articles/3769516",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时03分]"
+        },
+        {
+          "title": "西班牙谴责以色列袭击黎巴嫩 重开驻伊朗大使馆",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0968927.html",
+          "source": "联合早报",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时03分]"
+        },
+        {
+          "title": "中国国防部：中国在伊朗问题上坦坦荡荡 不做拱火浇油的事",
+          "url": "https://www.zaochenbao.com/news/china/202604/0968920.html",
+          "source": "联合早报",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时03分]"
+        },
+        {
+          "title": "伊朗驻巴大使：伊朗代表团周四晚抵伊斯兰堡",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0968909.html",
+          "source": "联合早报",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时03分]"
+        },
+        {
           "title": "一名黎巴嫩高级官员表示，任何谈判都将“单独进行，但模式相同”，类似于由巴基斯坦促成的伊朗与美国之间的停火协议。",
           "url": "https://flash.jin10.com/detail/20260410000803865800",
           "source": "金十数据",
@@ -41,65 +151,87 @@
           "time_info": "00时24分"
         },
         {
-          "title": "韩国外长将派遣特使访伊朗 就中东局势继续沟通",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0968930.html",
-          "source": "联合早报",
+          "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：（向伊朗人民）你们在这场神圣的防御中是明确的胜利者。",
+          "url": "https://flash.jin10.com/detail/20260410013951433800",
+          "source": "金十数据",
           "ranks": [
-            7
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时24分"
+          "time_info": "02时03分"
         },
         {
-          "title": "美联储会议纪要：伊朗战争带来双重风险，许多官员担心通胀加剧或有加息可能",
-          "url": "https://wallstreetcn.com/articles/3769516",
-          "source": "华尔街见闻",
+          "title": "伊朗国家电视台宣读了一份来自伊朗最高领袖穆杰塔巴·哈梅内伊的声明。",
+          "url": "https://flash.jin10.com/detail/20260410013740751800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：伊朗不寻求战争，但也不会放弃自身权利。",
+          "url": "https://flash.jin10.com/detail/20260410013545849800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时24分"
+          "time_info": "02时03分"
         },
         {
-          "title": "西班牙谴责以色列袭击黎巴嫩 重开驻伊朗大使馆",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0968927.html",
-          "source": "联合早报",
+          "title": "穆杰塔巴·哈梅内伊发文纪念伊朗已故最高领袖",
+          "url": "https://www.cls.cn/detail/2339689",
+          "source": "财联社热门",
           "ranks": [
-            10
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时24分"
+          "time_info": "02时03分"
         },
         {
-          "title": "中国国防部：中国在伊朗问题上坦坦荡荡 不做拱火浇油的事",
-          "url": "https://www.zaochenbao.com/news/china/202604/0968920.html",
-          "source": "联合早报",
+          "title": "知情人士：在黎巴嫩停火前 伊朗认为与美国进行谈判的选项已搁置",
+          "url": "https://flash.jin10.com/detail/20260410012314379800",
+          "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时24分"
+          "time_info": "02时03分"
         },
         {
-          "title": "伊朗驻巴大使：伊朗代表团周四晚抵伊斯兰堡",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0968909.html",
-          "source": "联合早报",
+          "title": "伊朗最高领袖将作重要发布",
+          "url": "https://flash.jin10.com/detail/20260410012117841800",
+          "source": "金十数据",
           "ranks": [
-            26
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时24分"
+          "time_info": "02时03分"
+        },
+        {
+          "title": "MarineTraffic的监测显示，停火以来首艘非伊朗油轮通过霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260410010455688800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
@@ -109,8 +241,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时03分]"
         },
         {
           "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
@@ -120,8 +252,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时03分]"
         },
         {
           "title": "停火首日即遇变数：特朗普“反复横跳”，不承认伊朗“10点计划”做基础",
@@ -131,8 +263,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时03分]"
         },
         {
           "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
@@ -142,8 +274,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时03分]"
         },
         {
           "title": "盟友与官员担忧特朗普太早宣告胜利 危及停火谈判",
@@ -153,19 +285,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "据悉内塔尼亚胡是在与特朗普通话后同意与黎巴嫩谈判",
-          "url": "https://flash.jin10.com/detail/20260409234405510800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时03分]"
         },
         {
           "title": "特朗普：没说撤军 美军将留驻至伊朗完全遵守协议",
@@ -173,6 +294,72 @@
           "source": "联合早报",
           "ranks": [
             28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时03分]"
+        },
+        {
+          "title": "据NBC新闻：特朗普表示，以色列正在缩减在黎巴嫩的行动。",
+          "url": "https://flash.jin10.com/detail/20260410012026431800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "据NBC新闻：特朗普表示，内塔尼亚胡称他会低调处理。",
+          "url": "https://flash.jin10.com/detail/20260410011940234800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "据NBC新闻：特朗普表示，在会议场合，伊朗领导人的言辞与他们面对媒体时的言论大不相同。他们在会议中的态度要更加理性。",
+          "url": "https://flash.jin10.com/detail/20260410011846485800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "据NBC新闻：特朗普谈及伊朗时表示，如果他们不达成协议，那将会非常痛苦。",
+          "url": "https://flash.jin10.com/detail/20260410011759715800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "据NBC新闻：特朗普表示，乐观地认为伊朗和平协议指日可待。",
+          "url": "https://flash.jin10.com/detail/20260410011557152800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "据悉内塔尼亚胡是在与特朗普通话后同意与黎巴嫩谈判",
+          "url": "https://flash.jin10.com/detail/20260409234405510800",
+          "source": "金十数据",
+          "ranks": [
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -192,8 +379,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时03分]"
         },
         {
           "title": "美股大型科技股盘前多数下跌，英特尔跌超2%",
@@ -203,8 +390,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时03分]"
         },
         {
           "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
@@ -214,8 +401,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时03分]"
         },
         {
           "title": "美伊停火持续性存疑 油价反弹美股震荡走弱 | 今夜看点",
@@ -225,8 +412,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时03分]"
         },
         {
           "title": "美股异动｜Claude管理智能体冲击应用软件股，Snowflake跌超7%",
@@ -236,8 +423,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时03分]"
         }
       ]
     },
@@ -259,6 +446,23 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI：即将推出新的每月100美元的ChatGPT Pro会员套餐。",
+          "url": "https://flash.jin10.com/detail/20260410013906393800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -270,8 +474,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时03分]"
         }
       ]
     }
