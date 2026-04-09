@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T02:03:55.793166+08:00",
-  "total_titles_processed": 146,
+  "generated_at": "2026-04-10T04:06:08.023307+08:00",
+  "total_titles_processed": 173,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时06分]"
         },
         {
           "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：霍尔木兹海峡管控将进入新阶段。",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -69,7 +69,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -80,7 +80,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -92,8 +92,41 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时06分]"
+        },
+        {
+          "title": "西班牙谴责以色列袭击黎巴嫩 重开驻伊朗大使馆",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0968927.html",
+          "source": "联合早报",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时06分]"
+        },
+        {
+          "title": "中国国防部：中国在伊朗问题上坦坦荡荡 不做拱火浇油的事",
+          "url": "https://www.zaochenbao.com/news/china/202604/0968920.html",
+          "source": "联合早报",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时06分]"
+        },
+        {
+          "title": "伊朗驻巴大使：伊朗代表团周四晚抵伊斯兰堡",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0968909.html",
+          "source": "联合早报",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时06分]"
         },
         {
           "title": "美联储会议纪要：伊朗战争带来双重风险，许多官员担心通胀加剧或有加息可能",
@@ -107,37 +140,15 @@
           "time_info": "[00时24分 ~ 02时03分]"
         },
         {
-          "title": "西班牙谴责以色列袭击黎巴嫩 重开驻伊朗大使馆",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0968927.html",
-          "source": "联合早报",
+          "title": "穆杰塔巴·哈梅内伊发文纪念伊朗已故最高领袖",
+          "url": "https://www.cls.cn/detail/2339689",
+          "source": "财联社热门",
           "ranks": [
-            10
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时03分]"
-        },
-        {
-          "title": "中国国防部：中国在伊朗问题上坦坦荡荡 不做拱火浇油的事",
-          "url": "https://www.zaochenbao.com/news/china/202604/0968920.html",
-          "source": "联合早报",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时03分]"
-        },
-        {
-          "title": "伊朗驻巴大使：伊朗代表团周四晚抵伊斯兰堡",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0968909.html",
-          "source": "联合早报",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时03分]"
+          "time_info": "[02时03分 ~ 04时06分]"
         },
         {
           "title": "一名黎巴嫩高级官员表示，任何谈判都将“单独进行，但模式相同”，类似于由巴基斯坦促成的伊朗与美国之间的停火协议。",
@@ -157,7 +168,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -168,7 +179,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -179,18 +190,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时03分"
-        },
-        {
-          "title": "穆杰塔巴·哈梅内伊发文纪念伊朗已故最高领袖",
-          "url": "https://www.cls.cn/detail/2339689",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -201,7 +201,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -212,7 +212,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -223,7 +223,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         }
@@ -231,7 +231,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
@@ -241,8 +241,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时06分]"
         },
         {
           "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
@@ -252,8 +252,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时06分]"
         },
         {
           "title": "停火首日即遇变数：特朗普“反复横跳”，不承认伊朗“10点计划”做基础",
@@ -263,8 +263,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时06分]"
         },
         {
           "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
@@ -274,8 +274,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时06分]"
         },
         {
           "title": "盟友与官员担忧特朗普太早宣告胜利 危及停火谈判",
@@ -285,8 +285,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时06分]"
         },
         {
           "title": "特朗普：没说撤军 美军将留驻至伊朗完全遵守协议",
@@ -296,8 +296,41 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时06分]"
+        },
+        {
+          "title": "伊朗称黎巴嫩停火等停战条款被违反、破坏“谈判基础”，特朗普称停火不含黎，万斯称从未承诺包括",
+          "url": "https://wallstreetcn.com/articles/3769515",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
+          "title": "据消息人士称，俄罗斯总统特使德米特里耶夫正在美国，与美国总统特朗普政府的成员会晤，讨论乌克兰问题和经济合作。德米特里耶夫的此次访问正值美国对俄罗斯石油的制裁豁免将于4月11日到期之际。",
+          "url": "https://flash.jin10.com/detail/20260410024548617800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
+          "title": "特朗普夫人梅拉尼娅：呼吁国会为爱泼斯坦案受害者举行公开听证会。",
+          "url": "https://flash.jin10.com/detail/20260410023656710800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         },
         {
           "title": "据NBC新闻：特朗普表示，以色列正在缩减在黎巴嫩的行动。",
@@ -306,7 +339,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -317,7 +350,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -328,7 +361,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -339,9 +372,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "特朗普夫人梅拉尼娅：我从未与爱泼斯坦有过关系，爱泼斯坦没有把我介绍给特朗普，这些指控有损我的声誉。",
+          "url": "https://flash.jin10.com/detail/20260410023325174800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         },
         {
           "title": "据NBC新闻：特朗普表示，乐观地认为伊朗和平协议指日可待。",
@@ -350,9 +394,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "特朗普夫人梅拉尼娅：把我与爱泼斯坦扯上关系的谎言今天就必须停止。",
+          "url": "https://flash.jin10.com/detail/20260410023231639800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         },
         {
           "title": "据悉内塔尼亚胡是在与特朗普通话后同意与黎巴嫩谈判",
@@ -379,8 +434,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时06分]"
         },
         {
           "title": "美股大型科技股盘前多数下跌，英特尔跌超2%",
@@ -390,19 +445,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时06分]"
         },
         {
           "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
           "url": "https://wallstreetcn.com/articles/3769443",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时06分]"
         },
         {
           "title": "美伊停火持续性存疑 油价反弹美股震荡走弱 | 今夜看点",
@@ -412,8 +468,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时06分]"
         },
         {
           "title": "美股异动｜Claude管理智能体冲击应用软件股，Snowflake跌超7%",
@@ -423,8 +479,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时06分]"
         }
       ]
     },
@@ -456,7 +512,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         }
@@ -471,11 +527,12 @@
           "url": "https://wallstreetcn.com/articles/3769555",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时06分]"
         }
       ]
     }
