@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T18:14:28.673814+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-04-10T19:55:38.842175+08:00",
+  "total_titles_processed": 706,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "伊朗副外长：只有美国真正停止在中东地区的“侵略”行为，霍尔木兹海峡才会重新开放",
@@ -42,6 +42,20 @@
           "time_info": "[00时24分 ~ 07时46分]"
         },
         {
+          "title": "伊朗最高领袖：伊朗不寻求战争也不会放弃权利，霍尔木兹海峡的管理将进入新阶段",
+          "url": "https://wallstreetcn.com/articles/3769620",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时31分 ~ 19时55分]"
+        },
+        {
           "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：霍尔木兹海峡管控将进入新阶段。",
           "url": "https://flash.jin10.com/detail/20260410014226401800",
           "source": "金十数据",
@@ -59,7 +73,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -153,19 +167,6 @@
           "time_info": "02时03分"
         },
         {
-          "title": "伊朗最高领袖：伊朗不寻求战争也不会放弃权利，霍尔木兹海峡的管理将进入新阶段",
-          "url": "https://wallstreetcn.com/articles/3769620",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时31分 ~ 18时14分]"
-        },
-        {
           "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：我们仍在等待南部邻国作出恰当回应，以便我们能够“向你们展现我们的兄弟情谊”。",
           "url": "https://flash.jin10.com/detail/20260410014043492800",
           "source": "金十数据",
@@ -218,11 +219,25 @@
           "source": "联合早报",
           "ranks": [
             3,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 18时14分]"
+          "appearance_count": 3,
+          "time_info": "[16时36分 ~ 19时55分]"
+        },
+        {
+          "title": "伊朗欲在霍尔木兹收“过路费” 能赚多少钱、能否行得通？一文读懂",
+          "url": "https://www.cls.cn/detail/2340145",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时11分 ~ 19时55分]"
         },
         {
           "title": "停火首日，霍尔木兹仅有4艘船通过，美国催盟友给出方案，伊朗公布安全航路图",
@@ -239,30 +254,18 @@
           "time_info": "[07时46分 ~ 16时36分]"
         },
         {
-          "title": "伊朗欲在霍尔木兹收“过路费” 能赚多少钱、能否行得通？一文读懂",
-          "url": "https://www.cls.cn/detail/2340145",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时11分 ~ 18时14分]"
-        },
-        {
           "title": "伊朗最高领袖穆杰塔巴提出三点主张",
           "url": "https://www.zaochenbao.com/news/politics/202604/1068969.html",
           "source": "联合早报",
           "ranks": [
             6,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时11分 ~ 18时14分]"
+          "appearance_count": 4,
+          "time_info": "[14时11分 ~ 19时55分]"
         },
         {
           "title": "报道：伊朗每天允许不超过15艘船只通过霍尔木兹海峡",
@@ -365,6 +368,17 @@
           "time_info": "02时03分"
         },
         {
+          "title": "系好安全带！伊朗冲突点燃油价，今晚美国CPI或创四年最大环比涨幅",
+          "url": "https://wallstreetcn.com/articles/3769663",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
           "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：伊朗不寻求战争，但也不会放弃自身权利。",
           "url": "https://flash.jin10.com/detail/20260410013545849800",
           "source": "金十数据",
@@ -374,6 +388,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "美伊谈判在即！伊斯兰堡封锁核心区严阵以待，万斯领衔美方代表团11日对阵伊朗",
+          "url": "https://wallstreetcn.com/articles/3769660",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "消息人士称伊朗在黎巴嫩实现停火前不会与美国和谈",
@@ -541,6 +566,18 @@
           "time_info": "[00时24分 ~ 07时46分]"
         },
         {
+          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
+          "url": "https://wallstreetcn.com/articles/3769619",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时31分 ~ 19时55分]"
+        },
+        {
           "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
           "url": "https://wallstreetcn.com/articles/3769517",
           "source": "华尔街见闻",
@@ -550,18 +587,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时24分 ~ 05时53分]"
-        },
-        {
-          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
-          "url": "https://wallstreetcn.com/articles/3769619",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时31分 ~ 18时14分]"
         },
         {
           "title": "美伊“火药味”又浓了？关于霍尔木兹，特朗普和伊朗最高领袖分别说……",
@@ -586,6 +611,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
+        },
+        {
+          "title": "特朗普长子关联公司助中企向美国安监管机构游说",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1068965.html",
+          "source": "联合早报",
+          "ranks": [
+            1,
+            10,
+            23,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时31分 ~ 19时55分]"
         },
         {
           "title": "盟友与官员担忧特朗普太早宣告胜利 危及停火谈判",
@@ -621,20 +661,6 @@
           "time_info": "07时46分"
         },
         {
-          "title": "特朗普长子关联公司助中企向美国安监管机构游说",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1068965.html",
-          "source": "联合早报",
-          "ranks": [
-            1,
-            10,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时31分 ~ 18时14分]"
-        },
-        {
           "title": "伊朗提出和谈前提：黎巴嫩实现停火！特朗普：已要求以色列“低调”",
           "url": "https://www.cls.cn/detail/2339892",
           "source": "财联社热门",
@@ -648,6 +674,19 @@
           "time_info": "[11时31分 ~ 16时36分]"
         },
         {
+          "title": "特朗普对美伊协议非常乐观 要求以色列在黎保持“低调”",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1068986.html",
+          "source": "联合早报",
+          "ranks": [
+            4,
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时36分 ~ 19时55分]"
+        },
+        {
           "title": "特朗普：伊朗在海峡石油运输方面表现得非常糟糕",
           "url": "https://flash.jin10.com/detail/20260410063238426800",
           "source": "金十数据",
@@ -658,18 +697,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时53分 ~ 07时46分]"
-        },
-        {
-          "title": "特朗普对美伊协议非常乐观 要求以色列在黎保持“低调”",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1068986.html",
-          "source": "联合早报",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 18时14分]"
         },
         {
           "title": "美国总统特朗普：伊朗在霍尔木兹海峡允许石油通过方面的表现非常糟糕。",
@@ -690,11 +717,12 @@
           "ranks": [
             7,
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时11分 ~ 18时14分]"
+          "appearance_count": 4,
+          "time_info": "[14时11分 ~ 19时55分]"
         },
         {
           "title": "特朗普警告伊朗不要收霍尔木兹海峡通行费 | 环球市场",
@@ -924,7 +952,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "热门中概股美股盘前多数下跌，小鹏集团跌超3%",
@@ -1032,6 +1060,17 @@
           "time_info": "16时36分"
         },
         {
+          "title": "美股光通信龙头Lumentum放话：2028年产能面临售罄，本轮周期至少持续5年",
+          "url": "https://www.36kr.com/newsflashes/3760888124146437",
+          "source": "36氪",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
           "title": "美股异动｜小马智行盘前涨超1% 发布PonyWorld世界模型2.0",
           "url": "https://www.gelonghui.com/news/5207071",
           "source": "格隆汇",
@@ -1077,7 +1116,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
