@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T14:11:44.538964+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-04-10T16:36:15.393756+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "伊朗副外长：只有美国真正停止在中东地区的“侵略”行为，霍尔木兹海峡才会重新开放",
@@ -142,6 +142,17 @@
           "time_info": "02时03分"
         },
         {
+          "title": "伊朗副外长：美国“必须在战争和停火之间作出选择”",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1068987.html",
+          "source": "联合早报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：我们仍在等待南部邻国作出恰当回应，以便我们能够“向你们展现我们的兄弟情谊”。",
           "url": "https://flash.jin10.com/detail/20260410014043492800",
           "source": "金十数据",
@@ -189,29 +200,55 @@
           "time_info": "02时03分"
         },
         {
+          "title": "伊朗最高领袖：伊朗不寻求战争也不会放弃权利，霍尔木兹海峡的管理将进入新阶段",
+          "url": "https://wallstreetcn.com/articles/3769620",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 16时36分]"
+        },
+        {
           "title": "停火首日，霍尔木兹仅有4艘船通过，美国催盟友给出方案，伊朗公布安全航路图",
           "url": "https://wallstreetcn.com/articles/3769554",
           "source": "华尔街见闻",
           "ranks": [
             10,
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时46分 ~ 14时11分]"
+          "appearance_count": 4,
+          "time_info": "[07时46分 ~ 16时36分]"
         },
         {
-          "title": "伊朗最高领袖：伊朗不寻求战争也不会放弃权利，霍尔木兹海峡的管理将进入新阶段",
-          "url": "https://wallstreetcn.com/articles/3769620",
-          "source": "华尔街见闻",
+          "title": "伊朗最高领袖穆杰塔巴提出三点主张",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1068969.html",
+          "source": "联合早报",
           "ranks": [
-            10,
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 16时36分]"
+        },
+        {
+          "title": "伊朗欲在霍尔木兹收“过路费” 能赚多少钱、能否行得通？一文读懂",
+          "url": "https://www.cls.cn/detail/2340145",
+          "source": "财联社热门",
+          "ranks": [
+            11,
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时31分 ~ 14时11分]"
+          "time_info": "[14时11分 ~ 16时36分]"
         },
         {
           "title": "伊朗议长：伊朗民众和武装部队为各类情况做好准备",
@@ -270,17 +307,6 @@
           "time_info": "05时53分"
         },
         {
-          "title": "伊朗最高领袖穆杰塔巴提出三点主张",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1068969.html",
-          "source": "联合早报",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时11分"
-        },
-        {
           "title": "伊朗媒体：伊朗最高领袖外交政策顾问、前伊朗外交部长卡迈勒·哈拉齐(Kamal Kharazi)因此前在美以联合空袭中所受的伤势不治身亡。",
           "url": "https://flash.jin10.com/detail/20260410051812374800",
           "source": "金十数据",
@@ -314,6 +340,17 @@
           "time_info": "02时03分"
         },
         {
+          "title": "报道：伊朗每天允许不超过15艘船只通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3769603",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：伊朗不寻求战争，但也不会放弃自身权利。",
           "url": "https://flash.jin10.com/detail/20260410013545849800",
           "source": "金十数据",
@@ -323,17 +360,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
-        },
-        {
-          "title": "伊朗欲在霍尔木兹收“过路费” 能赚多少钱、能否行得通？一文读懂",
-          "url": "https://www.cls.cn/detail/2340145",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时11分"
         },
         {
           "title": "消息人士称伊朗在黎巴嫩实现停火前不会与美国和谈",
@@ -460,7 +486,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
@@ -517,22 +543,24 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 14时11分]"
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 16时36分]"
         },
         {
           "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
           "url": "https://wallstreetcn.com/articles/3769619",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 14时11分]"
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 16时36分]"
         },
         {
           "title": "美国总统特朗普：《华尔街日报》，世界上最糟糕和最不准确的“社论委员会”之一，声称我“在伊朗宣布了过早的胜利”。实际上，这是一场胜利，根本没有什么“过早”！",
@@ -568,6 +596,17 @@
           "time_info": "[00时24分 ~ 07时46分]"
         },
         {
+          "title": "特朗普对美伊协议非常乐观 要求以色列在黎保持“低调”",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1068986.html",
+          "source": "联合早报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "英国首相斯塔默称“受够了”特朗普",
           "url": "https://flash.jin10.com/detail/20260410072148748800",
           "source": "金十数据",
@@ -579,16 +618,30 @@
           "time_info": "07时46分"
         },
         {
+          "title": "伊朗提出和谈前提：黎巴嫩实现停火！特朗普：已要求以色列“低调”",
+          "url": "https://www.cls.cn/detail/2339892",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 16时36分]"
+        },
+        {
           "title": "特朗普长子关联公司助中企向美国安监管机构游说",
           "url": "https://www.zaochenbao.com/news/politics/202604/1068965.html",
           "source": "联合早报",
           "ranks": [
             1,
-            10
+            10,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 14时11分]"
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 16时36分]"
         },
         {
           "title": "特朗普：伊朗在海峡石油运输方面表现得非常糟糕",
@@ -639,18 +692,6 @@
           "time_info": "[11时31分 ~ 14时11分]"
         },
         {
-          "title": "伊朗提出和谈前提：黎巴嫩实现停火！特朗普：已要求以色列“低调”",
-          "url": "https://www.cls.cn/detail/2339892",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 14时11分]"
-        },
-        {
           "title": "特朗普敦促北约作出承诺 确保霍尔木兹海峡安全",
           "url": "https://flash.jin10.com/detail/20260410062604282800",
           "source": "金十数据",
@@ -663,6 +704,18 @@
           "time_info": "[06时53分 ~ 07时46分]"
         },
         {
+          "title": "特朗普警告伊朗不要收霍尔木兹海峡通行费",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1068968.html",
+          "source": "联合早报",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 16时36分]"
+        },
+        {
           "title": "白宫高官：特朗普与顾问讨论从欧洲撤出部分美军",
           "url": "https://www.zaochenbao.com/news/politics/202604/1068958.html",
           "source": "联合早报",
@@ -673,17 +726,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时31分 ~ 14时11分]"
-        },
-        {
-          "title": "特朗普警告伊朗不要收霍尔木兹海峡通行费",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1068968.html",
-          "source": "联合早报",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时11分"
         },
         {
           "title": "伊朗称黎巴嫩停火等停战条款被违反、破坏“谈判基础”，特朗普称停火不含黎，万斯称从未承诺包括",
@@ -865,7 +907,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "热门中概股美股盘前多数下跌，小鹏集团跌超3%",
@@ -939,6 +981,17 @@
           "time_info": "[00时24分 ~ 06时53分]"
         },
         {
+          "title": "美股异动｜中概新能源车股盘前普涨 我国3月汽车出口超预期增长",
+          "url": "https://www.gelonghui.com/news/5207081",
+          "source": "格隆汇",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "美股异动｜Claude管理智能体冲击应用软件股，Snowflake跌超7%",
           "url": "https://www.gelonghui.com/news/5206764",
           "source": "格隆汇",
@@ -949,6 +1002,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时24分 ~ 06时53分]"
+        },
+        {
+          "title": "美股异动丨光通信龙头Lumentum盘前涨4.8%，订单有望排满至2028年",
+          "url": "https://www.gelonghui.com/news/5207079",
+          "source": "格隆汇",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "美股异动｜小马智行盘前涨超1% 发布PonyWorld世界模型2.0",
+          "url": "https://www.gelonghui.com/news/5207071",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "现货金银、WTI原油周五小幅高开，美股三大股指期货微跌。",
@@ -1047,6 +1122,45 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "霍尔木兹海峡前途未卜，标普七连涨，半导体指数再新高，美元四连跌",
+          "url": "https://wallstreetcn.com/articles/3769555",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时53分"
+        },
+        {
+          "title": "美元指数9日下跌",
+          "url": "https://flash.jin10.com/detail/20260410043300021800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
+          "title": "美元指数DXY站上99，日内涨0.20%。",
+          "url": "https://flash.jin10.com/detail/20260410160219118800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -1072,34 +1186,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "霍尔木兹海峡前途未卜，标普七连涨，半导体指数再新高，美元四连跌",
-          "url": "https://wallstreetcn.com/articles/3769555",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时53分"
-        },
-        {
-          "title": "美元指数9日下跌",
-          "url": "https://flash.jin10.com/detail/20260410043300021800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时53分"
         }
       ]
     },
