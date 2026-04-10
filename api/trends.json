@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T00:03:51.796883+08:00",
-  "total_titles_processed": 118,
+  "generated_at": "2026-04-11T01:54:24.645201+08:00",
+  "total_titles_processed": 144,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "美国代表团启程，万斯：相信谈判将取得积极成果！伊朗副外长：伊方十点计划将作为谈判基础",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 01时54分]"
         },
         {
           "title": "系好安全带！伊朗冲突点燃油价，今晚美国CPI或创四年最大环比涨幅",
@@ -26,35 +26,84 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 01时54分]"
         },
         {
           "title": "北约秘书长：美国要求支援伊朗战争 成员国已努力满足要求",
           "url": "https://www.zaochenbao.com/news/politics/202604/1069011.html",
           "source": "联合早报",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
-        },
-        {
-          "title": "据悉美伊代表团抵达巴基斯坦，伊朗将参加谈判",
-          "url": "https://flash.jin10.com/detail/20260410232440042800",
-          "source": "金十数据",
-          "ranks": [
+            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 01时54分]"
         },
         {
           "title": "美伊谈判在即！伊斯兰堡封锁核心区严阵以待，万斯领衔美方代表团11日对阵伊朗",
           "url": "https://wallstreetcn.com/articles/3769660",
           "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 01时54分]"
+        },
+        {
+          "title": "沙特东西输油管遭伊朗击中 运量减10%油价更紧绷",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1069009.html",
+          "source": "联合早报",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 01时54分]"
+        },
+        {
+          "title": "联合国秘书长特使：袭击伊朗小学将被钉上历史耻辱柱",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1069006.html",
+          "source": "联合早报",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 01时54分]"
+        },
+        {
+          "title": "路透：中国独立炼油厂多年来首次溢价采购伊朗原油",
+          "url": "https://www.zaochenbao.com/news/china/202604/1069003.html",
+          "source": "联合早报",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 01时54分]"
+        },
+        {
+          "title": "伊朗副外长：美国“必须在战争和停火之间作出选择”",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1068987.html",
+          "source": "联合早报",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 01时54分]"
+        },
+        {
+          "title": "据悉美伊代表团抵达巴基斯坦，伊朗将参加谈判",
+          "url": "https://flash.jin10.com/detail/20260410232440042800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
@@ -74,37 +123,26 @@
           "time_info": "00时03分"
         },
         {
-          "title": "沙特东西输油管遭伊朗击中 运量减10%油价更紧绷",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1069009.html",
-          "source": "联合早报",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
-        },
-        {
-          "title": "联合国秘书长特使：袭击伊朗小学将被钉上历史耻辱柱",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1069006.html",
-          "source": "联合早报",
+          "title": "伊朗最高领袖对前外长遇难表示哀悼",
+          "url": "https://flash.jin10.com/detail/20260411005606062800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时03分"
+          "time_info": "01时54分"
         },
         {
-          "title": "路透：中国独立炼油厂多年来首次溢价采购伊朗原油",
-          "url": "https://www.zaochenbao.com/news/china/202604/1069003.html",
-          "source": "联合早报",
+          "title": "伊朗警告将有力回应对黎巴嫩的持续袭击",
+          "url": "https://flash.jin10.com/detail/20260411005532168800",
+          "source": "金十数据",
           "ranks": [
-            15
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时03分"
+          "time_info": "01时54分"
         },
         {
           "title": "据伊朗国家媒体：伊朗外长阿拉格齐表示，美国必须履行承诺，将黎巴嫩纳入停火协议，并停止以色列对黎巴嫩的袭击。",
@@ -140,17 +178,6 @@
           "time_info": "00时03分"
         },
         {
-          "title": "伊朗副外长：美国“必须在战争和停火之间作出选择”",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1068987.html",
-          "source": "联合早报",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
-        },
-        {
           "title": "伊朗议长：黎巴嫩停火和释放伊朗资产必须在谈判之前完成",
           "url": "https://flash.jin10.com/detail/20260410224423064800",
           "source": "金十数据",
@@ -176,8 +203,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "特朗普推动芯片出口的计划或正受阻于官僚体制",
+          "url": "https://flash.jin10.com/detail/20260411013302688800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
         {
           "title": "据纽约邮报：若与伊朗和平谈判失败，特朗普准备动用武力。",
           "url": "https://flash.jin10.com/detail/20260410233248888800",
@@ -197,8 +235,30 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 01时54分]"
+        },
+        {
+          "title": "特朗普对美伊协议非常乐观 要求以色列在黎保持“低调”",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1068986.html",
+          "source": "联合早报",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 01时54分]"
+        },
+        {
+          "title": "市场消息：美国民主党参议员沃伦致函美国商品期货交易委员会（CFTC），要求调查与美国总统特朗普伊朗论调相关的石油交易。",
+          "url": "https://flash.jin10.com/detail/20260411004405756800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时03分"
+          "time_info": "01时54分"
         },
         {
           "title": "巴西财政部长：巴西总统卢拉与美国总统特朗普的对话有助于达成协议。这为与美国的其他交易铺平了道路。美国官员表示希望下周在华盛顿与我进一步深入会谈。",
@@ -212,21 +272,32 @@
           "time_info": "00时03分"
         },
         {
-          "title": "特朗普对美伊协议非常乐观 要求以色列在黎保持“低调”",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1068986.html",
-          "source": "联合早报",
+          "title": "特朗普称若未达成协议 将加大对伊朗军事打击",
+          "url": "https://flash.jin10.com/detail/20260411003436336800",
+          "source": "金十数据",
           "ranks": [
-            25
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时03分"
+          "time_info": "01时54分"
+        },
+        {
+          "title": "特朗普：伊朗手中已无筹码 存在的原因是为了谈判",
+          "url": "https://flash.jin10.com/detail/20260411003033068800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时54分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "热门中概股美股盘前集体走强，理想汽车涨超3%",
@@ -236,8 +307,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 01时54分]"
         },
         {
           "title": "美股大型科技股盘前普涨，Meta涨超1%",
@@ -247,8 +318,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 01时54分]"
         },
         {
           "title": "美股异动丨光通信概念股集体走高，Lumentum涨超2%",
@@ -258,8 +329,30 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 01时54分]"
+        },
+        {
+          "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260411003357698800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时03分"
+          "time_info": "01时54分"
+        },
+        {
+          "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260411003343083800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时54分"
         }
       ]
     }
