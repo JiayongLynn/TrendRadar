@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T01:54:24.645201+08:00",
-  "total_titles_processed": 144,
+  "generated_at": "2026-04-11T03:06:42.126397+08:00",
+  "total_titles_processed": 174,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "美国代表团启程，万斯：相信谈判将取得积极成果！伊朗副外长：伊方十点计划将作为谈判基础",
@@ -15,19 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 03时06分]"
         },
         {
           "title": "系好安全带！伊朗冲突点燃油价，今晚美国CPI或创四年最大环比涨幅",
           "url": "https://wallstreetcn.com/articles/3769663",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 03时06分]"
         },
         {
           "title": "北约秘书长：美国要求支援伊朗战争 成员国已努力满足要求",
@@ -38,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 03时06分]"
         },
         {
           "title": "美伊谈判在即！伊斯兰堡封锁核心区严阵以待，万斯领衔美方代表团11日对阵伊朗",
@@ -50,8 +51,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 03时06分]"
         },
         {
           "title": "沙特东西输油管遭伊朗击中 运量减10%油价更紧绷",
@@ -62,8 +63,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 03时06分]"
         },
         {
           "title": "联合国秘书长特使：袭击伊朗小学将被钉上历史耻辱柱",
@@ -74,8 +75,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 03时06分]"
         },
         {
           "title": "路透：中国独立炼油厂多年来首次溢价采购伊朗原油",
@@ -86,8 +87,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 03时06分]"
         },
         {
           "title": "伊朗副外长：美国“必须在战争和停火之间作出选择”",
@@ -97,8 +98,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 03时06分]"
         },
         {
           "title": "据悉美伊代表团抵达巴基斯坦，伊朗将参加谈判",
@@ -123,13 +124,24 @@
           "time_info": "00时03分"
         },
         {
+          "title": "消息人士：伊朗如愿与美国副总统万斯进行谈判",
+          "url": "https://flash.jin10.com/detail/20260411022036244800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
           "title": "伊朗最高领袖对前外长遇难表示哀悼",
           "url": "https://flash.jin10.com/detail/20260411005606062800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         },
@@ -140,7 +152,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         },
@@ -154,6 +166,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "伊朗官员称霍尔木兹海峡过去两天内仍保持关闭状态",
+          "url": "https://flash.jin10.com/detail/20260411020448652800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时06分"
         },
         {
           "title": "伊朗议长称谈判开始前需实现黎巴嫩停火及解冻伊朗被冻结资产",
@@ -203,7 +226,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普推动芯片出口的计划或正受阻于官僚体制",
@@ -212,7 +235,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         },
@@ -228,22 +251,22 @@
           "time_info": "00时03分"
         },
         {
-          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
-          "url": "https://wallstreetcn.com/articles/3769619",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时54分]"
-        },
-        {
           "title": "特朗普对美伊协议非常乐观 要求以色列在黎保持“低调”",
           "url": "https://www.zaochenbao.com/news/politics/202604/1068986.html",
           "source": "联合早报",
           "ranks": [
             25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 03时06分]"
+        },
+        {
+          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
+          "url": "https://wallstreetcn.com/articles/3769619",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -256,7 +279,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         },
@@ -272,13 +295,24 @@
           "time_info": "00时03分"
         },
         {
+          "title": "白宫官员：白宫内部的不确定性依然存在，特朗普目前认为霍尔木兹海峡短期内不太可能重新开放。",
+          "url": "https://flash.jin10.com/detail/20260411020406517800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
           "title": "特朗普称若未达成协议 将加大对伊朗军事打击",
           "url": "https://flash.jin10.com/detail/20260411003436336800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         },
@@ -289,7 +323,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         }
@@ -307,8 +341,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 03时06分]"
         },
         {
           "title": "美股大型科技股盘前普涨，Meta涨超1%",
@@ -318,8 +352,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 03时06分]"
         },
         {
           "title": "美股异动丨光通信概念股集体走高，Lumentum涨超2%",
@@ -329,8 +363,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 03时06分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股盘中）",
@@ -339,7 +373,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         },
@@ -350,9 +384,26 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
+          "url": "https://flash.jin10.com/detail/20260411023746377800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时06分"
         }
       ]
     }
