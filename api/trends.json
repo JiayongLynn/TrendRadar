@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T21:41:47.144113+08:00",
-  "total_titles_processed": 787,
+  "generated_at": "2026-04-10T22:58:20.099200+08:00",
+  "total_titles_processed": 835,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "伊朗副外长：只有美国真正停止在中东地区的“侵略”行为，霍尔木兹海峡才会重新开放",
@@ -45,6 +45,28 @@
           "time_info": "[11时31分 ~ 21时41分]"
         },
         {
+          "title": "北约秘书长：美国要求支援伊朗战争 成员国已努力满足要求",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1069011.html",
+          "source": "联合早报",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 22时58分]"
+        },
+        {
+          "title": "沙特东西输油管遭伊朗击中 运量减10%油价更紧绷",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1069009.html",
+          "source": "联合早报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 22时58分]"
+        },
+        {
           "title": "韩国外长将派遣特使访伊朗 就中东局势继续沟通",
           "url": "https://www.zaochenbao.com/news/politics/202604/0968930.html",
           "source": "联合早报",
@@ -54,6 +76,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时24分 ~ 07时46分]"
+        },
+        {
+          "title": "伊朗副外长：美国“必须在战争和停火之间作出选择”",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1068987.html",
+          "source": "联合早报",
+          "ranks": [
+            3,
+            8,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时36分 ~ 22时58分]"
         },
         {
           "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：霍尔木兹海峡管控将进入新阶段。",
@@ -78,15 +114,15 @@
           "time_info": "18时14分"
         },
         {
-          "title": "北约秘书长：美国要求支援伊朗战争 成员国已努力满足要求",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1069011.html",
-          "source": "联合早报",
+          "title": "美媒：以官员称伊朗正在征收海峡通行费",
+          "url": "https://flash.jin10.com/detail/20260410223419119800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时41分"
+          "time_info": "22时58分"
         },
         {
           "title": "穆杰塔巴·哈梅内伊发文纪念伊朗已故最高领袖",
@@ -178,17 +214,6 @@
           "time_info": "02时03分"
         },
         {
-          "title": "沙特东西输油管遭伊朗击中 运量减10%油价更紧绷",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1069009.html",
-          "source": "联合早报",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
-        },
-        {
           "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：我们仍在等待南部邻国作出恰当回应，以便我们能够“向你们展现我们的兄弟情谊”。",
           "url": "https://flash.jin10.com/detail/20260410014043492800",
           "source": "金十数据",
@@ -234,20 +259,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
-        },
-        {
-          "title": "伊朗副外长：美国“必须在战争和停火之间作出选择”",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1068987.html",
-          "source": "联合早报",
-          "ranks": [
-            3,
-            8,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时36分 ~ 21时41分]"
         },
         {
           "title": "伊朗欲在霍尔木兹收“过路费” 能赚多少钱、能否行得通？一文读懂",
@@ -299,8 +310,43 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时55分 ~ 22时58分]"
+        },
+        {
+          "title": "美伊谈判在即！伊斯兰堡封锁核心区严阵以待，万斯领衔美方代表团11日对阵伊朗",
+          "url": "https://wallstreetcn.com/articles/3769660",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时55分 ~ 22时58分]"
+        },
+        {
+          "title": "美国代表团启程，万斯：相信谈判将取得积极成果！伊朗副外长：伊方十点计划将作为谈判基础",
+          "url": "https://wallstreetcn.com/articles/3769693",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时55分 ~ 21时41分]"
+          "time_info": "[21时41分 ~ 22时58分]"
+        },
+        {
+          "title": "联合国秘书长特使：袭击伊朗小学将被钉上历史耻辱柱",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1069006.html",
+          "source": "联合早报",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 22时58分]"
         },
         {
           "title": "报道：伊朗每天允许不超过15艘船只通过霍尔木兹海峡",
@@ -326,16 +372,15 @@
           "time_info": "[11时31分 ~ 14时11分]"
         },
         {
-          "title": "美伊谈判在即！伊斯兰堡封锁核心区严阵以待，万斯领衔美方代表团11日对阵伊朗",
-          "url": "https://wallstreetcn.com/articles/3769660",
-          "source": "华尔街见闻",
+          "title": "路透：中国独立炼油厂多年来首次溢价采购伊朗原油",
+          "url": "https://www.zaochenbao.com/news/china/202604/1069003.html",
+          "source": "联合早报",
           "ranks": [
-            10,
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时55分 ~ 21时41分]"
+          "time_info": "[21时41分 ~ 22时58分]"
         },
         {
           "title": "美联储会议纪要：伊朗战争带来双重风险，许多官员担心通胀加剧或有加息可能",
@@ -382,28 +427,6 @@
           "time_info": "05时53分"
         },
         {
-          "title": "美国代表团启程，万斯：相信谈判将取得积极成果！伊朗副外长：伊方十点计划将作为谈判基础",
-          "url": "https://wallstreetcn.com/articles/3769693",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
-        },
-        {
-          "title": "联合国秘书长特使：袭击伊朗小学将被钉上历史耻辱柱",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1069006.html",
-          "source": "联合早报",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
-        },
-        {
           "title": "伊朗媒体：伊朗最高领袖外交政策顾问、前伊朗外交部长卡迈勒·哈拉齐(Kamal Kharazi)因此前在美以联合空袭中所受的伤势不治身亡。",
           "url": "https://flash.jin10.com/detail/20260410051812374800",
           "source": "金十数据",
@@ -437,17 +460,6 @@
           "time_info": "02时03分"
         },
         {
-          "title": "路透：中国独立炼油厂多年来首次溢价采购伊朗原油",
-          "url": "https://www.zaochenbao.com/news/china/202604/1069003.html",
-          "source": "联合早报",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
-        },
-        {
           "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：伊朗不寻求战争，但也不会放弃自身权利。",
           "url": "https://flash.jin10.com/detail/20260410013545849800",
           "source": "金十数据",
@@ -476,7 +488,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -597,7 +609,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         }
@@ -605,7 +617,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
@@ -620,6 +632,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时24分 ~ 14时11分]"
+        },
+        {
+          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
+          "url": "https://wallstreetcn.com/articles/3769619",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时31分 ~ 22时58分]"
         },
         {
           "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
@@ -646,18 +670,6 @@
           "time_info": "[00时24分 ~ 07时46分]"
         },
         {
-          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
-          "url": "https://wallstreetcn.com/articles/3769619",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时31分 ~ 21时41分]"
-        },
-        {
           "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
           "url": "https://wallstreetcn.com/articles/3769517",
           "source": "华尔街见闻",
@@ -680,6 +692,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时31分 ~ 16时36分]"
+        },
+        {
+          "title": "特朗普对美伊协议非常乐观 要求以色列在黎保持“低调”",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1068986.html",
+          "source": "联合早报",
+          "ranks": [
+            4,
+            9,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时36分 ~ 22时58分]"
         },
         {
           "title": "美国总统特朗普：《华尔街日报》，世界上最糟糕和最不准确的“社论委员会”之一，声称我“在伊朗宣布了过早的胜利”。实际上，这是一场胜利，根本没有什么“过早”！",
@@ -730,6 +756,17 @@
           "time_info": "[00时24分 ~ 07时46分]"
         },
         {
+          "title": "美国总统特朗普：Palantir Technologies已证明具备出色的作战能力和装备。问问我们的敌人就知道了！！",
+          "url": "https://flash.jin10.com/detail/20260410223332476800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "英国首相斯塔默称“受够了”特朗普",
           "url": "https://flash.jin10.com/detail/20260410072148748800",
           "source": "金十数据",
@@ -739,20 +776,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
-        },
-        {
-          "title": "特朗普对美伊协议非常乐观 要求以色列在黎保持“低调”",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1068986.html",
-          "source": "联合早报",
-          "ranks": [
-            4,
-            9,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时36分 ~ 21时41分]"
         },
         {
           "title": "伊朗提出和谈前提：黎巴嫩实现停火！特朗普：已要求以色列“低调”",
@@ -1033,7 +1056,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "热门中概股美股盘前多数下跌，小鹏集团跌超3%",
@@ -1071,6 +1094,28 @@
           "time_info": "[06时53分 ~ 14时11分]"
         },
         {
+          "title": "热门中概股美股盘前集体走强，理想汽车涨超3%",
+          "url": "https://www.36kr.com/newsflashes/3761013323678473",
+          "source": "36氪",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 22时58分]"
+        },
+        {
+          "title": "美股大型科技股盘前普涨，Meta涨超1%",
+          "url": "https://www.36kr.com/newsflashes/3761007768797704",
+          "source": "36氪",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 22时58分]"
+        },
+        {
           "title": "美股三大指数集体收涨 纳指、标普500指数录得七连涨",
           "url": "https://www.gelonghui.com/news/5206882",
           "source": "格隆汇",
@@ -1083,17 +1128,6 @@
           "time_info": "[06时53分 ~ 07时46分]"
         },
         {
-          "title": "热门中概股美股盘前集体走强，理想汽车涨超3%",
-          "url": "https://www.36kr.com/newsflashes/3761013323678473",
-          "source": "36氪",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
-        },
-        {
           "title": "美伊停火持续性存疑 油价反弹美股震荡走弱 | 今夜看点",
           "url": "https://www.cls.cn/detail/2339594",
           "source": "财联社热门",
@@ -1104,17 +1138,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时24分 ~ 07时46分]"
-        },
-        {
-          "title": "美股大型科技股盘前普涨，Meta涨超1%",
-          "url": "https://www.36kr.com/newsflashes/3761007768797704",
-          "source": "36氪",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
         },
         {
           "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
@@ -1174,6 +1197,17 @@
           "time_info": "19时55分"
         },
         {
+          "title": "美股异动丨光通信概念股集体走高，Lumentum涨超2%",
+          "url": "https://www.gelonghui.com/news/5207711",
+          "source": "格隆汇",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "美股异动｜小马智行盘前涨超1% 发布PonyWorld世界模型2.0",
           "url": "https://www.gelonghui.com/news/5207071",
           "source": "格隆汇",
@@ -1199,7 +1233,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "OpenAI宣布推出全新专业版订阅套餐，月费100美元",
@@ -1211,6 +1245,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
+        },
+        {
+          "title": "据德国商报：消息人士称，OpenAI 将受欧盟《数字服务法》（DSA）监管，并被归类为超大型在线搜索引擎。",
+          "url": "https://flash.jin10.com/detail/20260410221958864800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "OpenAI“星门计划”核心负责人离职，数据中心战略再迎重大调整",
@@ -1244,6 +1289,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
+        },
+        {
+          "title": "据德国商报：消息人士称，欧盟委员会计划未来对ChatGPT实施更严格的监管。",
+          "url": "https://flash.jin10.com/detail/20260410221739226800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "美国佛罗里达州总检察长对OpenAI发起调查。",
