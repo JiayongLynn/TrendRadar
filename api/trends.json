@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T03:06:42.126397+08:00",
-  "total_titles_processed": 174,
+  "generated_at": "2026-04-11T04:50:35.926991+08:00",
+  "total_titles_processed": 204,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
         {
           "title": "美国代表团启程，万斯：相信谈判将取得积极成果！伊朗副外长：伊方十点计划将作为谈判基础",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 03时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时50分]"
         },
         {
           "title": "系好安全带！伊朗冲突点燃油价，今晚美国CPI或创四年最大环比涨幅",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 03时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时50分]"
         },
         {
           "title": "北约秘书长：美国要求支援伊朗战争 成员国已努力满足要求",
@@ -39,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 03时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时50分]"
         },
         {
           "title": "美伊谈判在即！伊斯兰堡封锁核心区严阵以待，万斯领衔美方代表团11日对阵伊朗",
@@ -51,8 +51,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 03时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时50分]"
         },
         {
           "title": "沙特东西输油管遭伊朗击中 运量减10%油价更紧绷",
@@ -63,8 +63,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 03时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时50分]"
         },
         {
           "title": "联合国秘书长特使：袭击伊朗小学将被钉上历史耻辱柱",
@@ -75,8 +75,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 03时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时50分]"
         },
         {
           "title": "路透：中国独立炼油厂多年来首次溢价采购伊朗原油",
@@ -87,8 +87,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 03时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时50分]"
         },
         {
           "title": "伊朗副外长：美国“必须在战争和停火之间作出选择”",
@@ -98,8 +98,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 03时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时50分]"
         },
         {
           "title": "据悉美伊代表团抵达巴基斯坦，伊朗将参加谈判",
@@ -130,7 +130,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -174,7 +174,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -201,6 +201,28 @@
           "time_info": "00时03分"
         },
         {
+          "title": "伊朗媒体称，伊朗代表团成员包括外交部长、国防委员会秘书长、央行行长及多名议员。",
+          "url": "https://flash.jin10.com/detail/20260411034714242800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "伊朗谈判代表团抵达巴基斯坦",
+          "url": "https://flash.jin10.com/detail/20260411034637598800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
           "title": "伊朗议长：黎巴嫩停火和释放伊朗资产必须在谈判之前完成",
           "url": "https://flash.jin10.com/detail/20260410224423064800",
           "source": "金十数据",
@@ -212,6 +234,39 @@
           "time_info": "00时03分"
         },
         {
+          "title": "伊朗媒体报道称，若“先决条件得到接受”，伊美对话将启动。",
+          "url": "https://flash.jin10.com/detail/20260411034601468800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "据伊朗国家媒体报道，由伊朗议会议长卡利巴夫率领的伊朗代表团已在与美国举行和平会谈前夕抵达伊斯兰堡。",
+          "url": "https://flash.jin10.com/detail/20260411034532513800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "两名参与谈判的巴基斯坦消息人士透露，伊朗官员在巴基斯坦空军护送下抵达伊斯兰堡的努尔汗空军基地，为和平谈判做准备。",
+          "url": "https://flash.jin10.com/detail/20260411034432386800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
           "title": "美媒：以官员称伊朗正在征收海峡通行费",
           "url": "https://flash.jin10.com/detail/20260410223419119800",
           "source": "金十数据",
@@ -221,6 +276,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队重申停火以来未袭击任何国家",
+          "url": "https://flash.jin10.com/detail/20260411033932807800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         }
       ]
     },
@@ -258,8 +324,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 03时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时50分]"
         },
         {
           "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
@@ -301,7 +367,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -331,7 +397,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "热门中概股美股盘前集体走强，理想汽车涨超3%",
@@ -341,8 +407,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 03时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时50分]"
         },
         {
           "title": "美股大型科技股盘前普涨，Meta涨超1%",
@@ -352,8 +418,30 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 03时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时50分]"
+        },
+        {
+          "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260411041025716800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260411041023502800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         },
         {
           "title": "美股异动丨光通信概念股集体走高，Lumentum涨超2%",
@@ -363,8 +451,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 03时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时50分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
+          "url": "https://flash.jin10.com/detail/20260411040442253800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股盘中）",
@@ -401,7 +500,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         }
