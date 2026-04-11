@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T13:02:54.890712+08:00",
-  "total_titles_processed": 326,
+  "generated_at": "2026-04-11T15:13:05.922552+08:00",
+  "total_titles_processed": 370,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
         {
           "title": "美国代表团启程，万斯：相信谈判将取得积极成果！伊朗副外长：伊方十点计划将作为谈判基础",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时03分 ~ 13时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时03分 ~ 15时13分]"
         },
         {
           "title": "系好安全带！伊朗冲突点燃油价，今晚美国CPI或创四年最大环比涨幅",
@@ -45,8 +45,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时03分 ~ 13时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时03分 ~ 15时13分]"
         },
         {
           "title": "北约秘书长：美国要求支援伊朗战争 成员国已努力满足要求",
@@ -67,11 +67,12 @@
           "source": "联合早报",
           "ranks": [
             1,
-            5
+            5,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 13时02分]"
+          "appearance_count": 5,
+          "time_info": "[10时54分 ~ 15时13分]"
         },
         {
           "title": "沙特东西输油管遭伊朗击中 运量减10%油价更紧绷",
@@ -121,26 +122,26 @@
           "time_info": "[00时03分 ~ 07时45分]"
         },
         {
-          "title": "美国伊朗谈判五大症结点",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1169045.html",
-          "source": "联合早报",
+          "title": "据伊朗塔斯尼姆通讯社：真主党导弹在以色列谢莫纳城引发火灾。",
+          "url": "https://flash.jin10.com/detail/20260411142655398800",
+          "source": "金十数据",
           "ranks": [
-            1
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时12分 ~ 15时13分]"
         },
         {
-          "title": "伊朗媒体：若美方接受伊方先决条件 下午启动谈判",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1169044.html",
+          "title": "美官员称伊朗无法定位在海峡中布设的所有水雷",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1169056.html",
           "source": "联合早报",
           "ranks": [
-            2
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时12分 ~ 15时13分]"
         },
         {
           "title": "美方评估：伊朗仍保有数千枚弹道导弹 可自地下设施取出发射器",
@@ -153,6 +154,43 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时54分 ~ 13时02分]"
+        },
+        {
+          "title": "美国伊朗谈判五大症结点",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1169045.html",
+          "source": "联合早报",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 15时13分]"
+        },
+        {
+          "title": "伊朗媒体：若美方接受伊方先决条件 下午启动谈判",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1169044.html",
+          "source": "联合早报",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 15时13分]"
+        },
+        {
+          "title": "美贸易代表：若中国介入伊朗事务 局势将更复杂",
+          "url": "https://www.zaochenbao.com/news/china/202604/1169034.html",
+          "source": "联合早报",
+          "ranks": [
+            8,
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时54分 ~ 15时13分]"
         },
         {
           "title": "伊朗媒体称，伊朗代表团成员包括外交部长、国防委员会秘书长、央行行长及多名议员。",
@@ -210,16 +248,38 @@
           "time_info": "[04时50分 ~ 07时45分]"
         },
         {
-          "title": "美贸易代表：若中国介入伊朗事务 局势将更复杂",
-          "url": "https://www.zaochenbao.com/news/china/202604/1169034.html",
-          "source": "联合早报",
+          "title": "伊朗媒体公布伊朗谈判代表团人员组成",
+          "url": "https://flash.jin10.com/detail/20260411120959478800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            12
+            9,
+            29
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时54分 ~ 13时02分]"
+          "time_info": "[13时02分 ~ 15时13分]"
+        },
+        {
+          "title": "巴基斯坦陆军参谋长已会见伊朗代表团",
+          "url": "https://flash.jin10.com/detail/20260411141842740800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时12分 ~ 15时13分]"
+        },
+        {
+          "title": "伊朗媒体公布伊朗谈判代表团人员",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1169053.html",
+          "source": "联合早报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时12分 ~ 15时13分]"
         },
         {
           "title": "伊朗教育部公共关系处：美国和以色列对伊朗发动战争以来，已造成344名学生和教师死亡。",
@@ -297,17 +357,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
-        },
-        {
-          "title": "伊朗媒体公布伊朗谈判代表团人员组成",
-          "url": "https://flash.jin10.com/detail/20260411120959478800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
         },
         {
           "title": "消息人士：伊朗如愿与美国副总统万斯进行谈判",
@@ -433,19 +482,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 13时02分]"
+          "appearance_count": 5,
+          "time_info": "[10时54分 ~ 15时13分]"
         },
         {
           "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
           "url": "https://wallstreetcn.com/articles/3769722",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 13时02分]"
+          "appearance_count": 5,
+          "time_info": "[10时54分 ~ 15时13分]"
         },
         {
           "title": "特朗普对美伊协议非常乐观 要求以色列在黎保持“低调”",
@@ -457,6 +507,31 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时03分 ~ 07时45分]"
+        },
+        {
+          "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2341138",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时45分 ~ 15时13分]"
+        },
+        {
+          "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
+          "url": "https://www.cls.cn/detail/2341106",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时45分 ~ 15时13分]"
         },
         {
           "title": "特朗普推动芯片出口的计划或正受阻于官僚体制",
@@ -503,31 +578,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时54分 ~ 13时02分]"
-        },
-        {
-          "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2341138",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时45分 ~ 13时02分]"
-        },
-        {
-          "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
-          "url": "https://www.cls.cn/detail/2341106",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时45分 ~ 13时02分]"
         },
         {
           "title": "美伊谈判在伊斯兰堡酒店举行 特朗普：伊朗手上无牌",
@@ -672,19 +722,6 @@
           "time_info": "[00时03分 ~ 10时55分]"
         },
         {
-          "title": "美股异动丨光通信概念股集体走高，Lumentum涨超2%",
-          "url": "https://www.gelonghui.com/news/5207711",
-          "source": "格隆汇",
-          "ranks": [
-            12,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时03分 ~ 13时02分]"
-        },
-        {
           "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
           "url": "https://www.cls.cn/detail/2341126",
           "source": "财联社热门",
@@ -694,8 +731,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时45分 ~ 13时02分]"
+          "appearance_count": 6,
+          "time_info": "[07时45分 ~ 15时13分]"
+        },
+        {
+          "title": "美股异动丨光通信概念股集体走高，Lumentum涨超2%",
+          "url": "https://www.gelonghui.com/news/5207711",
+          "source": "格隆汇",
+          "ranks": [
+            12,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时03分 ~ 15时13分]"
+        },
+        {
+          "title": "美股三大指数涨跌不一，纳指录得八连涨，中概指数涨0.31%",
+          "url": "https://www.gelonghui.com/news/5207855",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时54分 ~ 15时13分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
@@ -718,17 +779,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时50分 ~ 07时45分]"
-        },
-        {
-          "title": "美股三大指数涨跌不一，纳指录得八连涨，中概指数涨0.31%",
-          "url": "https://www.gelonghui.com/news/5207855",
-          "source": "格隆汇",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 13时02分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
@@ -778,7 +828,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
@@ -828,6 +878,18 @@
           "time_info": "[10时54分 ~ 13时02分]"
         },
         {
+          "title": "OpenAI就第三方开发者库安全事件发声明：未发现用户数据泄露或系统遭入侵",
+          "url": "https://www.36kr.com/newsflashes/3761835907121923",
+          "source": "36氪",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 15时13分]"
+        },
+        {
           "title": "OpenAI就第三方库安全事件发布公告：未发现用户数据泄露或系统遭入侵",
           "url": "https://flash.jin10.com/detail/20260411094510379800",
           "source": "金十数据",
@@ -840,15 +902,15 @@
           "time_info": "[10时54分 ~ 13时02分]"
         },
         {
-          "title": "OpenAI就第三方开发者库安全事件发声明：未发现用户数据泄露或系统遭入侵",
-          "url": "https://www.36kr.com/newsflashes/3761835907121923",
-          "source": "36氪",
+          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
+          "url": "https://www.cls.cn/detail/2341199",
+          "source": "财联社热门",
           "ranks": [
-            7
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时12分 ~ 15时13分]"
         }
       ]
     }
