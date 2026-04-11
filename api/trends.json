@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T19:39:34.316960+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-04-11T21:16:45.703607+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 63,
+      "match_count": 81,
       "titles": [
         {
           "title": "美国代表团启程，万斯：相信谈判将取得积极成果！伊朗副外长：伊方十点计划将作为谈判基础",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时03分 ~ 19时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时03分 ~ 21时16分]"
         },
         {
           "title": "系好安全带！伊朗冲突点燃油价，今晚美国CPI或创四年最大环比涨幅",
@@ -150,6 +150,20 @@
           "time_info": "[00时03分 ~ 07时45分]"
         },
         {
+          "title": "知情者指伊朗最高领袖毁容腿受伤 但思维仍清晰",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1169060.html",
+          "source": "联合早报",
+          "ranks": [
+            2,
+            8,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时56分 ~ 21时16分]"
+        },
+        {
           "title": "美贸易代表：若中国介入伊朗事务 局势将更复杂",
           "url": "https://www.zaochenbao.com/news/china/202604/1169034.html",
           "source": "联合早报",
@@ -178,28 +192,39 @@
           "time_info": "[15时12分 ~ 19时39分]"
         },
         {
-          "title": "知情者指伊朗最高领袖毁容腿受伤 但思维仍清晰",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1169060.html",
+          "title": "伊朗新领袖穆杰塔巴据报重伤未愈 但仍主导重大决策",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1169085.html",
           "source": "联合早报",
           "ranks": [
-            2,
-            8,
-            20
+            2
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时56分 ~ 19时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
-          "title": "巴方消息人士：伊朗提出伊美谈判前提条件",
-          "url": "https://flash.jin10.com/detail/20260411191459893800",
+          "title": "伊朗国家电视台驻伊斯兰堡记者表示，伊朗代表团预计将就黎巴嫩停火协议遭违反一事继续进行磋商。",
+          "url": "https://flash.jin10.com/detail/20260411210101009800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时39分"
+          "time_info": "21时16分"
+        },
+        {
+          "title": "美媒：情报显示中国正准备几周内向伊朗提供防空系统",
+          "url": "https://www.zaochenbao.com/news/china/202604/1169067.html",
+          "source": "联合早报",
+          "ranks": [
+            1,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时53分 ~ 21时16分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：真主党导弹在以色列谢莫纳城引发火灾。",
@@ -227,38 +252,15 @@
           "time_info": "[10时54分 ~ 13时02分]"
         },
         {
-          "title": "美媒：情报显示中国正准备几周内向伊朗提供防空系统",
-          "url": "https://www.zaochenbao.com/news/china/202604/1169067.html",
-          "source": "联合早报",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时53分 ~ 19时39分]"
-        },
-        {
-          "title": "伊朗代表团强调解冻资产及实现黎巴嫩“真正停火”",
-          "url": "https://flash.jin10.com/detail/20260411191039300800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
-        },
-        {
-          "title": "伊朗战争对经济的损害比你想象的更严重",
-          "url": "https://www.zaochenbao.com/news/opinion/202604/1169076.html",
+          "title": "伊朗消息：美同意把伊朗在卡塔尔等国资金解冻",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1169083.html",
           "source": "联合早报",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时39分"
+          "time_info": "21时16分"
         },
         {
           "title": "伊朗媒体：若美方接受伊方先决条件 下午启动谈判",
@@ -273,15 +275,26 @@
           "time_info": "[13时02分 ~ 15时13分]"
         },
         {
-          "title": "据伊朗国家电视台记者：伊朗的红线包括霍尔木兹海峡、战争赔款的支付、伊朗被冻结资产的解冻以及整个地区的停火。",
-          "url": "https://flash.jin10.com/detail/20260411190036654800",
+          "title": "伊朗国家电视台驻伊斯兰堡记者证实，美国已同意解冻伊朗的资金。",
+          "url": "https://flash.jin10.com/detail/20260411205912987800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时39分"
+          "time_info": "21时16分"
+        },
+        {
+          "title": "伊朗称谈判启动条件尚未得到满足，强调解冻资产及实现黎巴嫩“真正停火”",
+          "url": "https://wallstreetcn.com/articles/3769748",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "美据称同意解冻伊朗在海外被冻结资产",
@@ -361,6 +374,42 @@
           "time_info": "[18时46分 ~ 19时39分]"
         },
         {
+          "title": "巴方消息人士：伊朗提出伊美谈判前提条件",
+          "url": "https://flash.jin10.com/detail/20260411191459893800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 21时16分]"
+        },
+        {
+          "title": "伊朗代表团强调解冻资产及实现黎巴嫩“真正停火”",
+          "url": "https://flash.jin10.com/detail/20260411191039300800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 21时16分]"
+        },
+        {
+          "title": "伊朗战争对经济的损害比你想象的更严重",
+          "url": "https://www.zaochenbao.com/news/opinion/202604/1169076.html",
+          "source": "联合早报",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 21时16分]"
+        },
+        {
           "title": "巴基斯坦政府官员：伊朗和美国之间的谈判进程比预期要慢",
           "url": "https://flash.jin10.com/detail/20260411175856538800",
           "source": "金十数据",
@@ -371,6 +420,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时46分 ~ 19时39分]"
+        },
+        {
+          "title": "据伊朗国家电视台记者：伊朗的红线包括霍尔木兹海峡、战争赔款的支付、伊朗被冻结资产的解冻以及整个地区的停火。",
+          "url": "https://flash.jin10.com/detail/20260411190036654800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 21时16分]"
         },
         {
           "title": "伊朗媒体称，伊朗代表团成员包括外交部长、国防委员会秘书长、央行行长及多名议员。",
@@ -592,15 +653,37 @@
           "time_info": "[10时54分 ~ 10时55分]"
         },
         {
+          "title": "美媒称数艘美国海军舰船通过霍尔木兹海峡 未与伊朗协调",
+          "url": "https://flash.jin10.com/detail/20260411205257056800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "伊朗国家电视台驻伊斯兰堡记者表示，伊朗的提议和底线已转交给巴基斯坦总理。",
           "url": "https://flash.jin10.com/detail/20260411185605032800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
+        },
+        {
+          "title": "伊朗证实伊美谈判开始",
+          "url": "https://flash.jin10.com/detail/20260411204846675800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "据悉美伊代表团抵达巴基斯坦，伊朗将参加谈判",
@@ -614,13 +697,24 @@
           "time_info": "00时03分"
         },
         {
+          "title": "据伊朗Press TV：伊朗代表团对美方持悲观态度，原因是对方在以往谈判中有违背承诺的记录。伊朗认为黎巴嫩的停火尚未完全实现，而美国有责任向以色列政权施压，迫使其履行承诺。伊朗代表团正认真推进这一问题。",
+          "url": "https://flash.jin10.com/detail/20260411204740979800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "美方否认已同意解冻资产，伊朗称谈判启动条件尚未得到满足",
           "url": "https://wallstreetcn.com/articles/3769748",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -636,13 +730,24 @@
           "time_info": "00时03分"
         },
         {
+          "title": "据AXIOS：美国海军舰艇穿越霍尔木兹海峡的行动未与伊朗进行协调。",
+          "url": "https://flash.jin10.com/detail/20260411204602243800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "伊朗政府发言人：伊方将以最高谨慎态度参与谈判",
           "url": "https://flash.jin10.com/detail/20260411183447422800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -669,6 +774,17 @@
           "time_info": "01时54分"
         },
         {
+          "title": "伊朗、美国和巴基斯坦三方会谈开始举行",
+          "url": "https://flash.jin10.com/detail/20260411203850216800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "伊朗警告将有力回应对黎巴嫩的持续袭击",
           "url": "https://flash.jin10.com/detail/20260411005532168800",
           "source": "金十数据",
@@ -678,6 +794,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：在伊斯兰堡的会谈已开始。",
+          "url": "https://flash.jin10.com/detail/20260411203545316800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "巴基斯坦政府信息与广播部：巴基斯坦总理对伊朗参与伊斯兰堡会谈表示赞赏，并重申巴基斯坦将继续真诚地发挥调解作用，为推动会谈朝着有利于地区和全球和平与稳定的方向取得切实成果积极营造势头。",
+          "url": "https://flash.jin10.com/detail/20260411203155967800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "法国总统马克龙：与沙特王储讨论中东局势。已向沙特王储阐明，黎巴嫩全面参与伊朗停火协议的重要性，以及霍尔木兹海峡航行自由的重要性。",
+          "url": "https://flash.jin10.com/detail/20260411202256133800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "据伊朗国家媒体：伊朗外长阿拉格齐表示，美国必须履行承诺，将黎巴嫩纳入停火协议，并停止以色列对黎巴嫩的袭击。",
@@ -691,6 +840,17 @@
           "time_info": "00时03分"
         },
         {
+          "title": "据美国哥伦比亚广播公司（CBS）：消息人士称，美国副总统万斯此次前来伊斯兰堡所要参与的关于伊朗问题的讨论已经开始。目前不清楚双方是否为直接对话，万斯的发言人拒绝置评。",
+          "url": "https://flash.jin10.com/detail/20260411201203637800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "伊朗官员称霍尔木兹海峡过去两天内仍保持关闭状态",
           "url": "https://flash.jin10.com/detail/20260411020448652800",
           "source": "金十数据",
@@ -700,6 +860,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "据伊朗国家电视台：伊朗外交部发言人表示，伊朗正与黎巴嫩保持联系，以确保各方在所有战线上遵守停火承诺。",
+          "url": "https://flash.jin10.com/detail/20260411200632193800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "更多证据证实美军使用导弹袭击伊朗平民",
+          "url": "https://flash.jin10.com/detail/20260411200137586800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "伊朗议长称谈判开始前需实现黎巴嫩停火及解冻伊朗被冻结资产",
@@ -713,6 +895,17 @@
           "time_info": "00时03分"
         },
         {
+          "title": "伊朗外交部发言人：相关考量已转达给巴基斯坦方面，伊朗的要求基于10点方案。",
+          "url": "https://flash.jin10.com/detail/20260411194950028800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "科威特陆军表示，伊朗发动的袭击以国民卫队设施为目标，导致多名人员受伤。",
           "url": "https://flash.jin10.com/detail/20260410225103285800",
           "source": "金十数据",
@@ -722,6 +915,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "法国总统马克龙：告知了土耳其总统埃尔多安，确保伊朗停火协议涵盖黎巴嫩的重要性，以及开放霍尔木兹海峡的重要性。",
+          "url": "https://flash.jin10.com/detail/20260411194317038800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "伊朗议长：黎巴嫩停火和释放伊朗资产必须在谈判之前完成",
@@ -760,7 +964,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 29,
       "titles": [
         {
           "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
@@ -770,8 +974,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时54分 ~ 19时39分]"
+          "appearance_count": 10,
+          "time_info": "[10时54分 ~ 21时16分]"
         },
         {
           "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
@@ -782,8 +986,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时54分 ~ 19时39分]"
+          "appearance_count": 10,
+          "time_info": "[10时54分 ~ 21时16分]"
         },
         {
           "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
@@ -794,11 +998,12 @@
             9,
             7,
             8,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时45分 ~ 19时39分]"
+          "appearance_count": 11,
+          "time_info": "[07时45分 ~ 21时16分]"
         },
         {
           "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
@@ -810,11 +1015,24 @@
             9,
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时45分 ~ 19时39分]"
+          "appearance_count": 11,
+          "time_info": "[07时45分 ~ 21时16分]"
+        },
+        {
+          "title": "凯文沃什获特朗普提名出任下一任美联储主席，提名确认程序恐遭延误",
+          "url": "https://www.36kr.com/newsflashes/3762051664102145",
+          "source": "36氪",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时56分 ~ 21时16分]"
         },
         {
           "title": "特朗普对美伊协议非常乐观 要求以色列在黎保持“低调”",
@@ -826,18 +1044,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时03分 ~ 07时45分]"
-        },
-        {
-          "title": "凯文沃什获特朗普提名出任下一任美联储主席，提名确认程序恐遭延误",
-          "url": "https://www.36kr.com/newsflashes/3762051664102145",
-          "source": "36氪",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时56分 ~ 19时39分]"
         },
         {
           "title": "特朗普推动芯片出口的计划或正受阻于官僚体制",
@@ -857,9 +1063,42 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
+        },
+        {
+          "title": "特朗普：正在“清理”霍尔木兹海峡海峡 伊朗布雷艇已全部沉没",
+          "url": "https://flash.jin10.com/detail/20260411210428309800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗的28艘布雷快艇全部沉入海底。",
+          "url": "https://flash.jin10.com/detail/20260411210112404800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "特朗普政府打击生育旅游 移民局启动专项行动查核签证欺诈",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1169084.html",
+          "source": "联合早报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "消息：白宫忧影响脆弱停火 未安排特朗普全国电视讲话",
@@ -883,6 +1122,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "美国总统特朗普：我们现在正在进行清理霍尔木兹海峡的行动。",
+          "url": "https://flash.jin10.com/detail/20260411210041803800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "特朗普决策信息疑外泄 白宫严禁职员内幕交易",
@@ -944,6 +1194,18 @@
           "time_info": "[00时03分 ~ 01时54分]"
         },
         {
+          "title": "特朗普进一步升级对伊朗的威胁，这里是六大要点",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1169074.html",
+          "source": "联合早报",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 21时16分]"
+        },
+        {
           "title": "报道：特朗普承诺将在卸任前为政府高级官员颁发特赦令",
           "url": "https://www.36kr.com/newsflashes/3761734061900549",
           "source": "36氪",
@@ -964,17 +1226,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时54分 ~ 10时55分]"
-        },
-        {
-          "title": "特朗普进一步升级对伊朗的威胁，这里是六大要点",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1169074.html",
-          "source": "联合早报",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
         },
         {
           "title": "市场消息：美国民主党参议员沃伦致函美国商品期货交易委员会（CFTC），要求调查与美国总统特朗普伊朗论调相关的石油交易。",
@@ -1030,6 +1281,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "美国总统特朗普：我们的石油储量比排在我们之后的两个最大产油经济体的总和还要多，而且品质更高。",
+          "url": "https://flash.jin10.com/detail/20260411193245673800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "美国总统特朗普：数量庞大的、完全空载的油轮，其中一些是全球最大的油轮正驶往美国，（准备）装载全世界最好的石油（和天然气）！",
+          "url": "https://flash.jin10.com/detail/20260411193219972800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         }
       ]
     },
@@ -1038,20 +1311,6 @@
       "match_count": 11,
       "titles": [
         {
-          "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
-          "url": "https://www.cls.cn/detail/2341126",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时45分 ~ 19时39分]"
-        },
-        {
           "title": "美股三大指数涨跌不一，纳指录得八连涨，中概指数涨0.31%",
           "url": "https://www.gelonghui.com/news/5207855",
           "source": "格隆汇",
@@ -1059,8 +1318,23 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时54分 ~ 19时39分]"
+          "appearance_count": 10,
+          "time_info": "[10时54分 ~ 21时16分]"
+        },
+        {
+          "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
+          "url": "https://www.cls.cn/detail/2341126",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[07时45分 ~ 21时16分]"
         },
         {
           "title": "热门中概股美股盘前集体走强，理想汽车涨超3%",
@@ -1096,8 +1370,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时03分 ~ 19时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时03分 ~ 21时16分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
@@ -1180,8 +1454,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时56分 ~ 19时39分]"
+          "appearance_count": 5,
+          "time_info": "[16时56分 ~ 21时16分]"
         },
         {
           "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
@@ -1194,8 +1468,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时12分 ~ 19时39分]"
+          "appearance_count": 7,
+          "time_info": "[15时12分 ~ 21时16分]"
         },
         {
           "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
@@ -1279,11 +1553,12 @@
           "url": "https://www.zaochenbao.com/news/china/202604/1169069.html",
           "source": "联合早报",
           "ranks": [
-            11
+            11,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 21时16分]"
         }
       ]
     }
