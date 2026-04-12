@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-12T07:45:21.167202+08:00",
-  "total_titles_processed": 199,
+  "generated_at": "2026-04-12T11:35:55.624626+08:00",
+  "total_titles_processed": 273,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 50,
+      "match_count": 67,
       "titles": [
         {
           "title": "美伊谈判进行中！伊朗称美国同意在黎巴嫩停火",
           "url": "https://wallstreetcn.com/articles/3769748",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 07时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 11时35分]"
         },
         {
           "title": "伊朗与美国开始在伊斯兰堡举行会谈",
@@ -95,9 +96,42 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社援引知情人士称，伊朗并不急于举行谈判；只要美国不同意达成一项合理的协议，霍尔木兹海峡的局势就不会发生任何变化。",
+          "url": "https://flash.jin10.com/detail/20260412110118394800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "伊朗谈判代表团将举行新闻发布会",
+          "url": "https://flash.jin10.com/detail/20260412105821238800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "美伊谈判“无果而终”，伊朗称“由于美方贪婪和野心”，万斯表态“已展现灵活和诚意，将返回美国”",
+          "url": "https://wallstreetcn.com/articles/3769753",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
         },
         {
           "title": "美前国务卿：攻击伊朗是内塔尼亚胡的梦想",
@@ -110,6 +144,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时49分 ~ 01时40分]"
+        },
+        {
+          "title": "伊媒：美方为挽回颜面参与谈判 伊朗暂无下一轮谈判计划",
+          "url": "https://flash.jin10.com/detail/20260412105446873800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "伊朗：美伊和谈成败 取决于美国能否避免“过分要求”",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1269117.html",
+          "source": "联合早报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：当前这一轮谈判可能是与美国达成框架协议的“最后机会”。",
@@ -627,13 +683,157 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时49分 ~ 00时50分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社12日报道，伊朗与美国下一轮谈判的时间、地点及计划目前尚未公布。",
+          "url": "https://flash.jin10.com/detail/20260412102732406800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "伊朗媒体：美伊谈判延长一天",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1269113.html",
+          "source": "联合早报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "据伊朗Press TV：包括霍尔木兹海峡和核权利在内的多项议题，一直是伊美谈判中的争议焦点。",
+          "url": "https://flash.jin10.com/detail/20260412100429381800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "伊朗称伊美谈判结束 双方仍未达成协议",
+          "url": "https://flash.jin10.com/detail/20260412095234872800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "伊朗称谈判已结束 与美国未达成协议",
+          "url": "https://flash.jin10.com/detail/20260412095023049800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "美国副总统万斯：需明确确认伊朗不会寻求核武器。",
+          "url": "https://flash.jin10.com/detail/20260412093559526800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "美国副总统万斯：与伊朗进行了21小时的谈判，尚未达成协议，伊朗选择了不接受美方条件。",
+          "url": "https://flash.jin10.com/detail/20260412093506606800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "国际特稿：美以怒火伤人也伤己 伊朗苟活不输就是赢",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1269099.html",
+          "source": "联合早报",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "3名伊朗公民在美国被捕",
+          "url": "https://flash.jin10.com/detail/20260412091407146800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "伊朗通报谈判进展伊朗",
+          "url": "https://flash.jin10.com/detail/20260412085435182800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "伊朗外交部发言人：这一外交进程能否取得成功，取决于对方是否展现诚意与善意，摒弃“极端主义和非法要求”，并承认伊朗的合法权利。",
+          "url": "https://flash.jin10.com/detail/20260412084206659800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "伊朗外交部发言人：过去24小时内，各方就谈判的主要议题进行了讨论，包括霍尔木兹海峡、核问题、战争赔偿、解除制裁、彻底结束对伊朗的战争以及地区局势等。",
+          "url": "https://flash.jin10.com/detail/20260412084040764800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
+          "url": "https://www.cls.cn/detail/2341151",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 11时35分]"
+        },
         {
           "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
           "url": "https://wallstreetcn.com/articles/3769722",
@@ -646,27 +846,16 @@
           "time_info": "[00时49分 ~ 07时45分]"
         },
         {
-          "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
-          "url": "https://www.cls.cn/detail/2341151",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 07时45分]"
-        },
-        {
           "title": "凯文沃什获特朗普提名出任下一任美联储主席，提名确认程序恐遭延误",
           "url": "https://www.36kr.com/newsflashes/3762051664102145",
           "source": "36氪",
           "ranks": [
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 07时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 11时35分]"
         },
         {
           "title": "特朗普政府打击生育旅游 移民局启动专项行动查核签证欺诈",
@@ -726,6 +915,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时58分 ~ 05时42分]"
+        },
+        {
+          "title": "伊美14小时谈判“无果”但12日继续，伊朗拒绝美方“共管霍尔木兹海峡”，特朗普称“不在意是否达成协议”",
+          "url": "https://wallstreetcn.com/articles/3769751",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
         },
         {
           "title": "特朗普：是否与伊朗达成协议对我来说无关紧要",
@@ -823,9 +1023,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "特朗普：中国若向伊朗提供武器 将面临＂大麻烦＂",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1269100.html",
+          "source": "联合早报",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "特朗普拟在华盛顿建凯旋门 方案已提交待审批",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1269097.html",
+          "source": "联合早报",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
         }
       ]
     },
@@ -838,22 +1060,24 @@
           "url": "https://www.cls.cn/detail/2341199",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 07时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 11时35分]"
         },
         {
           "title": "千亿诉讼临近 OpenAI指控马斯克搞“突袭”",
           "url": "https://www.36kr.com/newsflashes/3762063409234434",
           "source": "36氪",
           "ranks": [
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 07时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 11时35分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -861,11 +1085,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 07时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 11时35分]"
         }
       ]
     },
@@ -878,11 +1103,12 @@
           "url": "https://www.gelonghui.com/news/5207855",
           "source": "格隆汇",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 07时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 11时35分]"
         },
         {
           "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
@@ -890,11 +1116,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 07时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 11时35分]"
         },
         {
           "title": "美股异动丨光通信概念股集体走高，Lumentum涨超2%",
