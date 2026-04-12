@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T11:35:55.624626+08:00",
-  "total_titles_processed": 273,
+  "generated_at": "2026-04-12T14:01:27.578531+08:00",
+  "total_titles_processed": 319,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 67,
+      "match_count": 75,
       "titles": [
         {
           "title": "美伊谈判进行中！伊朗称美国同意在黎巴嫩停火",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 11时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 14时01分]"
         },
         {
           "title": "伊朗与美国开始在伊斯兰堡举行会谈",
@@ -64,6 +64,17 @@
           "time_info": "[00时49分 ~ 07时45分]"
         },
         {
+          "title": "美伊谈判“无果而终”，伊朗称“由于美方贪婪和野心”，万斯表态“已展现灵活和诚意，将返回美国”",
+          "url": "https://wallstreetcn.com/articles/3769753",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 14时01分]"
+        },
+        {
           "title": "伊朗媒体及分析人士：警惕伊美谈判可能遭以色列破坏",
           "url": "https://flash.jin10.com/detail/20260412063325339800",
           "source": "金十数据",
@@ -101,39 +112,6 @@
           "time_info": "07时45分"
         },
         {
-          "title": "据伊朗塔斯尼姆通讯社援引知情人士称，伊朗并不急于举行谈判；只要美国不同意达成一项合理的协议，霍尔木兹海峡的局势就不会发生任何变化。",
-          "url": "https://flash.jin10.com/detail/20260412110118394800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
-          "title": "伊朗谈判代表团将举行新闻发布会",
-          "url": "https://flash.jin10.com/detail/20260412105821238800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
-          "title": "美伊谈判“无果而终”，伊朗称“由于美方贪婪和野心”，万斯表态“已展现灵活和诚意，将返回美国”",
-          "url": "https://wallstreetcn.com/articles/3769753",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
           "title": "美前国务卿：攻击伊朗是内塔尼亚胡的梦想",
           "url": "https://flash.jin10.com/detail/20260412004257986800",
           "source": "金十数据",
@@ -146,26 +124,51 @@
           "time_info": "[00时49分 ~ 01时40分]"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社援引知情人士称，伊朗并不急于举行谈判；只要美国不同意达成一项合理的协议，霍尔木兹海峡的局势就不会发生任何变化。",
+          "url": "https://flash.jin10.com/detail/20260412110118394800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 14时01分]"
+        },
+        {
           "title": "伊媒：美方为挽回颜面参与谈判 伊朗暂无下一轮谈判计划",
           "url": "https://flash.jin10.com/detail/20260412105446873800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
+        },
+        {
+          "title": "伊朗谈判代表团将举行新闻发布会",
+          "url": "https://flash.jin10.com/detail/20260412105821238800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 14时01分]"
         },
         {
           "title": "伊朗：美伊和谈成败 取决于美国能否避免“过分要求”",
           "url": "https://www.zaochenbao.com/news/politics/202604/1269117.html",
           "source": "联合早报",
           "ranks": [
-            4
+            4,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 14时01分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：当前这一轮谈判可能是与美国达成框架协议的“最后机会”。",
@@ -377,6 +380,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时49分 ~ 01时40分]"
+        },
+        {
+          "title": "伊朗媒体：美伊谈判延长一天",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1269113.html",
+          "source": "联合早报",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 14时01分]"
         },
         {
           "title": "伊朗高层消息人士否认美舰通过霍尔木兹海峡",
@@ -592,6 +607,18 @@
           "time_info": "[02时58分 ~ 04时44分]"
         },
         {
+          "title": "国际特稿：美以怒火伤人也伤己 伊朗苟活不输就是赢",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1269099.html",
+          "source": "联合早报",
+          "ranks": [
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 14时01分]"
+        },
+        {
           "title": "以总理称将继续打击伊朗及其代理人",
           "url": "https://flash.jin10.com/detail/20260412011326508800",
           "source": "金十数据",
@@ -629,6 +656,17 @@
           "time_info": "[01时40分 ~ 02时58分]"
         },
         {
+          "title": "外媒披露美伊谈判细节：伊朗代表全员黑衣，双方情绪起伏不定",
+          "url": "https://flash.jin10.com/detail/20260412130218736800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
+        },
+        {
           "title": "伊朗消息人士：美伊达成协议框架前，霍尔木兹海峡将继续封锁",
           "url": "https://flash.jin10.com/detail/20260412053405790800",
           "source": "金十数据",
@@ -641,6 +679,50 @@
           "time_info": "[06时41分 ~ 07时45分]"
         },
         {
+          "title": "巴基斯坦外长：（就停火谈判）向美国和伊朗表示感谢，感谢它们对巴基斯坦为促成停火所作努力的肯定。",
+          "url": "https://flash.jin10.com/detail/20260412115923066800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
+        },
+        {
+          "title": "据伊朗媒体报道，伊朗代表团离开巴基斯坦。",
+          "url": "https://flash.jin10.com/detail/20260412115553314800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
+        },
+        {
+          "title": "伊朗外交部发言人：伊朗、巴基斯坦以及该地区“其他朋友”之间的接触与磋商将继续进行。",
+          "url": "https://flash.jin10.com/detail/20260412114022224800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
+        },
+        {
+          "title": "伊朗外交部发言人：会谈在互不信任的氛围中进行，因此我们本就不应指望仅通过一次会议就达成协议。",
+          "url": "https://flash.jin10.com/detail/20260412114010711800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：消息人士称，美伊代表团之间的技术委员会会议持续了两个多小时，至今仍在进行中。",
           "url": "https://flash.jin10.com/detail/20260411233945954800",
           "source": "金十数据",
@@ -650,6 +732,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时49分 ~ 00时50分]"
+        },
+        {
+          "title": "伊朗外交部发言人：不应期望在一次谈判中达成协议",
+          "url": "https://flash.jin10.com/detail/20260412113445490800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
+        },
+        {
+          "title": "伊朗外交部发言人：伊美在两三个重要问题上存在分歧",
+          "url": "https://flash.jin10.com/detail/20260412113130043800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
         },
         {
           "title": "据伊朗官方媒体Press TV：关于延长谈判时间一事尚未作出决定；谈判仍在进行中。",
@@ -674,6 +778,17 @@
           "time_info": "[00时49分 ~ 00时50分]"
         },
         {
+          "title": "伊朗不急于与美再谈判",
+          "url": "https://flash.jin10.com/detail/20260412110217722800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
+        },
+        {
           "title": "美国白宫：美国副总统及其他官员在伊斯兰堡与伊朗代表团面对面会谈。",
           "url": "https://flash.jin10.com/detail/20260411232250769800",
           "source": "金十数据",
@@ -691,18 +806,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
-          "title": "伊朗媒体：美伊谈判延长一天",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1269113.html",
-          "source": "联合早报",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -713,7 +817,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -724,7 +828,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -735,7 +839,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -746,7 +850,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -757,18 +861,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
-          "title": "国际特稿：美以怒火伤人也伤己 伊朗苟活不输就是赢",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1269099.html",
-          "source": "联合早报",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -779,7 +872,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -790,7 +883,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -801,7 +894,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -812,7 +905,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         }
@@ -820,7 +913,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
@@ -831,8 +924,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 11时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 14时01分]"
         },
         {
           "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
@@ -892,6 +985,18 @@
           "time_info": "[00时49分 ~ 07时45分]"
         },
         {
+          "title": "伊美14小时谈判“无果”但12日继续，伊朗拒绝美方“共管霍尔木兹海峡”，特朗普称“不在意是否达成协议”",
+          "url": "https://wallstreetcn.com/articles/3769751",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 14时01分]"
+        },
+        {
           "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
           "url": "https://www.cls.cn/detail/2341138",
           "source": "财联社热门",
@@ -915,17 +1020,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时58分 ~ 05时42分]"
-        },
-        {
-          "title": "伊美14小时谈判“无果”但12日继续，伊朗拒绝美方“共管霍尔木兹海峡”，特朗普称“不在意是否达成协议”",
-          "url": "https://wallstreetcn.com/articles/3769751",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
         },
         {
           "title": "特朗普：是否与伊朗达成协议对我来说无关紧要",
@@ -1006,6 +1100,73 @@
           "time_info": "[05时42分 ~ 07时45分]"
         },
         {
+          "title": "特朗普：中国若向伊朗提供武器 将面临＂大麻烦＂",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1269100.html",
+          "source": "联合早报",
+          "ranks": [
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 14时01分]"
+        },
+        {
+          "title": "美伊谈判结束后 特朗普再提欧洲",
+          "url": "https://flash.jin10.com/detail/20260412125636392800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
+        },
+        {
+          "title": "美国法院再审特朗普关税，10%全球税率面临合法性考验",
+          "url": "https://wallstreetcn.com/articles/3769745",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
+        },
+        {
+          "title": "特朗普转发威胁伊朗的报道链接",
+          "url": "https://flash.jin10.com/detail/20260412123247854800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
+        },
+        {
+          "title": "伊朗谈判生变数 特朗普暗示或采取“海上封锁”手段",
+          "url": "https://flash.jin10.com/detail/20260412122206149800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
+        },
+        {
+          "title": "美媒：美方谈判团队与特朗普至少六次通话 还与多名美政府官员进行了沟通",
+          "url": "https://flash.jin10.com/detail/20260412111803956800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
+        },
+        {
           "title": "特朗普再次发文抨击媒体",
           "url": "https://flash.jin10.com/detail/20260411232157423800",
           "source": "金十数据",
@@ -1028,24 +1189,13 @@
           "time_info": "07时45分"
         },
         {
-          "title": "特朗普：中国若向伊朗提供武器 将面临＂大麻烦＂",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1269100.html",
-          "source": "联合早报",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
           "title": "特朗普拟在华盛顿建凯旋门 方案已提交待审批",
           "url": "https://www.zaochenbao.com/news/politics/202604/1269097.html",
           "source": "联合早报",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         }
@@ -1055,18 +1205,6 @@
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
-        {
-          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
-          "url": "https://www.cls.cn/detail/2341199",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 11时35分]"
-        },
         {
           "title": "千亿诉讼临近 OpenAI指控马斯克搞“突袭”",
           "url": "https://www.36kr.com/newsflashes/3762063409234434",
@@ -1078,6 +1216,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时49分 ~ 11时35分]"
+        },
+        {
+          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
+          "url": "https://www.cls.cn/detail/2341199",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 14时01分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -1107,8 +1258,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 11时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 14时01分]"
         },
         {
           "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
@@ -1117,11 +1268,12 @@
           "ranks": [
             7,
             8,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 11时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 14时01分]"
         },
         {
           "title": "美股异动丨光通信概念股集体走高，Lumentum涨超2%",
