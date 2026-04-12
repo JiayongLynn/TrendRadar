@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T17:01:20.417569+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-04-12T17:57:01.405369+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 82,
+      "match_count": 85,
       "titles": [
         {
           "title": "美伊谈判进行中！伊朗称美国同意在黎巴嫩停火",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时49分 ~ 17时01分]"
+          "appearance_count": 17,
+          "time_info": "[00时49分 ~ 17时57分]"
         },
         {
           "title": "伊朗与美国开始在伊斯兰堡举行会谈",
@@ -39,8 +39,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时35分 ~ 17时01分]"
+          "appearance_count": 8,
+          "time_info": "[11时35分 ~ 17时57分]"
+        },
+        {
+          "title": "伊朗：美伊和谈成败 取决于美国能否避免“过分要求”",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1269117.html",
+          "source": "联合早报",
+          "ranks": [
+            4,
+            8,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时35分 ~ 17时57分]"
         },
         {
           "title": "伊朗新领袖穆杰塔巴据报重伤未愈 但仍主导重大决策",
@@ -76,28 +90,28 @@
           "time_info": "[00时49分 ~ 07时45分]"
         },
         {
-          "title": "伊朗：美伊和谈成败 取决于美国能否避免“过分要求”",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1269117.html",
-          "source": "联合早报",
+          "title": "美伊谈判无果而终，霍尔木兹成最大症结之一，美军高调“清雷”遭伊朗击沉警告",
+          "url": "https://wallstreetcn.com/articles/3769752",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            8,
-            19
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时35分 ~ 17时01分]"
+          "appearance_count": 5,
+          "time_info": "[15时41分 ~ 17时57分]"
         },
         {
           "title": "伊朗：继续与巴基斯坦等地区伙伴保持联系进行磋商",
           "url": "https://www.zaochenbao.com/news/politics/202604/1269132.html",
           "source": "联合早报",
           "ranks": [
-            4
+            4,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时41分 ~ 17时01分]"
+          "appearance_count": 5,
+          "time_info": "[15时41分 ~ 17时57分]"
         },
         {
           "title": "伊朗媒体及分析人士：警惕伊美谈判可能遭以色列破坏",
@@ -112,15 +126,15 @@
           "time_info": "[06时41分 ~ 07时45分]"
         },
         {
-          "title": "伊朗抓捕50名向敌方传递敏感信息人员",
-          "url": "https://flash.jin10.com/detail/20260412161334267800",
+          "title": "伊朗议会议长：我感谢巴基斯坦为推动此次谈判进程所作出的努力。",
+          "url": "https://flash.jin10.com/detail/20260412170108429800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时00分 ~ 17时01分]"
+          "time_info": "[17时56分 ~ 17时57分]"
         },
         {
           "title": "据德黑兰时报：巴基斯坦总理将紧急访问沙特，这将是其一个月内第二次访问沙特。此行目的是讨论伊朗与美国在伊斯兰堡正在进行的谈判，并探讨实现该地区持久和平的途径。",
@@ -137,15 +151,39 @@
           "time_info": "[02时58分 ~ 05时42分]"
         },
         {
-          "title": "伊朗石油部官员：预计受损炼油厂短期可至少恢复至此前七成产能",
-          "url": "https://flash.jin10.com/detail/20260412161145962800",
+          "title": "伊朗议会议长：美国已经理解了伊朗的逻辑和原则，现在是他们决定能否赢得我们信任的时候了。",
+          "url": "https://flash.jin10.com/detail/20260412165934866800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时00分 ~ 17时01分]"
+          "time_info": "[17时56分 ~ 17时57分]"
+        },
+        {
+          "title": "伊朗抓捕50名向敌方传递敏感信息人员",
+          "url": "https://flash.jin10.com/detail/20260412161334267800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时00分 ~ 17时57分]"
+        },
+        {
+          "title": "伊朗石油部官员：预计受损炼油厂短期可至少恢复至此前七成产能",
+          "url": "https://flash.jin10.com/detail/20260412161145962800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时00分 ~ 17时57分]"
         },
         {
           "title": "据伊朗法尔斯通讯社援引其记者报道称，在最新一轮谈判中，伊朗与美国未能就双方分歧达成共识。",
@@ -181,18 +219,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时35分 ~ 14时01分]"
-        },
-        {
-          "title": "美伊谈判无果而终，霍尔木兹成最大症结之一，美军高调“清雷”遭伊朗击沉警告",
-          "url": "https://wallstreetcn.com/articles/3769752",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时41分 ~ 17时01分]"
         },
         {
           "title": "伊媒：美方为挽回颜面参与谈判 伊朗暂无下一轮谈判计划",
@@ -377,6 +403,18 @@
           "time_info": "[02时58分 ~ 05时42分]"
         },
         {
+          "title": "“原油贸易巨头”维多在伊朗战争遭重创，华裔明星衍生品交易员重仓巨亏",
+          "url": "https://wallstreetcn.com/articles/3769756",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时00分 ~ 17时57分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：伊朗已不再拥有任何铀浓缩设施。",
           "url": "https://flash.jin10.com/detail/20260412020943446800",
           "source": "金十数据",
@@ -403,6 +441,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时58分 ~ 05时42分]"
+        },
+        {
+          "title": "据伊朗SNN通讯社：伊朗石油部副部长表示，受损的炼油厂和分销设施可在1至2个月内恢复至此前产能的70%至80%。拉万（Lavan）炼油厂的部分装置将在10天内重启。",
+          "url": "https://flash.jin10.com/detail/20260412154048568800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时00分 ~ 17时57分]"
+        },
+        {
+          "title": "伊朗副议长说霍尔木兹海峡是“红线” 完全由伊朗掌控",
+          "url": "https://flash.jin10.com/detail/20260412153628719800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时00分 ~ 17时57分]"
         },
         {
           "title": "据伊朗媒体：伊朗与美国在伊斯兰堡的面对面会谈结束，双方开始就关键问题交换书面文本。",
@@ -703,6 +765,17 @@
           "time_info": "[02时58分 ~ 04时44分]"
         },
         {
+          "title": "伊朗议会议长：伊朗代表团提出了具有前瞻性的倡议，但对方在本轮谈判中最终未能赢得伊朗代表团的信任。",
+          "url": "https://flash.jin10.com/detail/20260412165924618800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 17时57分]"
+        },
+        {
           "title": "据伊朗国有媒体NourNews援引接近谈判代表的消息人士称，另一轮谈判很可能于当地时间今晚或明天举行。",
           "url": "https://flash.jin10.com/detail/20260412004958992800",
           "source": "金十数据",
@@ -713,17 +786,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时40分 ~ 02时58分]"
-        },
-        {
-          "title": "“原油贸易巨头”维多在伊朗战争遭重创，华裔明星衍生品交易员重仓巨亏",
-          "url": "https://wallstreetcn.com/articles/3769756",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时00分 ~ 17时01分]"
         },
         {
           "title": "据德黑兰时报：伊朗与美国在伊斯兰堡的谈判仍在进行中。",
@@ -748,28 +810,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时41分 ~ 07时45分]"
-        },
-        {
-          "title": "据伊朗SNN通讯社：伊朗石油部副部长表示，受损的炼油厂和分销设施可在1至2个月内恢复至此前产能的70%至80%。拉万（Lavan）炼油厂的部分装置将在10天内重启。",
-          "url": "https://flash.jin10.com/detail/20260412154048568800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时00分 ~ 17时01分]"
-        },
-        {
-          "title": "伊朗副议长说霍尔木兹海峡是“红线” 完全由伊朗掌控",
-          "url": "https://flash.jin10.com/detail/20260412153628719800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时00分 ~ 17时01分]"
         },
         {
           "title": "据伊朗媒体报道，伊朗代表团离开巴基斯坦。",
@@ -1030,8 +1070,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时35分 ~ 17时01分]"
+          "appearance_count": 8,
+          "time_info": "[11时35分 ~ 17时57分]"
         },
         {
           "title": "凯文沃什获特朗普提名出任下一任美联储主席，提名确认程序恐遭延误",
@@ -1084,11 +1124,12 @@
           "url": "https://www.zaochenbao.com/news/politics/202604/1269133.html",
           "source": "联合早报",
           "ranks": [
-            3
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时41分 ~ 17时01分]"
+          "appearance_count": 5,
+          "time_info": "[15时41分 ~ 17时57分]"
         },
         {
           "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
@@ -1106,11 +1147,12 @@
           "url": "https://www.36kr.com/newsflashes/3763463510901250",
           "source": "36氪",
           "ranks": [
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时00分 ~ 17时01分]"
+          "appearance_count": 4,
+          "time_info": "[17时00分 ~ 17时57分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：正如特朗普所说，必须清除伊朗的浓缩铀，要么通过协议，要么通过其它方式。",
@@ -1347,8 +1389,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时00分 ~ 17时01分]"
+          "appearance_count": 4,
+          "time_info": "[17时00分 ~ 17时57分]"
         },
         {
           "title": "美股异动丨光通信概念股集体走高，Lumentum涨超2%",
@@ -1389,8 +1431,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时49分 ~ 17时01分]"
+          "appearance_count": 17,
+          "time_info": "[00时49分 ~ 17时57分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
