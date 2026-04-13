@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-13T22:02:01.416045+08:00",
-  "total_titles_processed": 664,
+  "generated_at": "2026-04-13T23:42:10.834442+08:00",
+  "total_titles_processed": 707,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
+        {
+          "title": "美军称“自4月13日起封锁伊朗港口海上交通”，报道称英国不参与，伊朗称“荒唐可笑”",
+          "url": "https://wallstreetcn.com/articles/3769783",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时41分 ~ 23时42分]"
+        },
         {
           "title": "美伊谈判“无果而终”，伊朗称“由于美方贪婪和野心”，万斯表态“已展现灵活和诚意，将返回美国”",
           "url": "https://wallstreetcn.com/articles/3769753",
@@ -17,18 +29,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时52分 ~ 07时46分]"
-        },
-        {
-          "title": "美军称“自4月13日起封锁伊朗港口海上交通”，报道称英国不参与，伊朗称“荒唐可笑”",
-          "url": "https://wallstreetcn.com/articles/3769783",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时41分 ~ 22时02分]"
         },
         {
           "title": "评论：美国在伊朗的战争目标实现了吗？",
@@ -42,6 +42,19 @@
           "time_info": "[00时52分 ~ 07时46分]"
         },
         {
+          "title": "中国计划向伊朗提供武器？外交部回应",
+          "url": "https://www.cls.cn/detail/2342212",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时07分 ~ 23时42分]"
+        },
+        {
           "title": "评论：北约会成为伊朗战争的另一个牺牲品吗？",
           "url": "https://www.zaochenbao.com/news/opinion/202604/1269160.html",
           "source": "联合早报",
@@ -51,6 +64,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时52分 ~ 07时46分]"
+        },
+        {
+          "title": "内塔尼亚胡：与伊朗的停火可能很快结束",
+          "url": "https://www.cls.cn/detail/2342610",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时01分 ~ 23时42分]"
         },
         {
           "title": "美伊谈判无果而终，霍尔木兹成最大症结之一，美军高调“清雷”遭伊朗击沉警告",
@@ -98,38 +123,18 @@
           "time_info": "[14时23分 ~ 14时24分]"
         },
         {
-          "title": "内塔尼亚胡：与伊朗的停火可能很快结束",
-          "url": "https://www.cls.cn/detail/2342610",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
-        },
-        {
-          "title": "停火还是继续打伊朗？以色列公众意见不一",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1369242.html",
+          "title": "封锁“能源咽喉”断伊朗财源 专家：或引发中美直接对抗",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1369217.html",
           "source": "联合早报",
           "ranks": [
-            5
+            3,
+            20,
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
-        },
-        {
-          "title": "中国计划向伊朗提供武器？外交部回应",
-          "url": "https://www.cls.cn/detail/2342212",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时07分 ~ 22时02分]"
+          "appearance_count": 5,
+          "time_info": "[17时07分 ~ 23时42分]"
         },
         {
           "title": "伊朗驻印度大使：与印度政府就印度船只通行保持良好沟通，愿向印度提供帮助。",
@@ -155,19 +160,6 @@
           "time_info": "[03时02分 ~ 11时41分]"
         },
         {
-          "title": "封锁“能源咽喉”断伊朗财源 专家：或引发中美直接对抗",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1369217.html",
-          "source": "联合早报",
-          "ranks": [
-            3,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时07分 ~ 22时02分]"
-        },
-        {
           "title": "以色列总理内塔尼亚胡：美国每日向以色列通报伊朗谈判情况。",
           "url": "https://flash.jin10.com/detail/20260413191610737800",
           "source": "金十数据",
@@ -177,6 +169,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
+        },
+        {
+          "title": "美军：将封锁霍尔木兹海峡，以总理：与伊朗的停火可能很快结束",
+          "url": "https://wallstreetcn.com/articles/3769843",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时01分 ~ 23时42分]"
+        },
+        {
+          "title": "停火还是继续打伊朗？以色列公众意见不一",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1369242.html",
+          "source": "联合早报",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时01分 ~ 23时42分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队称，霍尔木兹海峡处于控制之下，革命卫队海军将实施“灵活管理”。",
@@ -343,6 +359,32 @@
           "time_info": "[00时52分 ~ 01时43分]"
         },
         {
+          "title": "反驳计划向伊朗提供武器传言 中国外交部：反对无根据抹黑",
+          "url": "https://www.zaochenbao.com/news/china/202604/1369228.html",
+          "source": "联合早报",
+          "ranks": [
+            10,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时24分 ~ 23时42分]"
+        },
+        {
+          "title": "中国指霍尔木兹海峡通航受阻根源在于伊朗战事",
+          "url": "https://www.zaochenbao.com/news/china/202604/1369225.html",
+          "source": "联合早报",
+          "ranks": [
+            13,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时24分 ~ 23时42分]"
+        },
+        {
           "title": "谈判无果，伊朗局势发展有几种可能",
           "url": "https://wallstreetcn.com/articles/3769773",
           "source": "华尔街见闻",
@@ -352,18 +394,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时23分 ~ 17时07分]"
-        },
-        {
-          "title": "反驳计划向伊朗提供武器传言 中国外交部：反对无根据抹黑",
-          "url": "https://www.zaochenbao.com/news/china/202604/1369228.html",
-          "source": "联合早报",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时24分 ~ 22时02分]"
         },
         {
           "title": "伊朗外长：伊美谈判距离达成协议仅“一步之遥”",
@@ -376,29 +406,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时23分 ~ 17时07分]"
-        },
-        {
-          "title": "中国指霍尔木兹海峡通航受阻根源在于伊朗战事",
-          "url": "https://www.zaochenbao.com/news/china/202604/1369225.html",
-          "source": "联合早报",
-          "ranks": [
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时24分 ~ 22时02分]"
-        },
-        {
-          "title": "美军：将封锁霍尔木兹海峡，以总理：与伊朗的停火可能很快结束",
-          "url": "https://wallstreetcn.com/articles/3769843",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
         },
         {
           "title": "美国高级官员表示，伊朗拒绝了停止铀浓缩及拆除主要浓缩设施的要求。",
@@ -578,6 +585,17 @@
           "time_info": "[14时23分 ~ 14时24分]"
         },
         {
+          "title": "伊朗外交部：美方“不断变卦”导致双方未能达成协议",
+          "url": "https://flash.jin10.com/detail/20260413232727582800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "中国股债罕见步调一致 伊朗战争推升避险需求",
           "url": "https://www.zaochenbao.com/news/china/202604/1369207.html",
           "source": "联合早报",
@@ -680,7 +698,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普：美军将封锁任何试图进出霍尔木兹海峡的船只",
@@ -723,18 +741,6 @@
           "time_info": "[00时52分 ~ 07时46分]"
         },
         {
-          "title": "特朗普威胁：如果伊朗拒绝妥协，将控制霍尔木兹海峡打击伊朗经济",
-          "url": "https://wallstreetcn.com/articles/3769762",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 14时24分]"
-        },
-        {
           "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
           "url": "https://wallstreetcn.com/articles/3769785",
           "source": "华尔街见闻",
@@ -746,8 +752,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时41分 ~ 22时02分]"
+          "appearance_count": 8,
+          "time_info": "[11时41分 ~ 23时42分]"
+        },
+        {
+          "title": "特朗普威胁：如果伊朗拒绝妥协，将控制霍尔木兹海峡打击伊朗经济",
+          "url": "https://wallstreetcn.com/articles/3769762",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 14时24分]"
         },
         {
           "title": "美国总统特朗普：封锁伊朗后美国将能大卖石油",
@@ -822,17 +840,6 @@
           "time_info": "[22时01分 ~ 22时02分]"
         },
         {
-          "title": "特朗普承认油价飙涨现象恐持续至11月中期选举",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1369244.html",
-          "source": "联合早报",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
-        },
-        {
           "title": "停火岌岌可危？特朗普被曝考虑恢复对伊朗有限军事打击",
           "url": "https://www.cls.cn/detail/2341889",
           "source": "财联社热门",
@@ -870,6 +877,18 @@
           "time_info": "11时41分"
         },
         {
+          "title": "特朗普承认油价飙涨现象恐持续至11月中期选举",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1369244.html",
+          "source": "联合早报",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时01分 ~ 23时42分]"
+        },
+        {
           "title": "特朗普封锁霍尔木兹海峡 恐冲击亚洲盟友及中国",
           "url": "https://www.zaochenbao.com/news/politics/202604/1369196.html",
           "source": "联合早报",
@@ -883,6 +902,18 @@
           "time_info": "[11时41分 ~ 17时07分]"
         },
         {
+          "title": "特朗普“封锁霍尔木兹”，高盛：股市迎来“最终决战”",
+          "url": "https://wallstreetcn.com/articles/3769786",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时07分 ~ 23时42分]"
+        },
+        {
           "title": "美国几位大主教接受美国媒体《60分钟》采访时，抨击特朗普发动的伊朗战争“并非公正”。",
           "url": "https://flash.jin10.com/detail/20260413110821830800",
           "source": "金十数据",
@@ -892,6 +923,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
+        },
+        {
+          "title": "特朗普威胁若中国向伊朗供武就加征关税，外交部：关税战没有赢家",
+          "url": "https://www.cls.cn/detail/2342208",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时24分 ~ 23时42分]"
         },
         {
           "title": "伊朗称特朗普威胁封锁霍尔木兹荒谬",
@@ -907,16 +950,16 @@
           "time_info": "[03时02分 ~ 05时44分]"
         },
         {
-          "title": "特朗普“封锁霍尔木兹”，高盛：股市迎来“最终决战”",
-          "url": "https://wallstreetcn.com/articles/3769786",
+          "title": "特朗普宣布：今晚10点就封锁！霍尔木兹海峡再次完全中断，两艘船紧急掉头",
+          "url": "https://wallstreetcn.com/articles/3769804",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            6
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时07分 ~ 22时02分]"
+          "time_info": "[19时24分 ~ 23时42分]"
         },
         {
           "title": "特朗普说海峡全封 美军说只封伊朗港口船只",
@@ -931,28 +974,52 @@
           "time_info": "[06时45分 ~ 07时46分]"
         },
         {
-          "title": "特朗普威胁若中国向伊朗供武就加征关税，外交部：关税战没有赢家",
-          "url": "https://www.cls.cn/detail/2342208",
+          "title": "特朗普重申将封锁进出伊朗港口船只 中方回应",
+          "url": "https://www.cls.cn/detail/2342207",
           "source": "财联社热门",
           "ranks": [
-            7,
-            6
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时24分 ~ 23时42分]"
+        },
+        {
+          "title": "特朗普“封锁令”倒计时！霍尔木兹航运再陷中断 150美元油价警报拉响",
+          "url": "https://www.cls.cn/detail/2342301",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时24分 ~ 23时42分]"
+        },
+        {
+          "title": "教宗：不想与特朗普争论 仍会发声反对战争",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1369241.html",
+          "source": "联合早报",
+          "ranks": [
+            6,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时24分 ~ 22时02分]"
+          "time_info": "[22时01分 ~ 23时42分]"
         },
         {
-          "title": "特朗普宣布：今晚10点就封锁！霍尔木兹海峡再次完全中断，两艘船紧急掉头",
-          "url": "https://wallstreetcn.com/articles/3769804",
+          "title": "一个颠覆性观点：制造能源危机，特朗普蓄谋已久！",
+          "url": "https://wallstreetcn.com/articles/3769823",
           "source": "华尔街见闻",
           "ranks": [
-            7,
+            9,
             8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时24分 ~ 22时02分]"
+          "time_info": "[22时01分 ~ 23时42分]"
         },
         {
           "title": "据伊朗国家媒体：伊朗首席谈判代表卡利巴夫对美国总统特朗普表示：“如果你挑衅，我们就迎战；如果你以理相待，我们就以理相待。”",
@@ -966,30 +1033,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时02分 ~ 05时44分]"
-        },
-        {
-          "title": "特朗普重申将封锁进出伊朗港口船只 中方回应",
-          "url": "https://www.cls.cn/detail/2342207",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时24分 ~ 22时02分]"
-        },
-        {
-          "title": "特朗普“封锁令”倒计时！霍尔木兹航运再陷中断 150美元油价警报拉响",
-          "url": "https://www.cls.cn/detail/2342301",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时24分 ~ 22时02分]"
         },
         {
           "title": "美媒：特朗普正考虑恢复对伊朗的有限军事打击",
@@ -1014,17 +1057,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时41分 ~ 14时24分]"
-        },
-        {
-          "title": "教宗：不想与特朗普争论 仍会发声反对战争",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1369241.html",
-          "source": "联合早报",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
         },
         {
           "title": "150美元油价警告，挡不住特朗普的强硬：不在乎伊朗谈不谈，准时封锁",
@@ -1074,17 +1106,6 @@
           "time_info": "[03时02分 ~ 04时48分]"
         },
         {
-          "title": "一个颠覆性观点：制造能源危机，特朗普蓄谋已久！",
-          "url": "https://wallstreetcn.com/articles/3769823",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
-        },
-        {
           "title": "伊朗议会国家安全与外交政策委员会主席：美国总统唐纳德·特朗普关于霍尔木兹海峡的要求（对霍尔木兹海峡进行海上封锁））永远不会实现。 他说的是他的愿望，那是些从未实现过、也永远不会实现的要求。",
           "url": "https://flash.jin10.com/detail/20260412234154471800",
           "source": "金十数据",
@@ -1117,6 +1138,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
+        },
+        {
+          "title": "连封锁霍尔木兹这招都用上了，特朗普在伊朗问题上已无牌可打？",
+          "url": "https://wallstreetcn.com/articles/3769807",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
+          "title": "特朗普呼吁中国购买美国和委内瑞拉石油，中方回应",
+          "url": "https://www.cls.cn/detail/2342732",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "特朗普放狠话全面封锁霍尔木兹，美军却说只堵伊朗港口，油价暴拉10%",
@@ -1185,6 +1228,17 @@
           "time_info": "19时24分"
         },
         {
+          "title": "匈牙利选举获胜者、反对派领袖毛焦尔：已准备好邀请特朗普访问布达佩斯。",
+          "url": "https://flash.jin10.com/detail/20260413225735915800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "特朗普要封锁霍尔木兹，专家泼冷水：难执行、不可持续、可能引爆新报复",
           "url": "https://flash.jin10.com/detail/20260413105041654800",
           "source": "金十数据",
@@ -1243,7 +1297,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "热门中概股美股盘前多数下跌，理想汽车跌超2%",
@@ -1253,8 +1307,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
+          "appearance_count": 3,
+          "time_info": "[22时01分 ~ 23时42分]"
         },
         {
           "title": "美股大型科技股盘前普跌，英伟达跌超1%",
@@ -1264,8 +1318,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
+          "appearance_count": 3,
+          "time_info": "[22时01分 ~ 23时42分]"
         },
         {
           "title": "美国“封锁”逼近，美股盘前科技股普跌，高盛跌近4%，布油破百，黄金回调，铝价四年新高",
@@ -1277,6 +1331,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[22时01分 ~ 22时02分]"
+        },
+        {
+          "title": "美国“封锁”逼近，美股指低开，石油股上涨，布油破百，黄金回调，铝价四年新高",
+          "url": "https://wallstreetcn.com/articles/3769784",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "潘兴广场宣布启动潘兴广场美国公司合并IPO，美股发行价为50.00美元，拟寻求至少50亿美元的发行规模。",
@@ -1323,6 +1388,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时45分 ~ 07时46分]"
+        },
+        {
+          "title": "美股异动丨微软涨超2% 高盛维持其“买入”评级 AI开支实为长期护城河",
+          "url": "https://www.gelonghui.com/news/5208634",
+          "source": "格隆汇",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         }
       ]
     },
@@ -1350,8 +1426,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
+          "appearance_count": 3,
+          "time_info": "[22时01分 ~ 23时42分]"
         }
       ]
     },
