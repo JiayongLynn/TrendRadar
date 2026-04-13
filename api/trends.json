@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T03:25:40.040655+08:00",
-  "total_titles_processed": 148,
+  "generated_at": "2026-04-14T05:04:49.258922+08:00",
+  "total_titles_processed": 178,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 05时04分]"
         },
         {
           "title": "特朗普暗示停火结束后或继续对伊朗采取行动",
@@ -38,8 +38,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 05时04分]"
+        },
+        {
+          "title": "据英国金融时报：美国总统特朗普提名艾琳·布朗尼出任美国财政部国际事务主管。",
+          "url": "https://flash.jin10.com/detail/20260414041925108800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         },
         {
           "title": "特朗普“封锁霍尔木兹”，高盛：股市迎来“最终决战”",
@@ -49,8 +60,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 05时04分]"
         },
         {
           "title": "一个颠覆性观点：制造能源危机，特朗普蓄谋已久！",
@@ -60,8 +71,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 05时04分]"
         },
         {
           "title": "特朗普承认油价飙涨现象恐持续至11月中期选举",
@@ -71,8 +82,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 05时04分]"
         },
         {
           "title": "特朗普宣布：今晚10点就封锁！霍尔木兹海峡再次完全中断，两艘船紧急掉头",
@@ -82,8 +93,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 05时04分]"
+        },
+        {
+          "title": "特朗普“封锁令”倒计时！霍尔木兹航运再陷中断 150美元油价警报拉响",
+          "url": "https://www.cls.cn/detail/2342301",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 05时04分]"
+        },
+        {
+          "title": "教宗：不想与特朗普争论 仍会发声反对战争",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1369241.html",
+          "source": "联合早报",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 05时04分]"
         },
         {
           "title": "特朗普重申将封锁进出伊朗港口船只 中方回应",
@@ -92,29 +127,6 @@
           "ranks": [
             10,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时25分]"
-        },
-        {
-          "title": "特朗普“封锁令”倒计时！霍尔木兹航运再陷中断 150美元油价警报拉响",
-          "url": "https://www.cls.cn/detail/2342301",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时25分]"
-        },
-        {
-          "title": "教宗：不想与特朗普争论 仍会发声反对战争",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1369241.html",
-          "source": "联合早报",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -336,7 +348,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
         },
@@ -347,7 +359,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
         }
@@ -355,7 +367,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "美军称“自4月13日起封锁伊朗港口海上交通”，报道称英国不参与，伊朗称“荒唐可笑”",
@@ -365,8 +377,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 05时04分]"
         },
         {
           "title": "内塔尼亚胡：与伊朗的停火可能很快结束",
@@ -376,8 +388,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 05时04分]"
         },
         {
           "title": "美军：将封锁霍尔木兹海峡，以总理：与伊朗的停火可能很快结束",
@@ -387,8 +399,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 05时04分]"
         },
         {
           "title": "中国计划向伊朗提供武器？外交部回应",
@@ -409,8 +421,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 05时04分]"
         },
         {
           "title": "反驳计划向伊朗提供武器传言 中国外交部：反对无根据抹黑",
@@ -420,8 +432,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 05时04分]"
         },
         {
           "title": "中国指霍尔木兹海峡通航受阻根源在于伊朗战事",
@@ -431,8 +443,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 05时04分]"
         },
         {
           "title": "封锁“能源咽喉”断伊朗财源 专家：或引发中美直接对抗",
@@ -442,8 +454,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 05时04分]"
         },
         {
           "title": "国际能源署署长比罗尔：伊朗战争已导致80多座石油和天然气设施受损，其中包括生产设施、终端和炼油厂。",
@@ -457,13 +469,35 @@
           "time_info": "[01时14分 ~ 01时15分]"
         },
         {
+          "title": "伊朗总统与法国总统通电话 讨论近期地区局势",
+          "url": "https://flash.jin10.com/detail/20260414034101566800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "据美国海军学会新闻网（USNI News）援引两名美国国防官员称，随着伊朗封锁开始，“乔治·H·W·布什”号航空母舰及其护航舰队为避开曼德海峡及胡塞武装，正绕行非洲南部前往美国中央司令部辖区执行行动。",
+          "url": "https://flash.jin10.com/detail/20260414033945894800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
           "title": "伊朗外交部：伊朗外长阿拉格齐与俄罗斯外长拉夫罗夫进行了电话交谈，讨论了最新的地区局势以及在巴基斯坦伊斯兰堡与美国的谈判。",
           "url": "https://flash.jin10.com/detail/20260414020705965800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
         }
@@ -471,7 +505,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "热门中概股美股盘前多数下跌，理想汽车跌超2%",
@@ -481,8 +515,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 05时04分]"
         },
         {
           "title": "美股大型科技股盘前普跌，英伟达跌超1%",
@@ -492,8 +526,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 05时04分]"
         },
         {
           "title": "美国“封锁”逼近，美股指低开，石油股上涨，布油破百，黄金回调，铝价四年新高",
@@ -503,8 +537,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 05时04分]"
         },
         {
           "title": "美股异动丨微软涨超2% 高盛维持其“买入”评级 AI开支实为长期护城河",
@@ -514,15 +548,70 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 05时04分]"
+        },
+        {
+          "title": "金十图示：2026年04月13日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260414040602403800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "金十图示：2026年04月13日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260414040552964800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "美股收盘：标普500指数收复本轮冲突以来的所有跌幅",
+          "url": "https://flash.jin10.com/detail/20260414040247789800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "贝莱德恢复超配美股观点 认为伊朗战争冲击可控",
+          "url": "https://flash.jin10.com/detail/20260414035311395800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美国FBI局长：今天早上，FBI及合作伙伴在得州开展了一项行动，拘留了一名与上周五早上袭击OpenAI首席执行官Sam Altman家有关的嫌疑人。",
+          "url": "https://flash.jin10.com/detail/20260414043421131800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
         {
           "title": "OpenAI：微软限制了其接触客户的能力",
           "url": "https://www.36kr.com/newsflashes/3765235147113224",
@@ -531,8 +620,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 05时04分]"
         }
       ]
     }
