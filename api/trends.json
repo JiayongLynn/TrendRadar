@@ -1,83 +1,11 @@
 {
-  "generated_at": "2026-04-15T00:17:07.110961+08:00",
-  "total_titles_processed": 114,
+  "generated_at": "2026-04-15T03:09:35.696685+08:00",
+  "total_titles_processed": 143,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
-          "url": "https://wallstreetcn.com/articles/3769872",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "特朗普儿子将陪同父亲访问中国",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1469344.html",
-          "source": "联合早报",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "不再催降息？特朗普阵营态度微妙转变 贝森特称美联储当前宜观望",
-          "url": "https://www.cls.cn/detail/2343501",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "特朗普拒道歉 与教宗争端或影响中期选举选情",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1469336.html",
-          "source": "联合早报",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "特朗普态度摇摆：先排除、后改口仍倾向巴基斯坦作为美伊谈判地",
-          "url": "https://flash.jin10.com/detail/20260414233754525800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "特朗普称与伊朗会谈“可能未来两天内”在巴基斯坦举行",
-          "url": "https://flash.jin10.com/detail/20260414233041933800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 13,
       "titles": [
         {
           "title": "万斯：球到了“伊朗一方”，伊朗总统：愿意继续谈判",
@@ -87,8 +15,52 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 03时09分]"
+        },
+        {
+          "title": "美国财政部：允许销售伊朗石油的短期许可在未来几天到期后将不再续期。",
+          "url": "https://flash.jin10.com/detail/20260415024525113800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "03时09分"
+        },
+        {
+          "title": "伊朗议员：将继续参与谈判 同时挫败美国阴谋",
+          "url": "https://flash.jin10.com/detail/20260415023944281800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "据美国NBC新闻援引一位官员的话称，在当天会谈中，黎巴嫩与以色列一致认为，应全面解除真主党的武装，并且不应再允许伊朗影响黎巴嫩的未来。",
+          "url": "https://flash.jin10.com/detail/20260415023424866800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "美国参议院共和党领袖图恩：我们大多数人对美国在伊朗的成就感到满意。",
+          "url": "https://flash.jin10.com/detail/20260415023322097800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
         },
         {
           "title": "西方媒体：美伊本周开启新一轮谈判，伊朗火速辟谣：报道“毫无根据”！",
@@ -98,8 +70,31 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 03时09分]"
+        },
+        {
+          "title": "报道：伊朗考虑暂停霍尔木兹航运，为新一轮谈判争取空间",
+          "url": "https://wallstreetcn.com/articles/3769943",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 03时09分]"
+        },
+        {
+          "title": "伊朗战争重创全球石油消费前景",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1469331.html",
+          "source": "联合早报",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 03时09分]"
         },
         {
           "title": "据华尔街日报：被扣押的与伊朗有关的船只将被带往阿拉伯海或印度洋的指定区域。",
@@ -113,22 +108,128 @@
           "time_info": "00时17分"
         },
         {
-          "title": "报道：伊朗考虑暂停霍尔木兹航运，为新一轮谈判争取空间",
-          "url": "https://wallstreetcn.com/articles/3769943",
+          "title": "土耳其外长分别与伊朗和巴基斯坦外长通电话 讨论伊美谈判",
+          "url": "https://flash.jin10.com/detail/20260415021809358800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "伊朗总统赞扬中国等6国反战立场",
+          "url": "https://flash.jin10.com/detail/20260415021407305800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "欧洲央行管委多伦茨：欧洲央行将在四月和六月对伊朗局势的影响有更多了解。",
+          "url": "https://flash.jin10.com/detail/20260415020803960800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "2400多万伊朗人志愿为国献身",
+          "url": "https://flash.jin10.com/detail/20260415014844805800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
+          "url": "https://wallstreetcn.com/articles/3769872",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 03时09分]"
+        },
+        {
+          "title": "特朗普儿子将陪同父亲访问中国",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1469344.html",
+          "source": "联合早报",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 03时09分]"
+        },
+        {
+          "title": "不再催降息？特朗普阵营态度微妙转变 贝森特称美联储当前宜观望",
+          "url": "https://www.cls.cn/detail/2343501",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 03时09分]"
+        },
+        {
+          "title": "特朗普拒道歉 与教宗争端或影响中期选举选情",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1469336.html",
+          "source": "联合早报",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 03时09分]"
+        },
+        {
+          "title": "特朗普态度摇摆：先排除、后改口仍倾向巴基斯坦作为美伊谈判地",
+          "url": "https://flash.jin10.com/detail/20260414233754525800",
+          "source": "金十数据",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
         },
         {
-          "title": "伊朗战争重创全球石油消费前景",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1469331.html",
-          "source": "联合早报",
+          "title": "美国总统特朗普：正全力推动本周在众议院通过《外国情报监视法》第702条（FISA 702）的“干净延期”。",
+          "url": "https://flash.jin10.com/detail/20260415020934030800",
+          "source": "金十数据",
           "ranks": [
-            15
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "特朗普称与伊朗会谈“可能未来两天内”在巴基斯坦举行",
+          "url": "https://flash.jin10.com/detail/20260414233041933800",
+          "source": "金十数据",
+          "ranks": [
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -148,8 +249,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 03时09分]"
         },
         {
           "title": "热门中概股美股盘前涨跌互现，百度涨超1%",
@@ -159,8 +260,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 03时09分]"
         },
         {
           "title": "美股大型科技股盘前普涨，甲骨文涨超5%",
@@ -170,8 +271,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 03时09分]"
         },
         {
           "title": "美股异动丨现货黄金重回4800美元上方，黄金白银股普涨",
@@ -181,8 +282,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 03时09分]"
         }
       ]
     },
@@ -198,8 +299,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 03时09分]"
         }
       ]
     }
