@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T20:02:05.595680+08:00",
-  "total_titles_processed": 680,
+  "generated_at": "2026-04-15T22:49:42.078933+08:00",
+  "total_titles_processed": 759,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 49,
+      "match_count": 53,
       "titles": [
         {
           "title": "西方媒体：美伊本周开启新一轮谈判，伊朗火速辟谣：报道“毫无根据”！",
@@ -55,11 +55,12 @@
           "ranks": [
             9,
             10,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时54分 ~ 20时02分]"
+          "appearance_count": 9,
+          "time_info": "[07时54分 ~ 22时49分]"
         },
         {
           "title": "伊朗战争重创全球石油消费前景",
@@ -79,11 +80,12 @@
           "ranks": [
             1,
             8,
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时50分 ~ 20时02分]"
+          "appearance_count": 5,
+          "time_info": "[16时50分 ~ 22时49分]"
         },
         {
           "title": "美军上调对伊朗战事伤员人数：近400人",
@@ -204,6 +206,18 @@
           "time_info": "[16时50分 ~ 20时02分]"
         },
         {
+          "title": "定了，沃什即将登场，与伊朗谈判到期日同日，巧合还是宿命？",
+          "url": "https://wallstreetcn.com/articles/3769984",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时01分 ~ 22时49分]"
+        },
+        {
           "title": "欧洲拟定伊朗战后草案 维护海峡航运或把美国排除在外",
           "url": "https://www.zaochenbao.com/news/politics/202604/1569364.html",
           "source": "联合早报",
@@ -262,17 +276,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时31分 ~ 14时11分]"
-        },
-        {
-          "title": "定了，沃什即将登场，与伊朗谈判到期日同日，巧合还是宿命？",
-          "url": "https://wallstreetcn.com/articles/3769984",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
           "title": "美国国务卿鲁比奥：与埃及外长阿卜杜拉提进行了会面，讨论伊朗停火、推进加沙20点计划以及结束苏丹冲突的持续努力。我们还探讨了加强美埃经济和商业关系的方法。",
@@ -397,6 +400,17 @@
           "time_info": "18时23分"
         },
         {
+          "title": "卡塔尔官员：伊朗战争的影响远不止局限于海湾地区。",
+          "url": "https://flash.jin10.com/detail/20260415220900067800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "韩国存储芯片业面临重大风险：以色列溴供应处于伊朗袭击半径内",
           "url": "https://www.cls.cn/detail/2344481",
           "source": "财联社热门",
@@ -406,6 +420,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
+        },
+        {
+          "title": "巴基斯坦代表团抵达伊朗 将讨论第二轮伊美谈判事宜",
+          "url": "https://flash.jin10.com/detail/20260415220647223800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "港股异动丨铜业股普涨 中国有色矿业涨3.3% LME铜价抹去伊朗冲突以来全部跌幅",
@@ -551,6 +576,17 @@
           "time_info": "18时23分"
         },
         {
+          "title": "据华尔街日报：相关官员透露，地区调解人仍在努力推动延长美国与伊朗之间的停火协议，并安排第二轮会谈，但进展一直缓慢。这些官员表示，在伊斯兰堡举行了马拉松式和平谈判结束并仍未达成协议后，美国和伊朗已原则上同意会面，但尚未确定日期和地点。",
+          "url": "https://flash.jin10.com/detail/20260415215746121800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "2400多万伊朗人志愿为国献身",
           "url": "https://flash.jin10.com/detail/20260415014844805800",
           "source": "金十数据",
@@ -571,12 +607,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
+        },
+        {
+          "title": "巴基斯坦消息人士：巴外交部代表团前往伊朗",
+          "url": "https://flash.jin10.com/detail/20260415215111258800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
@@ -588,8 +635,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时31分 ~ 20时02分]"
+          "appearance_count": 8,
+          "time_info": "[11时31分 ~ 22时49分]"
         },
         {
           "title": "特朗普儿子将陪同父亲访问中国",
@@ -731,8 +778,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时50分 ~ 20时02分]"
+          "appearance_count": 5,
+          "time_info": "[16时50分 ~ 22时49分]"
+        },
+        {
+          "title": "特朗普称已要求中国不要向伊朗提供武器",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1569421.html",
+          "source": "联合早报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "梅拉尼娅·特朗普的演说让爱泼斯坦危机再次成为焦点",
+          "url": "https://www.zaochenbao.com/news/Chronicles/202604/1569376.html",
+          "source": "联合早报",
+          "ranks": [
+            22,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时50分 ~ 22时49分]"
         },
         {
           "title": "4月15日投资避雷针：特朗普称美国对伊朗的战争已经结束",
@@ -746,18 +817,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时31分 ~ 16时50分]"
-        },
-        {
-          "title": "梅拉尼娅·特朗普的演说让爱泼斯坦危机再次成为焦点",
-          "url": "https://www.zaochenbao.com/news/Chronicles/202604/1569376.html",
-          "source": "联合早报",
-          "ranks": [
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时50分 ~ 20时02分]"
         },
         {
           "title": "特朗普称伊朗战事“接近结束” 伊媒：本周可能重启谈判",
@@ -842,6 +901,17 @@
           "time_info": "[16时50分 ~ 18时23分]"
         },
         {
+          "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
+          "url": "https://wallstreetcn.com/articles/3770032",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "特朗普态度摇摆：先排除、后改口仍倾向巴基斯坦作为美伊谈判地",
           "url": "https://flash.jin10.com/detail/20260414233754525800",
           "source": "金十数据",
@@ -864,6 +934,17 @@
           "time_info": "11时31分"
         },
         {
+          "title": "耶伦：美联储今年仍可能降息，掌门候选人未必会“听特朗普的话”！",
+          "url": "https://www.cls.cn/detail/2344775",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "美国总统特朗普：正全力推动本周在众议院通过《外国情报监视法》第702条（FISA 702）的“干净延期”。",
           "url": "https://flash.jin10.com/detail/20260415020934030800",
           "source": "金十数据",
@@ -884,13 +965,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "特朗普继续放狠：鲍威尔必须“净身出户”，刑事调查绝不撤诉！",
+          "url": "https://flash.jin10.com/detail/20260415215634931800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
+          "url": "https://wallstreetcn.com/articles/3769987",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时31分 ~ 22时49分]"
+        },
         {
           "title": "热门中概股美股盘前涨跌互现，百度涨超1%",
           "url": "https://www.36kr.com/newsflashes/3766667012620804",
@@ -901,18 +1005,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时17分 ~ 06时58分]"
-        },
-        {
-          "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
-          "url": "https://wallstreetcn.com/articles/3769987",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时31分 ~ 20时02分]"
         },
         {
           "title": "美股大型科技股盘前普涨，甲骨文涨超5%",
@@ -984,6 +1076,39 @@
           "time_info": "06时58分"
         },
         {
+          "title": "美股异动丨Adobe涨2.6%，发布Firefly AI助手",
+          "url": "https://www.gelonghui.com/news/5210345",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "热门中概股美股盘前多数下跌，百度跌超1%",
+          "url": "https://www.36kr.com/newsflashes/3768086677881347",
+          "source": "36氪",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "美股大型科技股盘前涨跌不一，微软涨超1%",
+          "url": "https://www.36kr.com/newsflashes/3768084159005442",
+          "source": "36氪",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "美股异动丨现货黄金重回4800美元上方，黄金白银股普涨",
           "url": "https://www.gelonghui.com/news/5209406",
           "source": "格隆汇",
@@ -994,6 +1119,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时17分 ~ 06时58分]"
+        },
+        {
+          "title": "谈判曙光提振市场，美股高开，美银、大摩涨近4%，阿斯麦跌3%，黄金重回4800美元，布油再度转跌",
+          "url": "https://wallstreetcn.com/articles/3770007",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "美股三大指数集体收涨！纳指涨近2%录得十连涨，中概指数涨超2%",
@@ -1029,6 +1165,17 @@
           "time_info": "[07时54分 ~ 07时55分]"
         },
         {
+          "title": "美股异动丨优步涨4.7%创逾一年新高，拟投入100亿美元押注Robotaxi",
+          "url": "https://www.gelonghui.com/news/5210338",
+          "source": "格隆汇",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "美股率先收复所有失地！美伊冲突第七周 全球市场正迎来“大洗牌”？",
           "url": "https://www.cls.cn/detail/2344302",
           "source": "财联社热门",
@@ -1038,6 +1185,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
+        },
+        {
+          "title": "美股期指基本持平 标普500指数冲击新高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2345247",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "美股异动丨特斯拉涨3.3%，AI5芯片成功流片+获瑞银上调评级",
+          "url": "https://www.gelonghui.com/news/5210335",
+          "source": "格隆汇",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         }
       ]
     },
@@ -1093,6 +1262,34 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "IMF警告：美债发行激增削弱安全溢价，推高全球借贷成本",
+          "url": "https://flash.jin10.com/detail/20260415222213725800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "和谈预期催生美债看涨押注 市场观望致成交萎缩",
+          "url": "https://flash.jin10.com/detail/20260415050018826800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -1126,23 +1323,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "和谈预期催生美债看涨押注 市场观望致成交萎缩",
-          "url": "https://flash.jin10.com/detail/20260415050018826800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时59分"
         }
       ]
     }
