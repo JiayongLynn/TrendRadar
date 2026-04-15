@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-16T02:10:39.180332+08:00",
-  "total_titles_processed": 144,
+  "generated_at": "2026-04-16T04:07:42.322006+08:00",
+  "total_titles_processed": 175,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "中国外长王毅和伊朗外长阿拉格齐通话",
+          "url": "https://www.zaochenbao.com/news/china/202604/1569429.html",
+          "source": "联合早报",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时10分 ~ 04时07分]"
+        },
         {
           "title": "美国中央司令部：美国海军舰艇正在阿曼湾执行巡逻任务，与此同时，中央司令部继续执行美国对进出伊朗港口的船只的封锁行动。美军已部署到位，保持警惕，并做好准备以确保相关船只遵守规定。",
           "url": "https://flash.jin10.com/detail/20260415235214832800",
@@ -19,24 +30,13 @@
           "time_info": "00时11分"
         },
         {
-          "title": "中国外长王毅和伊朗外长阿拉格齐通话",
-          "url": "https://www.zaochenbao.com/news/china/202604/1569429.html",
-          "source": "联合早报",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时10分"
-        },
-        {
           "title": "美国财长贝森特：美国将不再续期允许购买俄罗斯和伊朗石油的许可证。",
           "url": "https://flash.jin10.com/detail/20260416014959097800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -78,11 +78,23 @@
           "url": "https://wallstreetcn.com/articles/3769984",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 04时07分]"
+        },
+        {
+          "title": "英媒：中国间谍卫星助伊朗打击美国军事基地",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1569400.html",
+          "source": "联合早报",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 04时07分]"
         },
         {
           "title": "监测机构称伊朗出发的两艘船通过霍尔木兹，美军称上万人员执行伊港口“封锁令”，首日六船折返",
@@ -97,15 +109,37 @@
           "time_info": "[00时11分 ~ 02时10分]"
         },
         {
-          "title": "英媒：中国间谍卫星助伊朗打击美国军事基地",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1569400.html",
-          "source": "联合早报",
+          "title": "美国财长贝森特：昨天会见了阿联酋财政事务国务部长穆罕默德·本·哈迪·阿尔·侯赛尼，讨论美国与阿联酋之间持续推进的经济与金融合作。我们还讨论了在对伊朗问题上维持“最大压力”的重要性。",
+          "url": "https://flash.jin10.com/detail/20260416033104256800",
+          "source": "金十数据",
           "ranks": [
-            24
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时10分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时07分"
+        },
+        {
+          "title": "美国财长贝森特：昨天与法国财长会面，就关键矿产和即将举行的G7和G20讨论中的多边经济优先事项等领域的合作交换了意见。敦促法国在推动欧盟施压伊朗以结束其破坏性威胁方面发挥领导作用。",
+          "url": "https://flash.jin10.com/detail/20260416032726352800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时07分"
+        },
+        {
+          "title": "以色列警告或重启对伊朗冲突 将继续打击黎真主党",
+          "url": "https://flash.jin10.com/detail/20260416032548695800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时07分"
         },
         {
           "title": "美国财长贝森特：美国已要求冻结伊朗革命卫队的资金以及伊朗领导层的资金。",
@@ -114,7 +148,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -125,9 +159,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        },
+        {
+          "title": "伊朗将使用替代港口绕开美国封锁，有油轮已“成功闯关”霍尔木兹",
+          "url": "https://wallstreetcn.com/articles/3770023",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时07分"
         },
         {
           "title": "白宫新闻秘书莱维特：与伊朗的对话富有成效，且持续进行中。",
@@ -136,9 +181,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        },
+        {
+          "title": "据AXIOS网站：美国尚未正式要求以色列在黎巴嫩停火，这不在与伊朗的谈判中。",
+          "url": "https://flash.jin10.com/detail/20260416030934587800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时07分"
         },
         {
           "title": "美国财长贝森特：一直在与中东地区对口官员就伊朗石油危机进行会谈。中东对口官员表示，一旦霍尔木兹海峡开放，他们可以立即开始运输石油。",
@@ -147,9 +203,172 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        },
+        {
+          "title": "美联储穆萨莱姆：已将今年GDP增速预期从伊朗战争前的2%–2.5%下调至1.5%–2%。",
+          "url": "https://flash.jin10.com/detail/20260416030241536800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时07分"
+        },
+        {
+          "title": "伊朗外交部发言人：伊美是否延长停火无法确认",
+          "url": "https://flash.jin10.com/detail/20260416025754174800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时07分"
+        },
+        {
+          "title": "美国参议院以52票对47票的投票阻止了一项决议，该决议旨在阻止美国在未经国会批准的情况下对伊朗发动进一步打击。",
+          "url": "https://flash.jin10.com/detail/20260416025527318800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
+          "url": "https://wallstreetcn.com/articles/3769962",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 04时07分]"
+        },
+        {
+          "title": "卡塔尔埃米尔宫：卡塔尔埃米尔与美国总统特朗普在电话中讨论了地区局势降温以及确保能源市场稳定。",
+          "url": "https://flash.jin10.com/detail/20260416033511028800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时07分"
+        },
+        {
+          "title": "特朗普：没必要延长停火，接下来两天很精彩",
+          "url": "https://wallstreetcn.com/articles/3770009",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 04时07分]"
+        },
+        {
+          "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
+          "url": "https://wallstreetcn.com/articles/3770032",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 04时07分]"
+        },
+        {
+          "title": "特朗普威胁：如果任期结束后鲍威尔不离职，他将强行解雇鲍威尔",
+          "url": "https://www.cls.cn/detail/2345350",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 04时07分]"
+        },
+        {
+          "title": "特朗普称已要求中国不要向伊朗提供武器",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1569421.html",
+          "source": "联合早报",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 04时07分]"
+        },
+        {
+          "title": "梅拉尼娅·特朗普的演说让爱泼斯坦危机再次成为焦点",
+          "url": "https://www.zaochenbao.com/news/Chronicles/202604/1569376.html",
+          "source": "联合早报",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 04时07分]"
+        },
+        {
+          "title": "特朗普禁令被绕过？Anthropic新模型魅力太大 美政府机构争相合作",
+          "url": "https://www.cls.cn/detail/2344964",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时10分 ~ 04时07分]"
+        },
+        {
+          "title": "特朗普不满美英“特殊关系” 斯塔默说不会妥协",
+          "url": "https://flash.jin10.com/detail/20260415234104665800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        },
+        {
+          "title": "美国参议院投票否决旨在限制特朗普对伊战争权力的动议",
+          "url": "https://flash.jin10.com/detail/20260416031330828800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时07分"
+        },
+        {
+          "title": "据AXIOS网站：一名美国高级官员称，特朗普欢迎将结束战斗纳入以色列与黎巴嫩之间达成的协议的一部分。",
+          "url": "https://flash.jin10.com/detail/20260416030837567800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时07分"
         }
       ]
     },
@@ -165,8 +384,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 04时07分]"
+        },
+        {
+          "title": "谈判曙光提振市场，美股高开，美银、大摩涨近4%，阿斯麦跌3%，黄金重回4800美元，布油再度转跌",
+          "url": "https://wallstreetcn.com/articles/3770007",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 04时07分]"
         },
         {
           "title": "美股异动丨棒约翰涨5%，据悉就潜在收购交易进行深入讨论",
@@ -176,8 +408,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 04时07分]"
         },
         {
           "title": "美股大型科技股盘前涨跌不一，微软涨超1%",
@@ -187,8 +419,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 04时07分]"
         },
         {
           "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
@@ -199,20 +431,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时10分]"
-        },
-        {
-          "title": "谈判曙光提振市场，美股高开，美银、大摩涨近4%，阿斯麦跌3%，黄金重回4800美元，布油再度转跌",
-          "url": "https://wallstreetcn.com/articles/3770007",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 04时07分]"
         },
         {
           "title": "美股异动丨Adobe涨2.6%，发布Firefly AI助手",
@@ -222,8 +442,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 04时07分]"
         },
         {
           "title": "美股期指基本持平 标普500指数冲击新高 | 今夜看点",
@@ -233,8 +453,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 04时07分]"
         },
         {
           "title": "美股异动丨优步涨4.7%创逾一年新高，拟投入100亿美元押注Robotaxi",
@@ -244,104 +464,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
-          "url": "https://wallstreetcn.com/articles/3769962",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时10分]"
-        },
-        {
-          "title": "特朗普：没必要延长停火，接下来两天很精彩",
-          "url": "https://wallstreetcn.com/articles/3770009",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时10分]"
-        },
-        {
-          "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
-          "url": "https://wallstreetcn.com/articles/3770032",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时10分]"
-        },
-        {
-          "title": "特朗普称已要求中国不要向伊朗提供武器",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1569421.html",
-          "source": "联合早报",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时10分]"
-        },
-        {
-          "title": "特朗普威胁：如果任期结束后鲍威尔不离职，他将强行解雇鲍威尔",
-          "url": "https://www.cls.cn/detail/2345350",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时10分]"
-        },
-        {
-          "title": "梅拉尼娅·特朗普的演说让爱泼斯坦危机再次成为焦点",
-          "url": "https://www.zaochenbao.com/news/Chronicles/202604/1569376.html",
-          "source": "联合早报",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时10分]"
-        },
-        {
-          "title": "特朗普不满美英“特殊关系” 斯塔默说不会妥协",
-          "url": "https://flash.jin10.com/detail/20260415234104665800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "特朗普禁令被绕过？Anthropic新模型魅力太大 美政府机构争相合作",
-          "url": "https://www.cls.cn/detail/2344964",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时10分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 04时07分]"
         }
       ]
     }
