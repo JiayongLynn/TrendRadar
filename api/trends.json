@@ -1,188 +1,11 @@
 {
-  "generated_at": "2026-04-16T00:11:43.201573+08:00",
-  "total_titles_processed": 115,
+  "generated_at": "2026-04-16T02:10:39.180332+08:00",
+  "total_titles_processed": 144,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "热门中概股美股盘前多数下跌，百度跌超1%",
-          "url": "https://www.36kr.com/newsflashes/3768086677881347",
-          "source": "36氪",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "美股异动丨棒约翰涨5%，据悉就潜在收购交易进行深入讨论",
-          "url": "https://www.gelonghui.com/news/5210349",
-          "source": "格隆汇",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "美股大型科技股盘前涨跌不一，微软涨超1%",
-          "url": "https://www.36kr.com/newsflashes/3768084159005442",
-          "source": "36氪",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
-          "url": "https://wallstreetcn.com/articles/3769987",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "谈判曙光提振市场，美股高开，美银、大摩涨近4%，阿斯麦跌3%，黄金重回4800美元，布油再度转跌",
-          "url": "https://wallstreetcn.com/articles/3770007",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "美股异动丨Adobe涨2.6%，发布Firefly AI助手",
-          "url": "https://www.gelonghui.com/news/5210345",
-          "source": "格隆汇",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "美股期指基本持平 标普500指数冲击新高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2345247",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "美股异动丨优步涨4.7%创逾一年新高，拟投入100亿美元押注Robotaxi",
-          "url": "https://www.gelonghui.com/news/5210338",
-          "source": "格隆汇",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
-          "url": "https://wallstreetcn.com/articles/3769962",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "特朗普不满美英“特殊关系” 斯塔默说不会妥协",
-          "url": "https://flash.jin10.com/detail/20260415234104665800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "特朗普：没必要延长停火，接下来两天很精彩",
-          "url": "https://wallstreetcn.com/articles/3770009",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
-          "url": "https://wallstreetcn.com/articles/3770032",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "特朗普称已要求中国不要向伊朗提供武器",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1569421.html",
-          "source": "联合早报",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "特朗普威胁：如果任期结束后鲍威尔不离职，他将强行解雇鲍威尔",
-          "url": "https://www.cls.cn/detail/2345350",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "梅拉尼娅·特朗普的演说让爱泼斯坦危机再次成为焦点",
-          "url": "https://www.zaochenbao.com/news/Chronicles/202604/1569376.html",
-          "source": "联合早报",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 13,
       "titles": [
         {
           "title": "美国中央司令部：美国海军舰艇正在阿曼湾执行巡逻任务，与此同时，中央司令部继续执行美国对进出伊朗港口的船只的封锁行动。美军已部署到位，保持警惕，并做好准备以确保相关船只遵守规定。",
@@ -194,6 +17,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "中国外长王毅和伊朗外长阿拉格齐通话",
+          "url": "https://www.zaochenbao.com/news/china/202604/1569429.html",
+          "source": "联合早报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时10分"
+        },
+        {
+          "title": "美国财长贝森特：美国将不再续期允许购买俄罗斯和伊朗石油的许可证。",
+          "url": "https://flash.jin10.com/detail/20260416014959097800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时10分"
+        },
+        {
+          "title": "以色列军方发言人：正在监测与伊朗的停火谈判，但如果有必要，我们准备迅速而有力地恢复攻击。",
+          "url": "https://flash.jin10.com/detail/20260416014943585800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时10分"
+        },
+        {
+          "title": "英海事分析公司：有船舶突破美国对伊朗港口封锁",
+          "url": "https://flash.jin10.com/detail/20260416014927778800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时10分"
         },
         {
           "title": "消息人士：以色列方面预计与伊朗的停火协议将会延长。",
@@ -214,19 +81,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时10分]"
         },
         {
           "title": "监测机构称伊朗出发的两艘船通过霍尔木兹，美军称上万人员执行伊港口“封锁令”，首日六船折返",
           "url": "https://wallstreetcn.com/articles/3769955",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时10分]"
         },
         {
           "title": "英媒：中国间谍卫星助伊朗打击美国军事基地",
@@ -236,8 +104,244 @@
             24
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时10分]"
+        },
+        {
+          "title": "美国财长贝森特：美国已要求冻结伊朗革命卫队的资金以及伊朗领导层的资金。",
+          "url": "https://flash.jin10.com/detail/20260416014451571800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时10分"
+        },
+        {
+          "title": "标普500指数创下伊朗战争以来的首个历史新高",
+          "url": "https://flash.jin10.com/detail/20260416014437043800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时10分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：与伊朗的对话富有成效，且持续进行中。",
+          "url": "https://flash.jin10.com/detail/20260416014223838800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时10分"
+        },
+        {
+          "title": "美国财长贝森特：一直在与中东地区对口官员就伊朗石油危机进行会谈。中东对口官员表示，一旦霍尔木兹海峡开放，他们可以立即开始运输石油。",
+          "url": "https://flash.jin10.com/detail/20260416013631209800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "热门中概股美股盘前多数下跌，百度跌超1%",
+          "url": "https://www.36kr.com/newsflashes/3768086677881347",
+          "source": "36氪",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时10分]"
+        },
+        {
+          "title": "美股异动丨棒约翰涨5%，据悉就潜在收购交易进行深入讨论",
+          "url": "https://www.gelonghui.com/news/5210349",
+          "source": "格隆汇",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时10分]"
+        },
+        {
+          "title": "美股大型科技股盘前涨跌不一，微软涨超1%",
+          "url": "https://www.36kr.com/newsflashes/3768084159005442",
+          "source": "36氪",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时10分]"
+        },
+        {
+          "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
+          "url": "https://wallstreetcn.com/articles/3769987",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时10分]"
+        },
+        {
+          "title": "谈判曙光提振市场，美股高开，美银、大摩涨近4%，阿斯麦跌3%，黄金重回4800美元，布油再度转跌",
+          "url": "https://wallstreetcn.com/articles/3770007",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时10分]"
+        },
+        {
+          "title": "美股异动丨Adobe涨2.6%，发布Firefly AI助手",
+          "url": "https://www.gelonghui.com/news/5210345",
+          "source": "格隆汇",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时10分]"
+        },
+        {
+          "title": "美股期指基本持平 标普500指数冲击新高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2345247",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时10分]"
+        },
+        {
+          "title": "美股异动丨优步涨4.7%创逾一年新高，拟投入100亿美元押注Robotaxi",
+          "url": "https://www.gelonghui.com/news/5210338",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
+          "url": "https://wallstreetcn.com/articles/3769962",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时10分]"
+        },
+        {
+          "title": "特朗普：没必要延长停火，接下来两天很精彩",
+          "url": "https://wallstreetcn.com/articles/3770009",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时10分]"
+        },
+        {
+          "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
+          "url": "https://wallstreetcn.com/articles/3770032",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时10分]"
+        },
+        {
+          "title": "特朗普称已要求中国不要向伊朗提供武器",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1569421.html",
+          "source": "联合早报",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时10分]"
+        },
+        {
+          "title": "特朗普威胁：如果任期结束后鲍威尔不离职，他将强行解雇鲍威尔",
+          "url": "https://www.cls.cn/detail/2345350",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时10分]"
+        },
+        {
+          "title": "梅拉尼娅·特朗普的演说让爱泼斯坦危机再次成为焦点",
+          "url": "https://www.zaochenbao.com/news/Chronicles/202604/1569376.html",
+          "source": "联合早报",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时10分]"
+        },
+        {
+          "title": "特朗普不满美英“特殊关系” 斯塔默说不会妥协",
+          "url": "https://flash.jin10.com/detail/20260415234104665800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "特朗普禁令被绕过？Anthropic新模型魅力太大 美政府机构争相合作",
+          "url": "https://www.cls.cn/detail/2344964",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时10分"
         }
       ]
     }
