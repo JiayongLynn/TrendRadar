@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T05:56:30.526188+08:00",
-  "total_titles_processed": 187,
+  "generated_at": "2026-04-17T06:54:21.510885+08:00",
+  "total_titles_processed": 205,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 06时54分]"
         },
         {
           "title": "特朗普称以黎将对话 黎巴嫩总统拒绝谈判要求先停火",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 06时54分]"
         },
         {
           "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 06时54分]"
         },
         {
           "title": "中东和平希望升温！特朗普：以黎领导人周四将进行34年来首次对话",
@@ -85,17 +85,6 @@
           "time_info": "03时27分"
         },
         {
-          "title": "美国总统特朗普：农场法案将会通过。",
-          "url": "https://flash.jin10.com/detail/20260417052400767800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
           "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
           "url": "https://wallstreetcn.com/articles/3770137",
           "source": "华尔街见闻",
@@ -103,30 +92,44 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 06时54分]"
+        },
+        {
+          "title": "美国总统特朗普：农场法案将会通过。",
+          "url": "https://flash.jin10.com/detail/20260417052400767800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时54分]"
         },
         {
           "title": "美国总统特朗普：意大利没有支持我们，我们也不会支持他们。",
           "url": "https://flash.jin10.com/detail/20260417052236496800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时54分]"
         },
         {
           "title": "罗马教皇再发声 暗指特朗普操控宗教",
           "url": "https://flash.jin10.com/detail/20260417051016228800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时54分]"
         },
         {
           "title": "美国总统特朗普在社交媒体上批评法官“出于政治动机”试图阻止白宫大型宴会厅项目建设，称其行为削弱国家安全。",
@@ -220,8 +223,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 06时54分]"
         },
         {
           "title": "伊朗战争爆发前 英国经济意外实现迅速增长",
@@ -231,8 +234,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 06时54分]"
         },
         {
           "title": "伊朗暂停石化产品出口 直至另行通知",
@@ -242,8 +245,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 06时54分]"
+        },
+        {
+          "title": "伊朗外交部：对在黎巴嫩实现停火表示欢迎",
+          "url": "https://flash.jin10.com/detail/20260417051934237800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时54分]"
         },
         {
           "title": "据伊朗媒体：伊朗外交部发言人表示，伊朗强调以色列需全面撤出黎巴嫩南部地区。",
@@ -279,17 +294,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
-        },
-        {
-          "title": "伊朗外交部：对在黎巴嫩实现停火表示欢迎",
-          "url": "https://flash.jin10.com/detail/20260417051934237800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
         },
         {
           "title": "肯尼亚央行行长：面对伊朗战争冲击，肯尼亚愿意允许本币先令贬值。",
@@ -372,7 +376,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "热门中概股美股盘前普涨，百度涨超4%",
@@ -382,8 +386,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 06时54分]"
         },
         {
           "title": "美股大型科技股盘前涨跌不一，微软涨超1%",
@@ -393,8 +397,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 06时54分]"
         },
         {
           "title": "停火延长预期提振市场，美股高开，台积电跌超1%，布油涨2%",
@@ -409,15 +413,15 @@
           "time_info": "[01时24分 ~ 04时59分]"
         },
         {
-          "title": "美股异动｜Hims & Hers涨超7%，美国FDA将审议放宽多肽产品限制",
-          "url": "https://www.gelonghui.com/news/5211172",
-          "source": "格隆汇",
+          "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
+          "url": "https://www.cls.cn/detail/2346842",
+          "source": "财联社热门",
           "ranks": [
-            9
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
         },
         {
           "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
@@ -427,8 +431,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 06时54分]"
+        },
+        {
+          "title": "美股异动｜Hims & Hers涨超7%，美国FDA将审议放宽多肽产品限制",
+          "url": "https://www.gelonghui.com/news/5211172",
+          "source": "格隆汇",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 06时54分]"
         },
         {
           "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
@@ -439,8 +455,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 06时54分]"
         },
         {
           "title": "金十图示：2026年04月16日（周四）美股热门股票行情一览（美股收盘）",
@@ -542,11 +558,12 @@
           "url": "https://wallstreetcn.com/articles/3770109",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时54分]"
         }
       ]
     }
