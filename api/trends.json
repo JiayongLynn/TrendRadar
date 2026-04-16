@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T11:37:10.147095+08:00",
-  "total_titles_processed": 367,
+  "generated_at": "2026-04-16T14:09:22.815549+08:00",
+  "total_titles_processed": 446,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "中国外长王毅和伊朗外长阿拉格齐通话",
@@ -31,6 +31,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时11分 ~ 07时53分]"
+        },
+        {
+          "title": "伊朗将使用替代港口绕开美国封锁，有油轮已“成功闯关”霍尔木兹",
+          "url": "https://wallstreetcn.com/articles/3770023",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时07分 ~ 14时09分]"
         },
         {
           "title": "美国中央司令部：美国海军舰艇正在阿曼湾执行巡逻任务，与此同时，中央司令部继续执行美国对进出伊朗港口的船只的封锁行动。美军已部署到位，保持警惕，并做好准备以确保相关船只遵守规定。",
@@ -105,21 +118,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
-        },
-        {
-          "title": "伊朗将使用替代港口绕开美国封锁，有油轮已“成功闯关”霍尔木兹",
-          "url": "https://wallstreetcn.com/articles/3770023",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时07分 ~ 11时37分]"
         },
         {
           "title": "英媒：中国间谍卫星助伊朗打击美国军事基地",
@@ -171,6 +172,30 @@
           "time_info": "[05时59分 ~ 07时53分]"
         },
         {
+          "title": "国际足联主席确认伊朗将参加世界杯",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1669459.html",
+          "source": "联合早报",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 14时09分]"
+        },
+        {
+          "title": "美国对伊朗石油业实施新制裁 对伊施加最大经济压力",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1669458.html",
+          "source": "联合早报",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 14时09分]"
+        },
+        {
           "title": "监测机构称伊朗出发的两艘船通过霍尔木兹，美军称上万人员执行伊港口“封锁令”，首日六船折返",
           "url": "https://wallstreetcn.com/articles/3769955",
           "source": "华尔街见闻",
@@ -181,6 +206,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时11分 ~ 02时10分]"
+        },
+        {
+          "title": "内坦亚胡：以美在伊朗问题上目标完全一致",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1669456.html",
+          "source": "联合早报",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 14时09分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：美国应纠正“以色列优先”的错误并从中撤出。",
@@ -230,6 +267,17 @@
           "time_info": "04时07分"
         },
         {
+          "title": "伊朗警告：美封锁霍尔木兹海峡或致停火协议破裂",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1669468.html",
+          "source": "联合早报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
           "title": "美国财长贝森特：昨天与法国财长会面，就关键矿产和即将举行的G7和G20讨论中的多边经济优先事项等领域的合作交换了意见。敦促法国在推动欧盟施压伊朗以结束其破坏性威胁方面发挥领导作用。",
           "url": "https://flash.jin10.com/detail/20260416032726352800",
           "source": "金十数据",
@@ -241,17 +289,6 @@
           "time_info": "04时07分"
         },
         {
-          "title": "国际足联主席确认伊朗将参加世界杯",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1669459.html",
-          "source": "联合早报",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
-        },
-        {
           "title": "以色列警告或重启对伊朗冲突 将继续打击黎真主党",
           "url": "https://flash.jin10.com/detail/20260416032548695800",
           "source": "金十数据",
@@ -261,17 +298,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
-        },
-        {
-          "title": "美国对伊朗石油业实施新制裁 对伊施加最大经济压力",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1669458.html",
-          "source": "联合早报",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
         },
         {
           "title": "美国财长贝森特：美国已要求冻结伊朗革命卫队的资金以及伊朗领导层的资金。",
@@ -294,17 +320,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
-        },
-        {
-          "title": "内坦亚胡：以美在伊朗问题上目标完全一致",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1669456.html",
-          "source": "联合早报",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
         },
         {
           "title": "白宫新闻秘书莱维特：与伊朗的对话富有成效，且持续进行中。",
@@ -368,7 +383,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -390,7 +405,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -420,8 +435,22 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
+          "url": "https://wallstreetcn.com/articles/3770032",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 14时09分]"
+        },
         {
           "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
           "url": "https://wallstreetcn.com/articles/3769962",
@@ -448,17 +477,16 @@
           "time_info": "[00时11分 ~ 11时37分]"
         },
         {
-          "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
-          "url": "https://wallstreetcn.com/articles/3770032",
-          "source": "华尔街见闻",
+          "title": "美伊很快达成协议？特朗普给出“时间表”：4月下旬！",
+          "url": "https://www.cls.cn/detail/2345537",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            5,
-            4
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 11时37分]"
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 14时09分]"
         },
         {
           "title": "特朗普威胁：如果任期结束后鲍威尔不离职，他将强行解雇鲍威尔",
@@ -494,18 +522,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
-        },
-        {
-          "title": "美伊很快达成协议？特朗普给出“时间表”：4月下旬！",
-          "url": "https://www.cls.cn/detail/2345537",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -519,6 +536,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "与教宗良十四世论战，特朗普这次的对手“不好惹”",
+          "url": "https://www.zaochenbao.com/news/Chronicles/202604/1669471.html",
+          "source": "联合早报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "封锁伊朗船只：特朗普与德黑兰谁更能承受经济痛苦？",
+          "url": "https://www.zaochenbao.com/news/opinion/202604/1669470.html",
+          "source": "联合早报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "卡塔尔埃米尔宫：卡塔尔埃米尔与美国总统特朗普在电话中讨论了地区局势降温以及确保能源市场稳定。",
@@ -560,11 +599,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时53分 ~ 11时37分]"
+          "appearance_count": 3,
+          "time_info": "[07时53分 ~ 14时09分]"
         },
         {
           "title": "特朗普不满美英“特殊关系” 斯塔默说不会妥协",
@@ -576,6 +616,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "美参院再次否决限制特朗普战争权力议案",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1669467.html",
+          "source": "联合早报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "内幕交易疑云笼罩！美CFTC出手：调查特朗普对伊政策转向前夕可疑原油押注",
+          "url": "https://www.cls.cn/detail/2345555",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "美国参议院投票否决旨在限制特朗普对伊战争权力的动议",
@@ -606,7 +668,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         }
@@ -788,7 +850,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         }
@@ -835,7 +897,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -846,7 +908,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         }
