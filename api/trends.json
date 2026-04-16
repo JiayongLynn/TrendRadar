@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-04-17T06:54:21.510885+08:00",
-  "total_titles_processed": 205,
+  "generated_at": "2026-04-17T07:52:58.674014+08:00",
+  "total_titles_processed": 260,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普政府对伊朗战争花费三缄其口 共和党人开始不安",
           "url": "https://www.zaochenbao.com/news/politics/202604/1769516.html",
           "source": "联合早报",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 06时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 07时52分]"
         },
         {
           "title": "特朗普称以黎将对话 黎巴嫩总统拒绝谈判要求先停火",
           "url": "https://www.zaochenbao.com/news/politics/202604/1769515.html",
           "source": "联合早报",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 06时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 07时52分]"
         },
         {
           "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
@@ -39,6 +41,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时24分 ~ 06时54分]"
+        },
+        {
+          "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
+          "url": "https://wallstreetcn.com/articles/3770137",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 07时52分]"
         },
         {
           "title": "中东和平希望升温！特朗普：以黎领导人周四将进行34年来首次对话",
@@ -74,6 +88,17 @@
           "time_info": "03时27分"
         },
         {
+          "title": "特朗普：黎巴嫩和以色列同意停火10天",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1769518.html",
+          "source": "联合早报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
           "title": "美国卫生部长肯尼迪：特朗普将于今日或明日提名美国疾病控制与预防中心（CDC）主任人选。",
           "url": "https://flash.jin10.com/detail/20260417030705110800",
           "source": "金十数据",
@@ -85,15 +110,15 @@
           "time_info": "03时27分"
         },
         {
-          "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
-          "url": "https://wallstreetcn.com/articles/3770137",
-          "source": "华尔街见闻",
+          "title": "据福克斯新闻：特朗普抵达拉斯维加斯，宣传他的“对小费免税”提案。",
+          "url": "https://flash.jin10.com/detail/20260417074525367800",
+          "source": "金十数据",
           "ranks": [
-            8
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 06时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
         },
         {
           "title": "美国总统特朗普：农场法案将会通过。",
@@ -154,6 +179,17 @@
           "time_info": "03时27分"
         },
         {
+          "title": "美国总统特朗普：希望黎巴嫩真主党在这个重要时期表现得体和良好。如果他们这样做，那将是一个伟大的时刻。再也没有杀戮。最后一定要有和平！",
+          "url": "https://flash.jin10.com/detail/20260417072332871800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
           "title": "特朗普：认为黎以将达成协议 预计未来一到两周内举行谈判",
           "url": "https://flash.jin10.com/detail/20260417023620986800",
           "source": "金十数据",
@@ -187,6 +223,17 @@
           "time_info": "01时24分"
         },
         {
+          "title": "黎以停火十天生效，特朗普趁势喊话：伊朗同意不拥核，美伊周末或复谈",
+          "url": "https://flash.jin10.com/detail/20260417071827235800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
           "title": "限特朗普战争权力议案遭美众院否决",
           "url": "https://flash.jin10.com/detail/20260417002555759800",
           "source": "金十数据",
@@ -212,7 +259,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美对伊启动“经济狂怒”行动、施压达成协议，伊朗斥为经济恐怖主义，称敌人误判战局",
@@ -220,33 +267,36 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 06时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 07时52分]"
         },
         {
           "title": "伊朗战争爆发前 英国经济意外实现迅速增长",
           "url": "https://www.zaochenbao.com/news/politics/202604/1769512.html",
           "source": "联合早报",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 06时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 07时52分]"
         },
         {
           "title": "伊朗暂停石化产品出口 直至另行通知",
           "url": "https://www.zaochenbao.com/news/world/202604/1769508.html",
           "source": "联合早报",
           "ranks": [
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 06时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 07时52分]"
         },
         {
           "title": "伊朗外交部：对在黎巴嫩实现停火表示欢迎",
@@ -351,6 +401,17 @@
           "time_info": "03时27分"
         },
         {
+          "title": "伊朗战争掏空美军火库，美国通知欧洲：武器交付延期",
+          "url": "https://flash.jin10.com/detail/20260417072526358800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
           "title": "市场消息：海湾国家和欧洲官员认为，美国需要六个月才能达成与伊朗的协议。",
           "url": "https://flash.jin10.com/detail/20260417003412678800",
           "source": "金十数据",
@@ -376,29 +437,31 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "热门中概股美股盘前普涨，百度涨超4%",
           "url": "https://www.36kr.com/newsflashes/3769498240811778",
           "source": "36氪",
           "ranks": [
-            4
+            4,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 06时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 07时52分]"
         },
         {
           "title": "美股大型科技股盘前涨跌不一，微软涨超1%",
           "url": "https://www.36kr.com/newsflashes/3769497226019589",
           "source": "36氪",
           "ranks": [
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 06时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 07时52分]"
         },
         {
           "title": "停火延长预期提振市场，美股高开，台积电跌超1%，布油涨2%",
@@ -413,26 +476,39 @@
           "time_info": "[01时24分 ~ 04时59分]"
         },
         {
-          "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
-          "url": "https://www.cls.cn/detail/2346842",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
           "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
           "url": "https://wallstreetcn.com/articles/3770123",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 06时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 07时52分]"
+        },
+        {
+          "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
+          "url": "https://www.cls.cn/detail/2346842",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时52分]"
+        },
+        {
+          "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
+          "url": "https://wallstreetcn.com/articles/3770109",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
         },
         {
           "title": "美股异动｜Hims & Hers涨超7%，美国FDA将审议放宽多肽产品限制",
@@ -440,11 +516,12 @@
           "source": "格隆汇",
           "ranks": [
             9,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 06时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 07时52分]"
         },
         {
           "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
@@ -455,8 +532,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 06时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 07时52分]"
+        },
+        {
+          "title": "美股三大指数集体收涨，纳指十二连涨再创收盘新高",
+          "url": "https://www.36kr.com/newsflashes/3770085193728769",
+          "source": "36氪",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
         },
         {
           "title": "金十图示：2026年04月16日（周四）美股热门股票行情一览（美股收盘）",
@@ -516,6 +604,45 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI发布Codex的升级版",
+          "url": "https://www.36kr.com/newsflashes/3770112612713225",
+          "source": "36氪",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
+          "title": "OpenAI：推出新模型GPT-Rosalind，旨在服务于生命科学研究。该模型最初将以研究预览版的形式提供给部分企业客户。",
+          "url": "https://flash.jin10.com/detail/20260417030201225800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
+          "title": "OpenAI推出药物研发AI模型",
+          "url": "https://www.36kr.com/newsflashes/3770089827910149",
+          "source": "36氪",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -529,23 +656,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI：推出新模型GPT-Rosalind，旨在服务于生命科学研究。该模型最初将以研究预览版的形式提供给部分企业客户。",
-          "url": "https://flash.jin10.com/detail/20260417030201225800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时27分"
         }
       ]
     },
