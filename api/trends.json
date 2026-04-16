@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T01:24:35.591568+08:00",
-  "total_titles_processed": 118,
+  "generated_at": "2026-04-17T03:27:55.748627+08:00",
+  "total_titles_processed": 148,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普政府对伊朗战争花费三缄其口 共和党人开始不安",
@@ -15,8 +15,41 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时27分]"
+        },
+        {
+          "title": "特朗普称以黎将对话 黎巴嫩总统拒绝谈判要求先停火",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1769515.html",
+          "source": "联合早报",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时27分]"
+        },
+        {
+          "title": "中东和平希望升温！特朗普：以黎领导人周四将进行34年来首次对话",
+          "url": "https://www.cls.cn/detail/2346178",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时27分]"
+        },
+        {
+          "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
+          "url": "https://wallstreetcn.com/articles/3770081",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时27分]"
         },
         {
           "title": "以色列北部地区委员会负责人：特朗普将伊朗问题引入黎巴嫩局势是不合理的。",
@@ -30,37 +63,26 @@
           "time_info": "01时24分"
         },
         {
-          "title": "特朗普称以黎将对话 黎巴嫩总统拒绝谈判要求先停火",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1769515.html",
-          "source": "联合早报",
+          "title": "据英国金融时报：美国石油行业高管敦促特朗普，应在伊朗提出对霍尔木兹海峡征收“通行费”问题上保持强硬立场。",
+          "url": "https://flash.jin10.com/detail/20260417030924363800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时24分"
+          "time_info": "03时27分"
         },
         {
-          "title": "中东和平希望升温！特朗普：以黎领导人周四将进行34年来首次对话",
-          "url": "https://www.cls.cn/detail/2346178",
-          "source": "财联社热门",
+          "title": "美国卫生部长肯尼迪：特朗普将于今日或明日提名美国疾病控制与预防中心（CDC）主任人选。",
+          "url": "https://flash.jin10.com/detail/20260417030705110800",
+          "source": "金十数据",
           "ranks": [
-            4
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
-          "url": "https://wallstreetcn.com/articles/3770081",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "time_info": "03时27分"
         },
         {
           "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
@@ -70,8 +92,52 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时27分]"
+        },
+        {
+          "title": "美国总统特朗普在社交媒体上批评法官“出于政治动机”试图阻止白宫大型宴会厅项目建设，称其行为削弱国家安全。",
+          "url": "https://flash.jin10.com/detail/20260417024741416800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时24分"
+          "time_info": "03时27分"
+        },
+        {
+          "title": "特朗普称或前往巴基斯坦推动与伊朗达成协议",
+          "url": "https://flash.jin10.com/detail/20260417024512631800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
+          "title": "特朗普：认为黎以将达成协议 预计未来一到两周内举行谈判",
+          "url": "https://flash.jin10.com/detail/20260417023620986800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
+          "title": "特朗普：美伊协议将带来“免费石油” 油价只有预期的一半",
+          "url": "https://flash.jin10.com/detail/20260417023416449800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
         },
         {
           "title": "黎巴嫩总理欢迎特朗普宣布的停火声明",
@@ -110,18 +176,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美对伊启动“经济狂怒”行动、施压达成协议，伊朗斥为经济恐怖主义，称敌人误判战局",
           "url": "https://wallstreetcn.com/articles/3770156",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时27分]"
         },
         {
           "title": "伊朗战争爆发前 英国经济意外实现迅速增长",
@@ -131,19 +198,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "德国财政部长：我认为伊朗战争的影响将持续一段时间。",
-          "url": "https://flash.jin10.com/detail/20260417005220118800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时27分]"
         },
         {
           "title": "伊朗暂停石化产品出口 直至另行通知",
@@ -151,6 +207,17 @@
           "source": "联合早报",
           "ranks": [
             9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时27分]"
+        },
+        {
+          "title": "德国财政部长：我认为伊朗战争的影响将持续一段时间。",
+          "url": "https://flash.jin10.com/detail/20260417005220118800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -166,6 +233,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "伊朗代表：霍尔木兹海峡的稳定需以尊重伊朗权利为前提",
+          "url": "https://flash.jin10.com/detail/20260417025741156800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
         },
         {
           "title": "原油期货价格延续涨势，布伦特原油期货日内上涨超过4美元，WTI原油期货上涨超过3美元，有报道称美国达成伊朗协议大约仍需六个月时间。",
@@ -188,6 +266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "伊朗议会议长：美国屡屡违约阻碍地区和平进程",
+          "url": "https://flash.jin10.com/detail/20260417023914531800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
         },
         {
           "title": "市场消息：海湾国家和欧洲官员认为，美国需要六个月才能达成与伊朗的协议。",
@@ -222,11 +311,12 @@
           "url": "https://wallstreetcn.com/articles/3770109",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时27分]"
         },
         {
           "title": "热门中概股美股盘前普涨，百度涨超4%",
@@ -236,8 +326,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时27分]"
         },
         {
           "title": "美股大型科技股盘前涨跌不一，微软涨超1%",
@@ -247,8 +337,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时27分]"
         },
         {
           "title": "美股异动｜Hims & Hers涨超7%，美国FDA将审议放宽多肽产品限制",
@@ -258,8 +348,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时27分]"
         },
         {
           "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
@@ -269,8 +359,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时27分]"
         },
         {
           "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
@@ -280,8 +370,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时27分]"
         },
         {
           "title": "金十图示：2026年04月16日（周四）美股热门股票行情一览（美股盘中）",
@@ -321,6 +411,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI：推出新模型GPT-Rosalind，旨在服务于生命科学研究。该模型最初将以研究预览版的形式提供给部分企业客户。",
+          "url": "https://flash.jin10.com/detail/20260417030201225800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
         }
       ]
     }
