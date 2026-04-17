@@ -1,94 +1,11 @@
 {
-  "generated_at": "2026-04-18T01:02:16.989219+08:00",
-  "total_titles_processed": 118,
+  "generated_at": "2026-04-18T03:14:01.921562+08:00",
+  "total_titles_processed": 151,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "一图看懂 | A股七姐妹vs美股七姐妹，今年谁更能涨？",
-          "url": "https://www.cls.cn/detail/2347485",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "热门中概股美股盘前多数走强，拼多多涨超3%",
-          "url": "https://www.36kr.com/newsflashes/3770915618996995",
-          "source": "36氪",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "美股大型科技股盘前多数上涨，奈飞跌超9%",
-          "url": "https://www.36kr.com/newsflashes/3770914477392384",
-          "source": "36氪",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
-          "url": "https://wallstreetcn.com/articles/3770109",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "金十图示：2026年04月17日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260418003235958800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "美股三大期指集体走高 奈飞盘前大跌近10% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2347815",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "金十图示：2026年04月17日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260418003038538800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "美伊磋商结束战争计划！美国考虑解冻200亿美元伊朗资产，换取伊方放弃浓缩铀！",
@@ -98,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时14分]"
         },
         {
           "title": "伊朗外长宣布谈判期间开放海峡 国际油价闪崩10%、纳指冲击13连涨",
@@ -109,8 +26,30 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时14分]"
+        },
+        {
+          "title": "伊朗外交部发言人：60%丰度的浓缩铀不会以任何方式被运出伊朗。",
+          "url": "https://flash.jin10.com/detail/20260418030715263800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 03时14分]"
+        },
+        {
+          "title": "伊朗官员：伊美正拟定谅解备忘录 为永久和平协议设定框架",
+          "url": "https://flash.jin10.com/detail/20260418030259644800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 03时14分]"
         },
         {
           "title": "美对伊启动“经济狂怒”行动、施压达成协议，伊朗斥为经济恐怖主义，称敌人误判战局",
@@ -131,8 +70,41 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时14分]"
+        },
+        {
+          "title": "伊朗外交部发言人：我们不支持美国官员及其媒体对伊朗核问题的提议。",
+          "url": "https://flash.jin10.com/detail/20260418025557489800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 03时14分]"
+        },
+        {
+          "title": "伊朗外交部发言人：伊朗从未将向美国转移浓缩铀作为选择。",
+          "url": "https://flash.jin10.com/detail/20260418025506078800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 03时14分]"
+        },
+        {
+          "title": "美国中央司令部：美军仍“紧盯伊朗每一个港口”",
+          "url": "https://flash.jin10.com/detail/20260418024201140800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 03时14分]"
         },
         {
           "title": "德国航运巨头赫伯罗特：果所有未决问题得到解决（即保险覆盖、伊朗政府/军方就具体使用的海上通道以及船舶离港顺序作出明确指示），我们将倾向于尽快通过霍尔木兹海峡。",
@@ -171,7 +143,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普证实伊朗宣布开放霍尔木兹海峡",
@@ -181,30 +153,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时14分]"
         },
         {
           "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
           "url": "https://wallstreetcn.com/articles/3770182",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "特朗普确认伊朗开放霍尔木兹海峡，称海上封锁将持续至敲定协议，美媒称美伊或周日会谈",
-          "url": "https://wallstreetcn.com/articles/3770269",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时14分]"
         },
         {
           "title": "特朗普政府游说盟友 支持“以贸易取代援助”倡议",
@@ -212,6 +174,72 @@
           "source": "联合早报",
           "ranks": [
             11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时14分]"
+        },
+        {
+          "title": "特朗普确认伊朗开放霍尔木兹，称海上封锁将持续至达成协议，料协议“一两天内”达成",
+          "url": "https://wallstreetcn.com/articles/3770269",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 03时14分]"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司（CBS）：特朗普称，伊朗已同意停止支持真主党和哈马斯等代理组织。",
+          "url": "https://flash.jin10.com/detail/20260418023422931800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 03时14分]"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司（CBS）：特朗普称这些材料将被运往美国。",
+          "url": "https://flash.jin10.com/detail/20260418023349957800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 03时14分]"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普称不会动用美国地面部队移除伊朗浓缩铀。当被问及由谁来取回时，他只表示“我们的人”。",
+          "url": "https://flash.jin10.com/detail/20260418023336851800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 03时14分]"
+        },
+        {
+          "title": "美国总统特朗普：美国和伊朗本周末将会面。",
+          "url": "https://flash.jin10.com/detail/20260418023121445800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 03时14分]"
+        },
+        {
+          "title": "特朗普确认伊朗开放霍尔木兹海峡，称海上封锁将持续至敲定协议，美媒称美伊或周日会谈",
+          "url": "https://wallstreetcn.com/articles/3770269",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -234,6 +262,91 @@
           "source": "金十数据",
           "ranks": [
             27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "一图看懂 | A股七姐妹vs美股七姐妹，今年谁更能涨？",
+          "url": "https://www.cls.cn/detail/2347485",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时14分]"
+        },
+        {
+          "title": "热门中概股美股盘前多数走强，拼多多涨超3%",
+          "url": "https://www.36kr.com/newsflashes/3770915618996995",
+          "source": "36氪",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时14分]"
+        },
+        {
+          "title": "美股大型科技股盘前多数上涨，奈飞跌超9%",
+          "url": "https://www.36kr.com/newsflashes/3770914477392384",
+          "source": "36氪",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时14分]"
+        },
+        {
+          "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
+          "url": "https://wallstreetcn.com/articles/3770109",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时14分]"
+        },
+        {
+          "title": "美股三大期指集体走高 奈飞盘前大跌近10% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2347815",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时14分]"
+        },
+        {
+          "title": "金十图示：2026年04月17日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260418003235958800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "金十图示：2026年04月17日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260418003038538800",
+          "source": "金十数据",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
