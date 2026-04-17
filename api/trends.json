@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-17T14:10:44.831590+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-04-17T16:50:10.879477+08:00",
+  "total_titles_processed": 518,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
+          "url": "https://wallstreetcn.com/articles/3770137",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时24分 ~ 16时50分]"
+        },
         {
           "title": "特朗普称以黎将对话 黎巴嫩总统拒绝谈判要求先停火",
           "url": "https://www.zaochenbao.com/news/politics/202604/1769515.html",
@@ -34,19 +47,6 @@
           "time_info": "[01时24分 ~ 14时10分]"
         },
         {
-          "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
-          "url": "https://wallstreetcn.com/articles/3770137",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时24分 ~ 14时10分]"
-        },
-        {
           "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
           "url": "https://wallstreetcn.com/articles/3770081",
           "source": "华尔街见闻",
@@ -66,8 +66,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时33分 ~ 14时10分]"
+          "appearance_count": 3,
+          "time_info": "[11时33分 ~ 16时50分]"
+        },
+        {
+          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
+          "url": "https://wallstreetcn.com/articles/3770182",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时33分 ~ 16时50分]"
         },
         {
           "title": "中东和平希望升温！特朗普：以黎领导人周四将进行34年来首次对话",
@@ -79,18 +91,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时24分 ~ 03时27分]"
-        },
-        {
-          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
-          "url": "https://wallstreetcn.com/articles/3770182",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时33分 ~ 14时10分]"
         },
         {
           "title": "以色列北部地区委员会负责人：特朗普将伊朗问题引入黎巴嫩局势是不合理的。",
@@ -135,6 +135,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "屡被特朗普批评 澳洲高官否认与特朗普有“争端”",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1769556.html",
+          "source": "联合早报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "巴西总统批评特朗普动辄以战争威胁他国",
@@ -309,6 +320,17 @@
           "time_info": "07时52分"
         },
         {
+          "title": "特朗普声称伊朗已作关键妥协：“他们带支笔过来就行”！",
+          "url": "https://flash.jin10.com/detail/20260417161746018800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
           "title": "限特朗普战争权力议案遭美众院否决",
           "url": "https://flash.jin10.com/detail/20260417002555759800",
           "source": "金十数据",
@@ -334,7 +356,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美对伊启动“经济狂怒”行动、施压达成协议，伊朗斥为经济恐怖主义，称敌人误判战局",
@@ -346,8 +368,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时24分 ~ 14时10分]"
+          "appearance_count": 9,
+          "time_info": "[01时24分 ~ 16时50分]"
         },
         {
           "title": "伊朗战争爆发前 英国经济意外实现迅速增长",
@@ -380,9 +402,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
+        },
+        {
+          "title": "俄外交部：美国封锁伊朗应被视为“犯罪和侵略”",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1769554.html",
+          "source": "联合早报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "伊朗据报利用中国卫星监视美军基地 中使馆：坚决反对造谣",
@@ -390,11 +423,25 @@
           "source": "联合早报",
           "ranks": [
             4,
-            7
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时33分 ~ 14时10分]"
+          "appearance_count": 3,
+          "time_info": "[11时33分 ~ 16时50分]"
+        },
+        {
+          "title": "消息：受伊朗战争影响 美国告知欧洲可能延迟武器交付",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1769535.html",
+          "source": "联合早报",
+          "ranks": [
+            8,
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时33分 ~ 16时50分]"
         },
         {
           "title": "伊朗外交部：对在黎巴嫩实现停火表示欢迎",
@@ -407,18 +454,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时56分 ~ 06时54分]"
-        },
-        {
-          "title": "消息：受伊朗战争影响 美国告知欧洲可能延迟武器交付",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1769535.html",
-          "source": "联合早报",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时33分 ~ 14时10分]"
         },
         {
           "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
@@ -570,7 +605,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
@@ -582,8 +617,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时54分 ~ 16时50分]"
+        },
+        {
+          "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
+          "url": "https://wallstreetcn.com/articles/3770109",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[06时54分 ~ 14时10分]"
+          "time_info": "[07时52分 ~ 16时50分]"
         },
         {
           "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
@@ -621,17 +667,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时24分 ~ 07时52分]"
-        },
-        {
-          "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
-          "url": "https://wallstreetcn.com/articles/3770109",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时52分 ~ 14时10分]"
         },
         {
           "title": "停火延长预期提振市场，美股高开，台积电跌超1%，布油涨2%",
@@ -710,9 +745,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
+        },
+        {
+          "title": "瑞银：投资者将把关注点从中东问题转移到经济和盈利基本面 美股仍具吸引力",
+          "url": "https://flash.jin10.com/detail/20260417162447835800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "金十图示：2026年04月16日（周四）美股热门股票行情一览（美股收盘）",
@@ -792,11 +838,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时33分 ~ 14时10分]"
+          "appearance_count": 3,
+          "time_info": "[11时33分 ~ 16时50分]"
         },
         {
           "title": "OpenAI：推出新模型GPT-Rosalind，旨在服务于生命科学研究。该模型最初将以研究预览版的形式提供给部分企业客户。",
@@ -844,7 +891,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         }
@@ -873,7 +920,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         }
