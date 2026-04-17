@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T18:20:23.449021+08:00",
-  "total_titles_processed": 596,
+  "generated_at": "2026-04-17T19:58:32.497710+08:00",
+  "total_titles_processed": 670,
   "failed_sources": [],
   "trends": [
     {
@@ -47,6 +47,18 @@
           "time_info": "[01时24分 ~ 14时10分]"
         },
         {
+          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
+          "url": "https://wallstreetcn.com/articles/3770182",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时33分 ~ 19时58分]"
+        },
+        {
           "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
           "url": "https://wallstreetcn.com/articles/3770081",
           "source": "华尔街见闻",
@@ -64,18 +76,6 @@
           "ranks": [
             3,
             5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时33分 ~ 18时20分]"
-        },
-        {
-          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
-          "url": "https://wallstreetcn.com/articles/3770182",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -166,11 +166,12 @@
           "source": "联合早报",
           "ranks": [
             3,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 18时20分]"
+          "appearance_count": 3,
+          "time_info": "[16时50分 ~ 19时58分]"
         },
         {
           "title": "美国总统特朗普：农场法案将会通过。",
@@ -357,7 +358,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "美对伊启动“经济狂怒”行动、施压达成协议，伊朗斥为经济恐怖主义，称敌人误判战局",
@@ -369,8 +370,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时24分 ~ 18时20分]"
+          "appearance_count": 11,
+          "time_info": "[01时24分 ~ 19时58分]"
         },
         {
           "title": "伊朗战争爆发前 英国经济意外实现迅速增长",
@@ -397,6 +398,17 @@
           "time_info": "[01时24分 ~ 07时52分]"
         },
         {
+          "title": "惠誉评级：伊朗战争加大新兴市场面临的风险。",
+          "url": "https://flash.jin10.com/detail/20260417195546749800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
           "title": "美国在霍尔木兹清雷需耗时“两到三周”，排雷人员仍暴露在伊朗火力之下",
           "url": "https://flash.jin10.com/detail/20260417135527952800",
           "source": "金十数据",
@@ -406,6 +418,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
+        },
+        {
+          "title": "消息：受伊朗战争影响 美国告知欧洲可能延迟武器交付",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1769535.html",
+          "source": "联合早报",
+          "ranks": [
+            8,
+            11,
+            24,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时33分 ~ 19时58分]"
         },
         {
           "title": "伊朗据报利用中国卫星监视美军基地 中使馆：坚决反对造谣",
@@ -426,25 +453,12 @@
           "source": "联合早报",
           "ranks": [
             5,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 18时20分]"
-        },
-        {
-          "title": "消息：受伊朗战争影响 美国告知欧洲可能延迟武器交付",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1769535.html",
-          "source": "联合早报",
-          "ranks": [
-            8,
-            11,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时33分 ~ 18时20分]"
+          "appearance_count": 3,
+          "time_info": "[16时50分 ~ 19时58分]"
         },
         {
           "title": "伊朗外交部：对在黎巴嫩实现停火表示欢迎",
@@ -567,9 +581,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
+        },
+        {
+          "title": "贝伦贝格银行：欧洲在伊朗战后或迎来小型繁荣",
+          "url": "https://flash.jin10.com/detail/20260417193725499800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         },
         {
           "title": "伊朗议会议长：美国屡屡违约阻碍地区和平进程",
@@ -605,6 +630,17 @@
           "time_info": "01时24分"
         },
         {
+          "title": "伊朗副外长：伊朗要求彻底结束整个地区的冲突",
+          "url": "https://flash.jin10.com/detail/20260417192951714800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
           "title": "英国央行货币政策委员泰勒：劳动力市场对伊朗战争的反应是英国央行决策的关键。",
           "url": "https://flash.jin10.com/detail/20260417002040794800",
           "source": "金十数据",
@@ -619,7 +655,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
@@ -629,8 +665,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时52分 ~ 18时20分]"
+          "appearance_count": 6,
+          "time_info": "[07时52分 ~ 19时58分]"
         },
         {
           "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
@@ -731,6 +767,18 @@
           "time_info": "11时33分"
         },
         {
+          "title": "一图看懂 | A股七姐妹vs美股七姐妹，今年谁更能涨？",
+          "url": "https://www.cls.cn/detail/2347485",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 19时58分]"
+        },
+        {
           "title": "这轮美股新高，散户集体踏空！大多头Tom Lee：下一波上涨将由他们主导",
           "url": "https://wallstreetcn.com/articles/3770147",
           "source": "华尔街见闻",
@@ -749,19 +797,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时10分 ~ 18时20分]"
-        },
-        {
-          "title": "一图看懂 | A股七姐妹vs美股七姐妹，今年谁更能涨？",
-          "url": "https://www.cls.cn/detail/2347485",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
+          "appearance_count": 3,
+          "time_info": "[14时10分 ~ 19时58分]"
         },
         {
           "title": "美股三大指数集体收涨，纳指十二连涨再创收盘新高",
@@ -839,6 +876,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "高盛：若无货币政策支持美股涨势或难持续",
+          "url": "https://flash.jin10.com/detail/20260417192344297800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         }
       ]
     },
