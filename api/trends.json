@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T11:33:50.490565+08:00",
-  "total_titles_processed": 362,
+  "generated_at": "2026-04-17T14:10:44.831590+08:00",
+  "total_titles_processed": 435,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,25 @@
           "ranks": [
             1,
             4,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时24分 ~ 11时33分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 14时10分]"
+        },
+        {
+          "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
+          "url": "https://wallstreetcn.com/articles/3770137",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 14时10分]"
         },
         {
           "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
@@ -44,17 +58,16 @@
           "time_info": "[01时24分 ~ 06时54分]"
         },
         {
-          "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
-          "url": "https://wallstreetcn.com/articles/3770137",
-          "source": "华尔街见闻",
+          "title": "中东迎“曙光”？特朗普：美伊下次会晤或在本周末，以黎同意停火10天！",
+          "url": "https://www.cls.cn/detail/2346891",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            5,
-            6
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时24分 ~ 11时33分]"
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 14时10分]"
         },
         {
           "title": "中东和平希望升温！特朗普：以黎领导人周四将进行34年来首次对话",
@@ -66,6 +79,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时24分 ~ 03时27分]"
+        },
+        {
+          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
+          "url": "https://wallstreetcn.com/articles/3770182",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 14时10分]"
         },
         {
           "title": "以色列北部地区委员会负责人：特朗普将伊朗问题引入黎巴嫩局势是不合理的。",
@@ -112,35 +137,13 @@
           "time_info": "07时52分"
         },
         {
-          "title": "中东迎“曙光”？特朗普：美伊下次会晤或在本周末，以黎同意停火10天！",
-          "url": "https://www.cls.cn/detail/2346891",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
           "title": "巴西总统批评特朗普动辄以战争威胁他国",
           "url": "https://flash.jin10.com/detail/20260417111453693800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
-          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
-          "url": "https://wallstreetcn.com/articles/3770182",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -150,11 +153,12 @@
           "source": "联合早报",
           "ranks": [
             2,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 11时33分]"
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 14时10分]"
         },
         {
           "title": "美国总统特朗普：农场法案将会通过。",
@@ -197,22 +201,24 @@
           "url": "https://www.zaochenbao.com/news/politics/202604/1769533.html",
           "source": "联合早报",
           "ranks": [
-            10
+            10,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 14时10分]"
         },
         {
           "title": "特朗普称伊朗同意交出浓缩铀 美伊周末或再次面谈",
           "url": "https://www.zaochenbao.com/news/politics/202604/1769532.html",
           "source": "联合早报",
           "ranks": [
-            11
+            11,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 14时10分]"
         },
         {
           "title": "又改口？特朗普称汽油价格“不算很高” 经济支持率却跌至任内低位",
@@ -221,7 +227,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -328,7 +334,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美对伊启动“经济狂怒”行动、施压达成协议，伊朗斥为经济恐怖主义，称敌人误判战局",
@@ -340,8 +346,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时24分 ~ 11时33分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 14时10分]"
         },
         {
           "title": "伊朗战争爆发前 英国经济意外实现迅速增长",
@@ -368,15 +374,27 @@
           "time_info": "[01时24分 ~ 07时52分]"
         },
         {
+          "title": "美国在霍尔木兹清雷需耗时“两到三周”，排雷人员仍暴露在伊朗火力之下",
+          "url": "https://flash.jin10.com/detail/20260417135527952800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
           "title": "伊朗据报利用中国卫星监视美军基地 中使馆：坚决反对造谣",
           "url": "https://www.zaochenbao.com/news/china/202604/1769539.html",
           "source": "联合早报",
           "ranks": [
-            4
+            4,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 14时10分]"
         },
         {
           "title": "伊朗外交部：对在黎巴嫩实现停火表示欢迎",
@@ -389,6 +407,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时56分 ~ 06时54分]"
+        },
+        {
+          "title": "消息：受伊朗战争影响 美国告知欧洲可能延迟武器交付",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1769535.html",
+          "source": "联合早报",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 14时10分]"
+        },
+        {
+          "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
+          "url": "https://www.cls.cn/detail/2346894",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 14时10分]"
         },
         {
           "title": "据伊朗媒体：伊朗外交部发言人表示，伊朗强调以色列需全面撤出黎巴嫩南部地区。",
@@ -421,7 +463,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -435,28 +477,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
-        },
-        {
-          "title": "消息：受伊朗战争影响 美国告知欧洲可能延迟武器交付",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1769535.html",
-          "source": "联合早报",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
-          "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
-          "url": "https://www.cls.cn/detail/2346894",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
         },
         {
           "title": "肯尼亚央行行长：面对伊朗战争冲击，肯尼亚愿意允许本币先令贬值。",
@@ -550,8 +570,34 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
+          "url": "https://www.cls.cn/detail/2346842",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时54分 ~ 14时10分]"
+        },
+        {
+          "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
+          "url": "https://wallstreetcn.com/articles/3770123",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 14时10分]"
+        },
         {
           "title": "热门中概股美股盘前普涨，百度涨超4%",
           "url": "https://www.36kr.com/newsflashes/3769498240811778",
@@ -577,6 +623,17 @@
           "time_info": "[01时24分 ~ 07时52分]"
         },
         {
+          "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
+          "url": "https://wallstreetcn.com/articles/3770109",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 14时10分]"
+        },
+        {
           "title": "停火延长预期提振市场，美股高开，台积电跌超1%，布油涨2%",
           "url": "https://wallstreetcn.com/articles/3770109",
           "source": "华尔街见闻",
@@ -587,43 +644,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时24分 ~ 04时59分]"
-        },
-        {
-          "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
-          "url": "https://www.cls.cn/detail/2346842",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时54分 ~ 11时33分]"
-        },
-        {
-          "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
-          "url": "https://wallstreetcn.com/articles/3770123",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时24分 ~ 11时33分]"
-        },
-        {
-          "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
-          "url": "https://wallstreetcn.com/articles/3770109",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 11时33分]"
         },
         {
           "title": "美股异动｜Hims & Hers涨超7%，美国FDA将审议放宽多肽产品限制",
@@ -657,7 +677,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -668,9 +688,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 14时10分]"
         },
         {
           "title": "美股三大指数集体收涨，纳指十二连涨再创收盘新高",
@@ -682,6 +702,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "风头盖过英伟达！美股CPU双雄股价齐创新高 AI属性渐获市场认可",
+          "url": "https://www.cls.cn/detail/2346971",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
         },
         {
           "title": "金十图示：2026年04月16日（周四）美股热门股票行情一览（美股收盘）",
@@ -745,17 +776,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "OpenAI推出AI代理升级 可以“与你并肩操作你的电脑”",
-          "url": "https://www.cls.cn/detail/2346818",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
           "title": "OpenAI发布Codex的升级版",
           "url": "https://www.36kr.com/newsflashes/3770112612713225",
           "source": "36氪",
@@ -765,6 +785,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "OpenAI推出AI代理升级 可以“与你并肩操作你的电脑”",
+          "url": "https://www.cls.cn/detail/2346818",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 14时10分]"
         },
         {
           "title": "OpenAI：推出新模型GPT-Rosalind，旨在服务于生命科学研究。该模型最初将以研究预览版的形式提供给部分企业客户。",
@@ -792,7 +824,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "据伊朗改革派报纸《Shargh Daily》报道，在经历48天的互联网中断后，谷歌搜索在伊朗已恢复访问，但部分谷歌服务仍无法使用。伊朗半官方通讯社法尔斯通讯社也报道称，“几分钟前，谷歌搜索引擎已重新向用户开放”，但补充称部分用户仍面临连接中断和网络波动问题。",
@@ -804,12 +836,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "SpaceX最快或6月上市，谷歌或从SpaceX上市获巨额收益",
+          "url": "https://www.36kr.com/newsflashes/3770498285011719",
+          "source": "36氪",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "中东紧张局势持续，美股勉强新高，原油两连涨，美债下挫，美元终结连跌趋势",
@@ -822,6 +865,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时56分 ~ 06时54分]"
+        },
+        {
+          "title": "瑞典北欧斯安银行：若市场对美联储降息预期升温，10年期美债或将走低",
+          "url": "https://flash.jin10.com/detail/20260417131332494800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
         }
       ]
     }
