@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T04:50:00.519392+08:00",
-  "total_titles_processed": 171,
+  "generated_at": "2026-04-20T05:46:05.042997+08:00",
+  "total_titles_processed": 188,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 36,
+      "match_count": 41,
       "titles": [
         {
           "title": "伊朗议长披露谈判细节：我告诉美方“如果你们再往前一步，我们肯定会开火”，最后美方求给15分钟，下令撤退",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 05时46分]"
         },
         {
           "title": "伊朗马什哈德机场周一恢复国际航班",
@@ -26,30 +26,54 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 05时46分]"
+        },
+        {
+          "title": "称谈判期间遭美欺骗 伊朗议长：寻求持久和平但已做好开战准备",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1969730.html",
+          "source": "联合早报",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 05时46分]"
         },
         {
           "title": "在美国扣押船只的几分钟前，伊朗大使批评了美国的封锁",
           "url": "https://flash.jin10.com/detail/20260420043832427800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时49分 ~ 05时46分]"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：伊朗将动用全部能力来保障安全。",
+          "url": "https://flash.jin10.com/detail/20260420052246501800",
+          "source": "金十数据",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时49分 ~ 04时50分]"
+          "time_info": "[05时45分 ~ 05时46分]"
         },
         {
           "title": "G Summer号油轮通过伊朗划定的航线穿越霍尔木兹海峡，继续向美国封锁线驶去。",
           "url": "https://flash.jin10.com/detail/20260420043651165800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 04时50分]"
+          "appearance_count": 4,
+          "time_info": "[04时49分 ~ 05时46分]"
         },
         {
           "title": "阿联酋官员：开战头40天遭伊朗超2800次袭击，90%以上针对民用设施",
@@ -61,17 +85,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
-        },
-        {
-          "title": "称谈判期间遭美欺骗 伊朗议长：寻求持久和平但已做好开战准备",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1969730.html",
-          "source": "联合早报",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 04时50分]"
         },
         {
           "title": "巴基斯坦总理谢里夫：与伊朗总统佩泽希齐扬分享了与沙特阿拉伯、卡塔尔和土耳其领导人的近期交流。",
@@ -119,6 +132,18 @@
           "time_info": "03时03分"
         },
         {
+          "title": "伊朗国家媒体称，伊朗军队阻止美国对伊朗商船的攻击。",
+          "url": "https://flash.jin10.com/detail/20260420042400071800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时49分 ~ 05时46分]"
+        },
+        {
           "title": "伊朗否认有关在伊斯兰堡举行第二轮会谈",
           "url": "https://flash.jin10.com/detail/20260420010200279800",
           "source": "金十数据",
@@ -143,6 +168,18 @@
           "time_info": "[01时43分 ~ 03时03分]"
         },
         {
+          "title": "伊朗外交部发言人巴加埃：美国封锁伊朗港口和海岸线既违反了巴基斯坦斡旋达成的停火协议，也是非法行为。",
+          "url": "https://flash.jin10.com/detail/20260420040656802800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时49分 ~ 05时46分]"
+        },
+        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗拒绝参加与美国的第二轮谈判。",
           "url": "https://flash.jin10.com/detail/20260420005427107800",
           "source": "金十数据",
@@ -153,6 +190,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 03时03分]"
+        },
+        {
+          "title": "阿联酋方面将互换提议描述为预防性和初步措施，以应对伊朗战争可能持续的情况。",
+          "url": "https://flash.jin10.com/detail/20260420040600069800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时49分 ~ 05时46分]"
+        },
+        {
+          "title": "伊朗消息人士：伊方尚无参加下一轮伊美谈判的计划",
+          "url": "https://flash.jin10.com/detail/20260420040011659800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时49分 ~ 05时46分]"
+        },
+        {
+          "title": "目前伊朗方面尚未有参与下一轮伊朗-美国谈判的计划。",
+          "url": "https://flash.jin10.com/detail/20260420035533237800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时49分 ~ 05时46分]"
         },
         {
           "title": "以总理称美以对伊朗行动未结束",
@@ -168,17 +241,6 @@
           "time_info": "[00时53分 ~ 03时03分]"
         },
         {
-          "title": "伊朗国家媒体称，伊朗军队阻止美国对伊朗商船的攻击。",
-          "url": "https://flash.jin10.com/detail/20260420042400071800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 04时50分]"
-        },
-        {
           "title": "伊朗总统问美国凭什么决定伊核权利",
           "url": "https://flash.jin10.com/detail/20260420004907090800",
           "source": "金十数据",
@@ -189,17 +251,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 03时03分]"
-        },
-        {
-          "title": "伊朗外交部发言人巴加埃：美国封锁伊朗港口和海岸线既违反了巴基斯坦斡旋达成的停火协议，也是非法行为。",
-          "url": "https://flash.jin10.com/detail/20260420040656802800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 04时50分]"
         },
         {
           "title": "据Politico：阿联酋官员表示，超过90%的伊朗目标是民用基础设施。",
@@ -226,26 +277,15 @@
           "time_info": "[00时53分 ~ 01时43分]"
         },
         {
-          "title": "阿联酋方面将互换提议描述为预防性和初步措施，以应对伊朗战争可能持续的情况。",
-          "url": "https://flash.jin10.com/detail/20260420040600069800",
+          "title": "美国中央司令部：自封锁开始以来，美军已指示25艘商船掉头或返回伊朗港口。",
+          "url": "https://flash.jin10.com/detail/20260420045942219800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时49分 ~ 04时50分]"
-        },
-        {
-          "title": "伊朗消息人士：伊方尚无参加下一轮伊美谈判的计划",
-          "url": "https://flash.jin10.com/detail/20260420040011659800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 04时50分]"
+          "time_info": "[05时45分 ~ 05时46分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：（谈及伊朗局势）我们已经取得了巨大的成就。但还没有结束。随时都可能出现新的进展。",
@@ -260,17 +300,6 @@
           "time_info": "[00时53分 ~ 01时43分]"
         },
         {
-          "title": "目前伊朗方面尚未有参与下一轮伊朗-美国谈判的计划。",
-          "url": "https://flash.jin10.com/detail/20260420035533237800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 04时50分]"
-        },
-        {
           "title": "伊朗：关闭霍尔木兹海峡 直至美国解除封锁",
           "url": "https://www.cls.cn/detail/2348363",
           "source": "财联社热门",
@@ -280,6 +309,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 01时43分]"
+        },
+        {
+          "title": "伊朗媒体称伊军挫败了美国夺取伊朗商船的企图",
+          "url": "https://flash.jin10.com/detail/20260420044346645800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 05时46分]"
+        },
+        {
+          "title": "据伊朗警方负责人透露，近期行动中逮捕了与“恐怖组织”有关的100名嫌疑人，并查获了武器和弹药。",
+          "url": "https://flash.jin10.com/detail/20260420044332613800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 05时46分]"
+        },
+        {
+          "title": "巴基斯坦总理与伊朗总统通话讨论地区局势",
+          "url": "https://flash.jin10.com/detail/20260420044020162800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 05时46分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们正与伊朗作战，伊朗在全球传播不稳定，而我们没有比美国更好的朋友。",
@@ -419,7 +481,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "停火“还剩三天”，以军袭击黎巴嫩，伊朗军方关闭霍尔木兹海峡，特朗普再召“战情室会议”",
@@ -429,8 +491,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 05时46分]"
         },
         {
           "title": "特朗普称若伊不达成停火或发动打击",
@@ -440,8 +502,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 05时46分]"
         },
         {
           "title": "美国代表抵达伊斯兰堡参加谈判，特朗普：美伊仍能达成协议",
@@ -452,8 +514,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 05时46分]"
         },
         {
           "title": "委反对派领袖马查多：不后悔把诺贝尔奖献予特朗普",
@@ -463,8 +525,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 05时46分]"
         },
         {
           "title": "美国总统特朗普：伊朗已经同意了协议的许多条款。（福克斯新闻）",
@@ -480,6 +542,18 @@
           "time_info": "[00时53分 ~ 03时03分]"
         },
         {
+          "title": "特朗普：一艘伊朗货船试图突破封锁 美军武力拦截并控制",
+          "url": "https://flash.jin10.com/detail/20260420034649727800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时49分 ~ 05时46分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗内部温和派与强硬派之间存在持续冲突。",
           "url": "https://flash.jin10.com/detail/20260420000322341800",
           "source": "金十数据",
@@ -493,15 +567,15 @@
           "time_info": "[00时53分 ~ 03时03分]"
         },
         {
-          "title": "特朗普：一艘伊朗货船试图突破封锁 美军武力拦截并控制",
-          "url": "https://flash.jin10.com/detail/20260420034649727800",
+          "title": "临时停火周三到期 特朗普称美伊将复谈 伊媒称拒谈",
+          "url": "https://flash.jin10.com/detail/20260420045756611800",
           "source": "金十数据",
           "ranks": [
-            14
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时49分 ~ 04时50分]"
+          "time_info": "[05时45分 ~ 05时46分]"
         },
         {
           "title": "美国佛罗里达州共和党参议员斯科特：特朗普总统正在“做正确的事情”，以确保伊朗永远无法获得核武器。",
@@ -562,8 +636,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 05时46分]"
         },
         {
           "title": "创纪录美股背后的虚假地基：两大\"一次性\"因素能撑多久？",
@@ -574,8 +648,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 05时46分]"
         }
       ]
     },
@@ -591,8 +665,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 05时46分]"
         }
       ]
     }
