@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-19T11:40:16.850645+08:00",
-  "total_titles_processed": 253,
+  "generated_at": "2026-04-19T14:05:02.752022+08:00",
+  "total_titles_processed": 287,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 55,
+      "match_count": 57,
       "titles": [
         {
           "title": "【早报】伊朗开放霍尔木兹海峡；多只光通信概念股发布重要公告",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 11时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 14时05分]"
         },
         {
           "title": "伊朗开火逼退油轮，霍尔木兹不到24小时再封锁！伊军方：美国“屡次违背承诺”，已恢复控制",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 11时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 14时05分]"
         },
         {
           "title": "伊朗外长宣布谈判期间开放海峡 国际油价闪崩10%、纳指冲击13连涨",
@@ -61,8 +61,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 11时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 14时05分]"
         },
         {
           "title": "伊朗军方：已恢复对霍尔木兹海峡的控制",
@@ -109,6 +109,18 @@
           "time_info": "[00时53分 ~ 07时45分]"
         },
         {
+          "title": "伊朗外交部：霍尔木兹海峡无条件过境通行“已成历史”",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1969702.html",
+          "source": "联合早报",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 14时05分]"
+        },
+        {
           "title": "据纽约时报：美国情报评估认为，伊朗仍保有战前约40%的无人机库存，并在停火期间挖掘地下导弹城，目前仍拥有约60%的导弹发射装置，以及可能高达70%的导弹库存。",
           "url": "https://flash.jin10.com/detail/20260419055830651800",
           "source": "金十数据",
@@ -118,6 +130,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时45分 ~ 07时45分]"
+        },
+        {
+          "title": "美伊谈判敏感之际 伊朗高级将领出访伊拉克",
+          "url": "https://flash.jin10.com/detail/20260419131733670800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时04分 ~ 14时05分]"
         },
         {
           "title": "伊朗议长：伊朗进攻能力远超过去，击落F-35非偶然",
@@ -143,17 +166,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时03分 ~ 07时45分]"
-        },
-        {
-          "title": "伊朗外交部：霍尔木兹海峡无条件过境通行“已成历史”",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1969702.html",
-          "source": "联合早报",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
         },
         {
           "title": "伊朗革命卫队：我们在伊拉克库尔德斯坦地区对一个分裂主义恐怖组织的成员进行了无人机袭击。",
@@ -195,17 +207,6 @@
           "time_info": "[00时53分 ~ 03时03分]"
         },
         {
-          "title": "以色列特拉维夫市长：伊朗空袭导致市内1000多套公寓无法居住。",
-          "url": "https://flash.jin10.com/detail/20260419112332176800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
           "title": "以色列特拉维夫市长：由于伊朗导弹袭击，市内一千套住宅公寓已变得无法居住。",
           "url": "https://flash.jin10.com/detail/20260419010904747800",
           "source": "金十数据",
@@ -244,6 +245,18 @@
           "time_info": "[01时44分 ~ 03时03分]"
         },
         {
+          "title": "伊朗网络封锁持续50天 创前所未有纪录",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1969698.html",
+          "source": "联合早报",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 14时05分]"
+        },
+        {
           "title": "伊朗副外长：伊朗绝不接受被当作国际法的“例外”对待",
           "url": "https://flash.jin10.com/detail/20260419010047570800",
           "source": "金十数据",
@@ -256,15 +269,16 @@
           "time_info": "[01时44分 ~ 03时03分]"
         },
         {
-          "title": "伊朗网络封锁持续50天 创前所未有纪录",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1969698.html",
-          "source": "联合早报",
+          "title": "以色列特拉维夫市长：伊朗空袭导致市内1000多套公寓无法居住。",
+          "url": "https://flash.jin10.com/detail/20260419112332176800",
+          "source": "金十数据",
           "ranks": [
-            5
+            3,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 14时05分]"
         },
         {
           "title": "伊朗：欧盟口中的“国际法”不过是为美以侵略开绿灯的工具",
@@ -356,6 +370,19 @@
           "time_info": "[00时53分 ~ 03时03分]"
         },
         {
+          "title": "伊朗：关闭霍尔木兹海峡 直至美国解除封锁",
+          "url": "https://www.cls.cn/detail/2348363",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时45分 ~ 14时05分]"
+        },
+        {
           "title": "据伊朗Press TV：伊朗议会发言人称，我们果断应对了美国的扫雷行动，几乎走到了战争边缘，但敌人退却了。",
           "url": "https://flash.jin10.com/detail/20260419025451652800",
           "source": "金十数据",
@@ -406,6 +433,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时03分 ~ 05时45分]"
+        },
+        {
+          "title": "伊朗：不会向美国输送浓缩铀 这个问题“不容讨论”",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1969693.html",
+          "source": "联合早报",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 14时05分]"
         },
         {
           "title": "据华尔街日报：美国官员称，美军准备在未来几天内在国际水域登检与伊朗有关的船只并扣押商船。",
@@ -503,16 +542,15 @@
           "time_info": "[06时45分 ~ 07时45分]"
         },
         {
-          "title": "伊朗：关闭霍尔木兹海峡 直至美国解除封锁",
-          "url": "https://www.cls.cn/detail/2348363",
-          "source": "财联社热门",
+          "title": "伊朗副外长：绝不会将浓缩铀交给美国",
+          "url": "https://flash.jin10.com/detail/20260419121543665800",
+          "source": "金十数据",
           "ranks": [
-            10,
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时45分 ~ 11时40分]"
+          "time_info": "[14时04分 ~ 14时05分]"
         },
         {
           "title": "伊朗官员：将优先放行支付霍尔木兹海峡通行费的船只",
@@ -527,24 +565,13 @@
           "time_info": "[03时03分 ~ 04时48分]"
         },
         {
-          "title": "伊朗：不会向美国输送浓缩铀 这个问题“不容讨论”",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1969693.html",
-          "source": "联合早报",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
           "title": "以色列广播管理局援引知情人士的话称，以色列认为，重新关闭霍尔木兹海峡是伊朗的一种谈判策略。",
           "url": "https://flash.jin10.com/detail/20260419103855402800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -555,7 +582,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -566,7 +593,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -577,7 +604,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -588,7 +615,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -610,7 +637,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -643,7 +670,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -662,7 +689,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普称若伊不达成停火或发动打击",
@@ -673,8 +700,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 11时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 14时05分]"
         },
         {
           "title": "特朗普强称“伊朗让步了”，伊朗“他撒谎”，投资者：“他在与市场谈判，完全无视伊朗”",
@@ -715,11 +742,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 11时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 14时05分]"
         },
         {
           "title": "深陷能源危机与通胀泥潭 特朗普打伊暴露自身经济死穴",
@@ -742,6 +770,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时53分 ~ 06时45分]"
+        },
+        {
+          "title": "停火“还剩三天”，以军袭击黎巴嫩，伊朗军方关闭霍尔木兹海峡，特朗普再召“战情室会议”",
+          "url": "https://wallstreetcn.com/articles/3770334",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 14时05分]"
         },
         {
           "title": "特朗普集团将在格鲁吉亚首都合建摩天大楼",
@@ -770,6 +810,41 @@
           "time_info": "[03时03分 ~ 05时45分]"
         },
         {
+          "title": "美国前副总统哈里斯：特朗普是被内塔尼亚胡“拖入”战争的",
+          "url": "https://flash.jin10.com/detail/20260419110731911800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 14时05分]"
+        },
+        {
+          "title": "特朗普称美伊即将达成协议 伊朗否认斥“废话多”",
+          "url": "https://www.zaochenbao.com/news/politics/202604/1969682.html",
+          "source": "联合早报",
+          "ranks": [
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 14时05分]"
+        },
+        {
+          "title": "美媒：特朗普公开表现得趾高气扬，但内心却充满恐惧",
+          "url": "https://flash.jin10.com/detail/20260419125203447800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时04分 ~ 14时05分]"
+        },
+        {
           "title": "美媒：特朗普召开白宫战情室会议，商讨霍尔木兹海峡危机及美伊谈判",
           "url": "https://flash.jin10.com/detail/20260419013804388800",
           "source": "金十数据",
@@ -782,37 +857,15 @@
           "time_info": "[03时03分 ~ 04时48分]"
         },
         {
-          "title": "停火“还剩三天”，以军袭击黎巴嫩，伊朗军方关闭霍尔木兹海峡，特朗普再召“战情室会议”",
-          "url": "https://wallstreetcn.com/articles/3770334",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
-          "title": "美国前副总统哈里斯：特朗普是被内塔尼亚胡“拖入”战争的",
-          "url": "https://flash.jin10.com/detail/20260419110731911800",
+          "title": "也门胡塞武装威胁称，如果特朗普阻挠和平进程，他们将关闭曼德海峡。",
+          "url": "https://flash.jin10.com/detail/20260419115241854800",
           "source": "金十数据",
           "ranks": [
-            8
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
-          "title": "特朗普称美伊即将达成协议 伊朗否认斥“废话多”",
-          "url": "https://www.zaochenbao.com/news/politics/202604/1969682.html",
-          "source": "联合早报",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时04分 ~ 14时05分]"
         },
         {
           "title": "美国总统特朗普：今天结束前会有一些信息。",
@@ -850,8 +903,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 11时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 14时05分]"
         },
         {
           "title": "梁文锋被曝史上首次融资！DeepSeek V4彻底摆脱英伟达",
@@ -877,22 +930,24 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 11时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 14时05分]"
         },
         {
           "title": "洪灏：黄金价格翻倍“没有悬念”",
           "url": "https://flash.jin10.com/detail/20260419111817535800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 14时05分]"
         }
       ]
     },
@@ -907,11 +962,12 @@
           "ranks": [
             10,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 11时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 14时05分]"
         }
       ]
     }
