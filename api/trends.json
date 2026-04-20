@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-20T07:48:45.240636+08:00",
-  "total_titles_processed": 248,
+  "generated_at": "2026-04-20T11:41:56.351371+08:00",
+  "total_titles_processed": 355,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 54,
+      "match_count": 64,
       "titles": [
         {
           "title": "伊朗议长披露谈判细节：我告诉美方“如果你们再往前一步，我们肯定会开火”，最后美方求给15分钟，下令撤退",
           "url": "https://wallstreetcn.com/articles/3770344",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 07时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 11时41分]"
         },
         {
           "title": "伊朗马什哈德机场周一恢复国际航班",
@@ -64,6 +65,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时49分 ~ 05时46分]"
+        },
+        {
+          "title": "伊朗媒体消息：德黑兰无计划出席伊斯兰堡谈判",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2069774.html",
+          "source": "联合早报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "阿联酋官员：开战头40天遭伊朗超2800次袭击，90%以上针对民用设施",
@@ -117,7 +129,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
         },
@@ -155,6 +167,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时46分 ~ 07时48分]"
+        },
+        {
+          "title": "【早报】美国代表团抵达伊斯兰堡；伊媒：伊朗拒绝参加第二轮谈判",
+          "url": "https://www.cls.cn/detail/2348724",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时48分 ~ 11时41分]"
         },
         {
           "title": "美军向伊朗商船开火 伊军：将予以回应和报复",
@@ -464,6 +488,39 @@
           "time_info": "[04时49分 ~ 04时50分]"
         },
         {
+          "title": "伊朗：在霍尔木兹海峡划定新航线",
+          "url": "https://www.cls.cn/detail/2348749",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "“停火最后期限”临近，伊朗再封海峡、美国首次扣船，双方都在争取“谈判砝码”",
+          "url": "https://wallstreetcn.com/articles/3770363",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "美中央司令部确认向伊朗货船开火 指货船无视停船指令",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2069767.html",
+          "source": "联合早报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
           "title": "美媒：美方称万斯将率团赴伊斯兰堡重启谈判，伊朗怀疑是为“突袭掩护”",
           "url": "https://flash.jin10.com/detail/20260420020511707800",
           "source": "金十数据",
@@ -475,15 +532,15 @@
           "time_info": "03时03分"
         },
         {
-          "title": "【早报】美国代表团抵达伊斯兰堡；伊媒：伊朗拒绝参加第二轮谈判",
-          "url": "https://www.cls.cn/detail/2348724",
-          "source": "财联社热门",
+          "title": "伊朗在霍尔木兹海峡划定新航线 未经许可不得通行",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2069766.html",
+          "source": "联合早报",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时48分"
+          "time_info": "11时41分"
         },
         {
           "title": "巴基斯坦总理和伊朗总统通话",
@@ -508,6 +565,17 @@
           "time_info": "06时46分"
         },
         {
+          "title": "伊朗指美军向伊货船开火 伊军发射无人机还击",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2069765.html",
+          "source": "联合早报",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
           "title": "美军向伊朗商船开火 伊军：将作出回应和报复",
           "url": "https://flash.jin10.com/detail/20260420054815463800",
           "source": "金十数据",
@@ -525,9 +593,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
+        },
+        {
+          "title": "伊朗总统：美方在谈判及停火阶段持续背信弃义",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2069764.html",
+          "source": "联合早报",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "美军称开火拦截一艘伊朗货船 使其失去推进动力",
@@ -539,6 +618,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
+        },
+        {
+          "title": "美军武力拦截并控制伊朗货船 伊军：将很快回应并报复",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2069763.html",
+          "source": "联合早报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "伊朗外长阿拉格齐和巴基斯坦外长确认，德黑兰和美国将继续对话，旨在维护该地区的和平与安全。",
@@ -558,7 +648,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
         },
@@ -574,13 +664,35 @@
           "time_info": "03时03分"
         },
         {
+          "title": "伊朗已拥有堪比核武器的威慑手段：霍尔木兹海峡",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2069756.html",
+          "source": "联合早报",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "霍尔木兹海峡开了又关 轮船报告遭伊朗枪击",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2069755.html",
+          "source": "联合早报",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
           "title": "伊朗外长警告美国不要威胁伊朗港口和船只",
           "url": "https://flash.jin10.com/detail/20260420064049215800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
         },
@@ -591,7 +703,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
         },
@@ -602,7 +714,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
         },
@@ -632,7 +744,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "停火“还剩三天”，以军袭击黎巴嫩，伊朗军方关闭霍尔木兹海峡，特朗普再召“战情室会议”",
@@ -662,11 +774,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 07时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 11时41分]"
         },
         {
           "title": "委反对派领袖马查多：不后悔把诺贝尔奖献予特朗普",
@@ -678,6 +791,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时53分 ~ 07时48分]"
+        },
+        {
+          "title": "美伊局势追踪：特朗普二轮和谈邀约“遭拒” 美军开火、伊朗誓言报复",
+          "url": "https://www.cls.cn/detail/2348774",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "美国总统特朗普：伊朗已经同意了协议的许多条款。（福克斯新闻）",
@@ -764,6 +888,39 @@
           "time_info": "[04时49分 ~ 04时50分]"
         },
         {
+          "title": "特朗普称将重启谈判 伊朗否认三连",
+          "url": "https://www.cls.cn/detail/2348737",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "特朗普转发文章：宣称赢得伊朗战争 列举八大胜果",
+          "url": "https://flash.jin10.com/detail/20260420111413263800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "耶稣“梗图”、威胁和战争：重重压力之下的特朗普",
+          "url": "https://www.zaochenbao.com/news/Chronicles/202604/2069753.html",
+          "source": "联合早报",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
           "title": "特朗普：若美伊达成协议 “很可能”前往伊斯兰堡",
           "url": "https://flash.jin10.com/detail/20260419224124557800",
           "source": "金十数据",
@@ -788,8 +945,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 07时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 11时41分]"
         },
         {
           "title": "创纪录美股背后的虚假地基：两大\"一次性\"因素能撑多久？",
@@ -800,8 +957,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 07时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 11时41分]"
         },
         {
           "title": "国际原油大幅高开5% 美股指期货跌0.9%",
@@ -844,7 +1001,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
         }
