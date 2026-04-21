@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T14:09:46.964050+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2026-04-21T16:58:10.519806+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 39,
       "titles": [
         {
           "title": "到底谈不谈？伊朗议员：谈判“今天或明天”进行，伊外交部：暂无第二轮谈判计划",
@@ -204,6 +204,28 @@
           "time_info": "11时34分"
         },
         {
+          "title": "万斯将赴巴基斯坦推进新一轮美伊谈判，伊朗再反转：没派代表团前往",
+          "url": "https://wallstreetcn.com/articles/3770465",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
+          "title": "伊朗媒体：一艘伊朗货轮正在通过霍尔木兹海峡",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2169887.html",
+          "source": "联合早报",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
           "title": "俄罗斯外交部：俄罗斯外长拉夫罗夫与伊朗外长通电话。",
           "url": "https://flash.jin10.com/detail/20260420234504495800",
           "source": "金十数据",
@@ -224,6 +246,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "日本首相高市早苗：与卡塔尔埃米尔举行了电话会谈。我阐明了本国的立场，即最重要的是切实维持停火并尽快使局势降温，包括确保霍尔木兹海峡的航行安全，同时强调美国与伊朗继续开展磋商以达成最终协议的重要性。",
+          "url": "https://flash.jin10.com/detail/20260421164936580800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         },
         {
           "title": "伊朗外交部长阿拉格齐对俄罗斯外长表示，伊朗将监测美国的行为，并采取适当措施以保护其利益和国家安全。",
@@ -314,6 +347,17 @@
           "time_info": "04时03分"
         },
         {
+          "title": "法国财政部长：伊朗危机已使法国损失40亿至60亿欧元",
+          "url": "https://flash.jin10.com/detail/20260421164736626800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
           "title": "加拿大央行第一季度商业展望及消费者预期调查：约85%的家庭预计伊朗战争将对经济造成损害，并推高物价。",
           "url": "https://flash.jin10.com/detail/20260420233342766800",
           "source": "金十数据",
@@ -342,7 +386,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
@@ -375,15 +419,37 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
+        },
+        {
+          "title": "德国外交部长：伊朗应为了本国人民接受美国伸出的橄榄枝。",
+          "url": "https://flash.jin10.com/detail/20260421164136312800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
+          "title": "德国外交部长：我们敦促伊朗在伊斯兰堡与美国进行建设性对话。",
+          "url": "https://flash.jin10.com/detail/20260421163916152800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普：若有突破进展 愿同伊朗高级别领导人会面",
@@ -394,8 +460,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 14时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 16时58分]"
+        },
+        {
+          "title": "美伊停火倒计时？特朗普敲定21日“二轮谈判”，伊朗仍未点头答应！",
+          "url": "https://www.cls.cn/detail/2350106",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时34分 ~ 16时58分]"
         },
         {
           "title": "谨慎温和的良十四世为何与特朗普“硬刚”",
@@ -409,16 +488,17 @@
           "time_info": "[00时18分 ~ 07时54分]"
         },
         {
-          "title": "美伊停火倒计时？特朗普敲定21日“二轮谈判”，伊朗仍未点头答应！",
-          "url": "https://www.cls.cn/detail/2350106",
-          "source": "财联社热门",
+          "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
+          "url": "https://wallstreetcn.com/articles/3770427",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            5
+            6,
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 14时09分]"
+          "appearance_count": 3,
+          "time_info": "[11时34分 ~ 16时58分]"
         },
         {
           "title": "“自满”的投资者小心了：伊朗不是特朗普能指挥的",
@@ -534,18 +614,6 @@
           "time_info": "11时34分"
         },
         {
-          "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
-          "url": "https://wallstreetcn.com/articles/3770427",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 14时09分]"
-        },
-        {
           "title": "特朗普：新协议将比伊核协议好得多，停火“极不可能”延长",
           "url": "https://flash.jin10.com/detail/20260421065026687800",
           "source": "金十数据",
@@ -556,6 +624,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时55分 ~ 07时54分]"
+        },
+        {
+          "title": "美伊局势会如何演绎？特朗普面前有五条路 最危险的通往200美元油价！",
+          "url": "https://www.cls.cn/detail/2350258",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时09分 ~ 16时58分]"
         },
         {
           "title": "特朗普将于北京时间21日晚8:30参加CNBC的一档财经节目。",
@@ -581,15 +661,15 @@
           "time_info": "02时04分"
         },
         {
-          "title": "美伊局势会如何演绎？特朗普面前有五条路 最危险的通往200美元油价！",
-          "url": "https://www.cls.cn/detail/2350258",
-          "source": "财联社热门",
+          "title": "特朗普：从伊朗获取铀将是“漫长艰难”过程",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2169889.html",
+          "source": "联合早报",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "16时58分"
         },
         {
           "title": "美国国务院官员：美国总统特朗普致力于寻求外交解决方案（如果可能），但不会让该岛屿（古巴）陷入重大国家安全威胁。",
@@ -601,6 +681,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
+        },
+        {
+          "title": "事关煤、气、油、电！特朗普动用“战时权力”",
+          "url": "https://www.cls.cn/detail/2350491",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         },
         {
           "title": "特朗普感谢伊朗迫使船只转而从美国进口石油",
@@ -639,7 +730,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
@@ -647,11 +738,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时55分 ~ 14时09分]"
+          "appearance_count": 6,
+          "time_info": "[05时55分 ~ 16时58分]"
         },
         {
           "title": "热门中概股美股盘前多数下跌，理想汽车涨超1%",
@@ -738,6 +830,17 @@
           "time_info": "07时54分"
         },
         {
+          "title": "伊朗谈判曙光提振全球股市，美股期指上涨，韩国综指新高，半导体股领涨，油价续跌",
+          "url": "https://wallstreetcn.com/articles/3770463",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
           "title": "美股三大指数小幅收跌，热门科技股多数下跌",
           "url": "https://www.36kr.com/newsflashes/3775750234276613",
           "source": "36氪",
@@ -752,8 +855,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "伊朗方面有报道称，几分钟前，谷歌搜索引擎再次对该地区用户出现宕机。",
+          "url": "https://flash.jin10.com/detail/20260421165516142800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
         {
           "title": "谷歌据悉组建团队以改进AI编程模型",
           "url": "https://www.36kr.com/newsflashes/3775327152669190",
@@ -780,7 +894,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenAI据悉将于未来数周内发布全新图像模型",
@@ -792,6 +906,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "腾讯云宣布开源OpenAI、Manus同款Agent底座",
+          "url": "https://flash.jin10.com/detail/20260421164852123800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek启动首轮外部融资 有望助推国产算力生态全面铺开",
+          "url": "https://www.cls.cn/detail/2350095",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         }
       ]
     }
