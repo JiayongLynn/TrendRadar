@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T20:05:24.463776+08:00",
-  "total_titles_processed": 692,
+  "generated_at": "2026-04-21T22:52:08.058562+08:00",
+  "total_titles_processed": 758,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "到底谈不谈？伊朗议员：谈判“今天或明天”进行，伊外交部：暂无第二轮谈判计划",
@@ -111,6 +111,19 @@
           "time_info": "[00时18分 ~ 07时54分]"
         },
         {
+          "title": "万斯将赴巴基斯坦推进新一轮美伊谈判，伊朗再反转：没派代表团前往",
+          "url": "https://wallstreetcn.com/articles/3770465",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时58分 ~ 22时52分]"
+        },
+        {
           "title": "维多能源集团CEO：伊朗战争供应危机导致每日损失1200万桶碳氢化合物。",
           "url": "https://flash.jin10.com/detail/20260421180028371800",
           "source": "金十数据",
@@ -128,9 +141,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时05分"
+        },
+        {
+          "title": "伊朗政府发言人：伊朗防御力量“处于全面戒备状态”",
+          "url": "https://flash.jin10.com/detail/20260421222356430800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "伊朗议会议长：伊朗不接受在威胁阴影下的谈判",
@@ -167,18 +191,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时55分 ~ 06时55分]"
-        },
-        {
-          "title": "万斯将赴巴基斯坦推进新一轮美伊谈判，伊朗再反转：没派代表团前往",
-          "url": "https://wallstreetcn.com/articles/3770465",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时58分 ~ 20时05分]"
         },
         {
           "title": "伊朗媒体：一艘伊朗货轮正在通过霍尔木兹海峡",
@@ -251,6 +263,17 @@
           "time_info": "11时34分"
         },
         {
+          "title": "伊朗战争重创德国景气 投资者信心跌至三年多新低",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2169921.html",
+          "source": "联合早报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "俄罗斯外交部：俄罗斯外长拉夫罗夫与伊朗外长通电话。",
           "url": "https://flash.jin10.com/detail/20260420234504495800",
           "source": "金十数据",
@@ -301,7 +324,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时05分"
         },
@@ -507,7 +530,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普：若有突破进展 愿同伊朗高级别领导人会面",
@@ -532,8 +555,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时34分 ~ 20时05分]"
+          "appearance_count": 6,
+          "time_info": "[11时34分 ~ 22时52分]"
         },
         {
           "title": "美伊局势会如何演绎？特朗普面前有五条路 最危险的通往200美元油价！",
@@ -710,6 +733,20 @@
           "time_info": "[06时55分 ~ 07时54分]"
         },
         {
+          "title": "事关煤、气、油、电！特朗普动用“战时权力”",
+          "url": "https://www.cls.cn/detail/2350491",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时58分 ~ 22时52分]"
+        },
+        {
           "title": "特朗普将于北京时间21日晚8:30参加CNBC的一档财经节目。",
           "url": "https://flash.jin10.com/detail/20260421053556015800",
           "source": "金十数据",
@@ -722,30 +759,18 @@
           "time_info": "[05时55分 ~ 06时55分]"
         },
         {
-          "title": "事关煤、气、油、电！特朗普动用“战时权力”",
-          "url": "https://www.cls.cn/detail/2350491",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时58分 ~ 20时05分]"
-        },
-        {
           "title": "特朗普：从伊朗获取铀将是“漫长艰难”过程",
           "url": "https://www.zaochenbao.com/news/politics/202604/2169889.html",
           "source": "联合早报",
           "ranks": [
             7,
             16,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时58分 ~ 20时05分]"
+          "appearance_count": 4,
+          "time_info": "[16时58分 ~ 22时52分]"
         },
         {
           "title": "美国总统特朗普：我们与伊朗达成的协议将远比伊朗核协议（JCPOA）更好。",
@@ -759,6 +784,28 @@
           "time_info": "02时04分"
         },
         {
+          "title": "美官员：特朗普频“抢风头”在社媒发文或损害谈判进程",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2169923.html",
+          "source": "联合早报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
+          "title": "5月1日——特朗普“任性打仗”的关键时限",
+          "url": "https://wallstreetcn.com/articles/3770498",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "美国国务院官员：美国总统特朗普致力于寻求外交解决方案（如果可能），但不会让该岛屿（古巴）陷入重大国家安全威胁。",
           "url": "https://flash.jin10.com/detail/20260421051756276800",
           "source": "金十数据",
@@ -768,6 +815,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
+        },
+        {
+          "title": "美国法官阻止了特朗普政府此前采取的措施，这些措施曾阻碍风能和太阳能项目的许可审批。",
+          "url": "https://flash.jin10.com/detail/20260421221843377800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
+          "title": "特朗普专访：威慑伊朗、拒延停火，点名美联储与最高法院！",
+          "url": "https://flash.jin10.com/detail/20260421221136532800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "特朗普感谢伊朗迫使船只转而从美国进口石油",
@@ -798,7 +867,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时05分"
         },
@@ -820,7 +889,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时05分"
         },
@@ -842,7 +911,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时05分"
         }
@@ -850,7 +919,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
@@ -859,11 +928,12 @@
           "ranks": [
             2,
             1,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时55分 ~ 20时05分]"
+          "appearance_count": 9,
+          "time_info": "[05时55分 ~ 22时52分]"
         },
         {
           "title": "热门中概股美股盘前多数下跌，理想汽车涨超1%",
@@ -926,13 +996,24 @@
           "time_info": "[00时18分 ~ 07时54分]"
         },
         {
+          "title": "中东局势缓和叠加沃什听证会预期，美股高开，科技股普涨，油价续跌",
+          "url": "https://wallstreetcn.com/articles/3770463",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "中东局势缓和叠加沃什听证会预期，美股期指回暖，半导体股普涨，油价续跌",
           "url": "https://wallstreetcn.com/articles/3770463",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时05分"
         },
@@ -948,6 +1029,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时03分 ~ 07时54分]"
+        },
+        {
+          "title": "美股异动丨网络安全概念股反弹，大摩指AI催生增量安全机遇高达2200亿美元",
+          "url": "https://www.gelonghui.com/news/5214333",
+          "source": "格隆汇",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
+          "title": "特朗普称美伊将达成重大协议 美股三大期指小幅上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2351163",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "纳指终结13连涨，美股三大指数集体收跌，中概指数跌0.32%",
@@ -1011,24 +1114,25 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "OpenAI正与顾问合作，拟出售Codex",
+          "url": "https://www.36kr.com/newsflashes/3776503418063112",
+          "source": "36氪",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时05分 ~ 22时52分]"
+        },
+        {
           "title": "据华尔街日报：OpenAI正在与包括埃森哲、凯捷和普华永道在内的咨询公司合作，帮助将Codex销售给企业。",
           "url": "https://flash.jin10.com/detail/20260421193335407800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时05分"
-        },
-        {
-          "title": "OpenAI正与顾问合作，拟出售Codex",
-          "url": "https://www.36kr.com/newsflashes/3776503418063112",
-          "source": "36氪",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时05分"
         },
@@ -1039,7 +1143,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时05分"
         },
@@ -1050,7 +1154,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时05分"
         },
