@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T16:59:00.432950+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2026-04-23T18:43:22.434848+08:00",
+  "total_titles_processed": 615,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普称最快周五或重启美伊和谈，伊朗称他“又说谎”，以媒称停火期26日结束",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时11分 ~ 16时59分]"
+          "appearance_count": 10,
+          "time_info": "[04时11分 ~ 18时43分]"
         },
         {
           "title": "据称特朗普将再给伊朗3至5天停火时间",
@@ -34,6 +34,18 @@
           "time_info": "[00时17分 ~ 07时56分]"
         },
         {
+          "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
+          "url": "https://wallstreetcn.com/articles/3770662",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时12分 ~ 18时43分]"
+        },
+        {
           "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
           "url": "https://wallstreetcn.com/articles/3770539",
           "source": "华尔街见闻",
@@ -43,18 +55,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时17分 ~ 04时11分]"
-        },
-        {
-          "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
-          "url": "https://wallstreetcn.com/articles/3770662",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时12分 ~ 16时59分]"
         },
         {
           "title": "特朗普扬言封锁原油输出 让伊朗财政崩溃",
@@ -80,17 +80,6 @@
           "time_info": "[11时39分 ~ 16时59分]"
         },
         {
-          "title": "美参院再次否决限特朗普战争权力议案",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2370079.html",
-          "source": "联合早报",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时58分 ~ 16时59分]"
-        },
-        {
           "title": "孙宇晨起诉与特朗普有关加密货币公司 指控其敲诈勒索",
           "url": "https://www.zaochenbao.com/news/politics/202604/2270014.html",
           "source": "联合早报",
@@ -111,28 +100,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 00时18分]"
-        },
-        {
-          "title": "消息：特朗普已制定名单 拟惩罚“不听话”北约盟友",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2370078.html",
-          "source": "联合早报",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时58分 ~ 16时59分]"
-        },
-        {
-          "title": "60天期限将至 特朗普面临结束伊朗战争压力",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2370075.html",
-          "source": "联合早报",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时58分 ~ 16时59分]"
         },
         {
           "title": "美国总统特朗普：参议院共和党领袖图恩和参议员格雷厄姆已迈出关键第一步，推动通过另一项“和解法案”，该法案旨在为我们的伟大边境巡逻队和移民及海关执法局人员提供资金。",
@@ -168,6 +135,30 @@
           "time_info": "05时58分"
         },
         {
+          "title": "美参院再次否决限特朗普战争权力议案",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2370079.html",
+          "source": "联合早报",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时58分 ~ 18时43分]"
+        },
+        {
+          "title": "消息：特朗普已制定名单 拟惩罚“不听话”北约盟友",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2370078.html",
+          "source": "联合早报",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时58分 ~ 18时43分]"
+        },
+        {
           "title": "波音CEO：特朗普政府是中国大订单成败关键",
           "url": "https://www.zaochenbao.com/news/politics/202604/2370051.html",
           "source": "联合早报",
@@ -180,6 +171,31 @@
           "time_info": "[11时39分 ~ 14时13分]"
         },
         {
+          "title": "60天期限将至 特朗普面临结束伊朗战争压力",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2370075.html",
+          "source": "联合早报",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时58分 ~ 18时43分]"
+        },
+        {
+          "title": "伊朗与特朗普“谈不拢”的最大障碍：信任",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2370060.html",
+          "source": "联合早报",
+          "ranks": [
+            8,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时12分 ~ 18时43分]"
+        },
+        {
           "title": "特朗普称不延长停火，威胁恢复轰炸伊朗，消息称伊不会参加22日谈判，万斯推迟赴会",
           "url": "https://wallstreetcn.com/articles/3770527",
           "source": "华尔街见闻",
@@ -190,18 +206,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时17分 ~ 04时11分]"
-        },
-        {
-          "title": "伊朗与特朗普“谈不拢”的最大障碍：信任",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2370060.html",
-          "source": "联合早报",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时12分 ~ 16时59分]"
         },
         {
           "title": "特朗普时代备受关注的内幕交易质疑 以及几个关键时刻",
@@ -306,6 +310,17 @@
           "time_info": "04时11分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-23）",
+          "url": "https://flash.jin10.com/detail/20260423182110966800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "特朗普：何时结束伊朗战争目前没有时间表",
           "url": "https://www.zaochenbao.com/news/politics/202604/2370042.html",
           "source": "联合早报",
@@ -375,7 +390,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "拒绝谈判后，伊朗：收到“一些信号”暗示美国准备解除封锁",
@@ -415,17 +430,6 @@
           "time_info": "[00时17分 ~ 00时18分]"
         },
         {
-          "title": "美国务院促在伊朗美国公民立即离境",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2370076.html",
-          "source": "联合早报",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时58分 ~ 16时59分]"
-        },
-        {
           "title": "英国官员称中国伊朗是在英重大网攻幕后黑手",
           "url": "https://www.zaochenbao.com/news/china/202604/2370065.html",
           "source": "联合早报",
@@ -460,16 +464,29 @@
           "time_info": "05时58分"
         },
         {
+          "title": "美国务院促在伊朗美国公民立即离境",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2370076.html",
+          "source": "联合早报",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时58分 ~ 18时43分]"
+        },
+        {
           "title": "伊朗资深议员：德黑兰永不放弃对霍尔木兹海峡的控制权",
           "url": "https://www.zaochenbao.com/news/politics/202604/2370059.html",
           "source": "联合早报",
           "ranks": [
             9,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时12分 ~ 16时59分]"
+          "appearance_count": 5,
+          "time_info": "[14时12分 ~ 18时43分]"
         },
         {
           "title": "面临内外双重压力，伊朗就和谈发出矛盾信号",
@@ -482,6 +499,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时12分 ~ 16时59分]"
+        },
+        {
+          "title": "美国务院要求美在伊朗公民立即离境",
+          "url": "https://www.cls.cn/detail/2353107",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时58分 ~ 18时43分]"
         },
         {
           "title": "家乐福首席财务官：在伊朗战争开始后，我们没有看到消费者行为发生显著变化我们预计今年法国食品通胀仅会略有上升。",
@@ -504,17 +532,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时59分 ~ 07时56分]"
-        },
-        {
-          "title": "美国务院要求美在伊朗公民立即离境",
-          "url": "https://www.cls.cn/detail/2353107",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时58分 ~ 16时59分]"
         },
         {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗方面赞赏巴基斯坦为结束战争所做的努力。",
@@ -614,6 +631,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
+        },
+        {
+          "title": "挪威主权财富基金副首席执行官：伊朗战争绝对不是进行逆周期操作的机会。不会因伊朗战争对投资组合进行重大调整，包括其主动管理部分。",
+          "url": "https://flash.jin10.com/detail/20260423181955489800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "据福克斯新闻：白宫表示，伊朗必须将浓缩铀交给美国。",
