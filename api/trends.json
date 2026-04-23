@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T20:04:53.720292+08:00",
-  "total_titles_processed": 677,
+  "generated_at": "2026-04-23T23:20:52.324968+08:00",
+  "total_titles_processed": 764,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普称最快周五或重启美伊和谈，伊朗称他“又说谎”，以媒称停火期26日结束",
@@ -15,11 +15,12 @@
             8,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[04时11分 ~ 20时04分]"
+          "appearance_count": 12,
+          "time_info": "[04时11分 ~ 23时20分]"
         },
         {
           "title": "据称特朗普将再给伊朗3至5天停火时间",
@@ -39,11 +40,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时12分 ~ 20时04分]"
+          "appearance_count": 7,
+          "time_info": "[14时12分 ~ 23时20分]"
         },
         {
           "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
@@ -107,11 +109,12 @@
           "source": "联合早报",
           "ranks": [
             1,
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时58分 ~ 20时04分]"
+          "appearance_count": 5,
+          "time_info": "[16时58分 ~ 23时20分]"
         },
         {
           "title": "消息：特朗普已制定名单 拟惩罚“不听话”北约盟友",
@@ -119,11 +122,12 @@
           "source": "联合早报",
           "ranks": [
             2,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时58分 ~ 20时04分]"
+          "appearance_count": 5,
+          "time_info": "[16时58分 ~ 23时20分]"
         },
         {
           "title": "60天期限将至 特朗普面临结束伊朗战争压力",
@@ -277,6 +281,28 @@
           "time_info": "04时11分"
         },
         {
+          "title": "特朗普下令击沉任何在霍尔木兹海峡布设水雷的船只，伊朗：已制定反击目标清单",
+          "url": "https://wallstreetcn.com/articles/3770720",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "特朗普：已下令美海军击沉任何在霍尔木兹海峡布雷的船只",
+          "url": "https://www.cls.cn/detail/2354007",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：特朗普将决定停火期限的时间表。",
           "url": "https://flash.jin10.com/detail/20260423032914409800",
           "source": "金十数据",
@@ -354,6 +380,17 @@
           "time_info": "07时56分"
         },
         {
+          "title": "搬石砸脚！特朗普强推选区重划，共和党反倒丢掉国会优势",
+          "url": "https://flash.jin10.com/detail/20260423223531667800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：特朗普因停火延长而拥有灵活性。",
           "url": "https://flash.jin10.com/detail/20260423032018250800",
           "source": "金十数据",
@@ -385,12 +422,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "加拿大总理卡尼：加拿大从未听说特朗普提到过让加拿大支付“入场费”以启动《美墨加协定》（USMCA）评估的概念。",
+          "url": "https://flash.jin10.com/detail/20260423222627235800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 31,
       "titles": [
         {
           "title": "拒绝谈判后，伊朗：收到“一些信号”暗示美国准备解除封锁",
@@ -465,6 +513,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时12分 ~ 20时04分]"
+        },
+        {
+          "title": "美以伊冲突已致伊朗149处历史遗迹和博物馆受损",
+          "url": "https://flash.jin10.com/detail/20260423225120484800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "伊朗议长称美公然违反停火协议 不可能重新开放霍尔木兹海峡",
@@ -589,6 +648,17 @@
           "time_info": "05时58分"
         },
         {
+          "title": "伊朗副议长：收到首笔霍尔木兹海峡通行费",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2370100.html",
+          "source": "联合早报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗谈判团队未曾在伊斯兰堡就核问题进行会谈。（此处指第一轮谈判）",
           "url": "https://flash.jin10.com/detail/20260423013447540800",
           "source": "金十数据",
@@ -598,6 +668,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：关于伊朗以加密货币收取霍尔木兹海峡通行费的报道不准确。",
+          "url": "https://flash.jin10.com/detail/20260423224604871800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "白宫新闻秘书莱维特重申，伊朗的公开表态与私下传达的信息不一致。",
@@ -611,6 +692,39 @@
           "time_info": "04时11分"
         },
         {
+          "title": "“安全不是免费的”！伊朗收到首笔霍尔木兹通行费，美军称拦截两艘伊方超级油轮",
+          "url": "https://wallstreetcn.com/articles/3770704",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "伊朗外长告诉韩国特使：战争后果应由“侵略者”承担",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2370097.html",
+          "source": "联合早报",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "伊朗司法总监称美方不敢靠近霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260423224245146800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "巴基斯坦官员：收到伊朗愿重启面对面谈判的积极信号",
           "url": "https://flash.jin10.com/detail/20260423012512387800",
           "source": "金十数据",
@@ -620,6 +734,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗收到霍尔木兹海峡通行费的硬通货支付。",
+          "url": "https://flash.jin10.com/detail/20260423224238896800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "白宫新闻秘书莱维特：美国知道自己在与伊朗的哪方谈判。",
@@ -653,12 +778,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
+        },
+        {
+          "title": "巴基斯坦外交官：继续谈判需要美国和伊朗作出让步。",
+          "url": "https://flash.jin10.com/detail/20260423223001290800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "热门中概股美股盘前涨跌不一，小鹏集团跌超1%",
@@ -734,6 +870,39 @@
           "time_info": "04时11分"
         },
         {
+          "title": "热门中概股美股盘前普跌，小鹏集团跌超3%",
+          "url": "https://www.36kr.com/newsflashes/3779410634052609",
+          "source": "36氪",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "美股大型科技股盘前多数下跌，特斯拉跌超3%",
+          "url": "https://www.36kr.com/newsflashes/3779408499168263",
+          "source": "36氪",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "美伊局势升温，美股低开，特斯拉跌4%，金银下跌，油价涨超1%",
+          "url": "https://wallstreetcn.com/articles/3770666",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "美股异动丨精神航空母公司Spirit Aviation一度暴涨160%，特朗普政府接近敲定5亿美元救助方案",
           "url": "https://www.gelonghui.com/news/5215635",
           "source": "格隆汇",
@@ -800,6 +969,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
+        },
+        {
+          "title": "中东局势再搅市场 油价站上103美元 美股三大期指走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2353918",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "金十图示：2026年04月22日（周三）美股热门股票行情一览（美股收盘）",
