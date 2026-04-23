@@ -1,874 +1,244 @@
 {
-  "generated_at": "2026-04-23T23:20:52.324968+08:00",
-  "total_titles_processed": 764,
+  "generated_at": "2026-04-24T01:40:52.404982+08:00",
+  "total_titles_processed": 111,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "据伊朗SNN通讯社：伊朗总统佩泽希齐扬、议长卡利巴夫和司法总监埃杰伊以共同主题（围绕强硬派和温和派讨论焦点）发推文回应特朗普，给了他一记联合“耳光”。",
+          "url": "https://flash.jin10.com/detail/20260424013427646800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
         {
           "title": "特朗普称最快周五或重启美伊和谈，伊朗称他“又说谎”，以媒称停火期26日结束",
           "url": "https://wallstreetcn.com/articles/3770634",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            5,
-            4,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[04时11分 ~ 23时20分]"
-        },
-        {
-          "title": "据称特朗普将再给伊朗3至5天停火时间",
-          "url": "https://www.cls.cn/detail/2352682",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 07时56分]"
+          "appearance_count": 1,
+          "time_info": "01时40分"
         },
         {
           "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
           "url": "https://wallstreetcn.com/articles/3770662",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时12分 ~ 23时20分]"
-        },
-        {
-          "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
-          "url": "https://wallstreetcn.com/articles/3770539",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 04时11分]"
-        },
-        {
-          "title": "特朗普扬言封锁原油输出 让伊朗财政崩溃",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2270021.html",
-          "source": "联合早报",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 07时56分]"
-        },
-        {
-          "title": "美伊局势追踪：特朗普放出“和谈时间表”又被拒 伊朗方面态度强硬",
-          "url": "https://www.cls.cn/detail/2352936",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时39分 ~ 16时59分]"
-        },
-        {
-          "title": "孙宇晨起诉与特朗普有关加密货币公司 指控其敲诈勒索",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2270014.html",
-          "source": "联合早报",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 07时56分]"
-        },
-        {
-          "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，从未被要求作出降息承诺",
-          "url": "https://wallstreetcn.com/articles/3770525",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
-        },
-        {
-          "title": "美参院再次否决限特朗普战争权力议案",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2370079.html",
-          "source": "联合早报",
-          "ranks": [
-            1,
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时58分 ~ 23时20分]"
-        },
-        {
-          "title": "消息：特朗普已制定名单 拟惩罚“不听话”北约盟友",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2370078.html",
-          "source": "联合早报",
-          "ranks": [
-            2,
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时58分 ~ 23时20分]"
-        },
-        {
-          "title": "60天期限将至 特朗普面临结束伊朗战争压力",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2370075.html",
-          "source": "联合早报",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时58分 ~ 20时04分]"
-        },
-        {
-          "title": "美国总统特朗普：参议院共和党领袖图恩和参议员格雷厄姆已迈出关键第一步，推动通过另一项“和解法案”，该法案旨在为我们的伟大边境巡逻队和移民及海关执法局人员提供资金。",
-          "url": "https://flash.jin10.com/detail/20260423014423775800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "伊朗与特朗普“谈不拢”的最大障碍：信任",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2370060.html",
-          "source": "联合早报",
-          "ranks": [
-            8,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时12分 ~ 20时04分]"
-        },
-        {
-          "title": "美国总统特朗普：共和党必须团结一致，推动和解法案的通过。",
-          "url": "https://flash.jin10.com/detail/20260423014314020800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "特朗普、白宫均否认就停火延长设最后期限",
-          "url": "https://flash.jin10.com/detail/20260423052013555800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "波音CEO：特朗普政府是中国大订单成败关键",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2370051.html",
-          "source": "联合早报",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 14时13分]"
-        },
-        {
-          "title": "特朗普称不延长停火，威胁恢复轰炸伊朗，消息称伊不会参加22日谈判，万斯推迟赴会",
-          "url": "https://wallstreetcn.com/articles/3770527",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 04时11分]"
-        },
-        {
-          "title": "特朗普时代备受关注的内幕交易质疑 以及几个关键时刻",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2370056.html",
-          "source": "联合早报",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时12分 ~ 16时59分]"
-        },
-        {
-          "title": "美贸易代表盼特朗普与中国达成更广泛农产品采购协议",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2370048.html",
-          "source": "联合早报",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 14时13分]"
-        },
-        {
-          "title": "杨军：特朗普为什么要退出北约？——兼与于大勇先生商榷",
-          "url": "https://www.zaochenbao.com/news/opinion/202604/2370034.html",
-          "source": "联合早报",
-          "ranks": [
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 14时13分]"
-        },
-        {
-          "title": "美国总统特朗普：昨晚在弗吉尼亚州发生了一场被操纵的选举！一整天共和党人都处于领先，势头令人难以置信，直到最后关头，果不其然，出现了大规模的“邮寄选票投递”！",
-          "url": "https://flash.jin10.com/detail/20260423013625710800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "白宫：特朗普尚未设定与伊朗停火的最后期限",
-          "url": "https://flash.jin10.com/detail/20260423033707983800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时11分"
-        },
-        {
-          "title": "白宫：特朗普认为伊朗扣押船只并不违反停火",
-          "url": "https://flash.jin10.com/detail/20260423033515495800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时11分"
-        },
-        {
-          "title": "特朗普下令击沉任何在霍尔木兹海峡布设水雷的船只，伊朗：已制定反击目标清单",
-          "url": "https://wallstreetcn.com/articles/3770720",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
+          "time_info": "01时40分"
         },
         {
           "title": "特朗普：已下令美海军击沉任何在霍尔木兹海峡布雷的船只",
           "url": "https://www.cls.cn/detail/2354007",
           "source": "财联社热门",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "白宫新闻秘书莱维特：特朗普将决定停火期限的时间表。",
-          "url": "https://flash.jin10.com/detail/20260423032914409800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时11分"
-        },
-        {
-          "title": "特朗普深夜连续转发帖文 涉及伊朗和国内选举",
-          "url": "https://flash.jin10.com/detail/20260423111114278800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "白宫新闻秘书莱维特：美国总统特朗普对封锁表示满意。",
-          "url": "https://flash.jin10.com/detail/20260423032849561800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时11分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-23）",
-          "url": "https://flash.jin10.com/detail/20260423182110966800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
-          "title": "特朗普：何时结束伊朗战争目前没有时间表",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2370042.html",
-          "source": "联合早报",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "白宫新闻秘书莱维特：（关于伊朗停火延长）特朗普希望各方采取统一回应。他尚未设定最后期限。",
-          "url": "https://flash.jin10.com/detail/20260423032712632800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时11分"
-        },
-        {
-          "title": "否认设限、否认三天窗口期，特朗普与白宫均称：停火延长无硬性最后期限",
-          "url": "https://flash.jin10.com/detail/20260423065238414800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "搬石砸脚！特朗普强推选区重划，共和党反倒丢掉国会优势",
-          "url": "https://flash.jin10.com/detail/20260423223531667800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "白宫新闻秘书莱维特：特朗普因停火延长而拥有灵活性。",
-          "url": "https://flash.jin10.com/detail/20260423032018250800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时11分"
-        },
-        {
-          "title": "白宫新闻秘书莱维特：特朗普掌握着所有的筹码。牌在特朗普手中，美国保持控制。",
-          "url": "https://flash.jin10.com/detail/20260423032001718800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时11分"
-        },
-        {
-          "title": "据耶路撒冷邮报：以色列官员已接到美方官员通报，特朗普政府已将停火谈判的最后期限延长至周日。",
-          "url": "https://flash.jin10.com/detail/20260423011502024800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "加拿大总理卡尼：加拿大从未听说特朗普提到过让加拿大支付“入场费”以启动《美墨加协定》（USMCA）评估的概念。",
-          "url": "https://flash.jin10.com/detail/20260423222627235800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 31,
-      "titles": [
-        {
-          "title": "拒绝谈判后，伊朗：收到“一些信号”暗示美国准备解除封锁",
-          "url": "https://wallstreetcn.com/articles/3770583",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 14时13分]"
-        },
-        {
-          "title": "英海上贸易行动办公室：阿曼附近集装箱船遭伊朗袭击",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2269992.html",
-          "source": "联合早报",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 07时56分]"
-        },
-        {
-          "title": "据伊朗学生通讯社：伊朗议会国家安全委员会成员表示，霍尔木兹海峡管理方案的关键条款包括以伊朗货币里亚尔收取过境费用。",
-          "url": "https://flash.jin10.com/detail/20260422235505059800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
-        },
-        {
-          "title": "英国官员称中国伊朗是在英重大网攻幕后黑手",
-          "url": "https://www.zaochenbao.com/news/china/202604/2370065.html",
-          "source": "联合早报",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时12分 ~ 16时59分]"
-        },
-        {
-          "title": "美国务院促在伊朗美国公民立即离境",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2370076.html",
-          "source": "联合早报",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时58分 ~ 20时04分]"
-        },
-        {
-          "title": "伊朗资深议员：德黑兰永不放弃对霍尔木兹海峡的控制权",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2370059.html",
-          "source": "联合早报",
-          "ranks": [
-            9,
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时12分 ~ 20时04分]"
-        },
-        {
-          "title": "美以伊冲突已致伊朗149处历史遗迹和博物馆受损",
-          "url": "https://flash.jin10.com/detail/20260423225120484800",
-          "source": "金十数据",
-          "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时20分"
+          "time_info": "01时40分"
         },
         {
-          "title": "伊朗议长称美公然违反停火协议 不可能重新开放霍尔木兹海峡",
-          "url": "https://flash.jin10.com/detail/20260423013726386800",
+          "title": "据Axios记者：根据一位美国高级官员的说法，特朗普总统将参加今晚在白宫举行的以色列与黎巴嫩大使会晤的部分环节。",
+          "url": "https://flash.jin10.com/detail/20260424012505533800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时06分"
+          "time_info": "01时40分"
         },
         {
-          "title": "航运和安全消息人士：美国军方在亚洲水域拦截至少三艘伊朗油轮。美国军方正在重新引导伊朗油轮。",
-          "url": "https://flash.jin10.com/detail/20260423043724342800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "面临内外双重压力，伊朗就和谈发出矛盾信号",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2370057.html",
-          "source": "联合早报",
-          "ranks": [
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时12分 ~ 16时59分]"
-        },
-        {
-          "title": "美国务院要求美在伊朗公民立即离境",
-          "url": "https://www.cls.cn/detail/2353107",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时58分 ~ 18时43分]"
-        },
-        {
-          "title": "家乐福首席财务官：在伊朗战争开始后，我们没有看到消费者行为发生显著变化我们预计今年法国食品通胀仅会略有上升。",
-          "url": "https://flash.jin10.com/detail/20260422234844378800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
-        },
-        {
-          "title": "还有15天！伊朗石油业将被迫减产，随后全面停产",
-          "url": "https://wallstreetcn.com/articles/3770582",
+          "title": "特朗普下令击沉任何在霍尔木兹布雷船，伊朗据称制定反击方案、议长辞去谈判团队职务",
+          "url": "https://wallstreetcn.com/articles/3770720",
           "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时59分 ~ 07时56分]"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗方面赞赏巴基斯坦为结束战争所做的努力。",
-          "url": "https://flash.jin10.com/detail/20260422233217976800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
-        },
-        {
-          "title": "伊朗对巴方有关延长停火的请求作出回应",
-          "url": "https://flash.jin10.com/detail/20260422233140360800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
-        },
-        {
-          "title": "伊朗：已收到首笔霍尔木兹通行费",
-          "url": "https://flash.jin10.com/detail/20260423162023541800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时58分 ~ 16时59分]"
-        },
-        {
-          "title": "市场消息：内塔尼亚胡今日就伊朗及黎巴嫩问题举行安全磋商。",
-          "url": "https://flash.jin10.com/detail/20260423133322968800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时12分 ~ 14时13分]"
-        },
-        {
-          "title": "白宫国家经济委员会主任哈塞特：在战争前，美国收到威胁称伊朗拥有11枚核弹。",
-          "url": "https://flash.jin10.com/detail/20260423043551539800",
-          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时58分"
+          "time_info": "01时40分"
+        },
+        {
+          "title": "据以色列第12频道援引美国官员的话称，特朗普并不急于重启战争，但可能别无选择。",
+          "url": "https://flash.jin10.com/detail/20260424011813220800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "据阿拉伯卫星电视台：特朗普将出席在华盛顿举行的黎巴嫩与以色列大使之间的会晤。",
+          "url": "https://flash.jin10.com/detail/20260424010114827800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "内幕交易疑云再起？特朗普宣布延长停火前 神秘资金精准做空原油",
+          "url": "https://www.cls.cn/detail/2353470",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "美参院再次否决限特朗普战争权力议案",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2370079.html",
+          "source": "联合早报",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "消息：特朗普已制定名单 拟惩罚“不听话”北约盟友",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2370078.html",
+          "source": "联合早报",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "伊朗德黑兰防空系统启动",
+          "url": "https://flash.jin10.com/detail/20260424013532227800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "据伊朗努尔新闻(Nour News)：德黑兰部分地区已启动防空系统，原因不明。",
+          "url": "https://flash.jin10.com/detail/20260424013253448800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
         },
         {
           "title": "伊朗副议长：收到首笔霍尔木兹海峡通行费",
           "url": "https://www.zaochenbao.com/news/politics/202604/2370100.html",
           "source": "联合早报",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗谈判团队未曾在伊斯兰堡就核问题进行会谈。（此处指第一轮谈判）",
-          "url": "https://flash.jin10.com/detail/20260423013447540800",
-          "source": "金十数据",
-          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时06分"
+          "time_info": "01时40分"
         },
         {
-          "title": "据伊朗媒体Fars News：关于伊朗以加密货币收取霍尔木兹海峡通行费的报道不准确。",
-          "url": "https://flash.jin10.com/detail/20260423224604871800",
+          "title": "以媒：卡利巴夫辞去伊朗谈判团队职务",
+          "url": "https://flash.jin10.com/detail/20260424010650488800",
           "source": "金十数据",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "白宫新闻秘书莱维特重申，伊朗的公开表态与私下传达的信息不一致。",
-          "url": "https://flash.jin10.com/detail/20260423033033048800",
-          "source": "金十数据",
-          "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时11分"
+          "time_info": "01时40分"
         },
         {
           "title": "“安全不是免费的”！伊朗收到首笔霍尔木兹通行费，美军称拦截两艘伊方超级油轮",
           "url": "https://wallstreetcn.com/articles/3770704",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时20分"
+          "time_info": "01时40分"
+        },
+        {
+          "title": "安全领域消息人士称，位于伊拉克埃尔比勒以西的伊朗库尔德反对派营地遭无人机袭击。",
+          "url": "https://flash.jin10.com/detail/20260424005808934800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
         },
         {
           "title": "伊朗外长告诉韩国特使：战争后果应由“侵略者”承担",
           "url": "https://www.zaochenbao.com/news/politics/202604/2370097.html",
           "source": "联合早报",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "伊朗司法总监称美方不敢靠近霍尔木兹海峡",
-          "url": "https://flash.jin10.com/detail/20260423224245146800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "巴基斯坦官员：收到伊朗愿重启面对面谈判的积极信号",
-          "url": "https://flash.jin10.com/detail/20260423012512387800",
-          "source": "金十数据",
-          "ranks": [
-            13
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时06分"
+          "time_info": "01时40分"
         },
         {
-          "title": "据伊朗媒体Fars News：伊朗收到霍尔木兹海峡通行费的硬通货支付。",
-          "url": "https://flash.jin10.com/detail/20260423224238896800",
+          "title": "伊朗央行：首笔霍尔木兹海峡通行费以“现金外汇”形式入账",
+          "url": "https://flash.jin10.com/detail/20260424004922065800",
           "source": "金十数据",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "白宫新闻秘书莱维特：美国知道自己在与伊朗的哪方谈判。",
-          "url": "https://flash.jin10.com/detail/20260423032837135800",
-          "source": "金十数据",
-          "ranks": [
-            14
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时11分"
+          "time_info": "01时40分"
         },
         {
-          "title": "挪威主权财富基金副首席执行官：伊朗战争绝对不是进行逆周期操作的机会。不会因伊朗战争对投资组合进行重大调整，包括其主动管理部分。",
-          "url": "https://flash.jin10.com/detail/20260423181955489800",
+          "title": "伊朗外交部发言人：我们尚未决定是否参加与华盛顿的新一轮谈判。",
+          "url": "https://flash.jin10.com/detail/20260424004119190800",
           "source": "金十数据",
           "ranks": [
-            17
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
-          "title": "据福克斯新闻：白宫表示，伊朗必须将浓缩铀交给美国。",
-          "url": "https://flash.jin10.com/detail/20260423031631996800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时11分"
-        },
-        {
-          "title": "巴基斯坦外交官：继续谈判需要美国和伊朗作出让步。",
-          "url": "https://flash.jin10.com/detail/20260423223001290800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
+          "time_info": "01时40分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "热门中概股美股盘前涨跌不一，小鹏集团跌超1%",
-          "url": "https://www.36kr.com/newsflashes/3777986245612806",
-          "source": "36氪",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 06时59分]"
-        },
-        {
-          "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3770463",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 05时58分]"
-        },
-        {
-          "title": "美股收盘：纳指涨1.64%创历史新高 中东停火延长及稳健财报提振市场情绪",
-          "url": "https://www.cls.cn/detail/2352859",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时58分 ~ 14时13分]"
-        },
-        {
-          "title": "地缘缓和叠加强劲财报，美股指高开，费城半导体指数连续第16天上涨，布油重回100美元、黄金涨幅回落",
-          "url": "https://wallstreetcn.com/articles/3770587",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 04时11分]"
-        },
-        {
-          "title": "特朗普延长对伊朗停火 美股三大期指小幅上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2352533",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 07时56分]"
-        },
-        {
-          "title": "美股尾盘走高，标普500指数涨幅扩大至1%。",
-          "url": "https://flash.jin10.com/detail/20260423035203410800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时11分"
-        },
         {
           "title": "热门中概股美股盘前普跌，小鹏集团跌超3%",
           "url": "https://www.36kr.com/newsflashes/3779410634052609",
@@ -876,9 +246,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时20分"
+          "time_info": "01时40分"
         },
         {
           "title": "美股大型科技股盘前多数下跌，特斯拉跌超3%",
@@ -887,9 +257,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时20分"
+          "time_info": "01时40分"
+        },
+        {
+          "title": "美股异动丨新纪元能源涨约6.7%，Q1调整后每股收益超预期",
+          "url": "https://www.gelonghui.com/news/5217038",
+          "source": "格隆汇",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
         },
         {
           "title": "美伊局势升温，美股低开，特斯拉跌4%，金银下跌，油价涨超1%",
@@ -898,260 +279,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "美股异动丨精神航空母公司Spirit Aviation一度暴涨160%，特朗普政府接近敲定5亿美元救助方案",
-          "url": "https://www.gelonghui.com/news/5215635",
-          "source": "格隆汇",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 05时58分]"
-        },
-        {
-          "title": "美股三大指数集体收涨 热门科技股普涨",
-          "url": "https://www.gelonghui.com/news/5215850",
-          "source": "格隆汇",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时59分 ~ 07时56分]"
-        },
-        {
-          "title": "美股异动丨业绩亮眼，德州仪器盘前大涨近11%，开盘势创新高",
-          "url": "https://www.gelonghui.com/news/5216109",
-          "source": "格隆汇",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时58分 ~ 16时59分]"
-        },
-        {
-          "title": "大行评级丨里昂：上调新东方美股目标价至76.9美元，维持“跑赢大市”评级",
-          "url": "https://www.gelonghui.com/news/5215923",
-          "source": "格隆汇",
-          "ranks": [
-            6
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "IBM(IBM.N)美股盘后跌8%。",
-          "url": "https://flash.jin10.com/detail/20260423042334674800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)美股盘后涨幅被抹平，此前一度涨超4.5%。",
-          "url": "https://flash.jin10.com/detail/20260423060230487800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时59分"
+          "time_info": "01时40分"
         },
         {
           "title": "中东局势再搅市场 油价站上103美元 美股三大期指走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2353918",
           "source": "财联社热门",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "金十图示：2026年04月22日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260423040547974800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "金十图示：2026年04月22日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260423040529258800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)美股盘后涨3%。",
-          "url": "https://flash.jin10.com/detail/20260423040428719800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美股大型科技股盘前普涨，谷歌涨超1%",
-          "url": "https://www.36kr.com/newsflashes/3777984613946369",
-          "source": "36氪",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 06时59分]"
-        },
-        {
-          "title": "谷歌云AI使用量达到每分钟160亿Tokens",
-          "url": "https://www.36kr.com/newsflashes/3777977546101766",
-          "source": "36氪",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 06时59分]"
-        },
-        {
-          "title": "谷歌云年度Next大会：TPU打破“内存墙” OCS、液冷题材如期亮相",
-          "url": "https://www.cls.cn/detail/2352843",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时56分 ~ 14时13分]"
-        },
-        {
-          "title": "谷歌云发布用于人工智能的新型TPU芯片",
-          "url": "https://www.36kr.com/newsflashes/3777953384748033",
-          "source": "36氪",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 06时59分]"
-        },
-        {
-          "title": "谷歌云推出7.5亿美元基金，助力合作伙伴加速智能体人工智能开发",
-          "url": "https://www.36kr.com/newsflashes/3777953050416385",
-          "source": "36氪",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 06时59分]"
-        },
-        {
-          "title": "甲骨文扩大与谷歌云的合作关系",
-          "url": "https://www.36kr.com/newsflashes/3777946395170051",
-          "source": "36氪",
-          "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 06时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "阿里等巨头洽谈投资DeepSeek",
-          "url": "https://www.36kr.com/newsflashes/3777903768146945",
-          "source": "36氪",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 06时59分]"
-        },
-        {
-          "title": "美媒：腾讯阿里洽谈投资DeepSeek估值逾200亿美元",
-          "url": "https://www.zaochenbao.com/news/china/202604/2370050.html",
-          "source": "联合早报",
-          "ranks": [
-            6,
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时39分 ~ 16时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "罗宾汉创投或向OpenAI投资7500万美元",
-          "url": "https://www.36kr.com/newsflashes/3777936482456585",
-          "source": "36氪",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 06时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【早报】 白宫：特朗普未就与伊朗停火延长设最后期限；美股、油价、金价同步上涨",
-          "url": "https://www.cls.cn/detail/2352894",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时56分 ~ 14时13分]"
+          "appearance_count": 1,
+          "time_info": "01时40分"
         }
       ]
     },
@@ -1160,15 +301,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美元指数22日上涨",
-          "url": "https://flash.jin10.com/detail/20260423032431456800",
+          "title": "美元指数DXY15分钟内拉升近20点，最新报98.82；美、布两油短线走高1.8美元，现货黄金下挫近30美元。",
+          "url": "https://flash.jin10.com/detail/20260424011316449800",
           "source": "金十数据",
           "ranks": [
-            18
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时11分"
+          "time_info": "01时40分"
         }
       ]
     }
