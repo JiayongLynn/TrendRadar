@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T21:58:04.902547+08:00",
-  "total_titles_processed": 726,
+  "generated_at": "2026-04-24T23:18:10.956511+08:00",
+  "total_titles_processed": 778,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 75,
+      "match_count": 76,
       "titles": [
         {
           "title": "特朗普下令击沉任何霍尔木兹布雷船，伊朗据称启动德黑兰防空系统拦截“敌对目标”、以否认空袭",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[05时01分 ~ 21时58分]"
+          "appearance_count": 12,
+          "time_info": "[05时01分 ~ 23时18分]"
         },
         {
           "title": "特朗普：已下令美海军击沉任何在霍尔木兹海峡布雷的船只",
@@ -45,6 +45,18 @@
           "time_info": "[01时40分 ~ 07时58分]"
         },
         {
+          "title": "特朗普重申对伊朗“已大赢特赢”，黎以停火将延长三周，以媒称“伊朗议长已从谈判小组辞职”，伊朗否认内部分裂",
+          "url": "https://wallstreetcn.com/articles/3770760",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时06分 ~ 23时18分]"
+        },
+        {
           "title": "【早报】伊朗：谈判重心已转为彻底停战；特朗普称“不想仓促行事”",
           "url": "https://www.cls.cn/detail/2354199",
           "source": "财联社热门",
@@ -55,18 +67,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时58分 ~ 14时17分]"
-        },
-        {
-          "title": "特朗普重申对伊朗“已大赢特赢”，黎以停火将延长三周，以媒称“伊朗议长已从谈判小组辞职”，伊朗否认内部分裂",
-          "url": "https://wallstreetcn.com/articles/3770760",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时06分 ~ 21时58分]"
         },
         {
           "title": "“疯王”特朗普、“疯狂的战争”与“癫狂的市场”",
@@ -90,8 +90,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 21时58分]"
+          "appearance_count": 3,
+          "time_info": "[21时57分 ~ 23时18分]"
+        },
+        {
+          "title": "评论：反特朗普主义团结了欧洲",
+          "url": "https://www.zaochenbao.com/news/opinion/202604/2470138.html",
+          "source": "联合早报",
+          "ranks": [
+            7,
+            19,
+            25,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时17分 ~ 23时18分]"
         },
         {
           "title": "美参院再次否决限特朗普战争权力议案",
@@ -171,6 +186,17 @@
           "time_info": "03时25分"
         },
         {
+          "title": "美伊霍尔木兹相互锁喉中国“意外”受到关注，特朗普访华会再度延期吗？",
+          "url": "https://www.zaochenbao.com/news/china/202604/2470187.html",
+          "source": "联合早报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "据Axios记者：根据一位美国高级官员的说法，特朗普总统将参加今晚在白宫举行的以色列与黎巴嫩大使会晤的部分环节。",
           "url": "https://flash.jin10.com/detail/20260424012505533800",
           "source": "金十数据",
@@ -193,6 +219,19 @@
           "time_info": "07时58分"
         },
         {
+          "title": "特朗普再强调对伊朗“已大赢特赢”：有时间、没压力、不着急",
+          "url": "https://www.cls.cn/detail/2354699",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时06分 ~ 23时18分]"
+        },
+        {
           "title": "中美元首峰会前 特朗普盟友戴恩斯下周率团访华",
           "url": "https://www.zaochenbao.com/news/politics/202604/2470134.html",
           "source": "联合早报",
@@ -203,20 +242,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时42分 ~ 14时17分]"
-        },
-        {
-          "title": "评论：反特朗普主义团结了欧洲",
-          "url": "https://www.zaochenbao.com/news/opinion/202604/2470138.html",
-          "source": "联合早报",
-          "ranks": [
-            7,
-            19,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时17分 ~ 21时58分]"
         },
         {
           "title": "内幕交易疑云再起？特朗普宣布延长停火前 神秘资金精准做空原油",
@@ -291,19 +316,6 @@
           "time_info": "[05时58分 ~ 07时00分]"
         },
         {
-          "title": "特朗普再强调对伊朗“已大赢特赢”：有时间、没压力、不着急",
-          "url": "https://www.cls.cn/detail/2354699",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时06分 ~ 21时58分]"
-        },
-        {
           "title": "特朗普称黎以停火将延长三周，以媒称“伊朗议长已从谈判小组辞职”，伊朗否认分裂，称 “谈判重心已从核问题转为彻底停战”",
           "url": "https://wallstreetcn.com/articles/3770760",
           "source": "华尔街见闻",
@@ -338,6 +350,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时42分 ~ 14时17分]"
+        },
+        {
+          "title": "亿万富豪孙宇晨指控特朗普家族旗下加密货币公司涉“勒索”",
+          "url": "https://www.zaochenbao.com/news/Chronicles/202604/2470176.html",
+          "source": "联合早报",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时57分 ~ 23时18分]"
         },
         {
           "title": "中东局势剑拔弩张！特朗普又“变脸”：美国人“短时间内”需忍受高油价",
@@ -385,17 +409,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时58分 ~ 07时00分]"
-        },
-        {
-          "title": "亿万富豪孙宇晨指控特朗普家族旗下加密货币公司涉“勒索”",
-          "url": "https://www.zaochenbao.com/news/Chronicles/202604/2470176.html",
-          "source": "联合早报",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 21时58分]"
         },
         {
           "title": "美国总统特朗普：如果英国不取消数字服务税，将对其征收关税。",
@@ -864,7 +877,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 50,
+      "match_count": 58,
       "titles": [
         {
           "title": "“安全不是免费的”！伊朗收到首笔霍尔木兹通行费，美军称拦截两艘伊方超级油轮",
@@ -880,17 +893,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时40分 ~ 17时06分]"
-        },
-        {
-          "title": "伊朗战事冲击亚洲聚酯供应链 或推高全球快时尚成本",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2470184.html",
-          "source": "联合早报",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 21时58分]"
         },
         {
           "title": "伊朗副议长：收到首笔霍尔木兹海峡通行费",
@@ -961,6 +963,18 @@
           "time_info": "[11时42分 ~ 14时17分]"
         },
         {
+          "title": "伊朗战事冲击亚洲聚酯供应链 或推高全球快时尚成本",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2470184.html",
+          "source": "联合早报",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时57分 ~ 23时18分]"
+        },
+        {
           "title": "据伊朗努尔新闻(Nour News)：德黑兰部分地区已启动防空系统，原因不明。",
           "url": "https://flash.jin10.com/detail/20260424013253448800",
           "source": "金十数据",
@@ -972,6 +986,17 @@
           "time_info": "01时40分"
         },
         {
+          "title": "数千枚导弹、数百亿美元：伊朗战争消耗美国关键武器储备",
+          "url": "https://www.zaochenbao.com/news/Chronicles/202604/2470188.html",
+          "source": "联合早报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "伊朗战争导致化肥价格飙升，雅苒公司利润上涨",
           "url": "https://flash.jin10.com/detail/20260424164451475800",
           "source": "金十数据",
@@ -981,6 +1006,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
+        },
+        {
+          "title": "伊朗遭“数字斩首”：对方导弹落地前，境内大量美国牌路由器死机，网络瘫痪使雷达失联，指挥链路中断，部队瞬间“失明”",
+          "url": "https://wallstreetcn.com/articles/3770741",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时06分 ~ 23时18分]"
         },
         {
           "title": "以防长：等待美国开绿灯 以便将伊朗“打回石器时代”",
@@ -995,6 +1032,17 @@
           "time_info": "[11时42分 ~ 14时17分]"
         },
         {
+          "title": "美军制定与伊朗重新开战新方案，以色列拟“重启战争”，伊朗称将“对等回应”",
+          "url": "https://wallstreetcn.com/articles/3770808",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时14分 ~ 23时18分]"
+        },
+        {
           "title": "报道称伊朗扣押两艘货船，美伊和谈不确定性加剧",
           "url": "https://www.zaochenbao.com/news/politics/202604/2470143.html",
           "source": "联合早报",
@@ -1005,17 +1053,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时17分 ~ 17时06分]"
-        },
-        {
-          "title": "伊朗遭“数字斩首”：对方导弹落地前，境内大量美国牌路由器死机，网络瘫痪使雷达失联，指挥链路中断，部队瞬间“失明”",
-          "url": "https://wallstreetcn.com/articles/3770741",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时06分 ~ 21时58分]"
         },
         {
           "title": "以媒：以空军两名技术人员涉嫌“为伊朗从事间谍活动”",
@@ -1042,17 +1079,6 @@
           "time_info": "[17时06分 ~ 19时14分]"
         },
         {
-          "title": "美军制定与伊朗重新开战新方案，以色列拟“重启战争”，伊朗称将“对等回应”",
-          "url": "https://wallstreetcn.com/articles/3770808",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时14分 ~ 21时58分]"
-        },
-        {
           "title": "伊朗最高领袖警告敌人发动媒体宣传 试图破坏伊朗团结",
           "url": "https://www.zaochenbao.com/news/politics/202604/2470131.html",
           "source": "联合早报",
@@ -1063,6 +1089,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时42分 ~ 14时17分]"
+        },
+        {
+          "title": "战争阴影下的就业、通胀和消费 伊朗各行业大规模裁员",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2470177.html",
+          "source": "联合早报",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时57分 ~ 23时18分]"
         },
         {
           "title": "从一人决策到集体领导：揭秘伊朗新政权权力结构",
@@ -1110,17 +1148,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时06分 ~ 19时14分]"
-        },
-        {
-          "title": "战争阴影下的就业、通胀和消费 伊朗各行业大规模裁员",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2470177.html",
-          "source": "联合早报",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 21时58分]"
         },
         {
           "title": "伊朗消息人士：外长访问伊斯兰堡期间不会举行美伊谈判",
@@ -1255,6 +1282,17 @@
           "time_info": "01时40分"
         },
         {
+          "title": "美防长：美对伊朗港口封锁将“视需要”持续下去",
+          "url": "https://flash.jin10.com/detail/20260424225542509800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "安全领域消息人士称，位于伊拉克埃尔比勒以西的伊朗库尔德反对派营地遭无人机袭击。",
           "url": "https://flash.jin10.com/detail/20260424005808934800",
           "source": "金十数据",
@@ -1354,6 +1392,17 @@
           "time_info": "14时17分"
         },
         {
+          "title": "伊朗外长出访三国磋商地区局势",
+          "url": "https://flash.jin10.com/detail/20260424224128173800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "伊朗军队总司令：军队在最高领袖领导下保持“一致行动”",
           "url": "https://flash.jin10.com/detail/20260424183648741800",
           "source": "金十数据",
@@ -1363,6 +1412,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：正启程访问伊斯兰堡、马斯喀特和莫斯科。",
+          "url": "https://flash.jin10.com/detail/20260424223918028800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "伊朗外交部发言人：我们尚未决定是否参加与华盛顿的新一轮谈判。",
@@ -1409,6 +1469,28 @@
           "time_info": "05时58分"
         },
         {
+          "title": "伊朗外长阿拉格齐：我们的邻国是我们的优先事项。",
+          "url": "https://flash.jin10.com/detail/20260424223804357800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：此次出访旨在就区域发展进行磋商。",
+          "url": "https://flash.jin10.com/detail/20260424223659672800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "伊朗将恢复德黑兰至北京的客运航班",
           "url": "https://flash.jin10.com/detail/20260424183326369800",
           "source": "金十数据",
@@ -1420,6 +1502,17 @@
           "time_info": "19时14分"
         },
         {
+          "title": "伊朗外长阿拉格齐：此行旨在协调双边事宜。",
+          "url": "https://flash.jin10.com/detail/20260424223627324800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "据CNN：美军正制定计划，若停火破裂，将打击伊朗在霍尔木兹海峡的防御系统。",
           "url": "https://flash.jin10.com/detail/20260424050043767800",
           "source": "金十数据",
@@ -1429,12 +1522,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：此次出行的目的是与合作伙伴协调。",
+          "url": "https://flash.jin10.com/detail/20260424223556149800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
@@ -1446,8 +1550,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时42分 ~ 21时58分]"
+          "appearance_count": 8,
+          "time_info": "[11时42分 ~ 23时18分]"
         },
         {
           "title": "热门中概股美股盘前普跌，小鹏集团跌超3%",
@@ -1496,17 +1600,6 @@
           "time_info": "[01时40分 ~ 05时58分]"
         },
         {
-          "title": "美伊局势升温，美股低开，特斯拉跌4%，金银下跌，油价涨超1%",
-          "url": "https://wallstreetcn.com/articles/3770666",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时40分 ~ 05时01分]"
-        },
-        {
           "title": "热门中概股美股盘前多数上涨，理想汽车跌近4%",
           "url": "https://www.36kr.com/newsflashes/3780829195590658",
           "source": "36氪",
@@ -1514,8 +1607,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 21时58分]"
+          "appearance_count": 3,
+          "time_info": "[21时57分 ~ 23时18分]"
         },
         {
           "title": "美股大型科技股盘前普涨，英特尔涨超25%",
@@ -1525,8 +1618,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 21时58分]"
+          "appearance_count": 3,
+          "time_info": "[21时57分 ~ 23时18分]"
+        },
+        {
+          "title": "美伊局势升温，美股低开，特斯拉跌4%，金银下跌，油价涨超1%",
+          "url": "https://wallstreetcn.com/articles/3770666",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 05时01分]"
         },
         {
           "title": "金十图示：2026年04月24日（周五）美股热门股票行情一览",
@@ -1641,6 +1745,28 @@
           "time_info": "[21时57分 ~ 21时58分]"
         },
         {
+          "title": "美伊谈判叠加强劲财报，美股高开，英特尔涨26%股价创新高，布油重回105美元，金银转涨",
+          "url": "https://wallstreetcn.com/articles/3770804",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "美股三大股指走势分化，纳指涨超1%，标普500指数涨0.4%，道指跌0.3%。",
+          "url": "https://flash.jin10.com/detail/20260424225755350800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "美股异动丨SAP盘前涨近7% Q1各项核心指标均超预期 维持全年强劲指引",
           "url": "https://www.gelonghui.com/news/5217721",
           "source": "格隆汇",
@@ -1688,7 +1814,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "DeepSeek V4预览版发布：显存和算力需求大降，Agent能力领跑国内开源，体验超越Sonnet 4.5",
@@ -1699,8 +1825,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时17分 ~ 21时58分]"
+          "appearance_count": 6,
+          "time_info": "[14时17分 ~ 23时18分]"
         },
         {
           "title": "DeepSeek-V4发布！迈入百万上下文时代 华为昇腾超节点全面支持",
@@ -1725,8 +1851,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时06分 ~ 21时58分]"
+          "appearance_count": 5,
+          "time_info": "[17时06分 ~ 23时18分]"
         },
         {
           "title": "港股异动丨MINIMAX跳水跌近5%，DeepSeek-V4预览版本正式上线并开源",
@@ -1749,6 +1875,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "DeepSeek新AI模型适配华为晶片 与美顶尖模型仍有差距",
+          "url": "https://www.zaochenbao.com/news/china/202604/2470190.html",
+          "source": "联合早报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "DeepSeek：预计下半年昇腾950超节点批量上市后 V4-Pro模型价格会大幅下调",
@@ -1801,11 +1938,23 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            9
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时14分 ~ 23时18分]"
+        },
+        {
+          "title": "阿里云百炼上线DeepSeek-V4",
+          "url": "https://www.36kr.com/newsflashes/3780771345472515",
+          "source": "36氪",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时14分 ~ 21时58分]"
+          "time_info": "[21时57分 ~ 23时18分]"
         },
         {
           "title": "DeepSeek官网公布DeepSeek-v4接口文档",
@@ -1828,17 +1977,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时42分 ~ 11时43分]"
-        },
-        {
-          "title": "阿里云百炼上线DeepSeek-V4",
-          "url": "https://www.36kr.com/newsflashes/3780771345472515",
-          "source": "36氪",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 21时58分]"
         },
         {
           "title": "Deepseek官网公布deepseek-v4接口文档",
