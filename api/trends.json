@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-24T14:17:42.145499+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-04-24T17:06:27.011703+08:00",
+  "total_titles_processed": 558,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 73,
       "titles": [
+        {
+          "title": "特朗普下令击沉任何霍尔木兹布雷船，伊朗据称启动德黑兰防空系统拦截“敌对目标”、以否认空袭",
+          "url": "https://wallstreetcn.com/articles/3770720",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[05时01分 ~ 17时06分]"
+        },
         {
           "title": "特朗普：已下令美海军击沉任何在霍尔木兹海峡布雷的船只",
           "url": "https://www.cls.cn/detail/2354007",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时40分 ~ 11时43分]"
-        },
-        {
-          "title": "特朗普下令击沉任何霍尔木兹布雷船，伊朗据称启动德黑兰防空系统拦截“敌对目标”、以否认空袭",
-          "url": "https://wallstreetcn.com/articles/3770720",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时01分 ~ 14时17分]"
         },
         {
           "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
@@ -69,6 +69,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[05时01分 ~ 14时17分]"
+        },
+        {
+          "title": "特朗普转发将中国和印度称为“鬼地方”贴文",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2470156.html",
+          "source": "联合早报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
         },
         {
           "title": "美参院再次否决限特朗普战争权力议案",
@@ -168,6 +179,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "特朗普重申对伊朗“已大赢特赢”，黎以停火将延长三周，以媒称“伊朗议长已从谈判小组辞职”，伊朗否认内部分裂",
+          "url": "https://wallstreetcn.com/articles/3770760",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
         },
         {
           "title": "中美元首峰会前 特朗普盟友戴恩斯下周率团访华",
@@ -301,6 +323,18 @@
           "time_info": "[05时58分 ~ 07时00分]"
         },
         {
+          "title": "评论：反特朗普主义团结了欧洲",
+          "url": "https://www.zaochenbao.com/news/opinion/202604/2470138.html",
+          "source": "联合早报",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时17分 ~ 17时06分]"
+        },
+        {
           "title": "美国总统特朗普：下次会议将涉及以色列总理内塔尼亚胡和黎巴嫩总理。",
           "url": "https://flash.jin10.com/detail/20260424053211748800",
           "source": "金十数据",
@@ -369,6 +403,17 @@
           "time_info": "01时40分"
         },
         {
+          "title": "特朗普：英国若不取消科技税将面临“高关税”",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2470151.html",
+          "source": "联合早报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
           "title": "据以色列第12频道援引美国官员的话称，特朗普并不急于重启战争，但可能别无选择。",
           "url": "https://flash.jin10.com/detail/20260424011813220800",
           "source": "金十数据",
@@ -378,17 +423,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
-        },
-        {
-          "title": "评论：反特朗普主义团结了欧洲",
-          "url": "https://www.zaochenbao.com/news/opinion/202604/2470138.html",
-          "source": "联合早报",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时17分"
         },
         {
           "title": "特朗普称不急于结束与伊朗战争",
@@ -433,6 +467,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "特朗普再强调对伊朗“已大赢特赢”：有时间、没压力、不着急",
+          "url": "https://www.cls.cn/detail/2354699",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
         },
         {
           "title": "美国总统特朗普：银行们必须公正且妥善对待在洛杉矶野火中失去家园的人们。",
@@ -790,7 +835,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 38,
       "titles": [
         {
           "title": "“安全不是免费的”！伊朗收到首笔霍尔木兹通行费，美军称拦截两艘伊方超级油轮",
@@ -800,11 +845,12 @@
             9,
             8,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时40分 ~ 14时17分]"
+          "appearance_count": 10,
+          "time_info": "[01时40分 ~ 17时06分]"
         },
         {
           "title": "伊朗副议长：收到首笔霍尔木兹海峡通行费",
@@ -863,17 +909,6 @@
           "time_info": "03时25分"
         },
         {
-          "title": "报道称伊朗扣押两艘货船，美伊和谈不确定性加剧",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2470143.html",
-          "source": "联合早报",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时17分"
-        },
-        {
           "title": "消息：伊朗最高领袖“目前”将决策权下放给革命卫队指挥官",
           "url": "https://www.zaochenbao.com/news/politics/202604/2470137.html",
           "source": "联合早报",
@@ -897,6 +932,28 @@
           "time_info": "01时40分"
         },
         {
+          "title": "伊朗战争导致化肥价格飙升，雅苒公司利润上涨",
+          "url": "https://flash.jin10.com/detail/20260424164451475800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "美官员称伊朗本周在霍尔木兹海峡布设更多水雷",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2470152.html",
+          "source": "联合早报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
           "title": "以防长：等待美国开绿灯 以便将伊朗“打回石器时代”",
           "url": "https://www.zaochenbao.com/news/politics/202604/2470133.html",
           "source": "联合早报",
@@ -907,6 +964,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时42分 ~ 14时17分]"
+        },
+        {
+          "title": "报道称伊朗扣押两艘货船，美伊和谈不确定性加剧",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2470143.html",
+          "source": "联合早报",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时17分 ~ 17时06分]"
         },
         {
           "title": "以媒：以空军两名技术人员涉嫌“为伊朗从事间谍活动”",
@@ -1012,6 +1081,28 @@
           "time_info": "05时01分"
         },
         {
+          "title": "伊朗外交部：伊美谈判重心在于终战 而非核问题",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2470150.html",
+          "source": "联合早报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "伊朗遭“数字斩首”：对方导弹落地前，境内大量美国牌路由器死机，网络瘫痪使雷达失联，指挥链路中断，部队瞬间“失明”",
+          "url": "https://wallstreetcn.com/articles/3770741",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
           "title": "以媒：卡利巴夫辞去伊朗谈判团队职务",
           "url": "https://flash.jin10.com/detail/20260424010650488800",
           "source": "金十数据",
@@ -1062,9 +1153,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
+        },
+        {
+          "title": "伊朗外长与伊拉克库区主席通电话 讨论地区局势",
+          "url": "https://flash.jin10.com/detail/20260424163857497800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
         },
         {
           "title": "伊朗授予俄罗斯等“友好”国家霍尔木兹海峡过境费豁免",
@@ -1073,7 +1175,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         },
@@ -1106,7 +1208,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         },
@@ -1168,8 +1270,192 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "港股异动丨MINIMAX跳水跌近5%，DeepSeek-V4预览版本正式上线并开源",
+          "url": "https://www.gelonghui.com/news/5217449",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "DeepSeek V4预览版发布：显存和算力需求大降，Agent能力领跑国内开源，体验超越Sonnet 4.5",
+          "url": "https://wallstreetcn.com/articles/3770782",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时17分 ~ 17时06分]"
+        },
+        {
+          "title": "DeepSeek-V4预览版上线并开源，芯片ETF华夏(159995)涨1%，科创半导体ETF华夏(588170)近14日累计涨13%",
+          "url": "https://www.gelonghui.com/news/5217445",
+          "source": "格隆汇",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "DeepSeek：预计下半年昇腾950超节点批量上市后 V4-Pro模型价格会大幅下调",
+          "url": "https://flash.jin10.com/detail/20260424140246886800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "A股异动丨华为概念午后走强，华为宣布昇腾超节点系列产品全面支持DeepSeekV4",
+          "url": "https://www.gelonghui.com/news/5217484",
+          "source": "格隆汇",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "DeepSeek-V4发布！迈入百万上下文时代 华为昇腾超节点全面支持",
+          "url": "https://www.cls.cn/detail/2354690",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "每日互动DeepSeek-V4私部方案已就绪",
+          "url": "https://www.36kr.com/newsflashes/3780402784998401",
+          "source": "36氪",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "DeepSeek-V4预览版上线 对计算和显存的需求降低 百万字上下文成标配",
+          "url": "https://www.cls.cn/detail/2354495",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时17分 ~ 17时06分]"
+        },
+        {
+          "title": "DeepSeek官网公布DeepSeek-v4接口文档",
+          "url": "https://www.36kr.com/newsflashes/3780240752186627",
+          "source": "36氪",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "DeepSeek V4预览版发布！大幅降低对计算和显存的需求，Agent能力实现国内和开源领先",
+          "url": "https://wallstreetcn.com/articles/3770782",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "Deepseek官网公布deepseek-v4接口文档",
+          "url": "https://flash.jin10.com/detail/20260424105805144800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "DeepSeek-V4虽迟但到！百万上下文成标配 华为昇腾和英伟达均被写进其技术报告",
+          "url": "https://www.cls.cn/detail/2354737",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "科创芯片设计ETF天弘(589070)标的指数午后大涨3%，DeepSeek V4重磅发布且适配国产芯片",
+          "url": "https://www.gelonghui.com/news/5217479",
+          "source": "格隆汇",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "时隔一年多 DeepSeek发布新AI模型V4",
+          "url": "https://www.zaochenbao.com/news/china/202604/2470146.html",
+          "source": "联合早报",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "港股异动丨MINIMAX跳水大跌超12%，DeepSeek预告下半年V4 Pro价格会大幅下调",
+          "url": "https://www.gelonghui.com/news/5217475",
+          "source": "格隆汇",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "DeepSeek V4发布，海光DCU完成Day0适配",
+          "url": "https://www.36kr.com/newsflashes/3780507701072904",
+          "source": "36氪",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "热门中概股美股盘前普跌，小鹏集团跌超3%",
@@ -1207,6 +1493,18 @@
           "time_info": "[01时40分 ~ 07时00分]"
         },
         {
+          "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
+          "url": "https://wallstreetcn.com/articles/3770666",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 17时06分]"
+        },
+        {
           "title": "美股异动丨新纪元能源涨约6.7%，Q1调整后每股收益超预期",
           "url": "https://www.gelonghui.com/news/5217038",
           "source": "格隆汇",
@@ -1216,17 +1514,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时40分 ~ 05时58分]"
-        },
-        {
-          "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
-          "url": "https://wallstreetcn.com/articles/3770666",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 14时17分]"
         },
         {
           "title": "美伊局势升温，美股低开，特斯拉跌4%，金银下跌，油价涨超1%",
@@ -1308,6 +1595,17 @@
           "time_info": "[11时42分 ~ 11时43分]"
         },
         {
+          "title": "美股异动丨SAP盘前涨近7% Q1各项核心指标均超预期 维持全年强劲指引",
+          "url": "https://www.gelonghui.com/news/5217721",
+          "source": "格隆汇",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
           "title": "美股三大指数集体收跌 热门科技股多数下跌",
           "url": "https://www.gelonghui.com/news/5217330",
           "source": "格隆汇",
@@ -1343,144 +1641,6 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "港股异动丨MINIMAX跳水跌近5%，DeepSeek-V4预览版本正式上线并开源",
-          "url": "https://www.gelonghui.com/news/5217449",
-          "source": "格隆汇",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
-        },
-        {
-          "title": "DeepSeek-V4预览版上线并开源，芯片ETF华夏(159995)涨1%，科创半导体ETF华夏(588170)近14日累计涨13%",
-          "url": "https://www.gelonghui.com/news/5217445",
-          "source": "格隆汇",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
-        },
-        {
-          "title": "DeepSeek：预计下半年昇腾950超节点批量上市后 V4-Pro模型价格会大幅下调",
-          "url": "https://flash.jin10.com/detail/20260424140246886800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时17分"
-        },
-        {
-          "title": "DeepSeek V4预览版发布：显存和算力需求大降，Agent能力领跑国内开源，体验超越Sonnet 4.5",
-          "url": "https://wallstreetcn.com/articles/3770782",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时17分"
-        },
-        {
-          "title": "A股异动丨华为概念午后走强，华为宣布昇腾超节点系列产品全面支持DeepSeekV4",
-          "url": "https://www.gelonghui.com/news/5217484",
-          "source": "格隆汇",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时17分"
-        },
-        {
-          "title": "每日互动DeepSeek-V4私部方案已就绪",
-          "url": "https://www.36kr.com/newsflashes/3780402784998401",
-          "source": "36氪",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时17分"
-        },
-        {
-          "title": "DeepSeek官网公布DeepSeek-v4接口文档",
-          "url": "https://www.36kr.com/newsflashes/3780240752186627",
-          "source": "36氪",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
-        },
-        {
-          "title": "DeepSeek V4预览版发布！大幅降低对计算和显存的需求，Agent能力实现国内和开源领先",
-          "url": "https://wallstreetcn.com/articles/3770782",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
-        },
-        {
-          "title": "Deepseek官网公布deepseek-v4接口文档",
-          "url": "https://flash.jin10.com/detail/20260424105805144800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
-        },
-        {
-          "title": "DeepSeek-V4预览版上线 对计算和显存的需求降低 百万字上下文成标配",
-          "url": "https://www.cls.cn/detail/2354495",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时17分"
-        },
-        {
-          "title": "科创芯片设计ETF天弘(589070)标的指数午后大涨3%，DeepSeek V4重磅发布且适配国产芯片",
-          "url": "https://www.gelonghui.com/news/5217479",
-          "source": "格隆汇",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时17分"
-        },
-        {
-          "title": "港股异动丨MINIMAX跳水大跌超12%，DeepSeek预告下半年V4 Pro价格会大幅下调",
-          "url": "https://www.gelonghui.com/news/5217475",
-          "source": "格隆汇",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 6,
       "titles": [
@@ -1490,11 +1650,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 14时17分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 17时06分]"
         },
         {
           "title": "微软：OpenAI的GPT-5.5将于明天在微软Foundry正式发布。",
