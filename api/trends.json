@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-25T05:58:15.026645+08:00",
-  "total_titles_processed": 164,
+  "generated_at": "2026-04-25T06:53:28.779610+08:00",
+  "total_titles_processed": 168,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
       "match_count": 16,
       "titles": [
+        {
+          "title": "伊朗媒体：阿拉格齐暂无与美方会谈日程",
+          "url": "https://flash.jin10.com/detail/20260425040958208800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时59分 ~ 06时53分]"
+        },
         {
           "title": "伊朗方面否认卡利巴夫辞去谈判代表团团长一职",
           "url": "https://flash.jin10.com/detail/20260425024402114800",
@@ -19,15 +30,27 @@
           "time_info": "[03时05分 ~ 03时06分]"
         },
         {
-          "title": "伊朗媒体：阿拉格齐暂无与美方会谈日程",
-          "url": "https://flash.jin10.com/detail/20260425040958208800",
-          "source": "金十数据",
+          "title": "数千枚导弹、数百亿美元：伊朗战争消耗美国关键武器储备",
+          "url": "https://www.zaochenbao.com/news/Chronicles/202604/2470188.html",
+          "source": "联合早报",
           "ranks": [
-            2
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 06时53分]"
+        },
+        {
+          "title": "美军制定与伊朗重新开战新方案，以色列拟“重启战争”，伊朗称将“对等回应”",
+          "url": "https://wallstreetcn.com/articles/3770808",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 06时53分]"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外长阿拉格齐将与巴基斯坦官员会晤。",
@@ -52,29 +75,6 @@
           "time_info": "[03时05分 ~ 03时06分]"
         },
         {
-          "title": "数千枚导弹、数百亿美元：伊朗战争消耗美国关键武器储备",
-          "url": "https://www.zaochenbao.com/news/Chronicles/202604/2470188.html",
-          "source": "联合早报",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 05时58分]"
-        },
-        {
-          "title": "美军制定与伊朗重新开战新方案，以色列拟“重启战争”，伊朗称将“对等回应”",
-          "url": "https://wallstreetcn.com/articles/3770808",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 05时58分]"
-        },
-        {
           "title": "伊朗战事冲击亚洲聚酯供应链 或推高全球快时尚成本",
           "url": "https://www.zaochenbao.com/news/politics/202604/2470184.html",
           "source": "联合早报",
@@ -82,8 +82,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 06时53分]"
         },
         {
           "title": "战争阴影下的就业、通胀和消费 伊朗各行业大规模裁员",
@@ -93,8 +93,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 06时53分]"
         },
         {
           "title": "伊朗遭“数字斩首”：对方导弹落地前，境内大量美国牌路由器死机，网络瘫痪使雷达失联，指挥链路中断，部队瞬间“失明”",
@@ -131,6 +131,18 @@
           "time_info": "[03时05分 ~ 03时06分]"
         },
         {
+          "title": "白宫：库什纳与维特科夫将赴巴基斯坦，与伊朗展开“直接会谈”",
+          "url": "https://www.cls.cn/detail/2355560",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时53分]"
+        },
+        {
           "title": "消息人士：伊朗外长抵达巴基斯坦",
           "url": "https://flash.jin10.com/detail/20260425021056528800",
           "source": "金十数据",
@@ -164,17 +176,6 @@
           "time_info": "[03时05分 ~ 03时06分]"
         },
         {
-          "title": "白宫：库什纳与维特科夫将赴巴基斯坦，与伊朗展开“直接会谈”",
-          "url": "https://www.cls.cn/detail/2355560",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
           "title": "伊朗外交部：阿拉格齐三国行将讨论终战议题",
           "url": "https://flash.jin10.com/detail/20260425003229879800",
           "source": "金十数据",
@@ -189,7 +190,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普重申对伊朗“已大赢特赢”，黎以停火将延长三周，以媒称“伊朗议长已从谈判小组辞职”，伊朗否认内部分裂",
@@ -200,8 +201,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 06时53分]"
         },
         {
           "title": "特朗普警告英国：若不取消对美科技企业数字服务税，将征高额关税",
@@ -211,8 +212,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 06时53分]"
         },
         {
           "title": "特朗普下令击沉任何霍尔木兹布雷船，伊朗据称启动德黑兰防空系统拦截“敌对目标”、以否认空袭",
@@ -234,8 +235,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 06时53分]"
         },
         {
           "title": "亿万富豪孙宇晨指控特朗普家族旗下加密货币公司涉“勒索”",
@@ -245,8 +246,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 06时53分]"
         },
         {
           "title": "评论：反特朗普主义团结了欧洲",
@@ -256,8 +257,30 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 06时53分]"
+        },
+        {
+          "title": "特朗普：只要半句话，美国就能省下1590亿美元",
+          "url": "https://flash.jin10.com/detail/20260425035056520800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时59分 ~ 06时53分]"
+        },
+        {
+          "title": "特朗普称伊朗拟提出提议回应美方要求 伊方暂无回应",
+          "url": "https://flash.jin10.com/detail/20260425033951908800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时59分 ~ 06时53分]"
         },
         {
           "title": "美伊谈判有望：伊朗外长率团访巴先与调解方谈、暂不接触美方，特朗普特使周六赴巴",
@@ -305,26 +328,15 @@
           "time_info": "[03时05分 ~ 03时06分]"
         },
         {
-          "title": "特朗普：只要半句话，美国就能省下1590亿美元",
-          "url": "https://flash.jin10.com/detail/20260425035056520800",
-          "source": "金十数据",
+          "title": "美伊谈判有望：伊朗外长访巴与调解方谈、暂无与美会谈日程，特朗普特使周六赴巴",
+          "url": "https://wallstreetcn.com/articles/3770826",
+          "source": "华尔街见闻",
           "ranks": [
-            16
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 05时58分]"
-        },
-        {
-          "title": "特朗普称伊朗拟提出提议回应美方要求 伊方暂无回应",
-          "url": "https://flash.jin10.com/detail/20260425033951908800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 05时58分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
         },
         {
           "title": "美伊谈判有望？伊朗外长将率团访巴先与调解方谈、暂不接触美方，特朗普将派特使赴巴",
@@ -352,7 +364,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "热门中概股美股盘前多数上涨，理想汽车跌近4%",
@@ -362,8 +374,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 06时53分]"
         },
         {
           "title": "美股大型科技股盘前普涨，英特尔涨超25%",
@@ -373,8 +385,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 06时53分]"
         },
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
@@ -385,8 +397,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 06时53分]"
         },
         {
           "title": "美伊谈判叠加强劲财报，美股高开，英特尔涨26%股价创新高，布油重回105美元，金银转涨",
@@ -408,8 +420,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 05时58分]"
+          "appearance_count": 3,
+          "time_info": "[04时59分 ~ 06时53分]"
         },
         {
           "title": "金十图示：2026年04月24日（周五）热门中概股行情一览（美股收盘）",
@@ -419,8 +431,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 05时58分]"
+          "appearance_count": 3,
+          "time_info": "[04时59分 ~ 06时53分]"
         },
         {
           "title": "美股期指涨跌不一 英特尔盘前一度大涨30% | 今夜看点",
@@ -432,8 +444,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 06时53分]"
+        },
+        {
+          "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
+          "url": "https://www.cls.cn/detail/2355589",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
         },
         {
           "title": "美股收盘：三大股指涨跌互现 英特尔涨逾23%",
@@ -443,8 +466,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 05时58分]"
+          "appearance_count": 3,
+          "time_info": "[04时59分 ~ 06时53分]"
         },
         {
           "title": "核反应堆科技公司X-Energy(XE.O)美股IPO首日开盘报30.11美元，其IPO发行价为每股23美元。",
@@ -493,8 +516,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 06时53分]"
         },
         {
           "title": "DeepSeek新AI模型适配华为晶片 与美顶尖模型仍有差距",
@@ -504,8 +527,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 06时53分]"
         },
         {
           "title": "【焦点复盘】三大指数缩量调整失守5日线，商业航天概念持续退潮，新版DeepSeek激活国产算力链",
@@ -516,8 +539,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 06时53分]"
         },
         {
           "title": "阿里云百炼上线DeepSeek-V4",
@@ -527,8 +550,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 06时53分]"
         },
         {
           "title": "Deepseek V4第一波测评来了！",
@@ -537,9 +560,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时53分]"
         }
       ]
     },
