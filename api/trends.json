@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T17:04:45.688481+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-04-25T18:53:48.345254+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "美军制定与伊朗重新开战新方案，以色列拟“重启战争”，伊朗称将“对等回应”",
@@ -33,6 +33,20 @@
           "time_info": "[04时59分 ~ 07时50分]"
         },
         {
+          "title": "白宫：库什纳与维特科夫将赴巴基斯坦，与伊朗展开“直接会谈”",
+          "url": "https://www.cls.cn/detail/2355560",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[05时58分 ~ 18时53分]"
+        },
+        {
           "title": "数千枚导弹、数百亿美元：伊朗战争消耗美国关键武器储备",
           "url": "https://www.zaochenbao.com/news/Chronicles/202604/2470188.html",
           "source": "联合早报",
@@ -44,20 +58,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时08分 ~ 11时22分]"
-        },
-        {
-          "title": "白宫：库什纳与维特科夫将赴巴基斯坦，与伊朗展开“直接会谈”",
-          "url": "https://www.cls.cn/detail/2355560",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时58分 ~ 17时04分]"
         },
         {
           "title": "伊朗方面否认卡利巴夫辞去谈判代表团团长一职",
@@ -95,16 +95,19 @@
           "time_info": "[01时08分 ~ 07时50分]"
         },
         {
-          "title": "伊朗大使：伊朗最高领袖和普京或在里海峰会会晤",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2570231.html",
+          "title": "美国制裁涉采购伊朗石油中国独立炼油厂",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2570217.html",
           "source": "联合早报",
           "ranks": [
-            2,
-            3
+            1,
+            4,
+            16,
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时41分 ~ 17时04分]"
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 18时53分]"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外长阿拉格齐将与巴基斯坦官员会晤。",
@@ -118,18 +121,16 @@
           "time_info": "[03时05分 ~ 03时06分]"
         },
         {
-          "title": "美国制裁涉采购伊朗石油中国独立炼油厂",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2570217.html",
-          "source": "联合早报",
+          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
+          "url": "https://wallstreetcn.com/articles/3770880",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            4,
-            16,
-            17
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 17时04分]"
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 18时53分]"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外长阿拉格齐已抵达伊斯兰堡。",
@@ -143,15 +144,28 @@
           "time_info": "[03时05分 ~ 03时06分]"
         },
         {
-          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
-          "url": "https://wallstreetcn.com/articles/3770880",
-          "source": "华尔街见闻",
+          "title": "伊朗大使：伊朗最高领袖和普京或在里海峰会会晤",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2570231.html",
+          "source": "联合早报",
           "ranks": [
-            5
+            2,
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时41分 ~ 18时53分]"
+        },
+        {
+          "title": "美媒：伊朗对与美国谈判持开放态度，但坚持其铀浓缩权利",
+          "url": "https://flash.jin10.com/detail/20260425181644019800",
+          "source": "金十数据",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时04分"
+          "time_info": "18时53分"
         },
         {
           "title": "伊朗最高领袖或与普京首次会晤！被曝“身负重伤”：一条腿已手术3次将安假肢，面部烧伤说话困难",
@@ -162,8 +176,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时41分 ~ 17时04分]"
+          "appearance_count": 3,
+          "time_info": "[15时41分 ~ 18时53分]"
         },
         {
           "title": "美国拦截一艘悬挂伊朗国旗船只",
@@ -171,11 +185,12 @@
           "source": "联合早报",
           "ranks": [
             5,
-            6
+            6,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时41分 ~ 17时04分]"
+          "appearance_count": 3,
+          "time_info": "[15时41分 ~ 18时53分]"
         },
         {
           "title": "赫格塞斯：美国在“全球”对伊朗进行封锁",
@@ -249,6 +264,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时22分 ~ 13时54分]"
+        },
+        {
+          "title": "伊朗议长称以色列防长“胡言乱语”",
+          "url": "https://flash.jin10.com/detail/20260425154804646800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 18时53分]"
+        },
+        {
+          "title": "据半岛电视台：伊朗处决一名被指控为以色列“代理人”的男子。",
+          "url": "https://flash.jin10.com/detail/20260425153233247800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 18时53分]"
         },
         {
           "title": "伊朗最高领袖发表致辞：伊朗人民构筑全国防线 给予敌人沉重打击",
@@ -343,6 +382,17 @@
           "time_info": "[15时41分 ~ 17时04分]"
         },
         {
+          "title": "伊朗最高领袖或与普京8月首次会晤",
+          "url": "https://flash.jin10.com/detail/20260425174220962800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
           "title": "瑞士将重新开放驻伊朗大使馆",
           "url": "https://flash.jin10.com/detail/20260425103110273800",
           "source": "金十数据",
@@ -354,17 +404,6 @@
           "time_info": "11时22分"
         },
         {
-          "title": "伊朗议长称以色列防长“胡言乱语”",
-          "url": "https://flash.jin10.com/detail/20260425154804646800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时04分"
-        },
-        {
           "title": "埃及外交部：埃及和巴基斯坦外长在电话中讨论推动美国与伊朗之间外交关系的方式。",
           "url": "https://flash.jin10.com/detail/20260425123503525800",
           "source": "金十数据",
@@ -374,17 +413,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
-        },
-        {
-          "title": "据半岛电视台：伊朗处决一名被指控为以色列“代理人”的男子。",
-          "url": "https://flash.jin10.com/detail/20260425153233247800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时04分"
         },
         {
           "title": "伊朗驻俄大使：伊朗最高领袖或与普京在里海峰会期间首次会晤",
@@ -461,18 +489,6 @@
           "time_info": "[01时08分 ~ 15时41分]"
         },
         {
-          "title": "特朗普警告英国：若不取消对美科技企业数字服务税，将征高额关税",
-          "url": "https://www.36kr.com/newsflashes/3780779751709956",
-          "source": "36氪",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时08分 ~ 11时22分]"
-        },
-        {
           "title": "美伊谈判有望？伊朗外长访巴与调解方谈、暂无与美会谈日程，特朗普特使周六赴巴",
           "url": "https://wallstreetcn.com/articles/3770826",
           "source": "华尔街见闻",
@@ -483,8 +499,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时50分 ~ 17时04分]"
+          "appearance_count": 6,
+          "time_info": "[07时50分 ~ 18时53分]"
+        },
+        {
+          "title": "特朗普警告英国：若不取消对美科技企业数字服务税，将征高额关税",
+          "url": "https://www.36kr.com/newsflashes/3780779751709956",
+          "source": "36氪",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 11时22分]"
         },
         {
           "title": "美伊霍尔木兹相互锁喉中国“意外”受到关注，特朗普访华会再度延期吗？",
@@ -687,8 +715,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时53分 ~ 17时04分]"
+          "appearance_count": 7,
+          "time_info": "[06时53分 ~ 18时53分]"
         },
         {
           "title": "热门中概股美股盘前多数上涨，理想汽车跌近4%",
@@ -832,7 +860,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "DeepSeek V4预览版发布：显存和算力需求大降，Agent能力领跑国内开源，体验超越Sonnet 4.5",
@@ -896,15 +924,27 @@
           "time_info": "[01时08分 ~ 07时50分]"
         },
         {
+          "title": "DeepSeek V4引爆Token调用新浪潮，迅策ARR环比暴涨300%",
+          "url": "https://www.gelonghui.com/news/5219145",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
           "title": "百度智能云上线DeepSeek-V4",
           "url": "https://www.36kr.com/newsflashes/3781942204128513",
           "source": "36氪",
           "ranks": [
-            3
+            3,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 18时53分]"
         },
         {
           "title": "DeepSeek V4初体验——读《三体》三部曲烧了54万token",
@@ -932,6 +972,18 @@
           "time_info": "[13时54分 ~ 15时41分]"
         },
         {
+          "title": "百度智能云上线DeepSeek-V4",
+          "url": "https://flash.jin10.com/detail/20260425155339949800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 18时53分]"
+        },
+        {
           "title": "DeepSeek V4：一次注意力机制的结构性颠覆",
           "url": "https://wallstreetcn.com/articles/3770791",
           "source": "华尔街见闻",
@@ -942,17 +994,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时50分 ~ 11时22分]"
-        },
-        {
-          "title": "百度智能云上线DeepSeek-V4",
-          "url": "https://flash.jin10.com/detail/20260425155339949800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时04分"
         },
         {
           "title": "太初元碁完成DeepSeek-V4深度适配与协同优化",
@@ -978,11 +1019,12 @@
           "ranks": [
             9,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时54分 ~ 17时04分]"
+          "appearance_count": 4,
+          "time_info": "[13时54分 ~ 18时53分]"
         },
         {
           "title": "谷歌计划向Anthropic投资至多400亿美元，支持后者大幅扩展算力",
@@ -1029,11 +1071,12 @@
           "url": "https://flash.jin10.com/detail/20260425162059332800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 18时53分]"
         },
         {
           "title": "OpenAI：GPT-5.5 和 GPT-5.5 Pro现已在API中可用。",
@@ -1063,8 +1106,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 17时04分]"
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 18时53分]"
         }
       ]
     },
