@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T03:07:55.207513+08:00",
-  "total_titles_processed": 134,
+  "generated_at": "2026-04-27T04:51:26.773803+08:00",
+  "total_titles_processed": 146,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普被紧急疏散！白宫记者晚宴大厅发生枪击事件",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时51分]"
         },
         {
           "title": "特朗普取消美方代表赴巴，称“想谈致电即可”，伊方称“若美方立场缓和，未来几天可能举行第二轮谈判”",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时51分]"
         },
         {
           "title": "美国代理司法部长：枪手目标相信是特朗普政府官员",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时51分]"
         },
         {
           "title": "特朗普：枪手已被捕；枪击现场视频曝光",
@@ -48,8 +48,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时51分]"
         },
         {
           "title": "美伊对峙赌谁先眨眼：特朗普拒“空谈” 德黑兰坚持先解封",
@@ -59,8 +59,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时51分]"
         },
         {
           "title": "共和党调整美中期选举策略 淡化特朗普个人形象",
@@ -70,8 +70,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时51分]"
         },
         {
           "title": "和平谈判未能重启！特朗普取消美方特使赴巴基斯坦行程",
@@ -82,20 +82,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时51分]"
         },
         {
-          "title": "美国总统特朗普：伊朗知道协议应该包括什么，他们明白不能拥有核武器，否则就没有必要举行会议。",
-          "url": "https://flash.jin10.com/detail/20260427005514669800",
+          "title": "特朗普接受CBS采访的节目将于7点播出，谈及枪击事件",
+          "url": "https://flash.jin10.com/detail/20260427042646339800",
           "source": "金十数据",
           "ranks": [
-            5,
-            13
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 03时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "今晨7:00 特朗普采访将播出",
+          "url": "https://flash.jin10.com/detail/20260427034708194800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         },
         {
           "title": "特朗普谈枪击事件：原以为托盘掉地上 否认袭击与伊朗战争有关",
@@ -105,8 +115,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时51分]"
         },
         {
           "title": "【视频】白宫记者晚宴传出巨响 特朗普紧急撤离",
@@ -116,8 +126,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时51分]"
         },
         {
           "title": "“早知这么危险就不当总统了”，特朗普撤离时摔倒，枪手系教师兼游戏开发者，作案目标是美政府官员",
@@ -127,8 +137,21 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时51分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗知道协议应该包括什么，他们明白不能拥有核武器，否则就没有必要举行会议。",
+          "url": "https://flash.jin10.com/detail/20260427005514669800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            13,
+            25
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时07分]"
+          "time_info": "[01时50分 ~ 04时51分]"
         },
         {
           "title": "特朗普：希望伊朗主动联系美国",
@@ -144,6 +167,32 @@
           "time_info": "[00时56分 ~ 03时07分]"
         },
         {
+          "title": "美国总统特朗普：巴基斯坦方面已不遗余力，并将继续参与谈判进程。",
+          "url": "https://flash.jin10.com/detail/20260427005455489800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时50分 ~ 04时51分]"
+        },
+        {
+          "title": "特朗普称与俄乌总统进行“良好沟通” 寻求推动冲突解决",
+          "url": "https://flash.jin10.com/detail/20260427004736399800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时50分 ~ 04时51分]"
+        },
+        {
           "title": "特朗普：枪击案嫌疑人留下呼吁袭击政府官员的字条",
           "url": "https://flash.jin10.com/detail/20260426235811049800",
           "source": "金十数据",
@@ -155,30 +204,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时56分 ~ 03时07分]"
-        },
-        {
-          "title": "美国总统特朗普：巴基斯坦方面已不遗余力，并将继续参与谈判进程。",
-          "url": "https://flash.jin10.com/detail/20260427005455489800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 03时07分]"
-        },
-        {
-          "title": "特朗普称与俄乌总统进行“良好沟通” 寻求推动冲突解决",
-          "url": "https://flash.jin10.com/detail/20260427004736399800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 03时07分]"
         },
         {
           "title": "美国总统特朗普：我们将把夺取伊朗的核材料作为谈判的一部分。",
@@ -321,7 +346,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "伊朗称“已形成霍尔木兹海峡综合管理方案”，“须缴纳相关费用，里亚尔支付优先”，美军称将继续对进出伊朗港口船只实施全面封锁",
@@ -331,30 +356,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时07分]"
-        },
-        {
-          "title": "卡塔尔首相与伊朗外长通话 呼吁各方参与调解",
-          "url": "https://flash.jin10.com/detail/20260427022154639800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "油轮追踪数据显示，伊朗在其原油码头装载了460万桶原油，另有400万桶石油似乎已突破美国封锁线。",
-          "url": "https://flash.jin10.com/detail/20260427022020023800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时07分"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时51分]"
         },
         {
           "title": "伊朗“圣城旅”指挥官：“抵抗阵线”更强更团结",
@@ -363,11 +366,23 @@
           "ranks": [
             1,
             9,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时51分]"
+        },
+        {
+          "title": "伊朗外长与阿曼苏丹就霍尔木兹海峡安全与地区稳定进行讨论，强调建立不受美国干预的集体安全机制。",
+          "url": "https://flash.jin10.com/detail/20260427033432660800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         },
         {
           "title": "消息人士：伊朗外长再次离开巴基斯坦",
@@ -375,11 +390,24 @@
           "source": "金十数据",
           "ranks": [
             1,
-            9
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时50分 ~ 04时51分]"
+        },
+        {
+          "title": "卡塔尔首相与伊朗外长通话 呼吁各方参与调解",
+          "url": "https://flash.jin10.com/detail/20260427022154639800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时50分 ~ 03时07分]"
+          "time_info": "[03时07分 ~ 04时51分]"
         },
         {
           "title": "伊朗外长料将再赴巴基斯坦推动和平谈判",
@@ -389,8 +417,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时51分]"
+        },
+        {
+          "title": "油轮追踪数据显示，伊朗在其原油码头装载了460万桶原油，另有400万桶石油似乎已突破美国封锁线。",
+          "url": "https://flash.jin10.com/detail/20260427022020023800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 04时51分]"
         },
         {
           "title": "油轮追踪数据显示，美国海岸警卫队在印度洋扣押了价值约3.8亿美元的伊朗原油，该批原油似乎正运往美国。",
@@ -404,6 +444,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时56分 ~ 03时07分]"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：以色列在与伊朗的战争期间向阿联酋派遣了“铁穹”防空系统及部队。",
+          "url": "https://flash.jin10.com/detail/20260427004851048800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时50分 ~ 04时51分]"
         },
         {
           "title": "据伊朗媒体：伊朗外长重返巴基斯坦与核谈判“无关”。",
@@ -445,16 +498,16 @@
           "time_info": "[00时56分 ~ 03时07分]"
         },
         {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：以色列在与伊朗的战争期间向阿联酋派遣了“铁穹”防空系统及部队。",
-          "url": "https://flash.jin10.com/detail/20260427004851048800",
+          "title": "巴基斯坦外交部长宣布，解除为筹备伊朗与美国谈判而在伊斯兰堡实施的安全限制。",
+          "url": "https://flash.jin10.com/detail/20260427013108997800",
           "source": "金十数据",
           "ranks": [
-            7,
-            15
+            8,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时50分 ~ 03时07分]"
+          "time_info": "[03时07分 ~ 04时51分]"
         },
         {
           "title": "伊朗外长27日访问俄罗斯 将与普京会面",
@@ -481,15 +534,15 @@
           "time_info": "[00时56分 ~ 01时50分]"
         },
         {
-          "title": "巴基斯坦外交部长宣布，解除为筹备伊朗与美国谈判而在伊斯兰堡实施的安全限制。",
-          "url": "https://flash.jin10.com/detail/20260427013108997800",
+          "title": "阿曼外交大臣：与伊朗外交部长阿拉格齐就霍尔木兹海峡问题进行了富有成效的讨论。",
+          "url": "https://flash.jin10.com/detail/20260427030413123800",
           "source": "金十数据",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时07分"
+          "time_info": "04时51分"
         }
       ]
     },
@@ -505,8 +558,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时51分]"
         },
         {
           "title": "沉默的DeepSeek，和不被定义的中国大模型",
@@ -517,8 +570,25 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美债市场聚焦美联储会议与美债拍卖，交易员押注年底降息",
+          "url": "https://flash.jin10.com/detail/20260427032034249800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         }
       ]
     }
