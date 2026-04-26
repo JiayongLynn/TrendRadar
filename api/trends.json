@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T07:49:37.018301+08:00",
-  "total_titles_processed": 214,
+  "generated_at": "2026-04-26T11:46:22.442397+08:00",
+  "total_titles_processed": 281,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 62,
+      "match_count": 66,
       "titles": [
         {
           "title": "伊朗最高领袖或与普京首次会晤！被曝“身负重伤”：一条腿已手术3次将安假肢，面部烧伤说话困难",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 11时46分]"
         },
         {
           "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
@@ -37,11 +37,12 @@
           "source": "联合早报",
           "ranks": [
             2,
-            6
+            6,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 11时46分]"
         },
         {
           "title": "伊朗战争是如何从全面轰炸转向美伊意志较量的",
@@ -54,6 +55,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时56分 ~ 07时49分]"
+        },
+        {
+          "title": "白宫：库什纳与维特科夫将赴巴基斯坦，与伊朗展开“直接会谈”",
+          "url": "https://www.cls.cn/detail/2355560",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 11时46分]"
         },
         {
           "title": "伊朗外长阿拉格齐与埃及外长通电话，讨论了阿拉格齐访问伊斯兰堡后的最新局势发展。",
@@ -74,18 +88,6 @@
           "ranks": [
             6,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 07时49分]"
-        },
-        {
-          "title": "白宫：库什纳与维特科夫将赴巴基斯坦，与伊朗展开“直接会谈”",
-          "url": "https://www.cls.cn/detail/2355560",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -168,17 +170,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
-        },
-        {
-          "title": "据报伊朗谈判立场更强硬 表明须采伊方条件才可结束战争",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2670269.html",
-          "source": "联合早报",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时49分"
         },
         {
           "title": "伊朗总统：不会在压力、威胁和封锁下进行谈判",
@@ -268,6 +259,28 @@
           "time_info": "[04时51分 ~ 07时49分]"
         },
         {
+          "title": "伊朗称“已形成霍尔木兹海峡综合管理方案”，“须缴纳相关费用，里亚尔支付优先”，美军称将继续对进出伊朗港口船只实施全面封锁",
+          "url": "https://wallstreetcn.com/articles/3770901",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "伊朗总统强调：不会在威胁或围困下被迫谈判",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2670283.html",
+          "source": "联合早报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
           "title": "伊朗外长阿拉格齐将在访问阿曼后重返巴基斯坦，随后前往莫斯科。",
           "url": "https://flash.jin10.com/detail/20260426030037606800",
           "source": "金十数据",
@@ -291,6 +304,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时06分 ~ 04时51分]"
+        },
+        {
+          "title": "据报伊朗谈判立场更强硬 表明须采伊方条件才可结束战争",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2670269.html",
+          "source": "联合早报",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时49分 ~ 11时46分]"
         },
         {
           "title": "伊朗外长随行代表团的一部分已返回德黑兰，就结束战争问题进行磋商。",
@@ -454,6 +479,17 @@
           "time_info": "01时49分"
         },
         {
+          "title": "美军拦截遭制裁商船 押送油轮返伊朗",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2670282.html",
+          "source": "联合早报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
           "title": "伊朗革命卫队：管理和控制霍尔木兹海峡，是伊朗不可避免的战略重点。",
           "url": "https://flash.jin10.com/detail/20260426010221207800",
           "source": "金十数据",
@@ -465,13 +501,24 @@
           "time_info": "01时49分"
         },
         {
+          "title": "伊朗外长结束阿曼访问后 将再次访问巴基斯坦",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2670281.html",
+          "source": "联合早报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
           "title": "印尼财长：考虑效仿伊朗，在马六甲海峡收“过路费”！",
           "url": "https://wallstreetcn.com/articles/3770877",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         },
@@ -732,7 +779,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 56,
       "titles": [
         {
           "title": "美伊谈判有望？伊朗外长访巴与调解方谈、暂无与美会谈日程，特朗普特使周六赴巴",
@@ -747,15 +794,93 @@
           "time_info": "[00时56分 ~ 05时46分]"
         },
         {
-          "title": "特朗普取消巴基斯坦谈判 称“坐着空谈毫无意义”",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2670270.html",
-          "source": "联合早报",
+          "title": "美国总统特朗普：这起事件不会阻止我在伊朗战争中获胜。",
+          "url": "https://flash.jin10.com/detail/20260426110401312800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时49分"
+          "time_info": "11时46分"
+        },
+        {
+          "title": "特朗普被紧急疏散！白宫记者晚宴大厅发生枪击事件",
+          "url": "https://wallstreetcn.com/articles/3770905",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "【视频】白宫记者晚宴传出巨响 特朗普紧急撤离",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2670286.html",
+          "source": "联合早报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "特朗普讲述晚宴安全事件细节",
+          "url": "https://flash.jin10.com/detail/20260426105810518800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "特朗普：枪手已被捕；枪击现场视频曝光",
+          "url": "https://www.cls.cn/detail/2355838",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "美国总统特朗普：今晚他们布防周全，一切都在掌控之中。",
+          "url": "https://flash.jin10.com/detail/20260426105652859800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "美国总统特朗普：他们认为他是独狼式袭击者，我也这么认为。",
+          "url": "https://flash.jin10.com/detail/20260426105648444800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "和平谈判未能重启！特朗普取消美方特使赴巴基斯坦行程",
+          "url": "https://www.cls.cn/detail/2355806",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时49分 ~ 11时46分]"
         },
         {
           "title": "美国总统特朗普：而且，我们掌握着所有筹码，他们却一无所有！如果他们想谈，只需打个电话就行了。",
@@ -768,6 +893,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 01时49分]"
+        },
+        {
+          "title": "特朗普取消巴基斯坦谈判 称“坐着空谈毫无意义”",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2670270.html",
+          "source": "联合早报",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时49分 ~ 11时46分]"
         },
         {
           "title": "美国总统特朗普：伊朗领导层内部正陷入严重的内讧与混乱之中。没人知道究竟谁说了算——就连他们自己也搞不清楚。",
@@ -976,6 +1113,39 @@
           "time_info": "[04时51分 ~ 05时46分]"
         },
         {
+          "title": "美国总统特朗普：（在被问及自己是否是袭击目标时表示）我猜是吧。",
+          "url": "https://flash.jin10.com/detail/20260426105642028800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "特朗普取消美方代表赴巴，称“想谈致电即可”，伊方称“若美方立场缓和，未来几天可能举行第二轮谈判”",
+          "url": "https://wallstreetcn.com/articles/3770904",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "美国总统特朗普：现场安保非常严密。",
+          "url": "https://flash.jin10.com/detail/20260426105629953800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
           "title": "美国总统特朗普给一位身在伊斯兰堡的《纽约邮报》记者发了一条私信：“回家吧。”",
           "url": "https://flash.jin10.com/detail/20260426010033852800",
           "source": "金十数据",
@@ -987,15 +1157,15 @@
           "time_info": "01时49分"
         },
         {
-          "title": "和平谈判未能重启！特朗普取消美方特使赴巴基斯坦行程",
-          "url": "https://www.cls.cn/detail/2355806",
-          "source": "财联社热门",
+          "title": "美国总统特朗普：（在被问及枪击事件是否与伊朗冲突有关时表示）我不这么认为。",
+          "url": "https://flash.jin10.com/detail/20260426105452412800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时49分"
+          "time_info": "11时46分"
         },
         {
           "title": "特朗普告诉Axios记者：“我们掌握了一切。我们不会去那儿闲聊无事。”",
@@ -1009,6 +1179,17 @@
           "time_info": "00时56分"
         },
         {
+          "title": "特朗普：枪击嫌疑人来自加州 携多件武器强闯安检关卡致1人伤",
+          "url": "https://flash.jin10.com/detail/20260426105304420800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
           "title": "据沙特媒体哈达斯（alhadath）：特朗普称，不派美国代表团去巴基斯坦“并不意味着要与伊朗开战。",
           "url": "https://flash.jin10.com/detail/20260426000633509800",
           "source": "金十数据",
@@ -1018,6 +1199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "加拿大总理卡尼：很欣慰得知美国总统特朗普、第一夫人和所有嘉宾在今晚白宫记者晚宴的枪击事件中都安然无恙。",
+          "url": "https://flash.jin10.com/detail/20260426105156360800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
         },
         {
           "title": "特朗普谈及伊朗谈判，表示通过电话沟通同样可行。",
@@ -1031,6 +1223,28 @@
           "time_info": "00时56分"
         },
         {
+          "title": "美国总统特朗普在社交平台表示，如果不能通过《拯救美国法案》，将会导致美国参议院历史上某个政党面临最糟糕的结果——那将是一种无法挽回的亡命之愿！！！同样，对于“冗长辩论阻挠议事程序”——现在就终止它！！！",
+          "url": "https://flash.jin10.com/detail/20260426104413765800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "吴汉钧：特朗普的伊朗困境",
+          "url": "https://www.zaochenbao.com/news/opinion/202604/2670275.html",
+          "source": "联合早报",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
           "title": "特朗普称已取消威特科夫和库什纳前往巴基斯坦的行程",
           "url": "https://flash.jin10.com/detail/20260425235634361800",
           "source": "金十数据",
@@ -1040,6 +1254,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "美国总统特朗普：（嫌疑人）很可能是单独行动的，但我们会查清楚。",
+          "url": "https://flash.jin10.com/detail/20260426104257159800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
         },
         {
           "title": "美国总统特朗普再次批评美联储改革。",
@@ -1053,6 +1278,17 @@
           "time_info": "03时06分"
         },
         {
+          "title": "美国总统特朗普感谢第一夫人梅拉尼娅·特朗普，并表示这是一次创伤性的事件。",
+          "url": "https://flash.jin10.com/detail/20260426104113753800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
           "title": "特朗普：（美联储主席提名人）沃什的表现将会极为出色。",
           "url": "https://flash.jin10.com/detail/20260426023105879800",
           "source": "金十数据",
@@ -1064,6 +1300,17 @@
           "time_info": "03时06分"
         },
         {
+          "title": "美国总统特朗普：嫌疑人来自加利福尼亚州。",
+          "url": "https://flash.jin10.com/detail/20260426104032088800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
           "title": "特朗普谈伊朗谈判：我认为巴基斯坦非常棒。",
           "url": "https://flash.jin10.com/detail/20260426022944265800",
           "source": "金十数据",
@@ -1073,40 +1320,185 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "美国总统特朗普：我和第一夫人被迅速带离舞台。",
+          "url": "https://flash.jin10.com/detail/20260426104028056800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "美国总统特朗普：嫌疑人已被完全制服；呼吁美国人民以和平方式解决分歧。",
+          "url": "https://flash.jin10.com/detail/20260426104021846800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "美国总统特朗普：这起事件表明宴会厅现场需要加强安保。",
+          "url": "https://flash.jin10.com/detail/20260426103826638800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "美国总统特朗普：一名警官中枪，但伤势不重，情况良好。",
+          "url": "https://flash.jin10.com/detail/20260426103820219800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "美国总统特朗普：一名男子冲撞了安保检查站，嫌疑人携带多种武器。",
+          "url": "https://flash.jin10.com/detail/20260426103814869800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "美国总统特朗普：（枪击事件）这真是出乎意料。",
+          "url": "https://flash.jin10.com/detail/20260426103602871800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "金十提示：美国总统特朗普开始讲话。",
+          "url": "https://flash.jin10.com/detail/20260426103522819800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "美国总统特朗普在社交媒体平台发布白宫记者晚宴上的袭击者的特写照片。",
+          "url": "https://flash.jin10.com/detail/20260426103427717800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普即将在白宫新闻简报室发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260426102603843800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
         {
           "title": "DeepSeek V4引爆Token调用新浪潮，迅策ARR环比暴涨300%",
           "url": "https://www.gelonghui.com/news/5219145",
           "source": "格隆汇",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 11时46分]"
         },
         {
           "title": "百度智能云上线DeepSeek-V4",
           "url": "https://www.36kr.com/newsflashes/3781942204128513",
           "source": "36氪",
           "ranks": [
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 11时46分]"
+        },
+        {
+          "title": "Token调用新纪元：DeepSeek V4引爆市场，迅策ARR季度暴涨300%",
+          "url": "https://www.gelonghui.com/news/5219211",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "超算互联网推出DeepSeek-V4限时免费对话服务",
+          "url": "https://www.36kr.com/newsflashes/3783020652518401",
+          "source": "36氪",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "DeepSeek-V4-Pro模型API官宣限时2.5折优惠",
+          "url": "https://www.36kr.com/newsflashes/3782954220608512",
+          "source": "36氪",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "沉默的DeepSeek，和不被定义的中国大模型",
+          "url": "https://wallstreetcn.com/articles/3770908",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
@@ -1120,6 +1512,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时56分 ~ 07时49分]"
+        },
+        {
+          "title": "谷歌云CEO：自研TPU构筑竞争护城河，第八代芯片即将发布，外部需求已超供给上限",
+          "url": "https://wallstreetcn.com/articles/3770884",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
         }
       ]
     },
@@ -1149,11 +1552,12 @@
           "url": "https://www.cls.cn/detail/2355589",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 11时46分]"
         }
       ]
     }
