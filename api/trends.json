@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T14:36:39.816041+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-04-27T17:27:06.373470+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普被紧急疏散！白宫记者晚宴大厅发生枪击事件",
@@ -301,6 +301,17 @@
           "time_info": "[00时56分 ~ 03时07分]"
         },
         {
+          "title": "特朗普回应撤离晚宴时“跌倒”“晚走”等细节",
+          "url": "https://www.cls.cn/detail/2356452",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
+        },
+        {
           "title": "白宫记者晚宴枪击事件：特朗普三年内三遇险境",
           "url": "https://www.zaochenbao.com/news/politics/202604/2770338.html",
           "source": "联合早报",
@@ -453,7 +464,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
         {
           "title": "伊朗称“已形成霍尔木兹海峡综合管理方案”，“须缴纳相关费用，里亚尔支付优先”，美军称将继续对进出伊朗港口船只实施全面封锁",
@@ -495,6 +506,18 @@
           "time_info": "[05时50分 ~ 14时36分]"
         },
         {
+          "title": "美国：已收到伊朗谈判新方案",
+          "url": "https://www.cls.cn/detail/2356393",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时36分 ~ 17时27分]"
+        },
+        {
           "title": "巴媒记者披露伊朗外长折返伊斯兰堡内情",
           "url": "https://flash.jin10.com/detail/20260427073445994800",
           "source": "金十数据",
@@ -504,6 +527,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时50分 ~ 07时51分]"
+        },
+        {
+          "title": "伊朗将限制天然气使用",
+          "url": "https://flash.jin10.com/detail/20260427172522399800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
         },
         {
           "title": "伊朗提出一项分三阶段解决的谈判方案",
@@ -543,6 +577,18 @@
           "time_info": "[04时51分 ~ 06时51分]"
         },
         {
+          "title": "伊朗提出一项分三阶段解决的谈判方案：先谈终止战争，然后霍尔木兹海峡，最后才是核问题",
+          "url": "https://wallstreetcn.com/articles/3770927",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时36分 ~ 17时27分]"
+        },
+        {
           "title": "伊朗“圣城旅”指挥官：“抵抗阵线”更强更团结",
           "url": "https://flash.jin10.com/detail/20260427004648835800",
           "source": "金十数据",
@@ -577,20 +623,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
         {
-          "title": "美国：已收到伊朗谈判新方案",
-          "url": "https://www.cls.cn/detail/2356393",
-          "source": "财联社热门",
+          "title": "伊朗战争“扑朔迷离”，全球科技股“爆炸上涨”！高盛对冲基金业务主管：这个市场很难做",
+          "url": "https://wallstreetcn.com/articles/3770921",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时50分 ~ 17时27分]"
         },
         {
           "title": "卡塔尔首相与伊朗外长通话 呼吁各方参与调解",
@@ -617,6 +664,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时07分 ~ 05时50分]"
+        },
+        {
+          "title": "阿拉格齐：伊朗以邻国为优先 重点确保海峡安全通航",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2770343.html",
+          "source": "联合早报",
+          "ranks": [
+            6,
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时50分 ~ 17时27分]"
         },
         {
           "title": "伊朗外长：在阿曼的讨论包括关注确保霍尔木兹海峡安全通行的方式。",
@@ -709,30 +769,6 @@
           "time_info": "[00时56分 ~ 03时07分]"
         },
         {
-          "title": "伊朗战争“扑朔迷离”，全球科技股“爆炸上涨”！高盛对冲基金业务主管：这个市场很难做",
-          "url": "https://wallstreetcn.com/articles/3770921",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 14时36分]"
-        },
-        {
-          "title": "阿拉格齐：伊朗以邻国为优先 重点确保海峡安全通航",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2770343.html",
-          "source": "联合早报",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 14时36分]"
-        },
-        {
           "title": "黎巴嫩媒体披露伊朗提出三阶段谈判框架",
           "url": "https://www.zaochenbao.com/news/politics/202604/2770342.html",
           "source": "联合早报",
@@ -769,6 +805,17 @@
           "time_info": "[00时56分 ~ 01时50分]"
         },
         {
+          "title": "消息：美国已收到伊朗谈判新方案",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2770363.html",
+          "source": "联合早报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
+        },
+        {
           "title": "据伊朗国家媒体：伊朗外长明天将在莫斯科会见俄罗斯总统普京。",
           "url": "https://flash.jin10.com/detail/20260426234828354800",
           "source": "金十数据",
@@ -793,15 +840,26 @@
           "time_info": "[11时50分 ~ 14时36分]"
         },
         {
-          "title": "伊朗提出一项分三阶段解决的谈判方案：先谈终止战争，然后霍尔木兹海峡，最后才是核问题",
-          "url": "https://wallstreetcn.com/articles/3770927",
-          "source": "华尔街见闻",
+          "title": "据伊朗法尔斯通讯社：伊朗央行已将提供无息就业贷款和家庭手工业贷款的截止日期延长至伊朗历第二个月月底，并责成银行遵守该期限。",
+          "url": "https://flash.jin10.com/detail/20260427170706399800",
+          "source": "金十数据",
           "ranks": [
-            8
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
+        },
+        {
+          "title": "惠誉评级：伊朗冲突持续可能对卡塔尔银行的生存能力评级施加压力。",
+          "url": "https://flash.jin10.com/detail/20260427170455868800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
         },
         {
           "title": "美国已收到伊朗谈判新方案",
@@ -818,7 +876,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -853,8 +911,30 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时50分 ~ 17时27分]"
+        },
+        {
+          "title": "中国信通院：正式启动DeepSeek V4国产化适配测试工作",
+          "url": "https://www.cls.cn/detail/2356575",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时50分 ~ 14时36分]"
+          "time_info": "[17时26分 ~ 17时27分]"
+        },
+        {
+          "title": "DeepSeek推新模型二五折优惠 同步下调API价格",
+          "url": "https://www.zaochenbao.com/news/china/202604/2770369.html",
+          "source": "联合早报",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
         },
         {
           "title": "大行评级丨里昂：DeepSeek模型凸显国内先进制程产能扩张顺利推进，继续看好中芯及华虹",
@@ -874,7 +954,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
@@ -896,7 +976,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
@@ -907,7 +987,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         }
@@ -915,7 +995,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "郭明錤：OpenAI进军手机，正与联发科、高通合作开发处理器",
@@ -940,13 +1020,24 @@
           "time_info": "11时50分"
         },
         {
+          "title": "高通(QCOM.O)盘前涨10%，此前分析师爆料称公司正在与OpenAI合作开发智能手机处理器。",
+          "url": "https://flash.jin10.com/detail/20260427170928667800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
+        },
+        {
           "title": "马斯克在针对OpenAI的1800亿美元诉讼中处于下风",
           "url": "https://www.36kr.com/newsflashes/3784595869522945",
           "source": "36氪",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         }
@@ -954,7 +1045,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股三大股指期货周一小幅低开0.2%。",
@@ -973,11 +1064,23 @@
           "url": "https://www.cls.cn/detail/2356401",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时36分 ~ 17时27分]"
+        },
+        {
+          "title": "美伊冲突都没带崩美股？“巴菲特指标”冲破200%关键门槛，似有大跌之兆！",
+          "url": "https://www.cls.cn/detail/2356367",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
         }
       ]
     },
