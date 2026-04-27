@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T17:27:06.373470+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2026-04-27T19:53:19.275613+08:00",
+  "total_titles_processed": 552,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普被紧急疏散！白宫记者晚宴大厅发生枪击事件",
@@ -384,6 +384,17 @@
           "time_info": "[00时56分 ~ 01时50分]"
         },
         {
+          "title": "“弹劾特朗普”呼声渐响，民主党中期选举路线之争白热化",
+          "url": "https://flash.jin10.com/detail/20260427192541725800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "美国总统特朗普：弗吉尼亚的选区重划糟糕，佛罗里达应该试试。",
           "url": "https://flash.jin10.com/detail/20260426233516532800",
           "source": "金十数据",
@@ -464,7 +475,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
         {
           "title": "伊朗称“已形成霍尔木兹海峡综合管理方案”，“须缴纳相关费用，里亚尔支付优先”，美军称将继续对进出伊朗港口船只实施全面封锁",
@@ -511,11 +522,25 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时36分 ~ 17时27分]"
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 19时53分]"
+        },
+        {
+          "title": "伊朗提出一项分三阶段解决的谈判方案：先谈终止战争，然后霍尔木兹海峡，最后才是核问题",
+          "url": "https://wallstreetcn.com/articles/3770927",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 19时53分]"
         },
         {
           "title": "巴媒记者披露伊朗外长折返伊斯兰堡内情",
@@ -564,6 +589,17 @@
           "time_info": "[06时50分 ~ 07时51分]"
         },
         {
+          "title": "油轮追踪网站TankerTrackers的分析显示，4月24日，约有400万桶装载于油轮上的伊朗石油穿过了美国的封锁线。",
+          "url": "https://flash.jin10.com/detail/20260427193025210800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "伊朗外长与阿曼苏丹就霍尔木兹海峡安全与地区稳定进行讨论，强调建立不受美国干预的集体安全机制。",
           "url": "https://flash.jin10.com/detail/20260427033432660800",
           "source": "金十数据",
@@ -575,18 +611,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时51分 ~ 06时51分]"
-        },
-        {
-          "title": "伊朗提出一项分三阶段解决的谈判方案：先谈终止战争，然后霍尔木兹海峡，最后才是核问题",
-          "url": "https://wallstreetcn.com/articles/3770927",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时36分 ~ 17时27分]"
         },
         {
           "title": "伊朗“圣城旅”指挥官：“抵抗阵线”更强更团结",
@@ -769,6 +793,18 @@
           "time_info": "[00时56分 ~ 03时07分]"
         },
         {
+          "title": "消息：美国已收到伊朗谈判新方案",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2770363.html",
+          "source": "联合早报",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 19时53分]"
+        },
+        {
           "title": "黎巴嫩媒体披露伊朗提出三阶段谈判框架",
           "url": "https://www.zaochenbao.com/news/politics/202604/2770342.html",
           "source": "联合早报",
@@ -803,17 +839,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 01时50分]"
-        },
-        {
-          "title": "消息：美国已收到伊朗谈判新方案",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2770363.html",
-          "source": "联合早报",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 17时27分]"
         },
         {
           "title": "据伊朗国家媒体：伊朗外长明天将在莫斯科会见俄罗斯总统普京。",
@@ -862,6 +887,17 @@
           "time_info": "[17时26分 ~ 17时27分]"
         },
         {
+          "title": "俄总统普京27日将在圣彼得堡会见来访的伊朗外长阿拉格齐",
+          "url": "https://flash.jin10.com/detail/20260427192527002800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "美国已收到伊朗谈判新方案",
           "url": "https://flash.jin10.com/detail/20260427112634824800",
           "source": "金十数据",
@@ -871,12 +907,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
+        },
+        {
+          "title": "高盛：风险偏好已恢复至伊朗战争前水平",
+          "url": "https://flash.jin10.com/detail/20260427191557542800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
+          "title": "美国中央司令部：一艘美国军舰正在追踪一艘商船，同时美军继续对伊朗港口实施封锁，从而阻止船只进出。截至目前，美军已命令38艘船只折返或返回港口。",
+          "url": "https://flash.jin10.com/detail/20260427190944117800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -911,8 +969,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时50分 ~ 17时27分]"
+          "appearance_count": 5,
+          "time_info": "[11时50分 ~ 19时53分]"
         },
         {
           "title": "中国信通院：正式启动DeepSeek V4国产化适配测试工作",
@@ -922,19 +980,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 17时27分]"
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 19时53分]"
         },
         {
           "title": "DeepSeek推新模型二五折优惠 同步下调API价格",
           "url": "https://www.zaochenbao.com/news/china/202604/2770369.html",
           "source": "联合早报",
           "ranks": [
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 17时27分]"
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 19时53分]"
+        },
+        {
+          "title": "DeepSeek“吓崩”智谱和MiniMax，但摩根大通认为：V4打破算力束缚，是行业利好",
+          "url": "https://wallstreetcn.com/articles/3770936",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "大行评级丨里昂：DeepSeek模型凸显国内先进制程产能扩张顺利推进，继续看好中芯及华虹",
@@ -1045,8 +1115,21 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美股财报季进入关键周：“五巨头”将集中亮相 近1/3标普500成分股公布业绩",
+          "url": "https://www.cls.cn/detail/2356401",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 19时53分]"
+        },
         {
           "title": "美股三大股指期货周一小幅低开0.2%。",
           "url": "https://flash.jin10.com/detail/20260427060114579800",
@@ -1060,18 +1143,6 @@
           "time_info": "[06时50分 ~ 07时51分]"
         },
         {
-          "title": "美股财报季进入关键周：“五巨头”将集中亮相 近1/3标普500成分股公布业绩",
-          "url": "https://www.cls.cn/detail/2356401",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时36分 ~ 17时27分]"
-        },
-        {
           "title": "美伊冲突都没带崩美股？“巴菲特指标”冲破200%关键门槛，似有大跌之兆！",
           "url": "https://www.cls.cn/detail/2356367",
           "source": "财联社热门",
@@ -1081,6 +1152,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时26分 ~ 17时27分]"
+        },
+        {
+          "title": "对冲基金两年来最快速度抛售科技股，美股内部已现裂痕",
+          "url": "https://wallstreetcn.com/articles/3770942",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         }
       ]
     },
