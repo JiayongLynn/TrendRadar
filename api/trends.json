@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T19:53:19.275613+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2026-04-27T22:19:01.057171+08:00",
+  "total_titles_processed": 628,
   "failed_sources": [],
   "trends": [
     {
@@ -390,7 +390,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -475,7 +475,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "伊朗称“已形成霍尔木兹海峡综合管理方案”，“须缴纳相关费用，里亚尔支付优先”，美军称将继续对进出伊朗港口船只实施全面封锁",
@@ -488,6 +488,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时56分 ~ 07时51分]"
+        },
+        {
+          "title": "伊朗提出一项分三阶段解决的谈判方案：先谈终止战争，然后霍尔木兹海峡，最后才是核问题",
+          "url": "https://wallstreetcn.com/articles/3770927",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时36分 ~ 22时19分]"
         },
         {
           "title": "伊朗外长料将再赴巴基斯坦推动和平谈判",
@@ -524,19 +538,6 @@
             5,
             2,
             4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时36分 ~ 19时53分]"
-        },
-        {
-          "title": "伊朗提出一项分三阶段解决的谈判方案：先谈终止战争，然后霍尔木兹海峡，最后才是核问题",
-          "url": "https://wallstreetcn.com/articles/3770927",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            3
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -595,7 +596,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -650,6 +651,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
+        },
+        {
+          "title": "消息：美国已收到伊朗谈判新方案",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2770363.html",
+          "source": "联合早报",
+          "ranks": [
+            16,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时26分 ~ 22时19分]"
         },
         {
           "title": "伊朗战争“扑朔迷离”，全球科技股“爆炸上涨”！高盛对冲基金业务主管：这个市场很难做",
@@ -793,18 +807,6 @@
           "time_info": "[00时56分 ~ 03时07分]"
         },
         {
-          "title": "消息：美国已收到伊朗谈判新方案",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2770363.html",
-          "source": "联合早报",
-          "ranks": [
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时26分 ~ 19时53分]"
-        },
-        {
           "title": "黎巴嫩媒体披露伊朗提出三阶段谈判框架",
           "url": "https://www.zaochenbao.com/news/politics/202604/2770342.html",
           "source": "联合早报",
@@ -827,6 +829,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 05时50分]"
+        },
+        {
+          "title": "伊朗最高领袖军事顾问雷扎伊：任何国家都无法阻止伊朗的石油出口。",
+          "url": "https://flash.jin10.com/detail/20260427215632708800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 22时19分]"
         },
         {
           "title": "伊朗外长27日访问俄罗斯 将与普京会面",
@@ -887,13 +900,24 @@
           "time_info": "[17时26分 ~ 17时27分]"
         },
         {
+          "title": "普京会见伊朗外长阿拉格齐 透露上周收到穆杰塔巴信函",
+          "url": "https://flash.jin10.com/detail/20260427213932113800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 22时19分]"
+        },
+        {
           "title": "俄总统普京27日将在圣彼得堡会见来访的伊朗外长阿拉格齐",
           "url": "https://flash.jin10.com/detail/20260427192527002800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -915,7 +939,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -926,7 +950,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         }
@@ -984,6 +1008,17 @@
           "time_info": "[17时26分 ~ 19时53分]"
         },
         {
+          "title": "DeepSeek“吓崩”智谱和MiniMax，但摩根大通认为：V4打破算力束缚，是行业利好",
+          "url": "https://wallstreetcn.com/articles/3770936",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时53分 ~ 22时19分]"
+        },
+        {
           "title": "DeepSeek推新模型二五折优惠 同步下调API价格",
           "url": "https://www.zaochenbao.com/news/china/202604/2770369.html",
           "source": "联合早报",
@@ -994,17 +1029,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时26分 ~ 19时53分]"
-        },
-        {
-          "title": "DeepSeek“吓崩”智谱和MiniMax，但摩根大通认为：V4打破算力束缚，是行业利好",
-          "url": "https://wallstreetcn.com/articles/3770936",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
         },
         {
           "title": "大行评级丨里昂：DeepSeek模型凸显国内先进制程产能扩张顺利推进，继续看好中芯及华虹",
@@ -1064,59 +1088,42 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "keyword_group": "美股",
+      "match_count": 8,
       "titles": [
         {
-          "title": "郭明錤：OpenAI进军手机，正与联发科、高通合作开发处理器",
-          "url": "https://www.36kr.com/newsflashes/3784514046926081",
+          "title": "热门中概股美股盘前普跌，阿里巴巴跌超2%",
+          "url": "https://www.36kr.com/newsflashes/3785076313283586",
+          "source": "36氪",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 22时19分]"
+        },
+        {
+          "title": "美股大型科技股盘前多数下跌，苹果跌超1%",
+          "url": "https://www.36kr.com/newsflashes/3785074859416840",
           "source": "36氪",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时50分"
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 22时19分]"
         },
         {
-          "title": "立讯精密创历史新高！据报跨入AI核心层，深度参与OpenAI手机处理器研发",
-          "url": "https://www.gelonghui.com/news/5219653",
-          "source": "格隆汇",
+          "title": "美伊谈判僵局难解，美股开盘小幅下跌，高通涨7%，微软跌约1%，布油日内涨2%",
+          "url": "https://wallstreetcn.com/articles/3770961",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        },
-        {
-          "title": "高通(QCOM.O)盘前涨10%，此前分析师爆料称公司正在与OpenAI合作开发智能手机处理器。",
-          "url": "https://flash.jin10.com/detail/20260427170928667800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时26分 ~ 17时27分]"
+          "time_info": "[22时18分 ~ 22时19分]"
         },
-        {
-          "title": "马斯克在针对OpenAI的1800亿美元诉讼中处于下风",
-          "url": "https://www.36kr.com/newsflashes/3784595869522945",
-          "source": "36氪",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
         {
           "title": "美股财报季进入关键周：“五巨头”将集中亮相 近1/3标普500成分股公布业绩",
           "url": "https://www.cls.cn/detail/2356401",
@@ -1143,6 +1150,17 @@
           "time_info": "[06时50分 ~ 07时51分]"
         },
         {
+          "title": "对冲基金两年来最快速度抛售科技股，美股内部已现裂痕",
+          "url": "https://wallstreetcn.com/articles/3770942",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时53分 ~ 22时19分]"
+        },
+        {
           "title": "美伊冲突都没带崩美股？“巴菲特指标”冲破200%关键门槛，似有大跌之兆！",
           "url": "https://www.cls.cn/detail/2356367",
           "source": "财联社热门",
@@ -1154,15 +1172,76 @@
           "time_info": "[17时26分 ~ 17时27分]"
         },
         {
-          "title": "对冲基金两年来最快速度抛售科技股，美股内部已现裂痕",
-          "url": "https://wallstreetcn.com/articles/3770942",
-          "source": "华尔街见闻",
+          "title": "金十图示：2026年04月27日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260427214412955800",
+          "source": "金十数据",
           "ranks": [
-            9
+            23
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 22时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "郭明錤：OpenAI进军手机，正与联发科、高通合作开发处理器",
+          "url": "https://www.36kr.com/newsflashes/3784514046926081",
+          "source": "36氪",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时53分"
+          "time_info": "11时50分"
+        },
+        {
+          "title": "立讯精密创历史新高！据报跨入AI核心层，深度参与OpenAI手机处理器研发",
+          "url": "https://www.gelonghui.com/news/5219653",
+          "source": "格隆汇",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时50分"
+        },
+        {
+          "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2357129",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 22时19分]"
+        },
+        {
+          "title": "高通(QCOM.O)盘前涨10%，此前分析师爆料称公司正在与OpenAI合作开发智能手机处理器。",
+          "url": "https://flash.jin10.com/detail/20260427170928667800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
+        },
+        {
+          "title": "马斯克在针对OpenAI的1800亿美元诉讼中处于下风",
+          "url": "https://www.36kr.com/newsflashes/3784595869522945",
+          "source": "36氪",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         }
       ]
     },
