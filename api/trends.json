@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T06:01:25.558512+08:00",
-  "total_titles_processed": 212,
+  "generated_at": "2026-04-28T07:06:33.688815+08:00",
+  "total_titles_processed": 230,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "伊朗提出一项分三阶段解决的谈判方案：先谈终止战争，然后霍尔木兹海峡，最后才是核问题",
@@ -15,8 +15,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 07时06分]"
+        },
+        {
+          "title": "伊朗外长到俄罗斯见普京 也向美国阐明“红线”",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2770408.html",
+          "source": "联合早报",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 07时06分]"
         },
         {
           "title": "鲁比奥：伊朗对达成协议“非常认真”",
@@ -30,15 +41,15 @@
           "time_info": "00时48分"
         },
         {
-          "title": "伊朗外长到俄罗斯见普京 也向美国阐明“红线”",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2770408.html",
-          "source": "联合早报",
+          "title": "据福克斯新闻：美国国务卿鲁比奥表示，伊朗正借用霍尔木兹海峡作为“经济上的核武器”对全世界施加压力。政权更迭必须由伊朗内部来实现。",
+          "url": "https://flash.jin10.com/detail/20260428064422585800",
+          "source": "金十数据",
           "ranks": [
-            6
+            3
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 06时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         },
         {
           "title": "伊朗宣布暂停66类钢铁产品出口，此前70%钢铁产能被以色列摧毁",
@@ -50,8 +61,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 07时06分]"
         },
         {
           "title": "伊朗外长指责美国导致谈判破裂",
@@ -61,8 +72,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 07时06分]"
         },
         {
           "title": "美国财长贝森特：上周五与欧盟委员会副主席谢夫乔维奇举行会谈。强调了应对伊朗对霍尔木兹海峡构成的威胁的必要性，并着重指出美国担任G20轮值主席国期间将重点关注粮食与化肥供应链问题。",
@@ -75,6 +86,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时14分 ~ 06时01分]"
+        },
+        {
+          "title": "默茨：美国就伊朗战事缺乏战略性退出方案",
+          "url": "https://flash.jin10.com/detail/20260428042814365800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时06分]"
         },
         {
           "title": "美国驻联合国代表：伊朗违反海洋法，在霍尔木兹海峡进行海盗行为。",
@@ -97,17 +120,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
-        },
-        {
-          "title": "默茨：美国就伊朗战事缺乏战略性退出方案",
-          "url": "https://flash.jin10.com/detail/20260428042814365800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
         },
         {
           "title": "俄防长会见伊朗副防长",
@@ -149,7 +161,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -193,7 +205,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -204,7 +216,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -226,7 +238,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -289,7 +301,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美国白宫：特朗普关于伊朗问题的底线没有改变",
@@ -301,17 +313,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
-        },
-        {
-          "title": "特朗普取消更多风能租赁项目以刺激油气投资",
-          "url": "https://flash.jin10.com/detail/20260428052935112800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
         },
         {
           "title": "避免和特朗普起冲突 北约考虑取消年度峰会",
@@ -343,8 +344,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 07时06分]"
+        },
+        {
+          "title": "特朗普取消更多风能租赁项目以刺激油气投资",
+          "url": "https://flash.jin10.com/detail/20260428052935112800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时06分]"
         },
         {
           "title": "白宫新闻秘书莱维特：你们将很快听到美国总统特朗普关于伊朗的消息。",
@@ -367,6 +380,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
+        },
+        {
+          "title": "美媒：特朗普对伊朗的提议持怀疑态度 但没有断然拒绝",
+          "url": "https://flash.jin10.com/detail/20260428062503291800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         },
         {
           "title": "白宫新闻秘书莱维特：沃什获确认后，特朗普将感到满意。",
@@ -452,7 +476,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -482,7 +506,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "热门中概股美股盘前普跌，阿里巴巴跌超2%",
@@ -492,8 +516,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 07时06分]"
         },
         {
           "title": "美股大型科技股盘前多数下跌，苹果跌超1%",
@@ -503,8 +527,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 07时06分]"
         },
         {
           "title": "美伊谈判僵局难解，美股开盘小幅下跌，高通涨7%，微软跌约1%，布油日内涨2%",
@@ -540,6 +564,39 @@
           "time_info": "00时48分"
         },
         {
+          "title": "美股三大指数收盘涨跌不一 英伟达涨4%创新高",
+          "url": "https://www.gelonghui.com/news/5221189",
+          "source": "格隆汇",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "分析师：警惕美股财报与乐观预期出现裂痕",
+          "url": "https://flash.jin10.com/detail/20260428063804351800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "美股收盘：“双英”+三大内存股收创纪录 标普纳指再刷新高",
+          "url": "https://www.cls.cn/detail/2357399",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
           "title": "对冲基金两年来最快速度抛售科技股，美股内部已现裂痕",
           "url": "https://wallstreetcn.com/articles/3770942",
           "source": "华尔街见闻",
@@ -547,19 +604,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 07时06分]"
         },
         {
           "title": "美股收盘：英伟达涨4%创新高",
           "url": "https://flash.jin10.com/detail/20260428040039049800",
           "source": "金十数据",
           "ranks": [
-            17
+            17,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时06分]"
         }
       ]
     },
@@ -626,8 +684,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 07时06分]"
         },
         {
           "title": "DeepSeek发表新模型，开源令中国AI企业扩大影响力",
@@ -637,8 +695,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 07时06分]"
         }
       ]
     },
@@ -647,28 +705,30 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "OpenAI：ChatGPT企业版和API平台已获得FedRAMP 20X中等级别授权。美国联邦机构现在可以在我们的FedRAMP环境中访问我们最强大的模型，包括GPT‑5.5。美国联邦机构很快可以通过 FedRAMP ChatGPT企业工作区访问他们的Codex云环境，并利用Codex应用。",
-          "url": "https://flash.jin10.com/detail/20260428054512315800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
           "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
           "url": "https://www.cls.cn/detail/2357129",
           "source": "财联社热门",
           "ranks": [
             8,
             9,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 07时06分]"
+        },
+        {
+          "title": "OpenAI：ChatGPT企业版和API平台已获得FedRAMP 20X中等级别授权。美国联邦机构现在可以在我们的FedRAMP环境中访问我们最强大的模型，包括GPT‑5.5。美国联邦机构很快可以通过 FedRAMP ChatGPT企业工作区访问他们的Codex云环境，并利用Codex应用。",
+          "url": "https://flash.jin10.com/detail/20260428054512315800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时06分]"
         }
       ]
     },
@@ -686,6 +746,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "科技巨头财报周前夕，美股高位徘徊，英伟达续涨4%，油价攀升施压市场，美债下挫",
+          "url": "https://wallstreetcn.com/articles/3770961",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         }
       ]
     },
