@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T01:00:22.868257+08:00",
-  "total_titles_processed": 112,
+  "generated_at": "2026-04-29T02:46:52.301991+08:00",
+  "total_titles_processed": 139,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "据Tanker Tracker：卫星图像显示，伊朗国家油轮公司旗下的10艘油轮已确认停泊在恰巴哈尔港附近的港口外。这表明，在美国实施海上封锁后，从伊朗出发的原油运输路线正在发生变化。",
@@ -19,6 +19,40 @@
           "time_info": "01时00分"
         },
         {
+          "title": "美国务卿鲁比奥：伊朗将霍尔木兹海峡当作\"经济核武器\"",
+          "url": "https://www.cls.cn/detail/2358468",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时00分 ~ 02时46分]"
+        },
+        {
+          "title": "称美国无立场“支配”其他国家 伊朗愿分享“美国战败”经验",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2870497.html",
+          "source": "联合早报",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时00分 ~ 02时46分]"
+        },
+        {
+          "title": "伊朗革命卫队称永久管理霍尔木兹",
+          "url": "https://www.cls.cn/detail/2358681",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时00分 ~ 02时46分]"
+        },
+        {
           "title": "伊朗外长称美方请求谈判、伊方正考虑，美国务卿称伊重开霍尔木兹提议不可接受",
           "url": "https://wallstreetcn.com/articles/3771035",
           "source": "华尔街见闻",
@@ -30,43 +64,54 @@
           "time_info": "01时00分"
         },
         {
-          "title": "美国务卿鲁比奥：伊朗将霍尔木兹海峡当作\"经济核武器\"",
-          "url": "https://www.cls.cn/detail/2358468",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时00分"
-        },
-        {
-          "title": "称美国无立场“支配”其他国家 伊朗愿分享“美国战败”经验",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2870497.html",
-          "source": "联合早报",
+          "title": "美国财政部：对35个伊朗实体和个人实施制裁。",
+          "url": "https://flash.jin10.com/detail/20260429021657295800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时00分"
+          "time_info": "02时46分"
         },
         {
-          "title": "伊朗革命卫队称永久管理霍尔木兹",
-          "url": "https://www.cls.cn/detail/2358681",
-          "source": "财联社热门",
+          "title": "美国财政部海外资产控制办公室(OFAC)：在霍尔木兹海峡向伊朗支付“过路费”的公司面临“重大制裁”。",
+          "url": "https://flash.jin10.com/detail/20260429021612523800",
+          "source": "金十数据",
           "ranks": [
-            13
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时00分"
+          "time_info": "02时46分"
+        },
+        {
+          "title": "美国财政部网站：美国发布新的伊朗相关制裁。",
+          "url": "https://flash.jin10.com/detail/20260429020718981800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "市场消息：伊朗议会国家安全委员会成员赫兹里安表示，阿联酋正采取措施与美国结盟，企图对伊朗发动新一轮攻击。阿联酋公民应当明白，在未来任何可能爆发的战争中，该国都将遭到严厉教训。",
+          "url": "https://flash.jin10.com/detail/20260429015937385800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -76,8 +121,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时00分"
+          "appearance_count": 2,
+          "time_info": "[01时00分 ~ 02时46分]"
         },
         {
           "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
@@ -87,19 +132,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时00分"
+          "appearance_count": 2,
+          "time_info": "[01时00分 ~ 02时46分]"
         },
         {
           "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
           "url": "https://wallstreetcn.com/articles/3771064",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时00分"
+          "appearance_count": 2,
+          "time_info": "[01时00分 ~ 02时46分]"
         },
         {
           "title": "甲骨文：对与OpenAI的合作感到非常兴奋。",
@@ -111,6 +157,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时00分"
+        },
+        {
+          "title": "OpenAI的Codex登陆亚马逊Bedrock平台",
+          "url": "https://flash.jin10.com/detail/20260429015838005800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "特朗普回应德国总理嘲笑：他根本不懂自己在说什么",
+          "url": "https://flash.jin10.com/detail/20260429023026738800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "美国总统特朗普：德国总理对伊朗问题的发言毫无根据。",
+          "url": "https://flash.jin10.com/detail/20260429022605924800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "特朗普遇刺未遂 俄伊官媒疑借机放大阴谋论",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2870490.html",
+          "source": "联合早报",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时00分 ~ 02时46分]"
+        },
+        {
+          "title": "消息人士透露，美国情报部门正在研判伊朗对特朗普宣布获胜可能做出的反应。官员们认为，尽管军事选项依然存在，但冲突大规模升级的可能性已有所降低。",
+          "url": "https://flash.jin10.com/detail/20260429022426041800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
         }
       ]
     },
@@ -126,8 +233,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时00分"
+          "appearance_count": 2,
+          "time_info": "[01时00分 ~ 02时46分]"
         },
         {
           "title": "美股大型科技股盘前跌多涨少，Arm跌超7%",
@@ -137,25 +244,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时00分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特朗普遇刺未遂 俄伊官媒疑借机放大阴谋论",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2870490.html",
-          "source": "联合早报",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时00分"
+          "appearance_count": 2,
+          "time_info": "[01时00分 ~ 02时46分]"
         }
       ]
     }
