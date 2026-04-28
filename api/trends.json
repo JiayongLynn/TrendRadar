@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T02:46:52.301991+08:00",
-  "total_titles_processed": 139,
+  "generated_at": "2026-04-29T04:24:35.044684+08:00",
+  "total_titles_processed": 167,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "据Tanker Tracker：卫星图像显示，伊朗国家油轮公司旗下的10艘油轮已确认停泊在恰巴哈尔港附近的港口外。这表明，在美国实施海上封锁后，从伊朗出发的原油运输路线正在发生变化。",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 02时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 04时24分]"
         },
         {
           "title": "称美国无立场“支配”其他国家 伊朗愿分享“美国战败”经验",
@@ -37,8 +37,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 02时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 04时24分]"
         },
         {
           "title": "伊朗革命卫队称永久管理霍尔木兹",
@@ -49,8 +49,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 02时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 04时24分]"
         },
         {
           "title": "伊朗外长称美方请求谈判、伊方正考虑，美国务卿称伊重开霍尔木兹提议不可接受",
@@ -70,7 +70,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
         },
@@ -81,7 +81,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
         },
@@ -92,7 +92,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
         },
@@ -103,15 +103,26 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
+        },
+        {
+          "title": "海湾合作委员会秘书长贾西姆·布达维表示，在吉达举行的海湾合作委员会峰会谴责了伊朗的袭击，并补充说，这些袭击导致海湾国家与德黑兰之间的信任急剧下降。",
+          "url": "https://flash.jin10.com/detail/20260429025050446800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -121,8 +132,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 02时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 04时24分]"
         },
         {
           "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
@@ -132,8 +143,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 02时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 04时24分]"
         },
         {
           "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
@@ -144,8 +155,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 02时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 04时24分]"
         },
         {
           "title": "甲骨文：对与OpenAI的合作感到非常兴奋。",
@@ -159,21 +170,43 @@
           "time_info": "01时00分"
         },
         {
+          "title": "埃隆·马斯克在加州联邦法院的OpenAI案庭审中出庭作证。",
+          "url": "https://flash.jin10.com/detail/20260429030025624800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
           "title": "OpenAI的Codex登陆亚马逊Bedrock平台",
           "url": "https://flash.jin10.com/detail/20260429015838005800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
+        },
+        {
+          "title": "市场分析：科技股抛售潮折射出OpenAI的巨大影响力",
+          "url": "https://flash.jin10.com/detail/20260429025003263800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "特朗普回应德国总理嘲笑：他根本不懂自己在说什么",
@@ -182,7 +215,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
         },
@@ -193,7 +226,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
         },
@@ -205,8 +238,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 02时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 04时24分]"
         },
         {
           "title": "消息人士透露，美国情报部门正在研判伊朗对特朗普宣布获胜可能做出的反应。官员们认为，尽管军事选项依然存在，但冲突大规模升级的可能性已有所降低。",
@@ -215,9 +248,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
+        },
+        {
+          "title": "因与特朗普存在分歧，美国驻乌克兰大使即将离任",
+          "url": "https://flash.jin10.com/detail/20260429032221127800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "美国情报机构研判伊朗将如何回应特朗普单方面宣布胜利",
+          "url": "https://flash.jin10.com/detail/20260429031029178800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         }
       ]
     },
@@ -233,8 +288,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 02时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 04时24分]"
         },
         {
           "title": "美股大型科技股盘前跌多涨少，Arm跌超7%",
@@ -244,8 +299,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 02时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 04时24分]"
         }
       ]
     }
