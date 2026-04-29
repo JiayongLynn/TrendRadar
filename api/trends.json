@@ -1,11 +1,343 @@
 {
-  "generated_at": "2026-04-29T20:21:26.126277+08:00",
-  "total_titles_processed": 615,
+  "generated_at": "2026-04-29T23:23:09.179529+08:00",
+  "total_titles_processed": 696,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "伊朗",
+      "match_count": 29,
+      "titles": [
+        {
+          "title": "【早报】阿联酋“退群”，全球油市巨震；伊朗或向巴基斯坦提交调整版方案",
+          "url": "https://www.cls.cn/detail/2358883",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时01分 ~ 15时29分]"
+        },
+        {
+          "title": "美国务卿鲁比奥：伊朗将霍尔木兹海峡当作\"经济核武器\"",
+          "url": "https://www.cls.cn/detail/2358468",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 08时01分]"
+        },
+        {
+          "title": "伊朗外交部：国际红十字委员会主席埃格与伊朗外交部长阿拉格齐举行对话。",
+          "url": "https://flash.jin10.com/detail/20260429181234345800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "称美国无立场“支配”其他国家 伊朗愿分享“美国战败”经验",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2870497.html",
+          "source": "联合早报",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 08时01分]"
+        },
+        {
+          "title": "据Tanker Tracker：卫星图像显示，伊朗国家油轮公司旗下的10艘油轮已确认停泊在恰巴哈尔港附近的港口外。这表明，在美国实施海上封锁后，从伊朗出发的原油运输路线正在发生变化。",
+          "url": "https://flash.jin10.com/detail/20260429002733297800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时00分"
+        },
+        {
+          "title": "联合国：伊朗自战争爆发后已处决21人 逮捕4000多人",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2970590.html",
+          "source": "联合早报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
+          "title": "伊朗革命卫队称永久管理霍尔木兹",
+          "url": "https://www.cls.cn/detail/2358681",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时00分 ~ 06时07分]"
+        },
+        {
+          "title": "伊朗官员：美国试图以封锁逼迫伊朗是徒劳的",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2970555.html",
+          "source": "联合早报",
+          "ranks": [
+            4,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 20时21分]"
+        },
+        {
+          "title": "美国警告金融机构 涉伊朗原油的中国炼油交易或被制裁",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2970536.html",
+          "source": "联合早报",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 15时29分]"
+        },
+        {
+          "title": "据半岛电视台：白宫表示，美国不会为了结束战争并开放霍尔木兹海峡而“仓促与伊朗达成糟糕的协议”。",
+          "url": "https://flash.jin10.com/detail/20260429054559423800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时06分 ~ 06时07分]"
+        },
+        {
+          "title": "英国首相府：英国财政大臣明确表示，政府需要对伊朗战争对经济的影响做出灵活和负责任的回应。",
+          "url": "https://flash.jin10.com/detail/20260429045410077800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时06分 ~ 06时07分]"
+        },
+        {
+          "title": "卫星图像显示伊朗恰巴哈尔港附近海域出现多艘油轮",
+          "url": "https://flash.jin10.com/detail/20260429045233783800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时06分 ~ 06时07分]"
+        },
+        {
+          "title": "伊朗外长称美方请求谈判、伊方正考虑，美国务卿称伊重开霍尔木兹提议不可接受",
+          "url": "https://wallstreetcn.com/articles/3771035",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时00分"
+        },
+        {
+          "title": "美国禁向伊朗付海峡通行费 或准备长期实施海上封锁",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2970588.html",
+          "source": "联合早报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
+          "title": "冯德莱恩警告：伊朗战争后果或影响欧洲多年",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2970587.html",
+          "source": "联合早报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
+          "title": "伊朗官员：美国试图以封锁逼迫伊朗的做法是徒劳的",
+          "url": "https://flash.jin10.com/detail/20260429115722872800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "美国财政部：对35个伊朗实体和个人实施制裁。",
+          "url": "https://flash.jin10.com/detail/20260429021657295800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "美国财政部海外资产控制办公室(OFAC)：在霍尔木兹海峡向伊朗支付“过路费”的公司面临“重大制裁”。",
+          "url": "https://flash.jin10.com/detail/20260429021612523800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "美国财政部网站：美国发布新的伊朗相关制裁。",
+          "url": "https://flash.jin10.com/detail/20260429020718981800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "市场消息：伊朗议会国家安全委员会成员赫兹里安表示，阿联酋正采取措施与美国结盟，企图对伊朗发动新一轮攻击。阿联酋公民应当明白，在未来任何可能爆发的战争中，该国都将遭到严厉教训。",
+          "url": "https://flash.jin10.com/detail/20260429015937385800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "瑞银CEO：市场对伊朗冲突过度乐观",
+          "url": "https://flash.jin10.com/detail/20260429150534593800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
+          "title": "美国禁止本国个人或实体向伊朗缴纳霍尔木兹海峡通行费",
+          "url": "https://flash.jin10.com/detail/20260429062409813800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "伊朗和印度外长通话讨论停火及双边关系。",
+          "url": "https://flash.jin10.com/detail/20260429225201837800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
+          "title": "伊朗战事反加固黄金长牛逻辑？盛宝银行放言：2030年前10000美元见",
+          "url": "https://flash.jin10.com/detail/20260429175156037800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "印度官员表示，印度正在与伊朗就船只离港事宜进行讨论。",
+          "url": "https://flash.jin10.com/detail/20260429175101131800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "据黎巴嫩真主党半官方网站Alahednews：巴基斯坦总理办公室称，与伊朗的外交接触正在进行中。",
+          "url": "https://flash.jin10.com/detail/20260429200053235800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：必须坚决对抗伊朗这样的敌人。他们的核设施已被摧毁。",
+          "url": "https://flash.jin10.com/detail/20260429224950008800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
+          "title": "海湾合作委员会秘书长贾西姆·布达维表示，在吉达举行的海湾合作委员会峰会谴责了伊朗的袭击，并补充说，这些袭击导致海湾国家与德黑兰之间的信任急剧下降。",
+          "url": "https://flash.jin10.com/detail/20260429025050446800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "美国国防部审计官赫斯特：美国迄今已在伊朗战争中花费了250亿美元。",
+          "url": "https://flash.jin10.com/detail/20260429224758672800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普被曝准备长期封锁伊朗！一文读懂：背后有哪些考量？",
@@ -116,6 +448,32 @@
           "time_info": "[08时01分 ~ 15时29分]"
         },
         {
+          "title": "反击美国受伊朗“羞辱”言论 特朗普指默茨对伊朗一无所知",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2970562.html",
+          "source": "联合早报",
+          "ranks": [
+            14,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时13分 ~ 23时23分]"
+        },
+        {
+          "title": "白宫记者晚宴枪击案：疑犯科尔· 托马斯· 艾伦被控意图刺杀特朗普",
+          "url": "https://www.zaochenbao.com/news/world/202604/2970561.html",
+          "source": "联合早报",
+          "ranks": [
+            15,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时13分 ~ 23时23分]"
+        },
+        {
           "title": "美伊极致拉扯：伊朗或因特朗普不满调整方案，美国禁止向伊缴纳“通行费”！",
           "url": "https://www.cls.cn/detail/2358925",
           "source": "财联社热门",
@@ -137,30 +495,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时34分 ~ 15时29分]"
-        },
-        {
-          "title": "反击美国受伊朗“羞辱”言论 特朗普指默茨对伊朗一无所知",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2970562.html",
-          "source": "联合早报",
-          "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时13分 ~ 20时21分]"
-        },
-        {
-          "title": "白宫记者晚宴枪击案：疑犯科尔· 托马斯· 艾伦被控意图刺杀特朗普",
-          "url": "https://www.zaochenbao.com/news/world/202604/2970561.html",
-          "source": "联合早报",
-          "ranks": [
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时13分 ~ 20时21分]"
         },
         {
           "title": "纪文宇：特朗普与教宗口水战透露内心世界",
@@ -195,6 +529,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "特朗普：伊朗最好“放聪明点”",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2970586.html",
+          "source": "联合早报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "因与特朗普存在分歧，美国驻乌克兰大使即将离任",
@@ -287,272 +632,6 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 23,
-      "titles": [
-        {
-          "title": "【早报】阿联酋“退群”，全球油市巨震；伊朗或向巴基斯坦提交调整版方案",
-          "url": "https://www.cls.cn/detail/2358883",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 15时29分]"
-        },
-        {
-          "title": "美国务卿鲁比奥：伊朗将霍尔木兹海峡当作\"经济核武器\"",
-          "url": "https://www.cls.cn/detail/2358468",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时00分 ~ 08时01分]"
-        },
-        {
-          "title": "伊朗外交部：国际红十字委员会主席埃格与伊朗外交部长阿拉格齐举行对话。",
-          "url": "https://flash.jin10.com/detail/20260429181234345800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时13分"
-        },
-        {
-          "title": "称美国无立场“支配”其他国家 伊朗愿分享“美国战败”经验",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2870497.html",
-          "source": "联合早报",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时00分 ~ 08时01分]"
-        },
-        {
-          "title": "据Tanker Tracker：卫星图像显示，伊朗国家油轮公司旗下的10艘油轮已确认停泊在恰巴哈尔港附近的港口外。这表明，在美国实施海上封锁后，从伊朗出发的原油运输路线正在发生变化。",
-          "url": "https://flash.jin10.com/detail/20260429002733297800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时00分"
-        },
-        {
-          "title": "伊朗革命卫队称永久管理霍尔木兹",
-          "url": "https://www.cls.cn/detail/2358681",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时00分 ~ 06时07分]"
-        },
-        {
-          "title": "伊朗官员：美国试图以封锁逼迫伊朗是徒劳的",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2970555.html",
-          "source": "联合早报",
-          "ranks": [
-            4,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时29分 ~ 20时21分]"
-        },
-        {
-          "title": "美国警告金融机构 涉伊朗原油的中国炼油交易或被制裁",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2970536.html",
-          "source": "联合早报",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 15时29分]"
-        },
-        {
-          "title": "据半岛电视台：白宫表示，美国不会为了结束战争并开放霍尔木兹海峡而“仓促与伊朗达成糟糕的协议”。",
-          "url": "https://flash.jin10.com/detail/20260429054559423800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时06分 ~ 06时07分]"
-        },
-        {
-          "title": "英国首相府：英国财政大臣明确表示，政府需要对伊朗战争对经济的影响做出灵活和负责任的回应。",
-          "url": "https://flash.jin10.com/detail/20260429045410077800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时06分 ~ 06时07分]"
-        },
-        {
-          "title": "卫星图像显示伊朗恰巴哈尔港附近海域出现多艘油轮",
-          "url": "https://flash.jin10.com/detail/20260429045233783800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时06分 ~ 06时07分]"
-        },
-        {
-          "title": "伊朗外长称美方请求谈判、伊方正考虑，美国务卿称伊重开霍尔木兹提议不可接受",
-          "url": "https://wallstreetcn.com/articles/3771035",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时00分"
-        },
-        {
-          "title": "伊朗官员：美国试图以封锁逼迫伊朗的做法是徒劳的",
-          "url": "https://flash.jin10.com/detail/20260429115722872800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "美国财政部：对35个伊朗实体和个人实施制裁。",
-          "url": "https://flash.jin10.com/detail/20260429021657295800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时46分"
-        },
-        {
-          "title": "美国财政部海外资产控制办公室(OFAC)：在霍尔木兹海峡向伊朗支付“过路费”的公司面临“重大制裁”。",
-          "url": "https://flash.jin10.com/detail/20260429021612523800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时46分"
-        },
-        {
-          "title": "美国财政部网站：美国发布新的伊朗相关制裁。",
-          "url": "https://flash.jin10.com/detail/20260429020718981800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时46分"
-        },
-        {
-          "title": "市场消息：伊朗议会国家安全委员会成员赫兹里安表示，阿联酋正采取措施与美国结盟，企图对伊朗发动新一轮攻击。阿联酋公民应当明白，在未来任何可能爆发的战争中，该国都将遭到严厉教训。",
-          "url": "https://flash.jin10.com/detail/20260429015937385800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时46分"
-        },
-        {
-          "title": "瑞银CEO：市场对伊朗冲突过度乐观",
-          "url": "https://flash.jin10.com/detail/20260429150534593800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
-          "title": "美国禁止本国个人或实体向伊朗缴纳霍尔木兹海峡通行费",
-          "url": "https://flash.jin10.com/detail/20260429062409813800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "伊朗战事反加固黄金长牛逻辑？盛宝银行放言：2030年前10000美元见",
-          "url": "https://flash.jin10.com/detail/20260429175156037800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时13分"
-        },
-        {
-          "title": "印度官员表示，印度正在与伊朗就船只离港事宜进行讨论。",
-          "url": "https://flash.jin10.com/detail/20260429175101131800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时13分"
-        },
-        {
-          "title": "据黎巴嫩真主党半官方网站Alahednews：巴基斯坦总理办公室称，与伊朗的外交接触正在进行中。",
-          "url": "https://flash.jin10.com/detail/20260429200053235800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "海湾合作委员会秘书长贾西姆·布达维表示，在吉达举行的海湾合作委员会峰会谴责了伊朗的袭击，并补充说，这些袭击导致海湾国家与德黑兰之间的信任急剧下降。",
-          "url": "https://flash.jin10.com/detail/20260429025050446800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 20,
       "titles": [
@@ -564,8 +643,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时01分 ~ 20时21分]"
+          "appearance_count": 6,
+          "time_info": "[08时01分 ~ 23时23分]"
         },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -577,6 +656,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时00分 ~ 06时07分]"
+        },
+        {
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时01分 ~ 23时23分]"
         },
         {
           "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
@@ -604,18 +696,6 @@
           "time_info": "[01时00分 ~ 08时01分]"
         },
         {
-          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
-          "url": "https://wallstreetcn.com/articles/3771151",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时01分 ~ 20时21分]"
-        },
-        {
           "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
           "url": "https://www.cls.cn/detail/2358855",
           "source": "财联社热门",
@@ -627,6 +707,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时06分 ~ 12时34分]"
+        },
+        {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时29分 ~ 23时23分]"
         },
         {
           "title": "AI世纪对决开庭，马斯克在OpenAI审判中出庭作证",
@@ -674,18 +767,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时06分 ~ 08时01分]"
-        },
-        {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时29分 ~ 20时21分]"
         },
         {
           "title": "马斯克控诉“慈善被掠夺”，OpenAI反驳其想要“王国的钥匙”",
@@ -789,66 +870,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek新模型发布后 中国大型科企争相抢购华为AI晶片",
-          "url": "https://www.zaochenbao.com/news/china/202604/2970571.html",
-          "source": "联合早报",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时13分 ~ 20时21分]"
-        },
-        {
-          "title": "6家券商抢先部署DeepSeek V4，2小时接入、24小时上线，新一轮竞速开始",
-          "url": "https://www.cls.cn/detail/2359433",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时13分 ~ 20时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "大行评级丨招商证券国际：微软与OpenAI更新合作协议，亚马逊和谷歌迎利好",
-          "url": "https://www.gelonghui.com/news/5223194",
-          "source": "格隆汇",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
-          "title": "据CNBC记者：美国国防部的人工智能负责人确认，该部门正在扩大对谷歌Gemini人工智能模型的使用。",
-          "url": "https://flash.jin10.com/detail/20260429054900131800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时06分 ~ 06时07分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
         {
           "title": "热门中概股美股盘前多数下跌，理想汽车跌超4%",
@@ -871,6 +894,120 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时00分 ~ 06时07分]"
+        },
+        {
+          "title": "热门中概股美股盘前涨跌不一，蔚来涨超4%",
+          "url": "https://www.36kr.com/newsflashes/3787900239846402",
+          "source": "36氪",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
+          "title": "美股大型科技股盘前普跌，苹果跌超1%",
+          "url": "https://www.36kr.com/newsflashes/3787898638212100",
+          "source": "36氪",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
+          "title": "市场静待联储决策及巨头财报，美股低开，存储芯片股大涨，布油日内涨5%，金银下跌",
+          "url": "https://wallstreetcn.com/articles/3771214",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
+          "title": "美股异动丨空客大涨超6%，南航拟购137架A320NEO系列飞机",
+          "url": "https://www.gelonghui.com/news/5224497",
+          "source": "格隆汇",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "大行评级丨招商证券国际：微软与OpenAI更新合作协议，亚马逊和谷歌迎利好",
+          "url": "https://www.gelonghui.com/news/5223194",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
+          "title": "据CNBC记者：美国国防部的人工智能负责人确认，该部门正在扩大对谷歌Gemini人工智能模型的使用。",
+          "url": "https://flash.jin10.com/detail/20260429054900131800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时06分 ~ 06时07分]"
+        },
+        {
+          "title": "谷歌推出可将其他人工智能提供商的人工智能聊天历史记录导入Gemini的工具",
+          "url": "https://www.36kr.com/newsflashes/3787882892631302",
+          "source": "36氪",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek新模型发布后 中国大型科企争相抢购华为AI晶片",
+          "url": "https://www.zaochenbao.com/news/china/202604/2970571.html",
+          "source": "联合早报",
+          "ranks": [
+            5,
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时13分 ~ 23时23分]"
+        },
+        {
+          "title": "6家券商抢先部署DeepSeek V4，2小时接入、24小时上线，新一轮竞速开始",
+          "url": "https://www.cls.cn/detail/2359433",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 20时21分]"
         }
       ]
     },
