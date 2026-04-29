@@ -1,8 +1,124 @@
 {
-  "generated_at": "2026-04-30T03:47:45.708158+08:00",
-  "total_titles_processed": 140,
+  "generated_at": "2026-04-30T05:14:56.465075+08:00",
+  "total_titles_processed": 169,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "伊朗",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "白宫高级官员表示，美国寻求没收在海上扣押的与伊朗有关的油轮。",
+          "url": "https://flash.jin10.com/detail/20260430044919881800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "伊朗议长呼吁民众保持团结挫败敌人阴谋",
+          "url": "https://flash.jin10.com/detail/20260430011357873800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "美国财长贝森特：我相信伊朗冲突后油价会下降。",
+          "url": "https://flash.jin10.com/detail/20260430044841642800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "联合国：伊朗自战争爆发后已处决21人 逮捕4000多人",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2970590.html",
+          "source": "联合早报",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 05时14分]"
+        },
+        {
+          "title": "美国禁向伊朗付海峡通行费 或准备长期实施海上封锁",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2970588.html",
+          "source": "联合早报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 05时14分]"
+        },
+        {
+          "title": "冯德莱恩警告：伊朗战争后果或影响欧洲多年",
+          "url": "https://www.zaochenbao.com/news/politics/202604/2970587.html",
+          "source": "联合早报",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 05时14分]"
+        },
+        {
+          "title": "美国财长贝森特：我们每天都在对伊朗施加更多经济压力。",
+          "url": "https://flash.jin10.com/detail/20260430044728383800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "美国财长贝森特：我们正全力以赴与伊朗达成协议。",
+          "url": "https://flash.jin10.com/detail/20260430044608638800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "加拿大政府：禁止伊朗革命卫队官员入境。",
+          "url": "https://flash.jin10.com/detail/20260430044545534800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "美国财长贝森特：消费者和股市（投资者）正在关注伊朗。",
+          "url": "https://flash.jin10.com/detail/20260430044453564800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        }
+      ]
+    },
     {
       "keyword_group": "特朗普",
       "match_count": 7,
@@ -15,8 +131,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 05时14分]"
         },
         {
           "title": "俄罗斯总统普京与美国总统特朗普讨论了伊朗问题。",
@@ -59,8 +175,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 05时14分]"
         },
         {
           "title": "反击美国受伊朗“羞辱”言论 特朗普指默茨对伊朗一无所知",
@@ -70,8 +186,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 05时14分]"
         },
         {
           "title": "特朗普“为无限期封锁伊朗”做准备，但对达成临时协议持开放态度",
@@ -87,58 +203,69 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
       "titles": [
         {
-          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
-          "url": "https://wallstreetcn.com/articles/3771095",
-          "source": "华尔街见闻",
+          "title": "谷歌推出可将其他人工智能提供商的人工智能聊天历史记录导入Gemini的工具",
+          "url": "https://www.36kr.com/newsflashes/3787882892631302",
+          "source": "36氪",
           "ranks": [
-            2
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 05时14分]"
         },
         {
-          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
-          "url": "https://wallstreetcn.com/articles/3771151",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 03时47分]"
-        },
-        {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 03时47分]"
-        },
-        {
-          "title": "OpenAI：开发者大会9月29日在旧金山举行。",
-          "url": "https://flash.jin10.com/detail/20260430010327901800",
+          "title": "Alphabet(GOOGL.O)CEO：谷歌云业务正迎来强劲的交易势头。",
+          "url": "https://flash.jin10.com/detail/20260430044408891800",
           "source": "金十数据",
           "ranks": [
-            11
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时45分"
+          "time_info": "05时14分"
+        },
+        {
+          "title": "谷歌财报电话会将于十分钟后举行。",
+          "url": "https://flash.jin10.com/detail/20260430042000001800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "微软(MSFT.O)、高通(QCOM.O)美股盘后下跌约3%，谷歌(GOOG.O)涨2%，亚马逊(AMZN.O)跌4%，Meta Platforms(META.O)跌6%。",
+          "url": "https://flash.jin10.com/detail/20260430041652163800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "Alphabet(GOOGL.O)：第一季度谷歌云收入为200.3亿美元。",
+          "url": "https://flash.jin10.com/detail/20260430041128697800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "热门中概股美股盘前涨跌不一，蔚来涨超4%",
@@ -148,8 +275,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 05时14分]"
         },
         {
           "title": "美股大型科技股盘前普跌，苹果跌超1%",
@@ -159,19 +286,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 05时14分]"
         },
         {
           "title": "市场静待联储决策及巨头财报，美股低开，存储芯片股大涨，布油日内涨5%，金银下跌",
           "url": "https://wallstreetcn.com/articles/3771214",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 05时14分]"
         },
         {
           "title": "金十图示：2026年04月29日（周三）热门中概股行情一览（美股盘中）",
@@ -183,73 +311,69 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "已公布财报的“美股七巨头”中，仅Alphabet在盘后上涨",
+          "url": "https://flash.jin10.com/detail/20260430044344990800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
+      "keyword_group": "chatgpt openai",
       "match_count": 4,
       "titles": [
         {
-          "title": "伊朗议长呼吁民众保持团结挫败敌人阴谋",
-          "url": "https://flash.jin10.com/detail/20260430011357873800",
-          "source": "金十数据",
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
           "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 05时14分]"
+        },
+        {
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 05时14分]"
+        },
+        {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 05时14分]"
         },
         {
-          "title": "联合国：伊朗自战争爆发后已处决21人 逮捕4000多人",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2970590.html",
-          "source": "联合早报",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 03时47分]"
-        },
-        {
-          "title": "美国禁向伊朗付海峡通行费 或准备长期实施海上封锁",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2970588.html",
-          "source": "联合早报",
+          "title": "OpenAI：开发者大会9月29日在旧金山举行。",
+          "url": "https://flash.jin10.com/detail/20260430010327901800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 03时47分]"
-        },
-        {
-          "title": "冯德莱恩警告：伊朗战争后果或影响欧洲多年",
-          "url": "https://www.zaochenbao.com/news/politics/202604/2970587.html",
-          "source": "联合早报",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 03时47分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌推出可将其他人工智能提供商的人工智能聊天历史记录导入Gemini的工具",
-          "url": "https://www.36kr.com/newsflashes/3787882892631302",
-          "source": "36氪",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 03时47分]"
+          "appearance_count": 1,
+          "time_info": "01时45分"
         }
       ]
     }
