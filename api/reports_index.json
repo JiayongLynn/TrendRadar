@@ -1,5 +1,5 @@
 {
-  "today_date": "2026-04-30",
+  "today_date": "2026-05-01",
   "reports": [
     {
       "date": "2025-08-31",
@@ -1115,6 +1115,11 @@
       "date": "2026-04-30",
       "date_folder": "2026年04月30日",
       "summary_path": "output/2026年04月30日/html/当日汇总.html"
+    },
+    {
+      "date": "2026-05-01",
+      "date_folder": "2026年05月01日",
+      "summary_path": "output/2026年05月01日/html/当日汇总.html"
     }
   ]
 }
