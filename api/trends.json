@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T04:26:01.162523+08:00",
-  "total_titles_processed": 167,
+  "generated_at": "2026-05-01T06:03:33.533680+08:00",
+  "total_titles_processed": 198,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普号召各国加入新国际联盟 重开霍尔木兹海峡",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时03分]"
         },
         {
           "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时03分]"
         },
         {
           "title": "特朗普家族支持的无人机公司与美国签署武器采购协议",
@@ -53,6 +53,17 @@
           "time_info": "02时17分"
         },
         {
+          "title": "特朗普称只有少数人知晓美伊谈判实际进展",
+          "url": "https://flash.jin10.com/detail/20260501054138317800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
           "title": "美军指挥官将向特朗普汇报针对伊朗新选项",
           "url": "https://www.zaochenbao.com/news/politics/202604/3070637.html",
           "source": "联合早报",
@@ -60,8 +71,19 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时03分]"
+        },
+        {
+          "title": "美媒称特朗普提出建立海上联盟新计划，以重开霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3771420",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 06时03分]"
         },
         {
           "title": "一位白宫官员表示，特朗普政府正与国会进行“积极磋商”，探讨是否寻求对伊朗战争的授权。",
@@ -89,17 +111,6 @@
           "title": "特朗普称他可能需要打破伊朗停火协议",
           "url": "https://flash.jin10.com/detail/20260501034702107800",
           "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 04时26分]"
-        },
-        {
-          "title": "美媒称特朗普提出建立海上联盟新计划，以重开霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3771420",
-          "source": "华尔街见闻",
           "ranks": [
             10
           ],
@@ -262,6 +273,28 @@
           "time_info": "02时17分"
         },
         {
+          "title": "特朗普：可能减少驻西班牙和意大利的美军规模",
+          "url": "https://flash.jin10.com/detail/20260501052721339800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "特朗普：不在乎鲍威尔是否留任理事",
+          "url": "https://flash.jin10.com/detail/20260501051602569800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
           "title": "市场消息：美国众议院通过法案，为美国国土安全部大部分部门提供资金，该法案将提交给特朗普。",
           "url": "https://flash.jin10.com/detail/20260501010911115800",
           "source": "金十数据",
@@ -276,7 +309,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊朗总统：任何企图在海上封锁伊朗的行动注定失败",
@@ -286,8 +319,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时03分]"
         },
         {
           "title": "伊朗最高领袖：美国遭遇“耻辱性失败”",
@@ -297,8 +330,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时03分]"
         },
         {
           "title": "伊朗战事冲击显现 法国经济第一季度意外陷入停滞",
@@ -308,8 +341,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时03分]"
         },
         {
           "title": "美国官员：伊朗战争成本接近500亿美元。",
@@ -367,6 +400,17 @@
           "time_info": "02时17分"
         },
         {
+          "title": "据伊朗学生通讯社：伊朗外交部发言人表示，期望与美国的谈判迅速取得成果是不切实际的。",
+          "url": "https://flash.jin10.com/detail/20260501052857915800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
           "title": "24小时接收6500吨装备 以防长称或“很快恢复”对伊朗军事行动",
           "url": "https://flash.jin10.com/detail/20260501012244092800",
           "source": "金十数据",
@@ -376,6 +420,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "据华尔街日报：Meta Platforms CEO扎克伯格表示，公司将缩减公司各部门团队，伊朗战争导致公司销售出现“轨迹变化”。",
+          "url": "https://flash.jin10.com/detail/20260501052348245800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         },
         {
           "title": "美国国防部长赫格塞思：我们今天面临的最大危险是那些试图破坏我们对抗伊朗努力的失败主义民主党人。",
@@ -424,8 +479,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时03分]"
         },
         {
           "title": "经济数据与财报提振市场情绪，美股高开，日元跳涨，油价高位回落，金银上涨",
@@ -436,8 +491,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时03分]"
         },
         {
           "title": "美股收盘，道指初步收涨1.62%、标普500指数涨1.02%、纳指0.89涨%。Alphabet(GOOG.O)收涨9.95%，创历史新高；高通(QCOM.O)涨超15%。纳斯达克中国金龙指数涨2.1%，阿里巴巴(BABA.N)涨超1%。",
@@ -458,8 +513,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时03分]"
         }
       ]
     },
@@ -475,8 +530,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时03分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -487,8 +542,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时03分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -500,8 +555,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时03分]"
         }
       ]
     },
@@ -535,8 +590,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时03分]"
         }
       ]
     }
