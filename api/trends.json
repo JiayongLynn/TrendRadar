@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T00:26:59.132460+08:00",
-  "total_titles_processed": 116,
+  "generated_at": "2026-05-01T02:17:57.437255+08:00",
+  "total_titles_processed": 139,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "伊朗总统：任何企图在海上封锁伊朗的行动注定失败",
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时17分]"
         },
         {
           "title": "伊朗最高领袖：美国遭遇“耻辱性失败”",
@@ -26,8 +26,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时17分]"
         },
         {
           "title": "伊朗战事冲击显现 法国经济第一季度意外陷入停滞",
@@ -37,8 +37,41 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时17分]"
+        },
+        {
+          "title": "国际足联主席因凡蒂诺：伊朗将参加世界杯，并将在美国比赛。",
+          "url": "https://flash.jin10.com/detail/20260501014421006800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时26分"
+          "time_info": "02时17分"
+        },
+        {
+          "title": "伊朗总统：持续推进海上封锁的行为不可容忍",
+          "url": "https://flash.jin10.com/detail/20260501014327823800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "24小时接收6500吨装备 以防长称或“很快恢复”对伊朗军事行动",
+          "url": "https://flash.jin10.com/detail/20260501012244092800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
         },
         {
           "title": "美国国防部长赫格塞思：我们今天面临的最大危险是那些试图破坏我们对抗伊朗努力的失败主义民主党人。",
@@ -77,7 +110,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普号召各国加入新国际联盟 重开霍尔木兹海峡",
@@ -87,8 +120,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时17分]"
         },
         {
           "title": "特朗普家族支持的无人机公司与美国签署武器采购协议",
@@ -102,6 +135,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "美国总统特朗普：美国众议院少数党领袖杰弗瑞斯竟然称美国最高法院是一个“非法的”法院。绝不应允许以这种方式诋毁世界上最伟大的机构之一。他必须立即撤回这一言论。",
+          "url": "https://flash.jin10.com/detail/20260501014623242800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
           "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
           "url": "https://wallstreetcn.com/articles/3771344",
           "source": "华尔街见闻",
@@ -109,8 +153,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时17分]"
         },
         {
           "title": "美军指挥官将向特朗普汇报针对伊朗新选项",
@@ -120,8 +164,30 @@
             30
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时17分]"
+        },
+        {
+          "title": "白宫官员：美国总统特朗普预计将在周四签署国土安全部资金法案。",
+          "url": "https://flash.jin10.com/detail/20260501014342741800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时26分"
+          "time_info": "02时17分"
+        },
+        {
+          "title": "市场消息：美国众议院通过法案，为美国国土安全部大部分部门提供资金，该法案将提交给特朗普。",
+          "url": "https://flash.jin10.com/detail/20260501010911115800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
         }
       ]
     },
@@ -137,8 +203,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时17分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -148,19 +214,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时17分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
           "url": "https://wallstreetcn.com/articles/3771311",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时17分]"
         }
       ]
     },
@@ -176,8 +243,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时17分]"
         },
         {
           "title": "经济数据与财报提振市场情绪，美股高开，日元跳涨，油价高位回落，金银上涨",
@@ -187,8 +254,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时17分]"
         },
         {
           "title": "美股异动丨高通大涨超15%，Q1业绩释放两大利好信号",
@@ -198,8 +265,25 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI为用户提供新安全措施 可抛弃密码登录",
+          "url": "https://flash.jin10.com/detail/20260501014313633800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时26分"
+          "time_info": "02时17分"
         }
       ]
     },
@@ -215,8 +299,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时17分]"
         }
       ]
     }
