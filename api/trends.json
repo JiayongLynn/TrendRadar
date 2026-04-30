@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T14:45:30.789143+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-04-30T17:22:46.806166+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普支持率创第二任期新低 支持美伊战争再下滑",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时45分 ~ 11时53分]"
+        },
+        {
+          "title": "停火岌岌可危？特朗普被曝将听取打击伊朗新方案 目标或包括基础设施",
+          "url": "https://www.cls.cn/detail/2360703",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 17时22分]"
         },
         {
           "title": "俄罗斯总统普京与美国总统特朗普讨论了伊朗问题。",
@@ -75,40 +87,6 @@
           "time_info": "07时03分"
         },
         {
-          "title": "美军指挥官将向特朗普汇报针对伊朗新选项",
-          "url": "https://www.zaochenbao.com/news/politics/202604/3070637.html",
-          "source": "联合早报",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
-          "title": "停火岌岌可危？特朗普被曝将听取打击伊朗新方案 目标或包括基础设施",
-          "url": "https://www.cls.cn/detail/2360703",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
-          "title": "查尔斯国王演讲：诗意、玩笑、以及对特朗普的微妙反驳",
-          "url": "https://www.zaochenbao.com/news/Chronicles/202604/3070619.html",
-          "source": "联合早报",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 14时45分]"
-        },
-        {
           "title": "特朗普将听取打击伊朗新方案 打击目标很有可能包括伊朗的基础设施",
           "url": "https://www.cls.cn/detail/2360629",
           "source": "财联社热门",
@@ -117,8 +95,33 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 17时22分]"
+        },
+        {
+          "title": "查尔斯国王演讲：诗意、玩笑、以及对特朗普的微妙反驳",
+          "url": "https://www.zaochenbao.com/news/Chronicles/202604/3070619.html",
+          "source": "联合早报",
+          "ranks": [
+            3,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 17时22分]"
+        },
+        {
+          "title": "美军指挥官将向特朗普汇报针对伊朗新选项",
+          "url": "https://www.zaochenbao.com/news/politics/202604/3070637.html",
+          "source": "联合早报",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时53分 ~ 14时45分]"
+          "time_info": "[14时45分 ~ 17时22分]"
         },
         {
           "title": "特朗普：伊朗最好“放聪明点”",
@@ -200,6 +203,17 @@
           "time_info": "07时03分"
         },
         {
+          "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
+          "url": "https://wallstreetcn.com/articles/3771344",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "特朗普称或削减驻德美军",
           "url": "https://flash.jin10.com/detail/20260430060755309800",
           "source": "金十数据",
@@ -217,7 +231,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -269,7 +283,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "白宫高级官员表示，美国寻求没收在海上扣押的与伊朗有关的油轮。",
@@ -303,6 +317,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "路透：中国独立炼厂对伊朗石油采购因利润承压放缓",
+          "url": "https://www.zaochenbao.com/news/china/202604/3070650.html",
+          "source": "联合早报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "联合国：伊朗自战争爆发后已处决21人 逮捕4000多人",
@@ -342,11 +367,12 @@
           "url": "https://www.zaochenbao.com/news/politics/202604/3070634.html",
           "source": "联合早报",
           "ranks": [
-            6
+            6,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 17时22分]"
         },
         {
           "title": "美国财长贝森特：我们每天都在对伊朗施加更多经济压力。",
@@ -358,6 +384,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "美军拟以高超音速导弹打击伊朗 系首次实战部署",
+          "url": "https://www.cls.cn/detail/2360722",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "外媒：美国计划在中东部署高超音速导弹，以备打击伊朗",
@@ -410,7 +447,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -421,7 +458,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         }
@@ -489,6 +526,18 @@
           "time_info": "[07时03分 ~ 11时53分]"
         },
         {
+          "title": "美股科技“四巨头”同日放榜 “AI烧钱”大战愈演愈烈",
+          "url": "https://www.cls.cn/detail/2360653",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 17时22分]"
+        },
+        {
           "title": "美股异动｜Meta盘后跌约6%，上调全年资本支出预期",
           "url": "https://www.gelonghui.com/news/5225082",
           "source": "格隆汇",
@@ -498,17 +547,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
-        },
-        {
-          "title": "美股科技“四巨头”同日放榜 “AI烧钱”大战愈演愈烈",
-          "url": "https://www.cls.cn/detail/2360653",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
         },
         {
           "title": "美股三大指数收盘涨跌不一 苹果概念、存储概念股大涨",
@@ -528,7 +566,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -561,6 +599,18 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
+          "url": "https://wallstreetcn.com/articles/3771319",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 17时22分]"
+        },
+        {
           "title": "谷歌推出可将其他人工智能提供商的人工智能聊天历史记录导入Gemini的工具",
           "url": "https://www.36kr.com/newsflashes/3787882892631302",
           "source": "36氪",
@@ -572,18 +622,6 @@
           "time_info": "[01时45分 ~ 07时03分]"
         },
         {
-          "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
-          "url": "https://wallstreetcn.com/articles/3771319",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 14时45分]"
-        },
-        {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
           "url": "https://wallstreetcn.com/articles/3771311",
           "source": "华尔街见闻",
@@ -592,8 +630,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 14时45分]"
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 17时22分]"
         },
         {
           "title": "美股异动｜谷歌盘后涨超6%，母公司Alphabet第一季度营收同比增长22%",
@@ -613,7 +651,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -742,7 +780,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         }
@@ -761,8 +799,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时03分 ~ 14时45分]"
+          "appearance_count": 4,
+          "time_info": "[07时03分 ~ 17时22分]"
         }
       ]
     }
