@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T11:53:13.137951+08:00",
-  "total_titles_processed": 316,
+  "generated_at": "2026-04-30T14:45:30.789143+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普支持率创第二任期新低 支持美伊战争再下滑",
@@ -37,7 +37,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         },
@@ -75,15 +75,50 @@
           "time_info": "07时03分"
         },
         {
-          "title": "查尔斯国王演讲：诗意、玩笑、以及对特朗普的微妙反驳",
-          "url": "https://www.zaochenbao.com/news/Chronicles/202604/3070619.html",
+          "title": "美军指挥官将向特朗普汇报针对伊朗新选项",
+          "url": "https://www.zaochenbao.com/news/politics/202604/3070637.html",
           "source": "联合早报",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时53分"
+          "time_info": "14时45分"
+        },
+        {
+          "title": "停火岌岌可危？特朗普被曝将听取打击伊朗新方案 目标或包括基础设施",
+          "url": "https://www.cls.cn/detail/2360703",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "查尔斯国王演讲：诗意、玩笑、以及对特朗普的微妙反驳",
+          "url": "https://www.zaochenbao.com/news/Chronicles/202604/3070619.html",
+          "source": "联合早报",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 14时45分]"
+        },
+        {
+          "title": "特朗普将听取打击伊朗新方案 打击目标很有可能包括伊朗的基础设施",
+          "url": "https://www.cls.cn/detail/2360629",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 14时45分]"
         },
         {
           "title": "特朗普：伊朗最好“放聪明点”",
@@ -108,6 +143,18 @@
           "time_info": "[01时45分 ~ 07时03分]"
         },
         {
+          "title": "特朗普称同伊朗的谈判正通过电话进行 | 环球市场",
+          "url": "https://www.cls.cn/detail/2360339",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 14时45分]"
+        },
+        {
           "title": "特朗普“为无限期封锁伊朗”做准备，但对达成临时协议持开放态度",
           "url": "https://wallstreetcn.com/articles/3771197",
           "source": "华尔街见闻",
@@ -119,13 +166,25 @@
           "time_info": "[01时45分 ~ 07时03分]"
         },
         {
+          "title": "图刺杀特朗普枪手 酒店持武器自拍照曝光",
+          "url": "https://www.zaochenbao.com/news/politics/202604/3070610.html",
+          "source": "联合早报",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 14时45分]"
+        },
+        {
           "title": "特朗普：正与伊朗进行“电话谈判”，彻底放弃核武器是协议前提！",
           "url": "https://www.cls.cn/detail/2360313",
           "source": "财联社热门",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         },
@@ -141,39 +200,6 @@
           "time_info": "07时03分"
         },
         {
-          "title": "特朗普称同伊朗的谈判正通过电话进行 | 环球市场",
-          "url": "https://www.cls.cn/detail/2360339",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "特朗普将听取打击伊朗新方案 打击目标很有可能包括伊朗的基础设施",
-          "url": "https://www.cls.cn/detail/2360629",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "图刺杀特朗普枪手 酒店持武器自拍照曝光",
-          "url": "https://www.zaochenbao.com/news/politics/202604/3070610.html",
-          "source": "联合早报",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
           "title": "特朗普称或削减驻德美军",
           "url": "https://flash.jin10.com/detail/20260430060755309800",
           "source": "金十数据",
@@ -185,13 +211,24 @@
           "time_info": "07时03分"
         },
         {
+          "title": "特朗普称海上封锁是“天才计划”，专家泼冷水：美国每次都这么想，每次都失望",
+          "url": "https://flash.jin10.com/detail/20260430141919731800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
           "title": "特朗普周四听取对伊作战新方案，美军拟首次部署高超音速导弹",
           "url": "https://flash.jin10.com/detail/20260430111551707800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         },
@@ -202,7 +239,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         },
@@ -232,7 +269,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "白宫高级官员表示，美国寻求没收在海上扣押的与伊朗有关的油轮。",
@@ -301,6 +338,17 @@
           "time_info": "[01时45分 ~ 07时03分]"
         },
         {
+          "title": "美国拟首次在中东部署高超音速导弹 以备打击伊朗",
+          "url": "https://www.zaochenbao.com/news/politics/202604/3070634.html",
+          "source": "联合早报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
           "title": "美国财长贝森特：我们每天都在对伊朗施加更多经济压力。",
           "url": "https://flash.jin10.com/detail/20260430044728383800",
           "source": "金十数据",
@@ -354,12 +402,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "伊朗海军司令：将向敌人展示一种“可怕的武器”",
+          "url": "https://www.cls.cn/detail/2360331",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "机构：伊朗战争推高塑料包装成本，日本食品价格今夏将上涨",
+          "url": "https://flash.jin10.com/detail/20260430142408781800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "热门中概股美股盘前涨跌不一，蔚来涨超4%",
@@ -430,6 +500,17 @@
           "time_info": "07时03分"
         },
         {
+          "title": "美股科技“四巨头”同日放榜 “AI烧钱”大战愈演愈烈",
+          "url": "https://www.cls.cn/detail/2360653",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
           "title": "美股三大指数收盘涨跌不一 苹果概念、存储概念股大涨",
           "url": "https://www.gelonghui.com/news/5225080",
           "source": "格隆汇",
@@ -439,6 +520,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "美股燃料电池龙头暴涨超27% SOFC或成AI数据中心供电首选",
+          "url": "https://www.cls.cn/detail/2360333",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "金十图示：2026年04月29日（周三）热门中概股行情一览（美股盘中）",
@@ -466,7 +558,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "谷歌推出可将其他人工智能提供商的人工智能聊天历史记录导入Gemini的工具",
@@ -480,6 +572,30 @@
           "time_info": "[01时45分 ~ 07时03分]"
         },
         {
+          "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
+          "url": "https://wallstreetcn.com/articles/3771319",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 14时45分]"
+        },
+        {
+          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
+          "url": "https://wallstreetcn.com/articles/3771311",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 14时45分]"
+        },
+        {
           "title": "美股异动｜谷歌盘后涨超6%，母公司Alphabet第一季度营收同比增长22%",
           "url": "https://www.gelonghui.com/news/5225083",
           "source": "格隆汇",
@@ -491,26 +607,15 @@
           "time_info": "07时03分"
         },
         {
-          "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
-          "url": "https://wallstreetcn.com/articles/3771319",
-          "source": "华尔街见闻",
+          "title": "谷歌入驻广州天河CBD，预计今年三季度正式投入运营",
+          "url": "https://www.36kr.com/newsflashes/3788898007391240",
+          "source": "36氪",
           "ranks": [
-            6
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
-          "url": "https://wallstreetcn.com/articles/3771311",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
+          "time_info": "14时45分"
         },
         {
           "title": "Alphabet(GOOGL.O)CEO：谷歌云业务正迎来强劲的交易势头。",
@@ -560,7 +665,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -604,7 +709,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         },
@@ -629,6 +734,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "OpenAI：将在未来几天内向关键的网络防御者推出GPT-5.5-Cyber",
+          "url": "https://www.36kr.com/newsflashes/3788865126849537",
+          "source": "36氪",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         }
       ]
     },
@@ -645,8 +761,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时03分 ~ 11时53分]"
+          "appearance_count": 3,
+          "time_info": "[07时03分 ~ 14时45分]"
         }
       ]
     }
