@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T19:46:19.180147+08:00",
-  "total_titles_processed": 564,
+  "generated_at": "2026-04-30T22:17:43.137894+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "停火岌岌可危？特朗普被曝将听取打击伊朗新方案 目标或包括基础设施",
@@ -88,6 +88,17 @@
           "time_info": "07时03分"
         },
         {
+          "title": "美媒：特朗普提出开放霍尔木兹海峡新计划",
+          "url": "https://flash.jin10.com/detail/20260430220822920800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "特朗普将听取打击伊朗新方案 打击目标很有可能包括伊朗的基础设施",
           "url": "https://www.cls.cn/detail/2360629",
           "source": "财联社热门",
@@ -120,11 +131,12 @@
           "ranks": [
             3,
             18,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时45分 ~ 19时46分]"
+          "appearance_count": 4,
+          "time_info": "[14时45分 ~ 22时17分]"
         },
         {
           "title": "特朗普：伊朗最好“放聪明点”",
@@ -149,6 +161,18 @@
           "time_info": "[01时45分 ~ 07时03分]"
         },
         {
+          "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
+          "url": "https://wallstreetcn.com/articles/3771344",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 22时17分]"
+        },
+        {
           "title": "特朗普称同伊朗的谈判正通过电话进行 | 环球市场",
           "url": "https://www.cls.cn/detail/2360339",
           "source": "财联社热门",
@@ -159,18 +183,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时53分 ~ 14时45分]"
-        },
-        {
-          "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
-          "url": "https://wallstreetcn.com/articles/3771344",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 19时46分]"
         },
         {
           "title": "特朗普“为无限期封锁伊朗”做准备，但对达成临时协议持开放态度",
@@ -229,6 +241,17 @@
           "time_info": "07时03分"
         },
         {
+          "title": "美国总统特朗普：共和党控制的参议院还要忍受由民主党参议员所代表的激进左翼疯子们的多少辱骂，才会终于打破冗长辩论机制，以创纪录的速度批准各项法案，包括《拯救美国法案》。",
+          "url": "https://flash.jin10.com/detail/20260430215243888800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "特朗普称海上封锁是“天才计划”，专家泼冷水：美国每次都这么想，每次都失望",
           "url": "https://flash.jin10.com/detail/20260430141919731800",
           "source": "金十数据",
@@ -262,6 +285,28 @@
           "time_info": "11时53分"
         },
         {
+          "title": "美国总统特朗普：德国总理默茨应致力于修复他所领导的这个破碎的国家，尤其是移民和能源方面的问题，而少花些时间去干涉那些正在消除伊朗核威胁的国家，这样就能让全世界，包括德国，变得更加安全！",
+          "url": "https://flash.jin10.com/detail/20260430214238933800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
+          "title": "美国总统特朗普：德国总理应该花更多时间致力于结束俄乌冲突。",
+          "url": "https://flash.jin10.com/detail/20260430214154293800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "特朗普称将尽量多公布UFO相关信息",
           "url": "https://flash.jin10.com/detail/20260430055845577800",
           "source": "金十数据",
@@ -279,7 +324,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -298,7 +343,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊朗革命卫队航空航天部队指挥官穆萨维表示，即使美国的袭击是有限的，德黑兰也将以“长期而痛苦的打击”作为回应。",
@@ -307,7 +352,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -329,7 +374,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -437,6 +482,17 @@
           "time_info": "05时14分"
         },
         {
+          "title": "伊朗总统：任何企图在海上封锁伊朗的行动注定失败",
+          "url": "https://www.zaochenbao.com/news/politics/202604/3070667.html",
+          "source": "联合早报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "外媒：美国计划在中东部署高超音速导弹，以备打击伊朗",
           "url": "https://flash.jin10.com/detail/20260430062722756800",
           "source": "金十数据",
@@ -446,6 +502,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "伊朗最高领袖：美国遭遇“耻辱性失败”",
+          "url": "https://www.zaochenbao.com/news/politics/202604/3070666.html",
+          "source": "联合早报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "美国财长贝森特：我们正全力以赴与伊朗达成协议。",
@@ -476,9 +543,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
+        },
+        {
+          "title": "伊朗战事冲击显现 法国经济第一季度意外陷入停滞",
+          "url": "https://www.zaochenbao.com/news/politics/202604/3070663.html",
+          "source": "联合早报",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "美国财长贝森特：消费者和股市（投资者）正在关注伊朗。",
@@ -498,7 +576,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -531,7 +609,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -542,7 +620,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         }
@@ -550,7 +628,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "热门中概股美股盘前涨跌不一，蔚来涨超4%",
@@ -587,6 +665,17 @@
           "time_info": "[01时45分 ~ 05时14分]"
         },
         {
+          "title": "热门中概股美股盘前涨跌不一，蔚来跌超1%",
+          "url": "https://www.36kr.com/newsflashes/3789313655807238",
+          "source": "36氪",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "美股异动｜亚马逊盘后涨近5% 第一季度销售净额同比增长28%",
           "url": "https://www.gelonghui.com/news/5225085",
           "source": "格隆汇",
@@ -596,6 +685,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "美股异动丨赫兹大涨20%，与优步达成合作",
+          "url": "https://www.gelonghui.com/news/5225958",
+          "source": "格隆汇",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
+          "title": "经济数据与财报提振市场情绪，美股高开，日元跳涨，油价高位回落，金银上涨",
+          "url": "https://wallstreetcn.com/articles/3771356",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "美股收盘：存储、光通信概念走强 纳指微涨道指连跌五天",
@@ -675,12 +786,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "美股异动丨Meta暴跌超10%，为去年10月以来最大跌幅",
+          "url": "https://www.gelonghui.com/news/5225947",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
+          "title": "美股三大股指走势分化，标普500指数和纳指均转跌，道指现涨0.77%。",
+          "url": "https://flash.jin10.com/detail/20260430215816076800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -691,8 +824,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时53分 ~ 19时46分]"
+          "appearance_count": 5,
+          "time_info": "[11时53分 ~ 22时17分]"
+        },
+        {
+          "title": "美股大型科技股盘前涨多跌少，谷歌涨超7%",
+          "url": "https://www.36kr.com/newsflashes/3789312175463683",
+          "source": "36氪",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
+          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
+          "url": "https://wallstreetcn.com/articles/3771311",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时53分 ~ 22时17分]"
         },
         {
           "title": "谷歌推出可将其他人工智能提供商的人工智能聊天历史记录导入Gemini的工具",
@@ -704,18 +860,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时45分 ~ 07时03分]"
-        },
-        {
-          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
-          "url": "https://wallstreetcn.com/articles/3771311",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时53分 ~ 19时46分]"
         },
         {
           "title": "美股异动｜谷歌盘后涨超6%，母公司Alphabet第一季度营收同比增长22%",
@@ -883,8 +1027,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时03分 ~ 19时46分]"
+          "appearance_count": 6,
+          "time_info": "[07时03分 ~ 22时17分]"
         }
       ]
     }
