@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-30T17:22:46.806166+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-04-30T19:46:19.180147+08:00",
+  "total_titles_processed": 564,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "停火岌岌可危？特朗普被曝将听取打击伊朗新方案 目标或包括基础设施",
+          "url": "https://www.cls.cn/detail/2360703",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时45分 ~ 19时46分]"
+        },
         {
           "title": "特朗普支持率创第二任期新低 支持美伊战争再下滑",
           "url": "https://www.zaochenbao.com/news/politics/202604/2970594.html",
@@ -18,18 +31,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时45分 ~ 11时53分]"
-        },
-        {
-          "title": "停火岌岌可危？特朗普被曝将听取打击伊朗新方案 目标或包括基础设施",
-          "url": "https://www.cls.cn/detail/2360703",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时45分 ~ 17时22分]"
         },
         {
           "title": "俄罗斯总统普京与美国总统特朗普讨论了伊朗问题。",
@@ -105,11 +106,12 @@
           "ranks": [
             3,
             21,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 17时22分]"
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 19时46分]"
         },
         {
           "title": "美军指挥官将向特朗普汇报针对伊朗新选项",
@@ -117,11 +119,12 @@
           "source": "联合早报",
           "ranks": [
             3,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时45分 ~ 17时22分]"
+          "appearance_count": 3,
+          "time_info": "[14时45分 ~ 19时46分]"
         },
         {
           "title": "特朗普：伊朗最好“放聪明点”",
@@ -156,6 +159,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时53分 ~ 14时45分]"
+        },
+        {
+          "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
+          "url": "https://wallstreetcn.com/articles/3771344",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 19时46分]"
         },
         {
           "title": "特朗普“为无限期封锁伊朗”做准备，但对达成临时协议持开放态度",
@@ -201,17 +216,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
-        },
-        {
-          "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
-          "url": "https://wallstreetcn.com/articles/3771344",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
         },
         {
           "title": "特朗普称或削减驻德美军",
@@ -269,6 +273,17 @@
           "time_info": "07时03分"
         },
         {
+          "title": "克里姆林宫发言人佩斯科夫：普京与特朗普在电话交谈中同意继续在解决冲突中发挥调停作用，但尚未就新一轮谈判和访问的具体日期达成一致。",
+          "url": "https://flash.jin10.com/detail/20260430192115934800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        },
+        {
           "title": "特朗普评鲍威尔留任理事：其他地方没人要他",
           "url": "https://flash.jin10.com/detail/20260430055637436800",
           "source": "金十数据",
@@ -283,8 +298,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "伊朗革命卫队航空航天部队指挥官穆萨维表示，即使美国的袭击是有限的，德黑兰也将以“长期而痛苦的打击”作为回应。",
+          "url": "https://flash.jin10.com/detail/20260430194034499800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        },
         {
           "title": "白宫高级官员表示，美国寻求没收在海上扣押的与伊朗有关的油轮。",
           "url": "https://flash.jin10.com/detail/20260430044919881800",
@@ -295,6 +321,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "伊朗最高领袖：伊朗人将保护本国科研生产能力",
+          "url": "https://flash.jin10.com/detail/20260430193824289800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
         },
         {
           "title": "伊朗议长呼吁民众保持团结挫败敌人阴谋",
@@ -319,17 +356,6 @@
           "time_info": "05时14分"
         },
         {
-          "title": "路透：中国独立炼厂对伊朗石油采购因利润承压放缓",
-          "url": "https://www.zaochenbao.com/news/china/202604/3070650.html",
-          "source": "联合早报",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
           "title": "联合国：伊朗自战争爆发后已处决21人 逮捕4000多人",
           "url": "https://www.zaochenbao.com/news/politics/202604/2970590.html",
           "source": "联合早报",
@@ -339,6 +365,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时45分 ~ 07时03分]"
+        },
+        {
+          "title": "路透：中国独立炼厂对伊朗石油采购因利润承压放缓",
+          "url": "https://www.zaochenbao.com/news/china/202604/3070650.html",
+          "source": "联合早报",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 19时46分]"
         },
         {
           "title": "美国禁向伊朗付海峡通行费 或准备长期实施海上封锁",
@@ -368,11 +406,24 @@
           "source": "联合早报",
           "ranks": [
             6,
-            21
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时45分 ~ 19时46分]"
+        },
+        {
+          "title": "美军拟以高超音速导弹打击伊朗 系首次实战部署",
+          "url": "https://www.cls.cn/detail/2360722",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时45分 ~ 17时22分]"
+          "time_info": "[17时22分 ~ 19时46分]"
         },
         {
           "title": "美国财长贝森特：我们每天都在对伊朗施加更多经济压力。",
@@ -384,17 +435,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
-        },
-        {
-          "title": "美军拟以高超音速导弹打击伊朗 系首次实战部署",
-          "url": "https://www.cls.cn/detail/2360722",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
         },
         {
           "title": "外媒：美国计划在中东部署高超音速导弹，以备打击伊朗",
@@ -430,6 +470,17 @@
           "time_info": "05时14分"
         },
         {
+          "title": "美军拟打击伊朗，纳指期货回吐涨幅，油价高位回落，日元短线拉升，金银上涨",
+          "url": "https://wallstreetcn.com/articles/3771356",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        },
+        {
           "title": "美国财长贝森特：消费者和股市（投资者）正在关注伊朗。",
           "url": "https://flash.jin10.com/detail/20260430044453564800",
           "source": "金十数据",
@@ -439,6 +490,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "伊朗最高领袖军事顾问：伊朗绝不会失去霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260430193302136800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
         },
         {
           "title": "伊朗海军司令：将向敌人展示一种“可怕的武器”",
@@ -461,6 +523,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
+        },
+        {
+          "title": "伊朗最高领袖顾问：伊朗不畏惧海上封锁",
+          "url": "https://flash.jin10.com/detail/20260430192720350800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        },
+        {
+          "title": "白俄罗斯总统卢卡申科与伊朗总统进行了电话交谈。",
+          "url": "https://flash.jin10.com/detail/20260430192546471800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
         }
       ]
     },
@@ -534,8 +618,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时45分 ~ 17时22分]"
+          "appearance_count": 3,
+          "time_info": "[14时45分 ~ 19时46分]"
         },
         {
           "title": "美股异动｜Meta盘后跌约6%，上调全年资本支出预期",
@@ -607,8 +691,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 17时22分]"
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 19时46分]"
         },
         {
           "title": "谷歌推出可将其他人工智能提供商的人工智能聊天历史记录导入Gemini的工具",
@@ -630,8 +714,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 17时22分]"
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 19时46分]"
         },
         {
           "title": "美股异动｜谷歌盘后涨超6%，母公司Alphabet第一季度营收同比增长22%",
@@ -799,8 +883,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时03分 ~ 17时22分]"
+          "appearance_count": 5,
+          "time_info": "[07时03分 ~ 19时46分]"
         }
       ]
     }
