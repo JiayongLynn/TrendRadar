@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T21:45:42.560555+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-05-01T23:05:03.643502+08:00",
+  "total_titles_processed": 547,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "美媒称特朗普提出建立海上联盟新计划，以重开霍尔木兹海峡",
@@ -52,11 +52,12 @@
           "url": "https://www.zaochenbao.com/news/politics/202605/0170743.html",
           "source": "联合早报",
           "ranks": [
-            2
+            2,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时45分 ~ 23时05分]"
         },
         {
           "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
@@ -68,8 +69,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时10分 ~ 21时45分]"
+          "appearance_count": 7,
+          "time_info": "[12时10分 ~ 23时05分]"
+        },
+        {
+          "title": "美国能源部长赖特：作为特朗普“和平管道”议程的一部分，中欧和东欧正在讨论多个管道项目，以促进繁荣与安全。",
+          "url": "https://flash.jin10.com/detail/20260501225206321800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时04分 ~ 23时05分]"
         },
         {
           "title": "特朗普家族支持的无人机公司与美国签署武器采购协议",
@@ -423,7 +435,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         }
@@ -431,7 +443,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 36,
       "titles": [
         {
           "title": "美防长：“60天时限”已“暂停” 对伊朗军事行动无需寻求国会授权",
@@ -439,22 +451,50 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时10分 ~ 21时45分]"
+          "appearance_count": 7,
+          "time_info": "[12时10分 ~ 23时05分]"
         },
         {
           "title": "伊朗外长：美方战争成本达千亿美元 纳税人间接负担攀升",
           "url": "https://www.zaochenbao.com/news/politics/202605/0170744.html",
           "source": "联合早报",
           "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时45分 ~ 23时05分]"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：战胜敌对超级大国之后进行重建的日子即将到来。",
+          "url": "https://flash.jin10.com/detail/20260501225711327800",
+          "source": "金十数据",
+          "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时04分 ~ 23时05分]"
+        },
+        {
+          "title": "伊朗外交部：期待伊美谈判迅速达成结果不切实际",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0170717.html",
+          "source": "联合早报",
+          "ranks": [
+            2,
+            11,
+            15,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时31分 ~ 23时05分]"
         },
         {
           "title": "伊朗总统：任何企图在海上封锁伊朗的行动注定失败",
@@ -499,7 +539,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -537,18 +577,15 @@
           "time_info": "17时55分"
         },
         {
-          "title": "伊朗外交部：期待伊美谈判迅速达成结果不切实际",
-          "url": "https://www.zaochenbao.com/news/politics/202605/0170717.html",
-          "source": "联合早报",
+          "title": "巴基斯坦官员称伊朗递交的最新谈判方案已转交美国",
+          "url": "https://flash.jin10.com/detail/20260501222838293800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            11,
-            15,
-            22
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时31分 ~ 21时45分]"
+          "appearance_count": 2,
+          "time_info": "[23时04分 ~ 23时05分]"
         },
         {
           "title": "美国官员：伊朗战争成本接近500亿美元。",
@@ -573,6 +610,17 @@
           "time_info": "[04时25分 ~ 04时26分]"
         },
         {
+          "title": "伊朗足协主席：国家队是否赴美参加世界杯仍需与国际足联沟通协调",
+          "url": "https://flash.jin10.com/detail/20260501221603622800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时04分 ~ 23时05分]"
+        },
+        {
           "title": "伊朗议长嘲笑美国封锁：美国从东到西建两堵墙都没伊朗总边界长",
           "url": "https://flash.jin10.com/detail/20260501033839708800",
           "source": "金十数据",
@@ -582,6 +630,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 04时26分]"
+        },
+        {
+          "title": "埃克森美孚石油(XOM.N)CEO：伊朗战争并未改变埃克森美孚对其液化天然气投资组合的看法。",
+          "url": "https://flash.jin10.com/detail/20260501221048562800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时04分 ~ 23时05分]"
+        },
+        {
+          "title": "沙特媒体：伊朗同意谈核并长期冻结铀浓缩",
+          "url": "https://flash.jin10.com/detail/20260501220750863800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时04分 ~ 23时05分]"
         },
         {
           "title": "国际足联主席因凡蒂诺：伊朗将参加世界杯，并将在美国比赛。",
@@ -601,7 +671,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -700,7 +770,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -744,7 +814,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -785,8 +855,32 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "苹果美股盘前涨近3%",
+          "url": "https://www.36kr.com/newsflashes/3790479873203461",
+          "source": "36氪",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时55分 ~ 23时05分]"
+        },
+        {
+          "title": "美股总市值首次突破75万亿美元 创历史新高",
+          "url": "https://www.36kr.com/newsflashes/3790477862755586",
+          "source": "36氪",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时55分 ~ 23时05分]"
+        },
         {
           "title": "经济数据与财报提振市场情绪，美股高开，日元跳涨，油价高位回落，金银上涨",
           "url": "https://wallstreetcn.com/articles/3771356",
@@ -842,30 +936,6 @@
           "time_info": "[07时59分 ~ 21时45分]"
         },
         {
-          "title": "苹果美股盘前涨近3%",
-          "url": "https://www.36kr.com/newsflashes/3790479873203461",
-          "source": "36氪",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时55分 ~ 21时45分]"
-        },
-        {
-          "title": "美股总市值首次突破75万亿美元 创历史新高",
-          "url": "https://www.36kr.com/newsflashes/3790477862755586",
-          "source": "36氪",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时55分 ~ 21时45分]"
-        },
-        {
           "title": "美股收盘，道指初步收涨1.62%、标普500指数涨1.02%、纳指0.89涨%。Alphabet(GOOG.O)收涨9.95%，创历史新高；高通(QCOM.O)涨超15%。纳斯达克中国金龙指数涨2.1%，阿里巴巴(BABA.N)涨超1%。",
           "url": "https://flash.jin10.com/detail/20260501040155496800",
           "source": "金十数据",
@@ -875,6 +945,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 04时26分]"
+        },
+        {
+          "title": "美股异动丨礼来涨超5%，连续第二日上涨，创3月16日以来新高",
+          "url": "https://www.gelonghui.com/news/5226649",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时04分 ~ 23时05分]"
         },
         {
           "title": "美股异动丨高通大涨超15%，Q1业绩释放两大利好信号",
@@ -889,13 +970,24 @@
           "time_info": "[00时26分 ~ 07时59分]"
         },
         {
+          "title": "美股存储板块走高，美光科技(MU.O)涨5.07%，闪迪(SNDK.O)涨4.03%，西部数据(WDC.O)转涨，希捷科技(STX.O)涨5.32%。",
+          "url": "https://flash.jin10.com/detail/20260501222150341800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时04分 ~ 23时05分]"
+        },
+        {
           "title": "美股开盘，道指涨0.36%，标普500指数涨0.4%，纳指涨0.3%。闪迪(SNDK.O)跌2.7%、西部数据(WDC.O)跌6%，市场认为两家公司业绩指引不够惊艳。埃克森美孚石油(XOM.N)和雪佛龙(CVX.N)分别跌1.1%和1.2%。苹果(AAPL.O)涨2.7%。",
           "url": "https://flash.jin10.com/detail/20260501213030825800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -914,7 +1006,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
@@ -924,8 +1016,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时59分 ~ 21时45分]"
+          "appearance_count": 8,
+          "time_info": "[07时59分 ~ 23时05分]"
+        },
+        {
+          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
+          "url": "https://www.cls.cn/detail/2361634",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时59分 ~ 23时05分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -953,30 +1058,18 @@
           "time_info": "[00时26分 ~ 12时10分]"
         },
         {
-          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
-          "url": "https://www.cls.cn/detail/2361634",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时59分 ~ 21时45分]"
-        },
-        {
           "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
           "url": "https://wallstreetcn.com/articles/3771450",
           "source": "华尔街见闻",
           "ranks": [
             7,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时55分 ~ 21时45分]"
+          "appearance_count": 5,
+          "time_info": "[17时55分 ~ 23时05分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -990,6 +1083,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时26分 ~ 06时03分]"
+        },
+        {
+          "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
+          "url": "https://wallstreetcn.com/articles/3771451",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时04分 ~ 23时05分]"
         },
         {
           "title": "科技巨头财报大比拼，为什么只有谷歌赢了？",
@@ -1083,11 +1187,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 21时45分]"
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 23时05分]"
         }
       ]
     }
