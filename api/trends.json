@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T15:31:44.768929+08:00",
-  "total_titles_processed": 370,
+  "generated_at": "2026-05-01T17:55:11.709234+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
@@ -22,18 +22,6 @@
           "time_info": "[00时26分 ~ 12时10分]"
         },
         {
-          "title": "特朗普号召各国加入新国际联盟 重开霍尔木兹海峡",
-          "url": "https://www.zaochenbao.com/news/politics/202604/3070676.html",
-          "source": "联合早报",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 07时59分]"
-        },
-        {
           "title": "美媒称特朗普提出建立海上联盟新计划，以重开霍尔木兹海峡",
           "url": "https://wallstreetcn.com/articles/3771420",
           "source": "华尔街见闻",
@@ -44,8 +32,20 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时25分 ~ 17时55分]"
+        },
+        {
+          "title": "特朗普号召各国加入新国际联盟 重开霍尔木兹海峡",
+          "url": "https://www.zaochenbao.com/news/politics/202604/3070676.html",
+          "source": "联合早报",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[04时25分 ~ 15时31分]"
+          "time_info": "[00时26分 ~ 07时59分]"
         },
         {
           "title": "特朗普家族支持的无人机公司与美国签署武器采购协议",
@@ -110,11 +110,25 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时10分 ~ 15时31分]"
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 17时55分]"
+        },
+        {
+          "title": "“美国人显然没有战略”：德国总理言论激怒特朗普",
+          "url": "https://www.zaochenbao.com/news/world/202605/0170699.html",
+          "source": "联合早报",
+          "ranks": [
+            7,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 17时55分]"
         },
         {
           "title": "一位白宫官员表示，特朗普政府正与国会进行“积极磋商”，探讨是否寻求对伊朗战争的授权。",
@@ -126,18 +140,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 04时26分]"
-        },
-        {
-          "title": "“美国人显然没有战略”：德国总理言论激怒特朗普",
-          "url": "https://www.zaochenbao.com/news/world/202605/0170699.html",
-          "source": "联合早报",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时10分 ~ 15时31分]"
         },
         {
           "title": "美国总统特朗普：美国将从伊朗获得核材料。",
@@ -396,7 +398,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "美防长：“60天时限”已“暂停” 对伊朗军事行动无需寻求国会授权",
@@ -407,8 +409,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时10分 ~ 15时31分]"
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 17时55分]"
         },
         {
           "title": "伊朗总统：任何企图在海上封锁伊朗的行动注定失败",
@@ -447,15 +449,15 @@
           "time_info": "[00时26分 ~ 07时59分]"
         },
         {
-          "title": "伊朗外交部：期待伊美谈判迅速达成结果不切实际",
-          "url": "https://www.zaochenbao.com/news/politics/202605/0170717.html",
-          "source": "联合早报",
+          "title": "伊朗司法部长：伊方从未离开谈判桌 但也不害怕战争",
+          "url": "https://flash.jin10.com/detail/20260501172956558800",
+          "source": "金十数据",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时31分"
+          "time_info": "17时55分"
         },
         {
           "title": "伊朗战争冲击石油市场下，巴西油气产量创历史新高",
@@ -467,6 +469,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "伊朗外长：美对伊战争已致美国损失1000亿美元",
+          "url": "https://flash.jin10.com/detail/20260501172247871800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
+          "title": "伊朗外交部：期待伊美谈判迅速达成结果不切实际",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0170717.html",
+          "source": "联合早报",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 17时55分]"
         },
         {
           "title": "美国官员：伊朗战争成本接近500亿美元。",
@@ -579,6 +604,17 @@
           "time_info": "07时59分"
         },
         {
+          "title": "伊朗最高领袖办公室：穆杰塔巴·哈梅内伊身体健康",
+          "url": "https://flash.jin10.com/detail/20260501164344321800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "美国国防部长赫格塞思：我们今天面临的最大危险是那些试图破坏我们对抗伊朗努力的失败主义民主党人。",
           "url": "https://flash.jin10.com/detail/20260430233653799800",
           "source": "金十数据",
@@ -588,6 +624,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "美辩称袭击伊朗系“自卫” 伊朗怒斥：赤裸裸的侵略",
+          "url": "https://flash.jin10.com/detail/20260501164133408800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "伊朗总统：伊朗对美国完全失去信任",
@@ -612,6 +659,17 @@
           "time_info": "12时10分"
         },
         {
+          "title": "受伊朗战争冲击 英国工厂面临成本上涨与交付延误加剧",
+          "url": "https://flash.jin10.com/detail/20260501163935093800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "泽连斯基：伊朗战争使乌克兰和谈悬而未决",
           "url": "https://flash.jin10.com/detail/20260430233245131800",
           "source": "金十数据",
@@ -626,7 +684,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "经济数据与财报提振市场情绪，美股高开，日元跳涨，油价高位回落，金银上涨",
@@ -662,8 +720,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时59分 ~ 15时31分]"
+          "appearance_count": 4,
+          "time_info": "[07时59分 ~ 17时55分]"
+        },
+        {
+          "title": "美股三大指数集体收涨 高通涨超15%",
+          "url": "https://www.gelonghui.com/news/5226632",
+          "source": "格隆汇",
+          "ranks": [
+            3,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时59分 ~ 17时55分]"
         },
         {
           "title": "美股收盘，道指初步收涨1.62%、标普500指数涨1.02%、纳指0.89涨%。Alphabet(GOOG.O)收涨9.95%，创历史新高；高通(QCOM.O)涨超15%。纳斯达克中国金龙指数涨2.1%，阿里巴巴(BABA.N)涨超1%。",
@@ -677,19 +748,6 @@
           "time_info": "[04时25分 ~ 04时26分]"
         },
         {
-          "title": "美股三大指数集体收涨 高通涨超15%",
-          "url": "https://www.gelonghui.com/news/5226632",
-          "source": "格隆汇",
-          "ranks": [
-            3,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时59分 ~ 15时31分]"
-        },
-        {
           "title": "美股异动丨高通大涨超15%，Q1业绩释放两大利好信号",
           "url": "https://www.gelonghui.com/news/5225967",
           "source": "格隆汇",
@@ -700,6 +758,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时26分 ~ 07时59分]"
+        },
+        {
+          "title": "苹果美股盘前涨近3%",
+          "url": "https://www.36kr.com/newsflashes/3790479873203461",
+          "source": "36氪",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
+          "title": "美股总市值首次突破75万亿美元 创历史新高",
+          "url": "https://www.36kr.com/newsflashes/3790477862755586",
+          "source": "36氪",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "美股三大指数集体收涨，高通涨超15%",
@@ -716,7 +796,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -751,8 +831,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时59分 ~ 15时31分]"
+          "appearance_count": 4,
+          "time_info": "[07时59分 ~ 17时55分]"
         },
         {
           "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
@@ -763,8 +843,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时59分 ~ 15时31分]"
+          "appearance_count": 4,
+          "time_info": "[07时59分 ~ 17时55分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -778,6 +858,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时26分 ~ 06时03分]"
+        },
+        {
+          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
+          "url": "https://wallstreetcn.com/articles/3771450",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "科技巨头财报大比拼，为什么只有谷歌赢了？",
@@ -803,7 +894,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
