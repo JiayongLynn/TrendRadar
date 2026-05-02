@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T22:57:38.086771+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-05-02T23:57:10.775254+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时44分 ~ 22时57分]"
+          "appearance_count": 8,
+          "time_info": "[11时44分 ~ 23时57分]"
         },
         {
           "title": "特朗普政府救助计划失败，美国精神航空宣布停止运营",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时26分 ~ 22时57分]"
+          "appearance_count": 6,
+          "time_info": "[16时26分 ~ 23时57分]"
         },
         {
           "title": "美伊局势追踪：特朗普“不满”伊朗最新谈判方案 白宫称敌对行动已“结束”",
@@ -43,8 +43,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时17分 ~ 22时57分]"
+          "appearance_count": 7,
+          "time_info": "[14时17分 ~ 23时57分]"
         },
         {
           "title": "机构：特朗普拟上调汽车关税，或使德国产值损失近 180 亿美元",
@@ -55,8 +55,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时05分 ~ 22时57分]"
+          "appearance_count": 5,
+          "time_info": "[18时05分 ~ 23时57分]"
         },
         {
           "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
@@ -69,8 +69,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时38分 ~ 22时57分]"
+          "appearance_count": 9,
+          "time_info": "[08时38分 ~ 23时57分]"
         },
         {
           "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
@@ -88,6 +88,18 @@
           "time_info": "[01时07分 ~ 16时26分]"
         },
         {
+          "title": "美军运输机降落北京 疑似为特朗普访华运送物资",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0270806.html",
+          "source": "联合早报",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 23时57分]"
+        },
+        {
           "title": "伊朗经调解方转交谈判新方案，特朗普称“不满意”、告知国会与伊敌对行动“结束”",
           "url": "https://wallstreetcn.com/articles/3771465",
           "source": "华尔街见闻",
@@ -100,16 +112,30 @@
           "time_info": "[06时57分 ~ 08时38分]"
         },
         {
+          "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
+          "url": "https://wallstreetcn.com/articles/3771467",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时26分 ~ 23时57分]"
+        },
+        {
           "title": "特朗普：美国海军封锁伊朗扣船 行为如同“海盗”",
           "url": "https://www.zaochenbao.com/news/politics/202605/0270803.html",
           "source": "联合早报",
           "ranks": [
             3,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时39分 ~ 22时57分]"
+          "appearance_count": 3,
+          "time_info": "[21时39分 ~ 23时57分]"
         },
         {
           "title": "美国总统特朗普称，他不需要国会授权即可对伊朗采取军事行动，理由是已达成停火协议。特朗普在给美国国会的信中写道：自2026年4月7日以来，美军与伊朗之间未发生交火。始于2026年2月28日的敌对行动已经结束。",
@@ -149,17 +175,6 @@
           "time_info": "03时23分"
         },
         {
-          "title": "美军运输机降落北京 疑似为特朗普访华运送物资",
-          "url": "https://www.zaochenbao.com/news/politics/202605/0270806.html",
-          "source": "联合早报",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
-        },
-        {
           "title": "特朗普考虑削减驻西班牙意大利美军",
           "url": "https://www.zaochenbao.com/news/politics/202605/0170743.html",
           "source": "联合早报",
@@ -170,19 +185,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时07分 ~ 08时38分]"
-        },
-        {
-          "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
-          "url": "https://wallstreetcn.com/articles/3771467",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时26分 ~ 22时57分]"
         },
         {
           "title": "特朗普称60天战争权限“完全违宪”",
@@ -382,6 +384,18 @@
           "time_info": "[11时44分 ~ 14时17分]"
         },
         {
+          "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
+          "url": "https://www.cls.cn/detail/2362106",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 23时57分]"
+        },
+        {
           "title": "特朗普称美国“几乎能立即接管”古巴",
           "url": "https://flash.jin10.com/detail/20260502084948231800",
           "source": "金十数据",
@@ -458,17 +472,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
-        },
-        {
-          "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
-          "url": "https://www.cls.cn/detail/2362106",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
         },
         {
           "title": "特朗普称美国和伊朗正在通过电话进行谈判",
@@ -672,7 +675,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "伊朗新谈判方案重创原油，科技股助标普再新高、创一年半最长周涨，日元反弹暂歇但全周走强",
@@ -683,8 +686,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时57分 ~ 22时57分]"
+          "appearance_count": 10,
+          "time_info": "[06时57分 ~ 23时57分]"
         },
         {
           "title": "美防长：“60天时限”已“暂停” 对伊朗军事行动无需寻求国会授权",
@@ -725,6 +728,43 @@
           "time_info": "[11时44分 ~ 19时53分]"
         },
         {
+          "title": "美国制裁伊朗外汇商与中国油港业者 加码打击德黑兰石油收入",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0270809.html",
+          "source": "联合早报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
+          "title": "伊朗战争致油价暴涨打乱计划 美国廉航精神航空停运",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0270801.html",
+          "source": "联合早报",
+          "ranks": [
+            5,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时39分 ~ 23时57分]"
+        },
+        {
+          "title": "韩国外长：我向伊朗外长表示，考虑到对全球安全和经济的影响，希望地区的和平与稳定能够尽快恢复。",
+          "url": "https://flash.jin10.com/detail/20260502211446744800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时39分 ~ 23时57分]"
+        },
+        {
           "title": "据AXIOS：美国国防部估计美国封锁已使伊朗损失48亿美元。",
           "url": "https://flash.jin10.com/detail/20260502080556644800",
           "source": "金十数据",
@@ -735,30 +775,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时38分 ~ 11时44分]"
-        },
-        {
-          "title": "伊朗战争致油价暴涨打乱计划 美国廉航精神航空停运",
-          "url": "https://www.zaochenbao.com/news/politics/202605/0270801.html",
-          "source": "联合早报",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时39分 ~ 22时57分]"
-        },
-        {
-          "title": "韩国外长：我向伊朗外长表示，考虑到对全球安全和经济的影响，希望地区的和平与稳定能够尽快恢复。",
-          "url": "https://flash.jin10.com/detail/20260502211446744800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时39分 ~ 22时57分]"
         },
         {
           "title": "韩国外长：今天晚上，应伊朗方面的请求，我与伊朗外长进行了电话通话，交流了关于中东局势的看法。",
@@ -794,6 +810,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时03分 ~ 08时38分]"
+        },
+        {
+          "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
+          "url": "https://www.cls.cn/detail/2362134",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 23时57分]"
         },
         {
           "title": "伊朗外长与欧盟外长通话讨论地区局势",
@@ -898,15 +926,15 @@
           "time_info": "16时26分"
         },
         {
-          "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
-          "url": "https://www.cls.cn/detail/2362134",
-          "source": "财联社热门",
+          "title": "美国威胁制裁向伊朗缴通行费的航运企业",
+          "url": "https://flash.jin10.com/detail/20260502223228748800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时57分"
+          "time_info": "23时57分"
         },
         {
           "title": "美媒：伊朗放宽与美国恢复和谈的条件",
@@ -990,8 +1018,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时07分 ~ 22时57分]"
+          "appearance_count": 13,
+          "time_info": "[01时07分 ~ 23时57分]"
         },
         {
           "title": "苹果美股盘前涨近3%",
@@ -1087,8 +1115,19 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时53分 ~ 23时57分]"
+        },
+        {
+          "title": "美股股指创新高，下跌个股却远超上涨？高盛：动量拥挤，逆转将引发剧烈回撤",
+          "url": "https://wallstreetcn.com/articles/3771483",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时53分 ~ 22时57分]"
+          "time_info": "[21时39分 ~ 23时57分]"
         },
         {
           "title": "美股收盘，道指初步收跌0.31%、标普500指数涨0.29%、纳指涨0.89%。因Q1财报靓丽，苹果(AAPL.O)收涨3.24%、闪迪(SNDK.O)涨8.25%。英特尔(INTC.O)涨5.44%，收盘价为99.62美元创下新高。",
@@ -1113,17 +1152,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时17分 ~ 16时26分]"
-        },
-        {
-          "title": "美股股指创新高，下跌个股却远超上涨？高盛：动量拥挤，逆转将引发剧烈回撤",
-          "url": "https://wallstreetcn.com/articles/3771483",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时39分 ~ 22时57分]"
         },
         {
           "title": "美股三大指数收盘涨跌不一，大型科技股多数上涨",
