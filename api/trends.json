@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T06:54:26.834833+08:00",
-  "total_titles_processed": 165,
+  "generated_at": "2026-05-03T07:55:54.032084+08:00",
+  "total_titles_processed": 171,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://www.zaochenbao.com/news/politics/202605/0270809.html",
           "source": "联合早报",
           "ranks": [
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时55分]"
         },
         {
           "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -38,22 +39,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时54分]"
-        },
-        {
-          "title": "伊朗战争致油价暴涨打乱计划 美国廉航精神航空停运",
-          "url": "https://www.zaochenbao.com/news/politics/202605/0270801.html",
-          "source": "联合早报",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时55分]"
         },
         {
           "title": "伊朗军方官员：已为美方军事冒险做好充分准备",
@@ -67,8 +58,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时59分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时59分 ~ 07时55分]"
         },
         {
           "title": "伊媒曝伊朗提案的核心条件 伊要求30天内解决问题",
@@ -79,8 +70,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时53分 ~ 06时54分]"
+          "appearance_count": 3,
+          "time_info": "[05时53分 ~ 07时55分]"
         },
         {
           "title": "伊朗外交部：必须抵制美国将“海盗行为”正常化",
@@ -92,8 +83,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时53分 ~ 06时54分]"
+          "appearance_count": 4,
+          "time_info": "[04时53分 ~ 07时55分]"
+        },
+        {
+          "title": "伊朗战争致油价暴涨打乱计划 美国廉航精神航空停运",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0270801.html",
+          "source": "联合早报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 06时54分]"
         },
         {
           "title": "伊朗媒体披露伊方最新谈判方案：14点提议 聚焦终战",
@@ -102,9 +104,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时55分]"
         },
         {
           "title": "伊朗和意大利外长通话 意方呼吁加紧外交斡旋",
@@ -115,8 +117,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时53分 ~ 06时54分]"
+          "appearance_count": 3,
+          "time_info": "[05时53分 ~ 07时55分]"
         },
         {
           "title": "卡塔尔外交部：卡塔尔首相向伊朗外长阿拉格齐强调，关闭霍尔木兹海峡或将其用作施压手段将导致危机加深。",
@@ -172,7 +174,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊朗转交新方案，“放宽谈判条件”，特朗普称“不满意”，但“倾向于不打击”",
@@ -182,8 +184,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时55分]"
         },
         {
           "title": "美伊局势追踪：特朗普“不满”伊朗最新谈判方案 白宫称敌对行动已“结束”",
@@ -193,8 +195,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时55分]"
         },
         {
           "title": "机构：特朗普拟上调汽车关税，或使德国产值损失近 180 亿美元",
@@ -204,8 +206,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时55分]"
         },
         {
           "title": "特朗普政府救助计划失败，美国精神航空宣布停止运营",
@@ -215,19 +217,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时54分]"
-        },
-        {
-          "title": "美军运输机降落北京 疑似为特朗普访华运送物资",
-          "url": "https://www.zaochenbao.com/news/politics/202605/0270806.html",
-          "source": "联合早报",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时55分]"
         },
         {
           "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
@@ -238,19 +229,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时55分]"
         },
         {
-          "title": "特朗普：美国海军封锁伊朗扣船 行为如同“海盗”",
-          "url": "https://www.zaochenbao.com/news/politics/202605/0270803.html",
+          "title": "美军运输机降落北京 疑似为特朗普访华运送物资",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0270806.html",
           "source": "联合早报",
           "ranks": [
-            9
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时55分]"
         },
         {
           "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
@@ -261,8 +253,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时55分]"
+        },
+        {
+          "title": "特朗普：美国海军封锁伊朗扣船 行为如同“海盗”",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0270803.html",
+          "source": "联合早报",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时55分]"
         },
         {
           "title": "特朗普政府加速推进向中东出售86亿美元武器",
@@ -276,8 +280,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时59分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时59分 ~ 07时55分]"
         },
         {
           "title": "特朗普政府新规生效后 超三百万人失去联邦食品援助",
@@ -289,8 +293,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时53分 ~ 06时54分]"
+          "appearance_count": 4,
+          "time_info": "[04时53分 ~ 07时55分]"
+        },
+        {
+          "title": "特朗普称伊朗行动已结束 但不满意伊朗新方案",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0370814.html",
+          "source": "联合早报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         },
         {
           "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
@@ -318,19 +333,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时55分]"
         },
         {
           "title": "美股股指创新高，下跌个股却远超上涨？高盛：动量拥挤，逆转将引发剧烈回撤",
           "url": "https://wallstreetcn.com/articles/3771483",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时59分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时59分 ~ 07时55分]"
         },
         {
           "title": "美股异动丨礼来涨超5%，连续第二日上涨，创3月16日以来新高",
@@ -359,8 +375,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时53分 ~ 06时54分]"
+          "appearance_count": 4,
+          "time_info": "[04时53分 ~ 07时55分]"
         }
       ]
     }
