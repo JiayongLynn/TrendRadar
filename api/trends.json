@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-03T21:40:47.992648+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2026-05-03T22:58:00.597010+08:00",
+  "total_titles_processed": 415,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
+        {
+          "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
+          "url": "https://www.cls.cn/detail/2362210",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时00分 ~ 22时58分]"
+        },
         {
           "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
           "url": "https://www.cls.cn/detail/2362134",
@@ -21,8 +33,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时01分 ~ 21时40分]"
+          "appearance_count": 17,
+          "time_info": "[01时01分 ~ 22时58分]"
         },
         {
           "title": "伊朗新谈判方案重创原油，科技股助标普再新高、创一年半最长周涨，日元反弹暂歇但全周走强",
@@ -34,18 +46,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时01分 ~ 06时54分]"
-        },
-        {
-          "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
-          "url": "https://www.cls.cn/detail/2362210",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时00分 ~ 21时40分]"
         },
         {
           "title": "美国制裁伊朗外汇商与中国油港业者 加码打击德黑兰石油收入",
@@ -69,11 +69,12 @@
             5,
             10,
             21,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时00分 ~ 21时40分]"
+          "appearance_count": 9,
+          "time_info": "[12时00分 ~ 22时58分]"
         },
         {
           "title": "伊朗军方官员：已为美方军事冒险做好充分准备",
@@ -114,6 +115,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时53分 ~ 07时55分]"
+        },
+        {
+          "title": "因伊朗战争导致能源成本上升，越南通胀加速",
+          "url": "https://www.36kr.com/newsflashes/3792999278812418",
+          "source": "36氪",
+          "ranks": [
+            10,
+            14,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时36分 ~ 22时58分]"
         },
         {
           "title": "伊朗战争致油价暴涨打乱计划 美国廉航精神航空停运",
@@ -157,7 +172,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -166,11 +181,12 @@
           "url": "https://www.zaochenbao.com/news/politics/202605/0370852.html",
           "source": "联合早报",
           "ranks": [
-            3
+            3,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时40分 ~ 22时58分]"
         },
         {
           "title": "阿曼外交部：在阿曼外长与伊朗外长的电话沟通中，双方讨论了伊朗与美国在核问题及其他悬而未决问题上的最新进展，特别是与该地区海上航行及其自由相关的议题。",
@@ -179,7 +195,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -194,20 +210,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时00分 ~ 14时36分]"
-        },
-        {
-          "title": "因伊朗战争导致能源成本上升，越南通胀加速",
-          "url": "https://www.36kr.com/newsflashes/3792999278812418",
-          "source": "36氪",
-          "ranks": [
-            10,
-            14,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时36分 ~ 21时40分]"
         },
         {
           "title": "伊朗称霍尔木兹海峡一切交通都必须获得伊朗许可",
@@ -309,6 +311,17 @@
           "time_info": "[12时00分 ~ 14时36分]"
         },
         {
+          "title": "美国财长贝森特：伊朗在试图征收船只通行费方面收效甚微。",
+          "url": "https://flash.jin10.com/detail/20260503221042775800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
+        },
+        {
           "title": "伊朗一超大型油轮“躲过”美海军追踪 正驶向印尼廖内群岛",
           "url": "https://flash.jin10.com/detail/20260503124203115800",
           "source": "金十数据",
@@ -369,6 +382,28 @@
           "time_info": "[16时53分 ~ 18时13分]"
         },
         {
+          "title": "油轮追踪机构TankerTrackers：在2026年4月，有25艘油轮从伊朗出发，载着原油。其中，7艘很快被美国从阿拉伯海/印度洋重新引导回伊朗，2艘在印度洋被美国扣押，1艘抵达了远东。",
+          "url": "https://flash.jin10.com/detail/20260503220423763800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
+        },
+        {
+          "title": "乌克兰内政部长顾问：此次访问的主要目的是参加欧洲政治共同体（EPC）峰会——讨论结束乌克兰和伊朗战争的策略，以及与来自40多个国家的领导人共同加强欧洲的安全协调。",
+          "url": "https://flash.jin10.com/detail/20260503212450584800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗外长阿拉格齐向法国外长简要介绍了德黑兰的立场和旨在结束美以对伊朗施加的侵略战争的倡议。",
           "url": "https://flash.jin10.com/detail/20260503170420108800",
           "source": "金十数据",
@@ -386,7 +421,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -416,7 +451,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "美伊局势追踪：特朗普“不满”伊朗最新谈判方案 白宫称敌对行动已“结束”",
@@ -429,8 +464,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时01分 ~ 21时40分]"
+          "appearance_count": 17,
+          "time_info": "[01时01分 ~ 22时58分]"
         },
         {
           "title": "伊朗转交新方案，“放宽谈判条件”，特朗普称“不满意”，但“倾向于不打击”",
@@ -480,8 +515,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时01分 ~ 21时40分]"
+          "appearance_count": 17,
+          "time_info": "[01时01分 ~ 22时58分]"
         },
         {
           "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
@@ -494,8 +529,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时01分 ~ 21时40分]"
+          "appearance_count": 17,
+          "time_info": "[01时01分 ~ 22时58分]"
+        },
+        {
+          "title": "伊方最新谈判方案“14点提议，30天期限，聚焦终战”，特朗普称“难以想象该方案能被接受”",
+          "url": "https://wallstreetcn.com/articles/3771499",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时36分 ~ 22时58分]"
         },
         {
           "title": "美军运输机降落北京 疑似为特朗普访华运送物资",
@@ -564,17 +612,15 @@
           "time_info": "[04时53分 ~ 07时55分]"
         },
         {
-          "title": "伊方最新谈判方案“14点提议，30天期限，聚焦终战”，特朗普称“难以想象该方案能被接受”",
-          "url": "https://wallstreetcn.com/articles/3771499",
-          "source": "华尔街见闻",
+          "title": "美国财长贝森特：特朗普应该因在英特尔投资中获利而获得认可。",
+          "url": "https://flash.jin10.com/detail/20260503221733333800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            5,
-            6
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时36分 ~ 21时40分]"
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
         },
         {
           "title": "特朗普：驻德美军拟撤员不止5000人",
@@ -609,7 +655,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -618,11 +664,12 @@
           "url": "https://www.zaochenbao.com/news/politics/202605/0370850.html",
           "source": "联合早报",
           "ranks": [
-            5
+            5,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时40分 ~ 22时58分]"
         },
         {
           "title": "特朗普说从德国撤军人数将远超5000",
@@ -637,6 +684,31 @@
           "time_info": "[14时36分 ~ 16时53分]"
         },
         {
+          "title": "特朗普称将审查伊朗提出的结束冲突新方案",
+          "url": "https://www.cls.cn/detail/2362213",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时53分 ~ 22时58分]"
+        },
+        {
+          "title": "特朗普与教宗良十四世口水战后 鲁比奥将访问罗马和梵蒂冈",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0370849.html",
+          "source": "联合早报",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时40分 ~ 22时58分]"
+        },
+        {
           "title": "伊朗外交部发言人：特朗普吹嘘行事如“海盗”是对犯罪的直接承认",
           "url": "https://flash.jin10.com/detail/20260503094347765800",
           "source": "金十数据",
@@ -647,18 +719,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时00分 ~ 14时36分]"
-        },
-        {
-          "title": "特朗普称将审查伊朗提出的结束冲突新方案",
-          "url": "https://www.cls.cn/detail/2362213",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时53分 ~ 21时40分]"
         },
         {
           "title": "特朗普说有可能重启对伊朗空袭",
@@ -672,24 +732,13 @@
           "time_info": "[12时00分 ~ 12时01分]"
         },
         {
-          "title": "特朗普与教宗良十四世口水战后 鲁比奥将访问罗马和梵蒂冈",
-          "url": "https://www.zaochenbao.com/news/politics/202605/0370849.html",
-          "source": "联合早报",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
-        },
-        {
           "title": "特朗普政府叫停风电审批 约165个项目受影响",
           "url": "https://flash.jin10.com/detail/20260503204718955800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -700,7 +749,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -744,7 +793,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         }
