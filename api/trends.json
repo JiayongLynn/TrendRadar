@@ -1,117 +1,34 @@
 {
-  "generated_at": "2026-05-05T00:55:37.729237+08:00",
-  "total_titles_processed": 118,
+  "generated_at": "2026-05-05T02:23:19.034684+08:00",
+  "total_titles_processed": 148,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "美股异动丨游戏驿站拟560亿美元收购eBay，股价大跌7%，eBay大涨创新高",
-          "url": "https://www.gelonghui.com/news/5226976",
-          "source": "格隆汇",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
-          "url": "https://wallstreetcn.com/articles/3771543",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "金十图示：2026年05月04日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260505003152134800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "金十图示：2026年05月04日（周一）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260505003052330800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "美股异动｜亚马逊涨3%再创新高！开放供应链服务，估值逻辑有望重塑",
-          "url": "https://www.gelonghui.com/news/5226972",
-          "source": "格隆汇",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "美股异动丨存储概念股大涨，美光科技、闪迪等多股刷新历史新高！",
-          "url": "https://www.gelonghui.com/news/5226967",
-          "source": "格隆汇",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "美股异动丨挪威邮轮大跌超9%，Q1盈利超预期，但全年展望下调",
-          "url": "https://www.gelonghui.com/news/5226965",
-          "source": "格隆汇",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "美股异动｜黑莓盘初大涨13% QNX成增长引擎 与英伟达扩大合作",
-          "url": "https://www.gelonghui.com/news/5226964",
-          "source": "格隆汇",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "美股延续下跌，道指下跌1%。",
-          "url": "https://flash.jin10.com/detail/20260505000844864800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
+          "url": "https://www.cls.cn/detail/2362210",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时23分]"
+        },
+        {
+          "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
+          "url": "https://www.cls.cn/detail/2362134",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时23分]"
+        },
         {
           "title": "据伊朗塔斯尼姆通讯社：巴林宣布进入警戒状态，因担忧可能遭受袭击。",
           "url": "https://flash.jin10.com/detail/20260505003523304800",
@@ -122,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "阿联酋谴责伊朗袭击该国民用设施",
+          "url": "https://flash.jin10.com/detail/20260505015937205800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         },
         {
           "title": "伊朗媒体：伊方没有计划袭击阿联酋",
@@ -135,42 +63,53 @@
           "time_info": "00时55分"
         },
         {
-          "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
-          "url": "https://www.cls.cn/detail/2362210",
-          "source": "财联社热门",
+          "title": "雪佛龙(CVX.N)CEO：伊朗冲突导致石油供应形势趋紧。",
+          "url": "https://flash.jin10.com/detail/20260505015448536800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
-          "url": "https://www.cls.cn/detail/2362134",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "美中央司令部司令：伊朗使用导弹打击商船及美军舰",
-          "url": "https://flash.jin10.com/detail/20260505002528057800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "time_info": "02时23分"
         },
         {
           "title": "特稿：伊朗战事助推人民币国际化 能源多元化挑战美元霸权",
           "url": "https://www.zaochenbao.com/news/china/202605/0470939.html",
           "source": "联合早报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时23分]"
+        },
+        {
+          "title": "伊朗促美国放弃过分要求",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0470936.html",
+          "source": "联合早报",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时23分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗军方消息人士警告阿联酋不要沦为“以色列的棋子”，称任何错误举动都将招致严厉回应。伊朗军方消息人士称未发布针对阿联酋的官方威胁，相关报道源自媒体。",
+          "url": "https://flash.jin10.com/detail/20260505014605670800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "美中央司令部司令：伊朗使用导弹打击商船及美军舰",
+          "url": "https://flash.jin10.com/detail/20260505002528057800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
@@ -190,17 +129,6 @@
           "time_info": "00时55分"
         },
         {
-          "title": "伊朗促美国放弃过分要求",
-          "url": "https://www.zaochenbao.com/news/politics/202605/0470936.html",
-          "source": "联合早报",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
           "title": "伊朗国家媒体援引伊朗高级军事官员的话称，伊朗没有针对阿联酋的打击计划。",
           "url": "https://flash.jin10.com/detail/20260505001807742800",
           "source": "金十数据",
@@ -210,12 +138,129 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "消息称以色列“铁穹”防空系统在阿联酋拦截伊朗导弹",
+          "url": "https://flash.jin10.com/detail/20260505013101437800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
+          "url": "https://wallstreetcn.com/articles/3771543",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时23分]"
+        },
+        {
+          "title": "美股异动丨游戏驿站拟560亿美元收购eBay，股价大跌7%，eBay大涨创新高",
+          "url": "https://www.gelonghui.com/news/5226976",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时23分]"
+        },
+        {
+          "title": "金十图示：2026年05月04日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260505003152134800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "美股异动｜亚马逊涨3%再创新高！开放供应链服务，估值逻辑有望重塑",
+          "url": "https://www.gelonghui.com/news/5226972",
+          "source": "格隆汇",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时23分]"
+        },
+        {
+          "title": "美股异动丨存储概念股大涨，美光科技、闪迪等多股刷新历史新高！",
+          "url": "https://www.gelonghui.com/news/5226967",
+          "source": "格隆汇",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时23分]"
+        },
+        {
+          "title": "美股异动丨挪威邮轮大跌超9%，Q1盈利超预期，但全年展望下调",
+          "url": "https://www.gelonghui.com/news/5226965",
+          "source": "格隆汇",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时23分]"
+        },
+        {
+          "title": "美股异动｜黑莓盘初大涨13% QNX成增长引擎 与英伟达扩大合作",
+          "url": "https://www.gelonghui.com/news/5226964",
+          "source": "格隆汇",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时23分]"
+        },
+        {
+          "title": "金十图示：2026年05月04日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260505003052330800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "美股延续下跌，道指下跌1%。",
+          "url": "https://flash.jin10.com/detail/20260505000844864800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
@@ -225,8 +270,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时23分]"
+        },
+        {
+          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
+          "url": "https://www.cls.cn/detail/2362404",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时23分]"
+        },
+        {
+          "title": "特朗普称将审查伊朗提出的结束冲突新方案",
+          "url": "https://www.cls.cn/detail/2362213",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时23分]"
         },
         {
           "title": "美国中央司令部司令布拉德·库珀上将：我们将根据特朗普总统的指示应对伊朗的攻击。",
@@ -240,26 +307,15 @@
           "time_info": "00时55分"
         },
         {
-          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
-          "url": "https://www.cls.cn/detail/2362404",
-          "source": "财联社热门",
+          "title": "特朗普呼吁韩国加入霍尔木兹海峡行动",
+          "url": "https://flash.jin10.com/detail/20260505013344120800",
+          "source": "金十数据",
           "ranks": [
-            7
+            22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "特朗普称将审查伊朗提出的结束冲突新方案",
-          "url": "https://www.cls.cn/detail/2362213",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "time_info": "02时23分"
         }
       ]
     },
@@ -309,8 +365,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时23分]"
         }
       ]
     }
