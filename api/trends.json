@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T12:01:53.345255+08:00",
-  "total_titles_processed": 299,
+  "generated_at": "2026-05-04T14:52:39.303735+08:00",
+  "total_titles_processed": 358,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 48,
+      "match_count": 51,
       "titles": [
         {
           "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 12时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 14时52分]"
         },
         {
           "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 12时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 14时52分]"
         },
         {
           "title": "美媒：伊朗愿先开放霍尔木兹海峡再谈判",
@@ -86,7 +86,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -109,7 +109,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -150,17 +150,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时02分 ~ 03时12分]"
-        },
-        {
-          "title": "分析：伊朗战争意外增强了乌克兰的实力，俄乌距离停火协议是否更进一步",
-          "url": "https://www.zaochenbao.com/news/politics/202605/0470893.html",
-          "source": "联合早报",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
         },
         {
           "title": "据以色列i24News：美国预计将对伊朗的14点提议作出回应，关键分歧点仍是浓缩铀问题。",
@@ -221,6 +210,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时54分 ~ 07时57分]"
+        },
+        {
+          "title": "分析：伊朗战争意外增强了乌克兰的实力，俄乌距离停火协议是否更进一步",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0470893.html",
+          "source": "联合早报",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 14时52分]"
         },
         {
           "title": "伊朗议员：霍尔木兹通行许可将经最高领袖批准后转达武装部队",
@@ -391,6 +392,18 @@
           "time_info": "[06时54分 ~ 07时57分]"
         },
         {
+          "title": "伊朗议会要员：美国干涉海峡新管理制度将被视为违反停火",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0470885.html",
+          "source": "联合早报",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 14时52分]"
+        },
+        {
           "title": "伊朗外交部：有关核问题的事项涉及过去的谈判记录，与当前计划无关。",
           "url": "https://flash.jin10.com/detail/20260504010838233800",
           "source": "金十数据",
@@ -435,6 +448,28 @@
           "time_info": "[03时11分 ~ 03时12分]"
         },
         {
+          "title": "巴基斯坦政府：船员将于周一移交给伊朗当局。伊朗船只将在必要维修后被重新装载回巴基斯坦水域，归还原所有者。",
+          "url": "https://flash.jin10.com/detail/20260504144147685800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "巴基斯坦政府：22名被扣押的伊朗货船船员已由美国撤离至巴基斯坦。",
+          "url": "https://flash.jin10.com/detail/20260504144016438800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
           "title": "贝森特：伊朗已无力支付军饷，石油业“一周内”可能被迫关井",
           "url": "https://flash.jin10.com/detail/20260504065420788800",
           "source": "金十数据",
@@ -468,17 +503,6 @@
           "time_info": "01时02分"
         },
         {
-          "title": "伊朗议会要员：美国干涉海峡新管理制度将被视为违反停火",
-          "url": "https://www.zaochenbao.com/news/politics/202605/0470885.html",
-          "source": "联合早报",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
-        },
-        {
           "title": "伊朗国家石油公司经理：石油工业是战斗的一部分，到目前为止，我们的表现都很成功。",
           "url": "https://flash.jin10.com/detail/20260504001421017800",
           "source": "金十数据",
@@ -507,7 +531,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -518,7 +542,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -529,7 +553,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -565,12 +589,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "伊朗革命卫队：精神力量使伊朗在不对称战争中立于不败之地",
+          "url": "https://flash.jin10.com/detail/20260504140830939800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "伊方最新谈判方案“14点提议，30天期限，聚焦终战”，特朗普称“难以想象该方案能被接受”",
@@ -583,8 +618,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 12时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 14时52分]"
         },
         {
           "title": "美伊局势追踪：特朗普“不满”伊朗最新谈判方案 白宫称敌对行动已“结束”",
@@ -596,8 +631,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 12时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 14时52分]"
         },
         {
           "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
@@ -608,8 +643,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 12时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 14时52分]"
         },
         {
           "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
@@ -653,7 +688,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -667,6 +702,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "贝森特：特朗普没有计划推迟访华行程",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0470902.html",
+          "source": "联合早报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "德国总理默茨：（就与特朗普在部队撤回问题上发生的争执）两者之间没有关联。",
@@ -826,6 +872,18 @@
           "time_info": "[05时55分 ~ 07时57分]"
         },
         {
+          "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
+          "url": "https://wallstreetcn.com/articles/3771515",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 14时52分]"
+        },
+        {
           "title": "美国总统特朗普：美国在霍尔木兹海峡解放船只的努力将于（中东时间）周一上午开始。",
           "url": "https://flash.jin10.com/detail/20260504043925584800",
           "source": "金十数据",
@@ -836,6 +894,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时55分 ~ 06时54分]"
+        },
+        {
+          "title": "美国决定从德国撤军5000人，特朗普与默茨争拗升温",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0470892.html",
+          "source": "联合早报",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 14时52分]"
         },
         {
           "title": "美国总统特朗普：来自世界各国的几乎所有国家，几乎都与当前在中东地区明显且暴力的争端无关，已向美国请求帮助，释放被锁在霍尔木兹海峡的船只，这与他们毫无关系——他们只是中立和无辜的旁观者！",
@@ -850,6 +920,18 @@
           "time_info": "[05时55分 ~ 06时54分]"
         },
         {
+          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
+          "url": "https://www.cls.cn/detail/2362404",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 14时52分]"
+        },
+        {
           "title": "美国共和党参议员格雷厄姆：我完全支持特朗普总统启动“自由计划”的决定，其目的是恢复霍尔木兹海峡的航行自由，这条通道对全球经济至关重要，但却被伊朗“恐怖主义”锁住。",
           "url": "https://flash.jin10.com/detail/20260504053755382800",
           "source": "金十数据",
@@ -862,37 +944,28 @@
           "time_info": "[06时54分 ~ 07时57分]"
         },
         {
-          "title": "美国决定从德国撤军5000人，特朗普与默茨争拗升温",
-          "url": "https://www.zaochenbao.com/news/politics/202605/0470892.html",
+          "title": "伊朗已收到美国回应 特朗普称正与伊方进行积极讨论",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0470883.html",
           "source": "联合早报",
           "ranks": [
-            6
+            15,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 14时52分]"
         },
         {
-          "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
-          "url": "https://wallstreetcn.com/articles/3771515",
-          "source": "华尔街见闻",
+          "title": "陈士铭：特朗普政府对美元信用体系的焦虑",
+          "url": "https://www.zaochenbao.com/news/opinion/202605/0470881.html",
+          "source": "联合早报",
           "ranks": [
-            7
+            17,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
-        },
-        {
-          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
-          "url": "https://www.cls.cn/detail/2362404",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 14时52分]"
         },
         {
           "title": "美国总统特朗普在社交媒体平台Truth Social上发布了一张照片，照片中他手持多张卡片，并配文“我手头拥有所有卡牌（I have all the cards）”。",
@@ -906,35 +979,13 @@
           "time_info": "07时57分"
         },
         {
-          "title": "伊朗已收到美国回应 特朗普称正与伊方进行积极讨论",
-          "url": "https://www.zaochenbao.com/news/politics/202605/0470883.html",
-          "source": "联合早报",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
-        },
-        {
-          "title": "陈士铭：特朗普政府对美元信用体系的焦虑",
-          "url": "https://www.zaochenbao.com/news/opinion/202605/0470881.html",
-          "source": "联合早报",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
-        },
-        {
           "title": "美国总统特朗普：必须终结（国会的）冗长辩论机制，并取得胜利。",
           "url": "https://flash.jin10.com/detail/20260504105326392800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -948,6 +999,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "北约秘书长吕特：欧洲已接收到了特朗普传递的信息，正在确保关于基地使用权的协议得到落实。",
+          "url": "https://flash.jin10.com/detail/20260504140924828800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         }
       ]
     },
@@ -963,11 +1025,12 @@
             9,
             8,
             7,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时56分 ~ 12时01分]"
+          "appearance_count": 6,
+          "time_info": "[04时56分 ~ 14时52分]"
         },
         {
           "title": "美股三大股指期货周一小幅高开，道指期货开涨0.2%。",
