@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T02:23:19.034684+08:00",
-  "total_titles_processed": 148,
+  "generated_at": "2026-05-05T04:23:34.387520+08:00",
+  "total_titles_processed": 177,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 02时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 04时23分]"
         },
         {
           "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -47,7 +47,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         },
@@ -69,7 +69,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         },
@@ -81,8 +81,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 02时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 04时23分]"
         },
         {
           "title": "伊朗促美国放弃过分要求",
@@ -92,8 +92,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 02时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 04时23分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗军方消息人士警告阿联酋不要沦为“以色列的棋子”，称任何错误举动都将招致严厉回应。伊朗军方消息人士称未发布针对阿联酋的官方威胁，相关报道源自媒体。",
@@ -102,7 +102,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         },
@@ -129,6 +129,28 @@
           "time_info": "00时55分"
         },
         {
+          "title": "伊朗称2枚导弹击中美军舰，国际油价直线拉升",
+          "url": "https://www.cls.cn/detail/2362576",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "伊媒：伊朗陆军总司令对美航母发出的警告来自假账号",
+          "url": "https://flash.jin10.com/detail/20260505033230707800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
           "title": "伊朗国家媒体援引伊朗高级军事官员的话称，伊朗没有针对阿联酋的打击计划。",
           "url": "https://flash.jin10.com/detail/20260505001807742800",
           "source": "金十数据",
@@ -140,21 +162,194 @@
           "time_info": "00时55分"
         },
         {
+          "title": "伊朗军事官员：阿联酋石油设施起火是美国军事冒险所致",
+          "url": "https://flash.jin10.com/detail/20260505033132547800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "据伊朗国家电视台：伊朗军事官员称，阿联酋富查伊拉港发生的事件是由于美国军方的冒险行为，美方试图在霍尔木兹海峡创造非法船只通行的通道。",
+          "url": "https://flash.jin10.com/detail/20260505031853079800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "据伊朗国家电视台：伊朗军事官员称，伊朗并没有预谋计划攻击阿联酋富查伊拉的石油设施。",
+          "url": "https://flash.jin10.com/detail/20260505031724536800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
           "title": "消息称以色列“铁穹”防空系统在阿联酋拦截伊朗导弹",
           "url": "https://flash.jin10.com/detail/20260505013101437800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         }
       ]
     },
     {
+      "keyword_group": "特朗普",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
+          "url": "https://wallstreetcn.com/articles/3771515",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 04时23分]"
+        },
+        {
+          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
+          "url": "https://www.cls.cn/detail/2362404",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 04时23分]"
+        },
+        {
+          "title": "特朗普称将审查伊朗提出的结束冲突新方案",
+          "url": "https://www.cls.cn/detail/2362213",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 04时23分]"
+        },
+        {
+          "title": "美国中央司令部司令布拉德·库珀上将：我们将根据特朗普总统的指示应对伊朗的攻击。",
+          "url": "https://flash.jin10.com/detail/20260505002813048800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "美媒：特朗普未明确表示伊朗已违反停火协议",
+          "url": "https://flash.jin10.com/detail/20260505035841476800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）一旦这件事结束，燃油价格将迅速下跌。",
+          "url": "https://flash.jin10.com/detail/20260505035133032800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗的情况进展得非常顺利。",
+          "url": "https://flash.jin10.com/detail/20260505034956752800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "美国白宫：总统特朗普正在白宫参加小型企业峰会。",
+          "url": "https://flash.jin10.com/detail/20260505034921309800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "美媒：特朗普政府考虑对新AI模型引入政府监管",
+          "url": "https://flash.jin10.com/detail/20260505031822902800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "特朗普呼吁韩国加入霍尔木兹海峡行动",
+          "url": "https://flash.jin10.com/detail/20260505013344120800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "特朗普在社交媒体上发布了一张其政府于2025年8月买入英特尔(INTC.O)后截至目前的收益曲线图，并配文称：“我在过去8个月让美国赚了450亿美元！”",
+          "url": "https://flash.jin10.com/detail/20260505031046499800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "据ABC新闻：美国总统特朗普称，一枚伊朗导弹击中了阿联酋，但损害不大。",
+          "url": "https://flash.jin10.com/detail/20260505030918942800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
@@ -165,8 +360,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 02时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 04时23分]"
         },
         {
           "title": "美股异动丨游戏驿站拟560亿美元收购eBay，股价大跌7%，eBay大涨创新高",
@@ -176,8 +371,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 02时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 04时23分]"
+        },
+        {
+          "title": "金十图示：2026年05月04日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260505040709111800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
         },
         {
           "title": "金十图示：2026年05月04日（周一）美股热门股票行情一览（美股盘中）",
@@ -191,6 +397,17 @@
           "time_info": "00时55分"
         },
         {
+          "title": "美股收盘：道指跌超1% 英特尔跌近4%",
+          "url": "https://flash.jin10.com/detail/20260505040130170800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
           "title": "美股异动｜亚马逊涨3%再创新高！开放供应链服务，估值逻辑有望重塑",
           "url": "https://www.gelonghui.com/news/5226972",
           "source": "格隆汇",
@@ -198,8 +415,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 02时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 04时23分]"
         },
         {
           "title": "美股异动丨存储概念股大涨，美光科技、闪迪等多股刷新历史新高！",
@@ -209,8 +426,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 02时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 04时23分]"
         },
         {
           "title": "美股异动丨挪威邮轮大跌超9%，Q1盈利超预期，但全年展望下调",
@@ -220,8 +437,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 02时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 04时23分]"
         },
         {
           "title": "美股异动｜黑莓盘初大涨13% QNX成增长引擎 与英伟达扩大合作",
@@ -231,8 +448,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 02时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 04时23分]"
         },
         {
           "title": "金十图示：2026年05月04日（周一）热门中概股行情一览（美股盘中）",
@@ -255,67 +472,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
-          "url": "https://wallstreetcn.com/articles/3771515",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 02时23分]"
-        },
-        {
-          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
-          "url": "https://www.cls.cn/detail/2362404",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 02时23分]"
-        },
-        {
-          "title": "特朗普称将审查伊朗提出的结束冲突新方案",
-          "url": "https://www.cls.cn/detail/2362213",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 02时23分]"
-        },
-        {
-          "title": "美国中央司令部司令布拉德·库珀上将：我们将根据特朗普总统的指示应对伊朗的攻击。",
-          "url": "https://flash.jin10.com/detail/20260505002813048800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "特朗普呼吁韩国加入霍尔木兹海峡行动",
-          "url": "https://flash.jin10.com/detail/20260505013344120800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时23分"
         }
       ]
     },
@@ -365,8 +521,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 02时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 04时23分]"
         }
       ]
     }
