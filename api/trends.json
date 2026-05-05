@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T03:47:16.873757+08:00",
-  "total_titles_processed": 141,
+  "generated_at": "2026-05-06T05:13:57.935778+08:00",
+  "total_titles_processed": 169,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "美战争部长：与伊朗的停火协议尚未结束",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 05时13分]"
         },
         {
           "title": "美国巴林推动通过草案 或授权对伊朗动用武力",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 05时13分]"
         },
         {
           "title": "据伊朗Press TV：伊朗成立新机构管理霍尔木兹海峡的船舶通行。",
@@ -47,7 +47,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         },
@@ -70,8 +70,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 05时13分]"
         },
         {
           "title": "美情报评估显示：美伊战争对伊朗核计划破坏有限",
@@ -81,8 +81,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 05时13分]"
         },
         {
           "title": "伊朗外交部长阿拉格齐正前往中国",
@@ -92,8 +92,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 05时13分]"
         },
         {
           "title": "美国国务卿鲁比奥：美国军队在霍尔木兹海峡摧毁了7艘伊朗快艇。",
@@ -102,7 +102,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         },
@@ -116,6 +116,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "伊朗总统：理性对话仍有可能 极限施压不会成功",
+          "url": "https://flash.jin10.com/detail/20260506043127321800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "伊朗外交部发言人否认阿联酋关于伊朗向其发射导弹和无人机的指控，并发表声明称，伊朗的防御行动完全针对美国。",
+          "url": "https://flash.jin10.com/detail/20260506042531636800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         },
         {
           "title": "伊朗警告霍尔木兹海峡通行船只：偏离指定航道将面临“坚决回应”",
@@ -135,7 +157,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         },
@@ -168,7 +190,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         }
@@ -176,7 +198,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "大行评级丨野村：维持网易美股“买入”评级，预期首季业绩略超预期",
@@ -186,8 +208,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 05时13分]"
         },
         {
           "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
@@ -197,19 +219,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 05时13分]"
         },
         {
           "title": "美伊局势暂趋缓和，美股期指齐涨，半导体股走强，英特尔涨超4%，WTI油价跌超2%",
           "url": "https://wallstreetcn.com/articles/3771589",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 05时13分]"
         },
         {
           "title": "美股异动丨比特币突破8.1万美元，带动加密货币概念股上涨",
@@ -219,19 +242,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 05时13分]"
         },
         {
           "title": "伊朗导弹搅动国际油市 冲突重燃担忧致美股指数全线下跌| 今夜看点",
           "url": "https://www.cls.cn/detail/2362589",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 05时13分]"
         },
         {
           "title": "美股异动｜“大空头”Michael Burry清仓游戏驿站，后者一度跌超4%",
@@ -241,8 +265,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 05时13分]"
         },
         {
           "title": "金十图示：2026年05月05日（周二）美股热门股票行情一览（美股盘中）",
@@ -265,6 +289,100 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "AMD(AMD.O)美股盘后涨2%。",
+          "url": "https://flash.jin10.com/detail/20260506042115421800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "市场消息：苹果(AAPL.O)一直在测试与谷歌和Anthropic的集成。",
+          "url": "https://flash.jin10.com/detail/20260506012503542800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
+          "title": "Anthropic拟向谷歌投入2000亿美元",
+          "url": "https://flash.jin10.com/detail/20260506043310242800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "谷歌(GOOG.O)首席科学家警告称，欧盟监管机构的数据共享方式未能有效保护欧洲人的隐私。",
+          "url": "https://flash.jin10.com/detail/20260506024845206800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
+          "title": "谷歌(GOOG.O)首席科学家将于周三与欧盟反垄断监管机构会面。",
+          "url": "https://flash.jin10.com/detail/20260506024838335800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
+          "title": "谷歌(GOOG.O)美股盘后涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260506042737308800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "据谷歌(GOOG.O)一位科学家透露，谷歌希望与监管机构分享技术专长，以确立恰当的防护措施。",
+          "url": "https://flash.jin10.com/detail/20260506024811580800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
+          "title": "Anthropic 承诺在谷歌的云服务和芯片上投资2000亿美元。（The Information）",
+          "url": "https://flash.jin10.com/detail/20260506042238368800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         }
       ]
     },
@@ -290,7 +408,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         },
@@ -345,7 +463,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         }
@@ -355,6 +473,29 @@
       "keyword_group": "特朗普",
       "match_count": 7,
       "titles": [
+        {
+          "title": "“停火协议”完了？特朗普“刻意淡化”，阿联酋谴责，伊朗军方警告、外长抨击“自由计划”",
+          "url": "https://wallstreetcn.com/articles/3771561",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 05时13分]"
+        },
+        {
+          "title": "美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”",
+          "url": "https://www.cls.cn/detail/2362745",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 05时13分]"
+        },
         {
           "title": "美伊开火争夺霍尔木兹主导、特朗普威胁“炸飞”，停火以来阿联酋首次遭袭，伊称未计划袭阿",
           "url": "https://wallstreetcn.com/articles/3771548",
@@ -367,35 +508,13 @@
           "time_info": "[01时51分 ~ 03时47分]"
         },
         {
-          "title": "“停火协议”完了？特朗普“刻意淡化”，阿联酋谴责，伊朗军方警告、外长抨击“自由计划”",
-          "url": "https://wallstreetcn.com/articles/3771561",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 03时47分]"
-        },
-        {
-          "title": "美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”",
-          "url": "https://www.cls.cn/detail/2362745",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 03时47分]"
-        },
-        {
           "title": "美国国务卿鲁比奥：美国特使威特科夫和特朗普女婿库什纳正在努力推动外交进程。",
           "url": "https://flash.jin10.com/detail/20260506032048829800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         },
@@ -418,8 +537,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 05时13分]"
         },
         {
           "title": "据以色列公共广播公司：阿联酋告诉以色列大使，以色列应向特朗普施压，要求其对伊朗采取军事行动。",
@@ -428,57 +547,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "市场消息：苹果(AAPL.O)一直在测试与谷歌和Anthropic的集成。",
-          "url": "https://flash.jin10.com/detail/20260506012503542800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "谷歌(GOOG.O)首席科学家警告称，欧盟监管机构的数据共享方式未能有效保护欧洲人的隐私。",
-          "url": "https://flash.jin10.com/detail/20260506024845206800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时47分"
-        },
-        {
-          "title": "谷歌(GOOG.O)首席科学家将于周三与欧盟反垄断监管机构会面。",
-          "url": "https://flash.jin10.com/detail/20260506024838335800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时47分"
-        },
-        {
-          "title": "据谷歌(GOOG.O)一位科学家透露，谷歌希望与监管机构分享技术专长，以确立恰当的防护措施。",
-          "url": "https://flash.jin10.com/detail/20260506024811580800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "03时47分"
         }
@@ -493,22 +562,41 @@
           "url": "https://wallstreetcn.com/articles/3771562",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 05时13分]"
         },
         {
           "title": "30年期美债冲破5%！华尔街已纷纷拉响警报",
           "url": "https://www.cls.cn/detail/2363061",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时47分 ~ 05时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数5日上涨",
+          "url": "https://flash.jin10.com/detail/20260506043446324800",
+          "source": "金十数据",
+          "ranks": [
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时47分"
+          "time_info": "05时13分"
         }
       ]
     }
