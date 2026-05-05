@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T06:11:01.292473+08:00",
-  "total_titles_processed": 209,
+  "generated_at": "2026-05-05T08:02:23.180836+08:00",
+  "total_titles_processed": 252,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -15,19 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 06时11分]"
-        },
-        {
-          "title": "以媒：美以权衡对伊朗实施打击",
-          "url": "https://flash.jin10.com/detail/20260505060542807800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时10分 ~ 06时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 08时02分]"
         },
         {
           "title": "伊朗外长阿拉格齐：霍尔木兹的局势清楚地表明，政治危机无法通过军事手段解决。在巴基斯坦的积极努力下，谈判正取得进展，美国应警惕被别有用心者拖回泥潭，阿联酋方面也应如此。“自由计划”就是一个“僵局计划”。",
@@ -50,6 +39,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 02时23分]"
+        },
+        {
+          "title": "美军助受困船只离开海峡 伊朗称将视为违反停火",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0570955.html",
+          "source": "联合早报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "特稿：伊朗战事助推人民币国际化 能源多元化挑战美元霸权",
+          "url": "https://www.zaochenbao.com/news/china/202605/0470939.html",
+          "source": "联合早报",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 08时02分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：巴林宣布进入警戒状态，因担忧可能遭受袭击。",
@@ -96,15 +108,27 @@
           "time_info": "02时23分"
         },
         {
-          "title": "特稿：伊朗战事助推人民币国际化 能源多元化挑战美元霸权",
-          "url": "https://www.zaochenbao.com/news/china/202605/0470939.html",
-          "source": "联合早报",
+          "title": "伊朗革命卫队政治副司令： 美国正在炫耀其力量，动用一切手段，但最终将面临失败。",
+          "url": "https://flash.jin10.com/detail/20260505073827791800",
+          "source": "金十数据",
           "ranks": [
-            11
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "以媒：美以权衡对伊朗实施打击",
+          "url": "https://flash.jin10.com/detail/20260505060542807800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 06时11分]"
+          "appearance_count": 3,
+          "time_info": "[06时10分 ~ 08时02分]"
         },
         {
           "title": "伊朗促美国放弃过分要求",
@@ -206,6 +230,17 @@
           "time_info": "04时23分"
         },
         {
+          "title": "英国政府：英国首相表示，局势的升级必须停止；伊朗需要积极参与谈判，以确保中东停火能够持续。",
+          "url": "https://flash.jin10.com/detail/20260505065704602800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
           "title": "据伊朗国家电视台：伊朗军事官员称，阿联酋富查伊拉港发生的事件是由于美国军方的冒险行为，美方试图在霍尔木兹海峡创造非法船只通行的通道。",
           "url": "https://flash.jin10.com/detail/20260505031853079800",
           "source": "金十数据",
@@ -242,7 +277,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
@@ -252,19 +287,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 06时11分]"
-        },
-        {
-          "title": "特朗普拒绝确认美伊停火协议是否仍然有效",
-          "url": "https://flash.jin10.com/detail/20260505060622689800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时10分 ~ 06时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 08时02分]"
         },
         {
           "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
@@ -275,8 +299,31 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 06时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 08时02分]"
+        },
+        {
+          "title": "特朗普拒绝确认美伊停火协议是否仍然有效",
+          "url": "https://flash.jin10.com/detail/20260505060622689800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时10分 ~ 08时02分]"
+        },
+        {
+          "title": "伊朗革命卫队政治副司令：特朗普当前面临的挑战是重开霍尔木兹海峡。在整个40天的战争期间及之后，他尝试了所有可能的选项，却未能取得任何成果。特朗普无力将局势倒退回2月28日之前，也无力改变当前局势。",
+          "url": "https://flash.jin10.com/detail/20260505073807180800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "特朗普称将审查伊朗提出的结束冲突新方案",
@@ -379,6 +426,17 @@
           "time_info": "04时23分"
         },
         {
+          "title": "美伊开火争夺霍尔木兹主导、特朗普威胁“炸飞”，停火以来阿联酋首次遭袭，伊称未计划袭阿",
+          "url": "https://wallstreetcn.com/articles/3771548",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
           "title": "美国白宫：总统特朗普正在白宫参加小型企业峰会。",
           "url": "https://flash.jin10.com/detail/20260505034921309800",
           "source": "金十数据",
@@ -412,6 +470,17 @@
           "time_info": "02时23分"
         },
         {
+          "title": "阿联酋自美伊临时停火以来首次遇袭，特朗普拒明确停火有效性",
+          "url": "https://flash.jin10.com/detail/20260505063650538800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
           "title": "特朗普在社交媒体上发布了一张其政府于2025年8月买入英特尔(INTC.O)后截至目前的收益曲线图，并配文称：“我在过去8个月让美国赚了450亿美元！”",
           "url": "https://flash.jin10.com/detail/20260505031046499800",
           "source": "金十数据",
@@ -432,6 +501,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗战争可能还会持续两到三周。",
+          "url": "https://flash.jin10.com/detail/20260505060625240800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         }
       ]
     },
@@ -448,8 +528,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 06时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 08时02分]"
         },
         {
           "title": "美股异动丨游戏驿站拟560亿美元收购eBay，股价大跌7%，eBay大涨创新高",
@@ -457,22 +537,25 @@
           "source": "格隆汇",
           "ranks": [
             2,
-            3
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 06时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 08时02分]"
         },
         {
-          "title": "美股三大指数集体收跌 道指跌超1%",
-          "url": "https://www.gelonghui.com/news/5227057",
+          "title": "美股异动｜亚马逊涨3%再创新高！开放供应链服务，估值逻辑有望重塑",
+          "url": "https://www.gelonghui.com/news/5226972",
           "source": "格隆汇",
           "ranks": [
-            1
+            6,
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时10分 ~ 06时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 08时02分]"
         },
         {
           "title": "金十图示：2026年05月04日（周一）热门中概股行情一览（美股收盘）",
@@ -486,16 +569,16 @@
           "time_info": "04时23分"
         },
         {
-          "title": "美股异动｜亚马逊涨3%再创新高！开放供应链服务，估值逻辑有望重塑",
-          "url": "https://www.gelonghui.com/news/5226972",
+          "title": "美股三大指数集体收跌 道指跌超1%",
+          "url": "https://www.gelonghui.com/news/5227057",
           "source": "格隆汇",
           "ranks": [
-            6,
-            7
+            1,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 06时11分]"
+          "appearance_count": 3,
+          "time_info": "[06时10分 ~ 08时02分]"
         },
         {
           "title": "金十图示：2026年05月04日（周一）美股热门股票行情一览（美股盘中）",
@@ -622,11 +705,12 @@
           "url": "https://wallstreetcn.com/articles/3771530",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 06时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 08时02分]"
         }
       ]
     }
