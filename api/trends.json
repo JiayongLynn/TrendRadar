@@ -1,11 +1,297 @@
 {
-  "generated_at": "2026-05-05T08:02:23.180836+08:00",
-  "total_titles_processed": 252,
+  "generated_at": "2026-05-05T12:21:17.325136+08:00",
+  "total_titles_processed": 321,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 25,
+      "titles": [
+        {
+          "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
+          "url": "https://wallstreetcn.com/articles/3771515",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 08时02分]"
+        },
+        {
+          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
+          "url": "https://www.cls.cn/detail/2362404",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 12时21分]"
+        },
+        {
+          "title": "特朗普拒绝确认美伊停火协议是否仍然有效",
+          "url": "https://flash.jin10.com/detail/20260505060622689800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时10分 ~ 08时02分]"
+        },
+        {
+          "title": "伊朗革命卫队政治副司令：特朗普当前面临的挑战是重开霍尔木兹海峡。在整个40天的战争期间及之后，他尝试了所有可能的选项，却未能取得任何成果。特朗普无力将局势倒退回2月28日之前，也无力改变当前局势。",
+          "url": "https://flash.jin10.com/detail/20260505073807180800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "特朗普称将审查伊朗提出的结束冲突新方案",
+          "url": "https://www.cls.cn/detail/2362213",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 06时11分]"
+        },
+        {
+          "title": "美伊开火争夺霍尔木兹主导、特朗普威胁“炸飞”，停火以来阿联酋首次遭袭，伊称未计划袭阿",
+          "url": "https://wallstreetcn.com/articles/3771548",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 12时21分]"
+        },
+        {
+          "title": "特朗普称美国与伊朗处于“迷你战争”状态",
+          "url": "https://flash.jin10.com/detail/20260505050012247800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 06时11分]"
+        },
+        {
+          "title": "美国总统特朗普：我们的关税经过了更充分的检验，更加有力，也稍微复杂一些。它们让我们的国家变得非常富裕。",
+          "url": "https://flash.jin10.com/detail/20260505045117367800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 06时11分]"
+        },
+        {
+          "title": "美国总统特朗普：我已经在采取其他关税措施了。",
+          "url": "https://flash.jin10.com/detail/20260505042903484800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 06时11分]"
+        },
+        {
+          "title": "美国总统特朗普：我讨厌不得不返还关税。",
+          "url": "https://flash.jin10.com/detail/20260505042844950800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 06时11分]"
+        },
+        {
+          "title": "特朗普警告伊朗勿向美国船开火 否则伊军将被“彻底清除”",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0570966.html",
+          "source": "联合早报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "美国中央司令部司令布拉德·库珀上将：我们将根据特朗普总统的指示应对伊朗的攻击。",
+          "url": "https://flash.jin10.com/detail/20260505002813048800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "美媒：特朗普未明确表示伊朗已违反停火协议",
+          "url": "https://flash.jin10.com/detail/20260505035841476800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）一旦这件事结束，燃油价格将迅速下跌。",
+          "url": "https://flash.jin10.com/detail/20260505035133032800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗的情况进展得非常顺利。",
+          "url": "https://flash.jin10.com/detail/20260505034956752800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”",
+          "url": "https://www.cls.cn/detail/2362745",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "美国白宫：总统特朗普正在白宫参加小型企业峰会。",
+          "url": "https://flash.jin10.com/detail/20260505034921309800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "特朗普称期待与习近平会面",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0570960.html",
+          "source": "联合早报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "美媒：特朗普政府考虑对新AI模型引入政府监管",
+          "url": "https://flash.jin10.com/detail/20260505031822902800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "特朗普呼吁韩国加入霍尔木兹海峡行动",
+          "url": "https://flash.jin10.com/detail/20260505013344120800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "阿联酋自美伊临时停火以来首次遇袭，特朗普拒明确停火有效性",
+          "url": "https://flash.jin10.com/detail/20260505063650538800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "特朗普在社交媒体上发布了一张其政府于2025年8月买入英特尔(INTC.O)后截至目前的收益曲线图，并配文称：“我在过去8个月让美国赚了450亿美元！”",
+          "url": "https://flash.jin10.com/detail/20260505031046499800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "据ABC新闻：美国总统特朗普称，一枚伊朗导弹击中了阿联酋，但损害不大。",
+          "url": "https://flash.jin10.com/detail/20260505030918942800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "阿联酋自美伊临时停火以来首次遇袭，特朗普拒明确停火有效性，美国原油买进信号偏强，黄金白银卖出信号高企......后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260505105913335800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗战争可能还会持续两到三周。",
+          "url": "https://flash.jin10.com/detail/20260505060625240800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -39,17 +325,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 02时23分]"
-        },
-        {
-          "title": "美军助受困船只离开海峡 伊朗称将视为违反停火",
-          "url": "https://www.zaochenbao.com/news/politics/202605/0570955.html",
-          "source": "联合早报",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
         },
         {
           "title": "特稿：伊朗战事助推人民币国际化 能源多元化挑战美元霸权",
@@ -114,7 +389,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -131,6 +406,17 @@
           "time_info": "[06时10分 ~ 08时02分]"
         },
         {
+          "title": "习特会前 贝森特促中国力劝伊朗开放霍尔木兹海峡",
+          "url": "https://www.zaochenbao.com/news/china/202605/0570967.html",
+          "source": "联合早报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
           "title": "伊朗促美国放弃过分要求",
           "url": "https://www.zaochenbao.com/news/politics/202605/0470936.html",
           "source": "联合早报",
@@ -140,6 +426,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时55分 ~ 06时11分]"
+        },
+        {
+          "title": "美军助受困船只离开海峡 伊朗称将视为违反停火",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0570955.html",
+          "source": "联合早报",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 12时21分]"
         },
         {
           "title": "据沙特国家通讯社：沙特王储与阿联酋总统通话，谴责伊朗对阿联酋的“无理”攻击。",
@@ -236,7 +534,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -276,248 +574,8 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 21,
-      "titles": [
-        {
-          "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
-          "url": "https://wallstreetcn.com/articles/3771515",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 08时02分]"
-        },
-        {
-          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
-          "url": "https://www.cls.cn/detail/2362404",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 08时02分]"
-        },
-        {
-          "title": "特朗普拒绝确认美伊停火协议是否仍然有效",
-          "url": "https://flash.jin10.com/detail/20260505060622689800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时10分 ~ 08时02分]"
-        },
-        {
-          "title": "伊朗革命卫队政治副司令：特朗普当前面临的挑战是重开霍尔木兹海峡。在整个40天的战争期间及之后，他尝试了所有可能的选项，却未能取得任何成果。特朗普无力将局势倒退回2月28日之前，也无力改变当前局势。",
-          "url": "https://flash.jin10.com/detail/20260505073807180800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "特朗普称将审查伊朗提出的结束冲突新方案",
-          "url": "https://www.cls.cn/detail/2362213",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 06时11分]"
-        },
-        {
-          "title": "特朗普称美国与伊朗处于“迷你战争”状态",
-          "url": "https://flash.jin10.com/detail/20260505050012247800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时10分 ~ 06时11分]"
-        },
-        {
-          "title": "美国总统特朗普：我们的关税经过了更充分的检验，更加有力，也稍微复杂一些。它们让我们的国家变得非常富裕。",
-          "url": "https://flash.jin10.com/detail/20260505045117367800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时10分 ~ 06时11分]"
-        },
-        {
-          "title": "美国总统特朗普：我已经在采取其他关税措施了。",
-          "url": "https://flash.jin10.com/detail/20260505042903484800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时10分 ~ 06时11分]"
-        },
-        {
-          "title": "美国总统特朗普：我讨厌不得不返还关税。",
-          "url": "https://flash.jin10.com/detail/20260505042844950800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时10分 ~ 06时11分]"
-        },
-        {
-          "title": "美国中央司令部司令布拉德·库珀上将：我们将根据特朗普总统的指示应对伊朗的攻击。",
-          "url": "https://flash.jin10.com/detail/20260505002813048800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "美媒：特朗普未明确表示伊朗已违反停火协议",
-          "url": "https://flash.jin10.com/detail/20260505035841476800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时23分"
-        },
-        {
-          "title": "美国总统特朗普：（关于伊朗）一旦这件事结束，燃油价格将迅速下跌。",
-          "url": "https://flash.jin10.com/detail/20260505035133032800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时23分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗的情况进展得非常顺利。",
-          "url": "https://flash.jin10.com/detail/20260505034956752800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时23分"
-        },
-        {
-          "title": "美伊开火争夺霍尔木兹主导、特朗普威胁“炸飞”，停火以来阿联酋首次遭袭，伊称未计划袭阿",
-          "url": "https://wallstreetcn.com/articles/3771548",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "美国白宫：总统特朗普正在白宫参加小型企业峰会。",
-          "url": "https://flash.jin10.com/detail/20260505034921309800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时23分"
-        },
-        {
-          "title": "美媒：特朗普政府考虑对新AI模型引入政府监管",
-          "url": "https://flash.jin10.com/detail/20260505031822902800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时23分"
-        },
-        {
-          "title": "特朗普呼吁韩国加入霍尔木兹海峡行动",
-          "url": "https://flash.jin10.com/detail/20260505013344120800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "阿联酋自美伊临时停火以来首次遇袭，特朗普拒明确停火有效性",
-          "url": "https://flash.jin10.com/detail/20260505063650538800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "特朗普在社交媒体上发布了一张其政府于2025年8月买入英特尔(INTC.O)后截至目前的收益曲线图，并配文称：“我在过去8个月让美国赚了450亿美元！”",
-          "url": "https://flash.jin10.com/detail/20260505031046499800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时23分"
-        },
-        {
-          "title": "据ABC新闻：美国总统特朗普称，一枚伊朗导弹击中了阿联酋，但损害不大。",
-          "url": "https://flash.jin10.com/detail/20260505030918942800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时23分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗战争可能还会持续两到三周。",
-          "url": "https://flash.jin10.com/detail/20260505060625240800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
@@ -528,8 +586,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 08时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 12时21分]"
         },
         {
           "title": "美股异动丨游戏驿站拟560亿美元收购eBay，股价大跌7%，eBay大涨创新高",
@@ -650,6 +708,28 @@
           "time_info": "00时55分"
         },
         {
+          "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
+          "url": "https://www.cls.cn/detail/2362725",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "美股三大指数集体收跌，道指跌超1%，美光科技、闪迪逆市创历史新高",
+          "url": "https://www.gelonghui.com/news/5227057",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
           "title": "美股延续下跌，道指下跌1%。",
           "url": "https://flash.jin10.com/detail/20260505000844864800",
           "source": "金十数据",
@@ -664,8 +744,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "谷歌新TPU订单会流向英特尔吗？郭明錤：谷歌连联发科的利润也想省，台积电良率优势显著",
+          "url": "https://wallstreetcn.com/articles/3771528",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
         {
           "title": "谷歌：Chrome Enterprise为医疗保健行业推出新的集成功能。",
           "url": "https://flash.jin10.com/detail/20260505001001920800",
@@ -688,11 +779,29 @@
           "url": "https://wallstreetcn.com/articles/3771533",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 12时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价重划“观察区”，反弹仍要过这三关",
+          "url": "https://flash.jin10.com/detail/20260505114225527800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时55分"
+          "time_info": "12时21分"
         }
       ]
     },
@@ -706,11 +815,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 08时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 12时21分]"
         }
       ]
     }
