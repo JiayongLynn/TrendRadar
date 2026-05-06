@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-05-07T00:50:54.895957+08:00",
-  "total_titles_processed": 110,
+  "generated_at": "2026-05-07T02:26:53.365908+08:00",
+  "total_titles_processed": 139,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "伊朗外长：期待中国支持冲突后建立的“新战后”地区框架",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0671123.html",
+          "source": "联合早报",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 02时26分]"
+        },
+        {
+          "title": "王毅同伊朗外长阿拉格齐会谈",
+          "url": "https://www.cls.cn/detail/2363664",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 02时26分]"
+        },
         {
           "title": "一名白宫官员表示，美国反恐官员将于周五与国际合作伙伴会面，商讨盟友如何加强打击恐怖主义威胁的努力，尤其是来自伊朗的威胁以及在霍尔木兹海峡的威胁。",
           "url": "https://flash.jin10.com/detail/20260507003935755800",
@@ -19,26 +41,15 @@
           "time_info": "00时50分"
         },
         {
-          "title": "伊朗外长：期待中国支持冲突后建立的“新战后”地区框架",
-          "url": "https://www.zaochenbao.com/news/politics/202605/0671123.html",
-          "source": "联合早报",
+          "title": "阿联酋外交部声明：阿联酋谴责伊朗的“敌对”言论。",
+          "url": "https://flash.jin10.com/detail/20260507022222699800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时50分"
-        },
-        {
-          "title": "王毅同伊朗外长阿拉格齐会谈",
-          "url": "https://www.cls.cn/detail/2363664",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "time_info": "02时26分"
         },
         {
           "title": "伊朗称将确保船只安全通过霍尔木兹海峡",
@@ -48,8 +59,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 02时26分]"
         },
         {
           "title": "知情人士：白宫认为与伊朗接近达成停战谅解备忘录",
@@ -59,8 +70,41 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 02时26分]"
+        },
+        {
+          "title": "伊朗总统：对美不信任源于美方的敌对行为",
+          "url": "https://flash.jin10.com/detail/20260507021826526800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时50分"
+          "time_info": "02时26分"
+        },
+        {
+          "title": "内塔尼亚胡：以美共同目标包括移除伊朗所有浓缩铀",
+          "url": "https://flash.jin10.com/detail/20260507020704756800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "伊朗首席谈判代表警告称，经济压力是主要威胁。",
+          "url": "https://flash.jin10.com/detail/20260507020658694800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         },
         {
           "title": "伊朗常驻联合国代表团表示，霍尔木兹海峡问题的唯一可行解决方案很明确：永久结束战争、解除海上封锁、恢复正常通航。",
@@ -85,6 +129,17 @@
           "time_info": "00时50分"
         },
         {
+          "title": "美军：一艘伊朗船试图突破封锁 美战机炸坏船舵",
+          "url": "https://flash.jin10.com/detail/20260507013517411800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
           "title": "伊朗外交部发言人称，德黑兰对美国关于伊朗14点提案的看法的回应尚未传达给巴基斯坦。",
           "url": "https://flash.jin10.com/detail/20260506234933529800",
           "source": "金十数据",
@@ -94,12 +149,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "伊朗最高领袖军事顾问：美国必须赔偿伊朗损失",
+          "url": "https://flash.jin10.com/detail/20260507011601378800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "热门中概股美股盘前多数上涨，百度涨超6%",
@@ -109,8 +175,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 02时26分]"
         },
         {
           "title": "美股大型科技股盘前多数上涨，康宁涨近18%",
@@ -120,8 +186,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 02时26分]"
         },
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
@@ -131,8 +197,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 02时26分]"
         },
         {
           "title": "美股异动｜迪士尼涨约8.6%创逾两个月新高，Q2业绩超预期",
@@ -142,8 +208,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 02时26分]"
         },
         {
           "title": "美股异动丨Hut 8一度大涨超36%创新高，加速向AI数据中心基础设施转型",
@@ -153,8 +219,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 02时26分]"
         },
         {
           "title": "美伊停战预期升温 美股期指齐涨 原油大跌 | 今夜看点",
@@ -164,8 +230,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 02时26分]"
         },
         {
           "title": "康宁美股盘前大涨18%",
@@ -175,14 +241,36 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 02时26分]"
+        },
+        {
+          "title": "金十图示：2026年05月06日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260507012939266800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时50分"
+          "time_info": "02时26分"
+        },
+        {
+          "title": "金十图示：2026年05月06日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260507012919807800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普：将与习近平讨论伊朗战争 中方不会挑战美方",
@@ -192,8 +280,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 02时26分]"
         },
         {
           "title": "特朗普暂停自由计划 美伊或近达成停战备忘录",
@@ -203,8 +291,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 02时26分]"
         },
         {
           "title": "特朗普：若伊朗同意遵守协议 美伊战争将结束",
@@ -214,8 +302,52 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 02时26分]"
+        },
+        {
+          "title": "据福克斯新闻：美国总统特朗普对与伊朗问题的框架持乐观态度。在被问及对伊朗行动时间表时，特朗普回应称“一周”。",
+          "url": "https://flash.jin10.com/detail/20260507021102391800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时50分"
+          "time_info": "02时26分"
+        },
+        {
+          "title": "特朗普称对伊行动“进展顺利” 强调封锁与谈判并行",
+          "url": "https://flash.jin10.com/detail/20260507014044956800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "美国总统特朗普：美国在太空领域遥遥领先。",
+          "url": "https://flash.jin10.com/detail/20260507013104665800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "美国总统特朗普：我们将从伊朗获取浓缩铀。",
+          "url": "https://flash.jin10.com/detail/20260507012738943800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         }
       ]
     },
@@ -231,8 +363,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 02时26分]"
         }
       ]
     }
