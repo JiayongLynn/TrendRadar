@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T14:47:12.948263+08:00",
-  "total_titles_processed": 437,
+  "generated_at": "2026-05-07T17:42:33.755188+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 14时47分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 17时42分]"
         },
         {
           "title": "伊朗外长：期待中国支持冲突后建立的“新战后”地区框架",
@@ -54,17 +54,6 @@
           "time_info": "00时50分"
         },
         {
-          "title": "马克龙向伊朗提议 由法英牵头霍尔木兹海峡护航行动",
-          "url": "https://www.zaochenbao.com/news/politics/202605/0771166.html",
-          "source": "联合早报",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时47分"
-        },
-        {
           "title": "阿联酋外交部声明：阿联酋谴责伊朗的“敌对”言论。",
           "url": "https://flash.jin10.com/detail/20260507022222699800",
           "source": "金十数据",
@@ -94,11 +83,24 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时58分 ~ 14时47分]"
+          "appearance_count": 4,
+          "time_info": "[07时58分 ~ 17时42分]"
+        },
+        {
+          "title": "马克龙向伊朗提议 由法英牵头霍尔木兹海峡护航行动",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0771166.html",
+          "source": "联合早报",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时47分 ~ 17时42分]"
         },
         {
           "title": "美伊局势前景难料！伊朗仍在审议美方提议 据悉部分条款不可接受",
@@ -106,11 +108,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 14时47分]"
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 17时42分]"
         },
         {
           "title": "伊朗总统：对美不信任源于美方的敌对行为",
@@ -317,7 +320,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
@@ -411,11 +414,12 @@
           "source": "联合早报",
           "ranks": [
             1,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 14时47分]"
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 17时42分]"
         },
         {
           "title": "特朗普对伊朗的封锁使其访华议程更为复杂",
@@ -423,11 +427,12 @@
           "source": "联合早报",
           "ranks": [
             3,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 14时47分]"
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 17时42分]"
         },
         {
           "title": "美国中期选举：选民将以经济表现评判特朗普，目前形势如何？",
@@ -435,11 +440,48 @@
           "source": "联合早报",
           "ranks": [
             4,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 17时42分]"
+        },
+        {
+          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
+          "url": "https://wallstreetcn.com/articles/3771687",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时47分 ~ 17时42分]"
+        },
+        {
+          "title": "港媒：特朗普访华计划生变机率相当低",
+          "url": "https://www.zaochenbao.com/news/hkMacao/202605/0771159.html",
+          "source": "联合早报",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时47分 ~ 17时42分]"
+        },
+        {
+          "title": "王毅与特朗普盟友戴安斯会面",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0771154.html",
+          "source": "联合早报",
+          "ranks": [
+            15,
             22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时59分 ~ 14时47分]"
+          "time_info": "[14时47分 ~ 17时42分]"
         },
         {
           "title": "特朗普乐观预测“一周内达成协议”，但美方提案里最关键的两条，伊朗还没接",
@@ -475,28 +517,6 @@
           "time_info": "02时26分"
         },
         {
-          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
-          "url": "https://wallstreetcn.com/articles/3771687",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时47分"
-        },
-        {
-          "title": "港媒：特朗普访华计划生变机率相当低",
-          "url": "https://www.zaochenbao.com/news/hkMacao/202605/0771159.html",
-          "source": "联合早报",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时47分"
-        },
-        {
           "title": "特朗普称对伊行动“进展顺利” 强调封锁与谈判并行",
           "url": "https://flash.jin10.com/detail/20260507014044956800",
           "source": "金十数据",
@@ -506,17 +526,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
-        },
-        {
-          "title": "王毅与特朗普盟友戴安斯会面",
-          "url": "https://www.zaochenbao.com/news/politics/202605/0771154.html",
-          "source": "联合早报",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时47分"
         },
         {
           "title": "美贸易代表称特朗普将与习近平讨论中国购买伊朗石油问题",
@@ -547,7 +556,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
@@ -588,8 +597,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
+          "url": "https://wallstreetcn.com/articles/3771614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时04分 ~ 17时42分]"
+        },
         {
           "title": "热门中概股美股盘前多数上涨，百度涨超6%",
           "url": "https://www.36kr.com/newsflashes/3797817196731394",
@@ -600,17 +620,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时50分 ~ 06时04分]"
-        },
-        {
-          "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
-          "url": "https://wallstreetcn.com/articles/3771614",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时04分 ~ 14时47分]"
         },
         {
           "title": "美股大型科技股盘前多数上涨，康宁涨近18%",
@@ -717,6 +726,17 @@
           "time_info": "11时59分"
         },
         {
+          "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
+          "url": "https://wallstreetcn.com/articles/3771706",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
           "title": "金十图示：2026年05月06日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260507040528145800",
           "source": "金十数据",
@@ -782,11 +802,12 @@
           "url": "https://wallstreetcn.com/articles/3771667",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 14时47分]"
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 17时42分]"
         },
         {
           "title": "DeepSeek被曝投后估值或达450亿美元？消息人士：“双方确实在进行洽谈 但估值还未最终确认”",
@@ -852,8 +873,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时59分"
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 17时42分]"
         }
       ]
     },
@@ -913,7 +934,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         }
