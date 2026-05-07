@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T17:42:33.755188+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2026-05-07T19:56:23.643449+08:00",
+  "total_titles_processed": 603,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "伊朗称将确保船只安全通过霍尔木兹海峡",
@@ -30,6 +30,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时50分 ~ 07时58分]"
+        },
+        {
+          "title": "伊朗高层回击美媒：所谓的“和谈进展”只是美国的愿望清单，而非现实",
+          "url": "https://wallstreetcn.com/articles/3771674",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时58分 ~ 19时56分]"
         },
         {
           "title": "王毅同伊朗外长阿拉格齐会谈",
@@ -78,29 +92,17 @@
           "time_info": "[00时50分 ~ 07时58分]"
         },
         {
-          "title": "伊朗高层回击美媒：所谓的“和谈进展”只是美国的愿望清单，而非现实",
-          "url": "https://wallstreetcn.com/articles/3771674",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时58分 ~ 17时42分]"
-        },
-        {
           "title": "马克龙向伊朗提议 由法英牵头霍尔木兹海峡护航行动",
           "url": "https://www.zaochenbao.com/news/politics/202605/0771166.html",
           "source": "联合早报",
           "ranks": [
             3,
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时47分 ~ 17时42分]"
+          "appearance_count": 3,
+          "time_info": "[14时47分 ~ 19时56分]"
         },
         {
           "title": "美伊局势前景难料！伊朗仍在审议美方提议 据悉部分条款不可接受",
@@ -259,6 +261,17 @@
           "time_info": "06时04分"
         },
         {
+          "title": "伊朗指定两条航道供船只通行霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260507191552963800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
           "title": "伊朗外交部发言人称，德黑兰对美国关于伊朗14点提案的看法的回应尚未传达给巴基斯坦。",
           "url": "https://flash.jin10.com/detail/20260506234933529800",
           "source": "金十数据",
@@ -361,7 +374,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普：将与习近平讨论伊朗战争 中方不会挑战美方",
@@ -398,6 +411,31 @@
           "time_info": "[07时58分 ~ 14时47分]"
         },
         {
+          "title": "特朗普周四日程",
+          "url": "https://flash.jin10.com/detail/20260507193230591800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
+          "title": "特朗普预计下周访华 美特勤局车辆据称现身北京",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0771150.html",
+          "source": "联合早报",
+          "ranks": [
+            1,
+            19,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 19时56分]"
+        },
+        {
           "title": "特朗普：若伊朗同意遵守协议 美伊战争将结束",
           "url": "https://www.zaochenbao.com/news/politics/202605/0671116.html",
           "source": "联合早报",
@@ -409,17 +447,17 @@
           "time_info": "[00时50分 ~ 07时58分]"
         },
         {
-          "title": "特朗普预计下周访华 美特勤局车辆据称现身北京",
-          "url": "https://www.zaochenbao.com/news/politics/202605/0771150.html",
-          "source": "联合早报",
+          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
+          "url": "https://wallstreetcn.com/articles/3771687",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            19,
-            23
+            9,
+            7,
+            5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时59分 ~ 17时42分]"
+          "time_info": "[14时47分 ~ 19时56分]"
         },
         {
           "title": "特朗普对伊朗的封锁使其访华议程更为复杂",
@@ -448,28 +486,17 @@
           "time_info": "[11时59分 ~ 17时42分]"
         },
         {
-          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
-          "url": "https://wallstreetcn.com/articles/3771687",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时47分 ~ 17时42分]"
-        },
-        {
           "title": "港媒：特朗普访华计划生变机率相当低",
           "url": "https://www.zaochenbao.com/news/hkMacao/202605/0771159.html",
           "source": "联合早报",
           "ranks": [
             10,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时47分 ~ 17时42分]"
+          "appearance_count": 3,
+          "time_info": "[14时47分 ~ 19时56分]"
         },
         {
           "title": "王毅与特朗普盟友戴安斯会面",
@@ -477,11 +504,12 @@
           "source": "联合早报",
           "ranks": [
             15,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时47分 ~ 17时42分]"
+          "appearance_count": 3,
+          "time_info": "[14时47分 ~ 19时56分]"
         },
         {
           "title": "特朗普乐观预测“一周内达成协议”，但美方提案里最关键的两条，伊朗还没接",
@@ -515,6 +543,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
+          "url": "https://wallstreetcn.com/articles/3771704",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
         },
         {
           "title": "特朗普称对伊行动“进展顺利” 强调封锁与谈判并行",
@@ -607,8 +646,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时04分 ~ 17时42分]"
+          "appearance_count": 6,
+          "time_info": "[06时04分 ~ 19时56分]"
         },
         {
           "title": "热门中概股美股盘前多数上涨，百度涨超6%",
@@ -715,6 +754,18 @@
           "time_info": "[00时50分 ~ 06时04分]"
         },
         {
+          "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
+          "url": "https://wallstreetcn.com/articles/3771706",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 19时56分]"
+        },
+        {
           "title": "大行评级丨大摩：百济神州首季业绩胜预期，美股目标价上调至395美元",
           "url": "https://www.gelonghui.com/news/5228534",
           "source": "格隆汇",
@@ -724,17 +775,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
-        },
-        {
-          "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
-          "url": "https://wallstreetcn.com/articles/3771706",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
         },
         {
           "title": "金十图示：2026年05月06日（周三）美股热门股票行情一览（美股收盘）",
@@ -870,11 +910,12 @@
           "url": "https://wallstreetcn.com/articles/3771684",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 17时42分]"
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 19时56分]"
         }
       ]
     },
