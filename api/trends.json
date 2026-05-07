@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-05-07T11:59:53.910297+08:00",
-  "total_titles_processed": 350,
+  "generated_at": "2026-05-07T14:47:12.948263+08:00",
+  "total_titles_processed": 437,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
-        {
-          "title": "伊朗外长：期待中国支持冲突后建立的“新战后”地区框架",
-          "url": "https://www.zaochenbao.com/news/politics/202605/0671123.html",
-          "source": "联合早报",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 07时58分]"
-        },
         {
           "title": "伊朗称将确保船只安全通过霍尔木兹海峡",
           "url": "https://wallstreetcn.com/articles/3771664",
@@ -28,8 +17,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 11时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 14时47分]"
+        },
+        {
+          "title": "伊朗外长：期待中国支持冲突后建立的“新战后”地区框架",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0671123.html",
+          "source": "联合早报",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 07时58分]"
         },
         {
           "title": "王毅同伊朗外长阿拉格齐会谈",
@@ -52,6 +52,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "马克龙向伊朗提议 由法英牵头霍尔木兹海峡护航行动",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0771166.html",
+          "source": "联合早报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "阿联酋外交部声明：阿联酋谴责伊朗的“敌对”言论。",
@@ -86,8 +97,20 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时58分 ~ 14时47分]"
+        },
+        {
+          "title": "美伊局势前景难料！伊朗仍在审议美方提议 据悉部分条款不可接受",
+          "url": "https://www.cls.cn/detail/2364403",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时58分 ~ 11时59分]"
+          "time_info": "[11时59分 ~ 14时47分]"
         },
         {
           "title": "伊朗总统：对美不信任源于美方的敌对行为",
@@ -129,7 +152,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -151,7 +174,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -165,17 +188,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
-        },
-        {
-          "title": "美伊局势前景难料！伊朗仍在审议美方提议 据悉部分条款不可接受",
-          "url": "https://www.cls.cn/detail/2364403",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
         },
         {
           "title": "海湾合作委员会表示，伊朗对阿联酋的指控毫无根据。",
@@ -299,6 +311,17 @@
           "time_info": "07时58分"
         },
         {
+          "title": "市场等待伊朗对美国提案的回应，工业金属涨势暂歇",
+          "url": "https://flash.jin10.com/detail/20260507142149427800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
           "title": "伊朗称该国国家足球队将在世界杯开始前14天抵美",
           "url": "https://flash.jin10.com/detail/20260507041645321800",
           "source": "金十数据",
@@ -334,6 +357,236 @@
       ]
     },
     {
+      "keyword_group": "特朗普",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "特朗普：将与习近平讨论伊朗战争 中方不会挑战美方",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0671124.html",
+          "source": "联合早报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 07时58分]"
+        },
+        {
+          "title": "特朗普暂停自由计划 美伊或近达成停战备忘录",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0671122.html",
+          "source": "联合早报",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 07时58分]"
+        },
+        {
+          "title": "【早报】油价大幅跳水！特朗普：美伊“很有可能”达成协议；以军在停火期间突袭贝鲁特",
+          "url": "https://www.cls.cn/detail/2364367",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时58分 ~ 14时47分]"
+        },
+        {
+          "title": "特朗普：若伊朗同意遵守协议 美伊战争将结束",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0671116.html",
+          "source": "联合早报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 07时58分]"
+        },
+        {
+          "title": "特朗普预计下周访华 美特勤局车辆据称现身北京",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0771150.html",
+          "source": "联合早报",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 14时47分]"
+        },
+        {
+          "title": "特朗普对伊朗的封锁使其访华议程更为复杂",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0771148.html",
+          "source": "联合早报",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 14时47分]"
+        },
+        {
+          "title": "美国中期选举：选民将以经济表现评判特朗普，目前形势如何？",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0771147.html",
+          "source": "联合早报",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 14时47分]"
+        },
+        {
+          "title": "特朗普乐观预测“一周内达成协议”，但美方提案里最关键的两条，伊朗还没接",
+          "url": "https://flash.jin10.com/detail/20260507071550570800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "特朗普“自由计划”惹怒沙特 遭盟友禁飞打击",
+          "url": "https://flash.jin10.com/detail/20260507114449082800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "据福克斯新闻：美国总统特朗普对与伊朗问题的框架持乐观态度。在被问及对伊朗行动时间表时，特朗普回应称“一周”。",
+          "url": "https://flash.jin10.com/detail/20260507021102391800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
+          "url": "https://wallstreetcn.com/articles/3771687",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "港媒：特朗普访华计划生变机率相当低",
+          "url": "https://www.zaochenbao.com/news/hkMacao/202605/0771159.html",
+          "source": "联合早报",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "特朗普称对伊行动“进展顺利” 强调封锁与谈判并行",
+          "url": "https://flash.jin10.com/detail/20260507014044956800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "王毅与特朗普盟友戴安斯会面",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0771154.html",
+          "source": "联合早报",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "美贸易代表称特朗普将与习近平讨论中国购买伊朗石油问题",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0771135.html",
+          "source": "联合早报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "美国总统特朗普：美国在太空领域遥遥领先。",
+          "url": "https://flash.jin10.com/detail/20260507013104665800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "霍尔木兹海峡再不开，特朗普的中期选举就要“没油”了",
+          "url": "https://flash.jin10.com/detail/20260507142601106800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "美国总统特朗普：我们将从伊朗获取浓缩铀。",
+          "url": "https://flash.jin10.com/detail/20260507012738943800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "特朗普：美伊很有可能达成协议",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0771130.html",
+          "source": "联合早报",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "市场消息：据一位知情人士透露，特朗普政府正在研究利用美国军事基地及国防部其他场所地下的石油资源，以补充国家日益减少的应急储备。",
+          "url": "https://flash.jin10.com/detail/20260507054528380800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 16,
       "titles": [
@@ -349,6 +602,17 @@
           "time_info": "[00时50分 ~ 06时04分]"
         },
         {
+          "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
+          "url": "https://wallstreetcn.com/articles/3771614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时04分 ~ 14时47分]"
+        },
+        {
           "title": "美股大型科技股盘前多数上涨，康宁涨近18%",
           "url": "https://www.36kr.com/newsflashes/3797809958788100",
           "source": "36氪",
@@ -358,17 +622,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时50分 ~ 06时04分]"
-        },
-        {
-          "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
-          "url": "https://wallstreetcn.com/articles/3771614",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时04分 ~ 11时59分]"
         },
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
@@ -395,6 +648,18 @@
           "time_info": "[00时50分 ~ 07时58分]"
         },
         {
+          "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
+          "url": "https://www.cls.cn/detail/2364348",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时58分 ~ 14时47分]"
+        },
+        {
           "title": "美股异动｜Arm盘后大涨后跌逾7%，2026财年Q4营收14.9亿美元高于市场预期",
           "url": "https://www.gelonghui.com/news/5228474",
           "source": "格隆汇",
@@ -417,18 +682,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时50分 ~ 11时59分]"
-        },
-        {
-          "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
-          "url": "https://www.cls.cn/detail/2364348",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时58分 ~ 11时59分]"
         },
         {
           "title": "美股异动丨Hut 8一度大涨超36%创新高，加速向AI数据中心基础设施转型",
@@ -459,7 +712,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -521,192 +774,20 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "特朗普：将与习近平讨论伊朗战争 中方不会挑战美方",
-          "url": "https://www.zaochenbao.com/news/politics/202605/0671124.html",
-          "source": "联合早报",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 07时58分]"
-        },
-        {
-          "title": "特朗普暂停自由计划 美伊或近达成停战备忘录",
-          "url": "https://www.zaochenbao.com/news/politics/202605/0671122.html",
-          "source": "联合早报",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 07时58分]"
-        },
-        {
-          "title": "【早报】油价大幅跳水！特朗普：美伊“很有可能”达成协议；以军在停火期间突袭贝鲁特",
-          "url": "https://www.cls.cn/detail/2364367",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时58分 ~ 11时59分]"
-        },
-        {
-          "title": "特朗普预计下周访华 美特勤局车辆据称现身北京",
-          "url": "https://www.zaochenbao.com/news/politics/202605/0771150.html",
-          "source": "联合早报",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
-          "title": "特朗普对伊朗的封锁使其访华议程更为复杂",
-          "url": "https://www.zaochenbao.com/news/politics/202605/0771148.html",
-          "source": "联合早报",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
-          "title": "美国中期选举：选民将以经济表现评判特朗普，目前形势如何？",
-          "url": "https://www.zaochenbao.com/news/politics/202605/0771147.html",
-          "source": "联合早报",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
-          "title": "特朗普：若伊朗同意遵守协议 美伊战争将结束",
-          "url": "https://www.zaochenbao.com/news/politics/202605/0671116.html",
-          "source": "联合早报",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 07时58分]"
-        },
-        {
-          "title": "特朗普乐观预测“一周内达成协议”，但美方提案里最关键的两条，伊朗还没接",
-          "url": "https://flash.jin10.com/detail/20260507071550570800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "特朗普“自由计划”惹怒沙特 遭盟友禁飞打击",
-          "url": "https://flash.jin10.com/detail/20260507114449082800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
-          "title": "据福克斯新闻：美国总统特朗普对与伊朗问题的框架持乐观态度。在被问及对伊朗行动时间表时，特朗普回应称“一周”。",
-          "url": "https://flash.jin10.com/detail/20260507021102391800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "特朗普称对伊行动“进展顺利” 强调封锁与谈判并行",
-          "url": "https://flash.jin10.com/detail/20260507014044956800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "美贸易代表称特朗普将与习近平讨论中国购买伊朗石油问题",
-          "url": "https://www.zaochenbao.com/news/politics/202605/0771135.html",
-          "source": "联合早报",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
-          "title": "美国总统特朗普：美国在太空领域遥遥领先。",
-          "url": "https://flash.jin10.com/detail/20260507013104665800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "美国总统特朗普：我们将从伊朗获取浓缩铀。",
-          "url": "https://flash.jin10.com/detail/20260507012738943800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "特朗普：美伊很有可能达成协议",
-          "url": "https://www.zaochenbao.com/news/politics/202605/0771130.html",
-          "source": "联合早报",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
-          "title": "市场消息：据一位知情人士透露，特朗普政府正在研究利用美国军事基地及国防部其他场所地下的石油资源，以补充国家日益减少的应急储备。",
-          "url": "https://flash.jin10.com/detail/20260507054528380800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
+        {
+          "title": "国产大模型开启融资热：DeepSeek被曝投后估值或达450亿美元",
+          "url": "https://wallstreetcn.com/articles/3771667",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 14时47分]"
+        },
         {
           "title": "DeepSeek被曝投后估值或达450亿美元？消息人士：“双方确实在进行洽谈 但估值还未最终确认”",
           "url": "https://www.36kr.com/newsflashes/3798427997150470",
@@ -717,17 +798,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
-        },
-        {
-          "title": "国产大模型开启融资热：DeepSeek被曝投后估值或达450亿美元",
-          "url": "https://wallstreetcn.com/articles/3771667",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
         }
       ]
     },
@@ -770,7 +840,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -781,7 +851,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         }
@@ -829,6 +899,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国际金价持续走高",
+          "url": "https://flash.jin10.com/detail/20260507144002853800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         }
       ]
     },
