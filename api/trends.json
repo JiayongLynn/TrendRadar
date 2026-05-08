@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T20:17:58.787915+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2026-05-08T22:59:51.434305+08:00",
+  "total_titles_processed": 734,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 52,
+      "match_count": 61,
       "titles": [
         {
           "title": "伊朗划定两条霍尔木兹航道，油价应声大跌",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时01分 ~ 20时17分]"
+          "appearance_count": 8,
+          "time_info": "[08时01分 ~ 22时59分]"
         },
         {
           "title": "【早报】美方：定点打击伊军事设施；伊朗武装部队实施反击",
@@ -103,6 +103,17 @@
           "time_info": "06时10分"
         },
         {
+          "title": "伊朗塔斯尼姆通讯社：伊朗锡里克地区附近传出的爆炸声是交火所致。",
+          "url": "https://flash.jin10.com/detail/20260508223609525800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "伊朗官员：没有任何铀被移送出伊朗",
           "url": "https://flash.jin10.com/detail/20260508003852642800",
           "source": "金十数据",
@@ -142,9 +153,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
+        },
+        {
+          "title": "俄国家原子能公司：伊朗布什尔核电站施工现场逐步恢复运转",
+          "url": "https://flash.jin10.com/detail/20260508223331767800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "美国军方：5月7日，当美国海军导弹驱逐舰穿越霍尔木兹海峡驶向阿曼湾时，美军拦截了伊朗的袭击，并进行了自卫反击。",
@@ -164,7 +186,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -248,6 +270,28 @@
           "time_info": "06时10分"
         },
         {
+          "title": "伊朗努尔新闻：零星冲突已持续一个小时。",
+          "url": "https://flash.jin10.com/detail/20260508222849073800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
+          "title": "为缓解美国封锁冲击 伊朗转向铁路线从中国进口物资",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0871277.html",
+          "source": "联合早报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "伊军方人士称霍尔木兹海峡内敌方单位遭伊朗导弹打击",
           "url": "https://flash.jin10.com/detail/20260508040416928800",
           "source": "金十数据",
@@ -257,6 +301,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "伊朗努尔新闻：伊朗与美国舰船在霍尔木兹附近持续发生冲突。",
+          "url": "https://flash.jin10.com/detail/20260508222834658800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "据伊朗迈赫尔通讯社;：伊朗防空部队在阿巴斯港和格什姆上空击落了两架“敌对”无人机。",
@@ -279,6 +334,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
+        },
+        {
+          "title": "伊朗海军扣押一艘油轮 两艘伊朗油轮遇袭",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0871275.html",
+          "source": "联合早报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "据伊朗Press TV：伊朗最高联合军事指挥部称，美国在一些地区国家的配合下，对平民地区进行了空袭。",
@@ -320,7 +386,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -353,7 +419,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -364,7 +430,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -386,7 +452,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -397,7 +463,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -408,9 +474,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
+        },
+        {
+          "title": "美军说向两艘伊朗油轮开火，使其丧失航行能力。",
+          "url": "https://flash.jin10.com/detail/20260508221822236800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "美国制裁伊拉克官员 称其协助伊朗出售石油",
@@ -452,9 +529,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
+        },
+        {
+          "title": "伊朗媒体Fars News：自约一小时前起，伊朗武装部队与美国舰船在霍尔木兹海峡发生了零星冲突。",
+          "url": "https://flash.jin10.com/detail/20260508221021172800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "国际能源署署长比罗尔：一旦伊朗战争结束，供应将逐步恢复，这将导致市场波动。",
@@ -477,6 +565,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
+        },
+        {
+          "title": "美国军方：美国对两艘伊朗籍油轮实施强制封锁。",
+          "url": "https://flash.jin10.com/detail/20260508220850625800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗南部米纳布（Minab）传出爆炸声。",
@@ -616,8 +715,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时27分 ~ 20时17分]"
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 22时59分]"
         },
         {
           "title": "据英国金融时报：美国企业敦促特朗普干预欧盟新消费者规则。",
@@ -642,17 +741,6 @@
           "time_info": "18时45分"
         },
         {
-          "title": "“房间里的大象”--欧洲各国谋求团结，但特朗普“阴霾不散”",
-          "url": "https://www.zaochenbao.com/news/politics/202605/0871267.html",
-          "source": "联合早报",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时17分"
-        },
-        {
           "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
           "url": "https://wallstreetcn.com/articles/3771704",
           "source": "华尔街见闻",
@@ -675,6 +763,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 02时54分]"
+        },
+        {
+          "title": "“房间里的大象”--欧洲各国谋求团结，但特朗普“阴霾不散”",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0871267.html",
+          "source": "联合早报",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时17分 ~ 22时59分]"
         },
         {
           "title": "特朗普为欧盟履行美欧贸易协议设定最后期限",
@@ -729,11 +829,23 @@
           "source": "联合早报",
           "ranks": [
             12,
-            18
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 22时59分]"
+        },
+        {
+          "title": "美国贸易法院裁定特朗普10%全球关税无效",
+          "url": "https://wallstreetcn.com/articles/3771788",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时45分 ~ 20时17分]"
+          "time_info": "[20时17分 ~ 22时59分]"
         },
         {
           "title": "据英国金融时报：特朗普之子已投资于由总部位于特朗普大厦的金融集团Dominari Holdings旗下部门发起的名为American Ventures的基金。",
@@ -756,17 +868,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
-        },
-        {
-          "title": "美国贸易法院裁定特朗普10%全球关税无效",
-          "url": "https://wallstreetcn.com/articles/3771788",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时17分"
         },
         {
           "title": "美国总统特朗普：我们的代表计划会面，商讨一些关键问题。未来几个月内，将根据需要安排进一步的会晤。",
@@ -981,7 +1082,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
@@ -992,8 +1093,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时20分 ~ 20时17分]"
+          "appearance_count": 7,
+          "time_info": "[12时20分 ~ 22时59分]"
         },
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -1097,6 +1198,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "热门中概股美股盘前多数上涨，百度涨超5%",
+          "url": "https://www.36kr.com/newsflashes/3800639633415424",
+          "source": "36氪",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
+          "title": "美股大型科技股盘前多数上涨，英伟达涨超1%",
+          "url": "https://www.36kr.com/newsflashes/3800638528986369",
+          "source": "36氪",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "美股异动丨WTI原油期货跌破90美元，油气股走低",
@@ -1255,11 +1378,12 @@
           "url": "https://www.36kr.com/newsflashes/3800574318976257",
           "source": "36氪",
           "ranks": [
-            4
+            4,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时17分 ~ 22时59分]"
         }
       ]
     },
