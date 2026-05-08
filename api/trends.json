@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T18:45:36.491508+08:00",
-  "total_titles_processed": 586,
+  "generated_at": "2026-05-08T20:17:58.787915+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 43,
+      "match_count": 52,
       "titles": [
         {
           "title": "伊朗划定两条霍尔木兹航道，油价应声大跌",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时01分 ~ 18时45分]"
+          "appearance_count": 7,
+          "time_info": "[08时01分 ~ 20时17分]"
         },
         {
           "title": "【早报】美方：定点打击伊军事设施；伊朗武装部队实施反击",
@@ -62,11 +62,12 @@
           "source": "联合早报",
           "ranks": [
             5,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时56分 ~ 18时45分]"
+          "appearance_count": 5,
+          "time_info": "[14时56分 ~ 20时17分]"
         },
         {
           "title": "据伊朗努尔新闻(Nour News)：伊朗最高领袖穆杰塔巴正在管理事态发展，任何行动都需经过他的许可。",
@@ -135,6 +136,17 @@
           "time_info": "12时20分"
         },
         {
+          "title": "美国国务卿鲁比奥：（关于伊朗）若导弹射向美国，我们将予以回击。",
+          "url": "https://flash.jin10.com/detail/20260508201138394800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
           "title": "美国军方：5月7日，当美国海军导弹驱逐舰穿越霍尔木兹海峡驶向阿曼湾时，美军拦截了伊朗的袭击，并进行了自卫反击。",
           "url": "https://flash.jin10.com/detail/20260508053448834800",
           "source": "金十数据",
@@ -144,6 +156,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
+        },
+        {
+          "title": "据当地省长向伊朗迈赫尔通讯社透露，周四晚间，一艘伊朗商船在霍尔木兹海峡附近遭美国海军袭击，导致10名船员受伤，5人失踪。",
+          "url": "https://flash.jin10.com/detail/20260508201105467800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         },
         {
           "title": "美联储戴利：未来的经济状况取决于伊朗冲突的持续时间。",
@@ -291,6 +314,17 @@
           "time_info": "06时10分"
         },
         {
+          "title": "凯投宏观：伊朗战争影响盖过英国政治不确定性",
+          "url": "https://flash.jin10.com/detail/20260508200737579800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
           "title": "伊朗阿巴斯港附近发生爆炸",
           "url": "https://flash.jin10.com/detail/20260508035543747800",
           "source": "金十数据",
@@ -313,6 +347,28 @@
           "time_info": "06时10分"
         },
         {
+          "title": "美国国务卿鲁比奥：（关于以色列-黎巴嫩，伊朗）不会与黎巴嫩真主党进行谈判，专注于黎巴嫩政府。",
+          "url": "https://flash.jin10.com/detail/20260508200640017800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：（关于伊朗）我希望这是一个严肃的提议。",
+          "url": "https://flash.jin10.com/detail/20260508200408349800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
           "title": "伊朗南部发生爆炸，伊媒指阿联酋或涉“敌对行动”",
           "url": "https://flash.jin10.com/detail/20260508035128765800",
           "source": "金十数据",
@@ -322,6 +378,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：（关于伊朗）尚未收到回应。",
+          "url": "https://flash.jin10.com/detail/20260508200356904800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：（关于伊朗）希望这能使我们进入严肃谈判的进程。",
+          "url": "https://flash.jin10.com/detail/20260508200352206800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：（关于伊朗）我们今天应该得到伊朗的回应。",
+          "url": "https://flash.jin10.com/detail/20260508200327588800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         },
         {
           "title": "美国制裁伊拉克官员 称其协助伊朗出售石油",
@@ -355,6 +444,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
+        },
+        {
+          "title": "美国中央司令部：目前有超过70艘油轮被美国军队阻止进出伊朗港口。",
+          "url": "https://flash.jin10.com/detail/20260508200134495800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         },
         {
           "title": "国际能源署署长比罗尔：一旦伊朗战争结束，供应将逐步恢复，这将导致市场波动。",
@@ -492,7 +592,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "“习特会”登场前特朗普盟友访华沟通 北京重申台湾红线",
@@ -505,6 +605,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时01分 ~ 12时20分]"
+        },
+        {
+          "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
+          "url": "https://www.cls.cn/detail/2366051",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 20时17分]"
         },
         {
           "title": "据英国金融时报：美国企业敦促特朗普干预欧盟新消费者规则。",
@@ -524,9 +637,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
+        },
+        {
+          "title": "“房间里的大象”--欧洲各国谋求团结，但特朗普“阴霾不散”",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0871267.html",
+          "source": "联合早报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         },
         {
           "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
@@ -551,18 +675,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 02时54分]"
-        },
-        {
-          "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
-          "url": "https://www.cls.cn/detail/2366051",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 18时45分]"
         },
         {
           "title": "特朗普为欧盟履行美欧贸易协议设定最后期限",
@@ -612,6 +724,18 @@
           "time_info": "[14时56分 ~ 16时27分]"
         },
         {
+          "title": "美媒：北京邀随特朗普访华美企与中国领导人会谈 被美拒绝",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0871253.html",
+          "source": "联合早报",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 20时17分]"
+        },
+        {
           "title": "据英国金融时报：特朗普之子已投资于由总部位于特朗普大厦的金融集团Dominari Holdings旗下部门发起的名为American Ventures的基金。",
           "url": "https://flash.jin10.com/detail/20260508120539317800",
           "source": "金十数据",
@@ -632,6 +756,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "美国贸易法院裁定特朗普10%全球关税无效",
+          "url": "https://wallstreetcn.com/articles/3771788",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         },
         {
           "title": "美国总统特朗普：我们的代表计划会面，商讨一些关键问题。未来几个月内，将根据需要安排进一步的会晤。",
@@ -665,17 +800,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
-        },
-        {
-          "title": "美媒：北京邀随特朗普访华美企与中国领导人会谈 被美拒绝",
-          "url": "https://www.zaochenbao.com/news/politics/202605/0871253.html",
-          "source": "联合早报",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
         },
         {
           "title": "美国总统特朗普：刚刚结束了与巴西总统卢拉的会晤。",
@@ -816,7 +940,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -868,8 +992,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时20分 ~ 18时45分]"
+          "appearance_count": 6,
+          "time_info": "[12时20分 ~ 20时17分]"
         },
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -1112,6 +1236,34 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英思特(301622.SZ)：与DeepSeek暂无业务合作",
+          "url": "https://www.gelonghui.com/news/5229471",
+          "source": "格隆汇",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 14时57分]"
+        },
+        {
+          "title": "DeepSeek拟募资最高500亿元",
+          "url": "https://www.36kr.com/newsflashes/3800574318976257",
+          "source": "36氪",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -1141,23 +1293,6 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英思特(301622.SZ)：与DeepSeek暂无业务合作",
-          "url": "https://www.gelonghui.com/news/5229471",
-          "source": "格隆汇",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 14时57分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -1168,11 +1303,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时01分 ~ 18时45分]"
+          "appearance_count": 7,
+          "time_info": "[08时01分 ~ 20时17分]"
         }
       ]
     },
@@ -1204,7 +1340,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         }
