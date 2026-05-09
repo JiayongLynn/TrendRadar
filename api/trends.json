@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-10T01:04:13.482044+08:00",
-  "total_titles_processed": 118,
+  "generated_at": "2026-05-10T03:16:16.198474+08:00",
+  "total_titles_processed": 149,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "美国战机向两艘悬挂伊朗国旗的油轮开火",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0971344.html",
+          "source": "联合早报",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 03时16分]"
+        },
         {
           "title": "黎巴嫩外交部：在巴林王国揭露与伊朗革命卫队有关联、危害其安全与稳定的组织后，黎方声援巴林。",
           "url": "https://flash.jin10.com/detail/20260510005208719800",
@@ -30,15 +41,26 @@
           "time_info": "01时04分"
         },
         {
-          "title": "美国战机向两艘悬挂伊朗国旗的油轮开火",
-          "url": "https://www.zaochenbao.com/news/politics/202605/0971344.html",
+          "title": "俄罗斯总统普京：我希望伊朗冲突尽快结束。",
+          "url": "https://flash.jin10.com/detail/20260510022818298800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "涉向伊朗提供卫星图像 三家中国企业被美国制裁",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0971326.html",
           "source": "联合早报",
           "ranks": [
-            1
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 03时16分]"
         },
         {
           "title": "据伊朗媒体Press TV：伊朗副总统表示，美国-以色列削弱伊朗核心产业的战略已经失败。",
@@ -63,15 +85,37 @@
           "time_info": "01时04分"
         },
         {
-          "title": "涉向伊朗提供卫星图像 三家中国企业被美国制裁",
-          "url": "https://www.zaochenbao.com/news/politics/202605/0971326.html",
-          "source": "联合早报",
+          "title": "据以色列第13频道援引以方消息人士称，以军认为当前伊朗势力的局势提供了一个行动契机，有必要重返战场并完成任务。",
+          "url": "https://flash.jin10.com/detail/20260510020657101800",
+          "source": "金十数据",
           "ranks": [
-            19
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时04分"
+          "time_info": "03时16分"
+        },
+        {
+          "title": "以色列消息人士称，摩萨德认为重启战事将加速伊朗政权恶化，促其走向崩溃。",
+          "url": "https://flash.jin10.com/detail/20260510020606602800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "以色列在伊拉克沙漠秘密建造对伊朗作战基地",
+          "url": "https://flash.jin10.com/detail/20260510020541786800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
         },
         {
           "title": "伊朗高级官员警告：“别亲手关死霍尔木兹海峡的大门”",
@@ -83,6 +127,134 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "伊朗外长：停止侵略、放弃无理要求是推进外交进程必要条件",
+          "url": "https://flash.jin10.com/detail/20260510012520083800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "伊朗欲掌控霍尔木兹海峡海底互联网电缆",
+          "url": "https://flash.jin10.com/detail/20260510011935382800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "伊朗准备全面接管通过霍尔木兹海峡的全部7条海底互联网光缆。",
+          "url": "https://flash.jin10.com/detail/20260510011447366800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
+          "url": "https://wallstreetcn.com/articles/3771883",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 03时16分]"
+        },
+        {
+          "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
+          "url": "https://wallstreetcn.com/articles/3771870",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 03时16分]"
+        },
+        {
+          "title": "俄罗斯总统普京：我们当即同意了特朗普关于延长停火并交换囚犯的提议。",
+          "url": "https://flash.jin10.com/detail/20260510021659577800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "意媒：特朗普“仍在考虑”调整驻意美军",
+          "url": "https://flash.jin10.com/detail/20260510020811536800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "据以色列第13频道援引一名以色列官员的话报道称，美国总统特朗普向内塔尼亚胡承诺不会放弃浓缩铀问题。",
+          "url": "https://flash.jin10.com/detail/20260510015900096800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "特朗普：预计“很快”收到伊朗对美方最新和平方案的回应",
+          "url": "https://flash.jin10.com/detail/20260510013801926800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普告诉一名法国记者，他预计“很快”会收到伊朗方面的消息。",
+          "url": "https://flash.jin10.com/detail/20260510012408954800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "美国总统特朗普接受法国LCJ频道采访时表示：伊朗确实希望达成协议。",
+          "url": "https://flash.jin10.com/detail/20260510011547572800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
         }
       ]
     },
@@ -98,8 +270,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 03时16分]"
+        },
+        {
+          "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
+          "url": "https://wallstreetcn.com/articles/3771825",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 03时16分]"
         },
         {
           "title": "美银：美股和黄金今年或将连续第四年录得两位数涨幅",
@@ -109,19 +293,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
-          "url": "https://wallstreetcn.com/articles/3771825",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 03时16分]"
         }
       ]
     },
@@ -134,11 +307,12 @@
           "url": "https://wallstreetcn.com/articles/3771878",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 03时16分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -148,36 +322,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
-          "url": "https://wallstreetcn.com/articles/3771883",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
-          "url": "https://wallstreetcn.com/articles/3771870",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 03时16分]"
         }
       ]
     },
@@ -193,8 +339,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 03时16分]"
         }
       ]
     }
