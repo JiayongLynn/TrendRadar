@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T06:05:54.856962+08:00",
-  "total_titles_processed": 195,
+  "generated_at": "2026-05-09T08:03:33.941013+08:00",
+  "total_titles_processed": 200,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,34 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时16分 ~ 06时05分]"
+          "appearance_count": 5,
+          "time_info": "[02时16分 ~ 08时03分]"
+        },
+        {
+          "title": "为缓解美国封锁冲击 伊朗转向铁路线从中国进口物资",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0871277.html",
+          "source": "联合早报",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 08时03分]"
+        },
+        {
+          "title": "伊朗海军扣押一艘油轮 两艘伊朗油轮遇袭",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0871275.html",
+          "source": "联合早报",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 08时03分]"
         },
         {
           "title": "伊朗塔斯尼姆通讯社：若美方试图干涉伊朗船只，伊朗将予以回应。",
@@ -40,28 +63,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
-        },
-        {
-          "title": "为缓解美国封锁冲击 伊朗转向铁路线从中国进口物资",
-          "url": "https://www.zaochenbao.com/news/politics/202605/0871277.html",
-          "source": "联合早报",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 06时05分]"
-        },
-        {
-          "title": "伊朗海军扣押一艘油轮 两艘伊朗油轮遇袭",
-          "url": "https://www.zaochenbao.com/news/politics/202605/0871275.html",
-          "source": "联合早报",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 06时05分]"
         },
         {
           "title": "非农缓解“滞胀”担忧，苹果、英伟达股价续刷新高，伊朗局势恶化，布油重返百元关口，现货白银涨3%",
@@ -96,6 +97,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时16分 ~ 02时17分]"
+        },
+        {
+          "title": "标普：（关于以色列）预计美国-伊朗和以色列-哈马斯停火协议将广泛生效。",
+          "url": "https://flash.jin10.com/detail/20260509040832297800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时05分 ~ 08时03分]"
         },
         {
           "title": "伊朗官员称美军袭击伊民用船只 已致1死10伤",
@@ -175,17 +187,6 @@
           "time_info": "00时26分"
         },
         {
-          "title": "标普：（关于以色列）预计美国-伊朗和以色列-哈马斯停火协议将广泛生效。",
-          "url": "https://flash.jin10.com/detail/20260509040832297800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
           "title": "美军称向两艘“违反封锁”的伊朗油轮开火",
           "url": "https://flash.jin10.com/detail/20260508233316694800",
           "source": "金十数据",
@@ -232,8 +233,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 06时05分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 08时03分]"
         },
         {
           "title": "美国总统特朗普：此次停火将包括暂停所有军事行动，并进行两国各1000名囚犯的交换。",
@@ -258,6 +259,17 @@
           "time_info": "[02时16分 ~ 02时17分]"
         },
         {
+          "title": "“房间里的大象”--欧洲各国谋求团结，但特朗普“阴霾不散”",
+          "url": "https://www.zaochenbao.com/news/politics/202605/0871267.html",
+          "source": "联合早报",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 08时03分]"
+        },
+        {
           "title": "美国总统特朗普将于十分钟后发表讲话。",
           "url": "https://flash.jin10.com/detail/20260508235000000800",
           "source": "金十数据",
@@ -267,17 +279,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
-        },
-        {
-          "title": "“房间里的大象”--欧洲各国谋求团结，但特朗普“阴霾不散”",
-          "url": "https://www.zaochenbao.com/news/politics/202605/0871267.html",
-          "source": "联合早报",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 06时05分]"
         },
         {
           "title": "法庭文件显示，特朗普就关税问题最新败诉提起上诉。",
@@ -338,18 +339,41 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股异动丨CoreWeave大跌近13%，2连跌，Q1业绩不佳Q2指引不及预期",
           "url": "https://www.gelonghui.com/news/5230141",
           "source": "格隆汇",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 06时05分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 08时03分]"
+        },
+        {
+          "title": "热门中概股美股盘前多数上涨，百度涨超5%",
+          "url": "https://www.36kr.com/newsflashes/3800639633415424",
+          "source": "36氪",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 08时03分]"
+        },
+        {
+          "title": "美股大型科技股盘前多数上涨，英伟达涨超1%",
+          "url": "https://www.36kr.com/newsflashes/3800638528986369",
+          "source": "36氪",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 08时03分]"
         },
         {
           "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
@@ -364,26 +388,26 @@
           "time_info": "[00时26分 ~ 06时05分]"
         },
         {
-          "title": "热门中概股美股盘前多数上涨，百度涨超5%",
-          "url": "https://www.36kr.com/newsflashes/3800639633415424",
-          "source": "36氪",
+          "title": "非农缓解“滞胀”担忧，芯片股力撑美股新高，英特尔暴涨14%，伊朗局势不明，油价承压横盘",
+          "url": "https://wallstreetcn.com/articles/3771825",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
+          "url": "https://www.cls.cn/detail/2366633",
+          "source": "财联社热门",
           "ranks": [
             4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 06时05分]"
-        },
-        {
-          "title": "美股大型科技股盘前多数上涨，英伟达涨超1%",
-          "url": "https://www.36kr.com/newsflashes/3800638528986369",
-          "source": "36氪",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 06时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         },
         {
           "title": "美股收盘：三大股指收涨 英特尔涨近14%",
@@ -403,9 +427,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时05分 ~ 08时03分]"
         },
         {
           "title": "金十图示：2026年05月08日（周五）热门中概股行情一览（美股收盘）",
@@ -414,9 +438,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时05分 ~ 08时03分]"
         }
       ]
     },
@@ -432,8 +456,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 06时05分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 08时03分]"
         }
       ]
     },
