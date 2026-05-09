@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T03:16:16.198474+08:00",
-  "total_titles_processed": 149,
+  "generated_at": "2026-05-10T04:55:43.059625+08:00",
+  "total_titles_processed": 164,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "美国战机向两艘悬挂伊朗国旗的油轮开火",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时16分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 04时55分]"
         },
         {
           "title": "黎巴嫩外交部：在巴林王国揭露与伊朗革命卫队有关联、危害其安全与稳定的组织后，黎方声援巴林。",
@@ -30,6 +30,17 @@
           "time_info": "01时04分"
         },
         {
+          "title": "伊朗伊斯兰革命卫队航空航天部队指挥官：航空航天部队的导弹和无人机已锁定敌人，我们正等待发射命令。",
+          "url": "https://flash.jin10.com/detail/20260510041530086800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
           "title": "美国务卿敦促“进入严肃谈判进程”，美军向伊朗“违反封锁”油轮开火，伊称海湾交火已停但恐重燃",
           "url": "https://wallstreetcn.com/articles/3771862",
           "source": "华尔街见闻",
@@ -41,15 +52,27 @@
           "time_info": "01时04分"
         },
         {
-          "title": "俄罗斯总统普京：我希望伊朗冲突尽快结束。",
-          "url": "https://flash.jin10.com/detail/20260510022818298800",
+          "title": "据伊朗媒体PressTV：伊朗伊斯兰革命卫队海军警告称，任何针对伊朗油轮或商船的侵略行为，都将导致美国在本地区的基地及敌方舰船遭受沉重打击。",
+          "url": "https://flash.jin10.com/detail/20260510040042159800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时16分"
+          "time_info": "04时55分"
+        },
+        {
+          "title": "俄罗斯总统普京：我希望伊朗冲突尽快结束。",
+          "url": "https://flash.jin10.com/detail/20260510022818298800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时55分]"
         },
         {
           "title": "涉向伊朗提供卫星图像 三家中国企业被美国制裁",
@@ -59,8 +82,44 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 04时55分]"
+        },
+        {
+          "title": "据以色列第13频道援引以方消息人士称，以军认为当前伊朗势力的局势提供了一个行动契机，有必要重返战场并完成任务。",
+          "url": "https://flash.jin10.com/detail/20260510020657101800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时16分]"
+          "time_info": "[03时16分 ~ 04时55分]"
+        },
+        {
+          "title": "以色列消息人士称，摩萨德认为重启战事将加速伊朗政权恶化，促其走向崩溃。",
+          "url": "https://flash.jin10.com/detail/20260510020606602800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时55分]"
+        },
+        {
+          "title": "以色列在伊拉克沙漠秘密建造对伊朗作战基地",
+          "url": "https://flash.jin10.com/detail/20260510020541786800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时55分]"
         },
         {
           "title": "据伊朗媒体Press TV：伊朗副总统表示，美国-以色列削弱伊朗核心产业的战略已经失败。",
@@ -85,37 +144,37 @@
           "time_info": "01时04分"
         },
         {
-          "title": "据以色列第13频道援引以方消息人士称，以军认为当前伊朗势力的局势提供了一个行动契机，有必要重返战场并完成任务。",
-          "url": "https://flash.jin10.com/detail/20260510020657101800",
+          "title": "据伊朗法尔斯通讯社：俄罗斯总统普京表示，美伊持续交战对谁都没好处。美伊局势极为复杂，也让俄罗斯陷入两难境地，因为我们与伊朗和阿拉伯国家都保持着良好关系。",
+          "url": "https://flash.jin10.com/detail/20260510030110641800",
           "source": "金十数据",
           "ranks": [
-            14
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时16分"
+          "time_info": "04时55分"
         },
         {
-          "title": "以色列消息人士称，摩萨德认为重启战事将加速伊朗政权恶化，促其走向崩溃。",
-          "url": "https://flash.jin10.com/detail/20260510020606602800",
+          "title": "俄罗斯总统普京：伊朗可以放心将浓缩铀转移至友好国家。",
+          "url": "https://flash.jin10.com/detail/20260510025812140800",
           "source": "金十数据",
           "ranks": [
-            15
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时16分"
+          "time_info": "04时55分"
         },
         {
-          "title": "以色列在伊拉克沙漠秘密建造对伊朗作战基地",
-          "url": "https://flash.jin10.com/detail/20260510020541786800",
+          "title": "俄罗斯总统普京：俄罗斯愿意再次尝试储存伊朗浓缩铀，最初各方都同意这一安排，但后来美国立场转趋强硬。",
+          "url": "https://flash.jin10.com/detail/20260510025043675800",
           "source": "金十数据",
           "ranks": [
-            16
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时16分"
+          "time_info": "04时55分"
         },
         {
           "title": "伊朗高级官员警告：“别亲手关死霍尔木兹海峡的大门”",
@@ -135,7 +194,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -146,7 +205,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -157,7 +216,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         }
@@ -176,8 +235,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时16分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 04时55分]"
         },
         {
           "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
@@ -195,22 +254,24 @@
           "url": "https://flash.jin10.com/detail/20260510021659577800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时55分]"
         },
         {
           "title": "意媒：特朗普“仍在考虑”调整驻意美军",
           "url": "https://flash.jin10.com/detail/20260510020811536800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时55分]"
         },
         {
           "title": "据以色列第13频道援引一名以色列官员的话报道称，美国总统特朗普向内塔尼亚胡承诺不会放弃浓缩铀问题。",
@@ -219,7 +280,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -230,7 +291,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -241,7 +302,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -252,9 +313,49 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
+          "url": "https://wallstreetcn.com/articles/3771878",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 04时55分]"
+        },
+        {
+          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
+          "url": "https://www.cls.cn/detail/2366815",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 04时55分]"
+        },
+        {
+          "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
+          "url": "https://www.cls.cn/detail/2366733",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
         }
       ]
     },
@@ -270,8 +371,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时16分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 04时55分]"
         },
         {
           "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
@@ -282,8 +383,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时16分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 04时55分]"
         },
         {
           "title": "美银：美股和黄金今年或将连续第四年录得两位数涨幅",
@@ -293,37 +394,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
-          "url": "https://wallstreetcn.com/articles/3771878",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时16分]"
-        },
-        {
-          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
-          "url": "https://www.cls.cn/detail/2366815",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时16分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 04时55分]"
         }
       ]
     },
@@ -339,8 +411,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时16分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 04时55分]"
         }
       ]
     }
