@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T12:07:12.269983+08:00",
-  "total_titles_processed": 268,
+  "generated_at": "2026-05-10T15:29:55.292649+08:00",
+  "total_titles_processed": 325,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
         {
           "title": "美国战机向两艘悬挂伊朗国旗的油轮开火",
@@ -67,17 +67,6 @@
           "time_info": "01时04分"
         },
         {
-          "title": "王毅会见伊朗外长，呼吁重新开放霍尔木兹海峡",
-          "url": "https://www.zaochenbao.com/news/politics/202605/1071378.html",
-          "source": "联合早报",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
           "title": "美高层会晤卡塔尔首相推动伊朗停火",
           "url": "https://flash.jin10.com/detail/20260510050317536800",
           "source": "金十数据",
@@ -116,17 +105,6 @@
           "time_info": "[04时55分 ~ 07时58分]"
         },
         {
-          "title": "伊朗为参加美加墨世界杯提多项要求",
-          "url": "https://www.36kr.com/newsflashes/3802936786575105",
-          "source": "36氪",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
           "title": "据AXIOS网站：美国国务卿鲁比奥和美国特使威特科夫周六在迈阿密会见了卡塔尔首相，旨在推动达成结束伊朗战争的协议。",
           "url": "https://flash.jin10.com/detail/20260510044333531800",
           "source": "金十数据",
@@ -148,6 +126,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时04分 ~ 06时56分]"
+        },
+        {
+          "title": "王毅会见伊朗外长，呼吁重新开放霍尔木兹海峡",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1071378.html",
+          "source": "联合早报",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 15时29分]"
+        },
+        {
+          "title": "伊朗为参加美加墨世界杯提多项要求",
+          "url": "https://www.36kr.com/newsflashes/3802936786575105",
+          "source": "36氪",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 15时29分]"
         },
         {
           "title": "据伊朗法尔斯通讯社：俄罗斯总统普京表示，美伊持续交战对谁都没好处。美伊局势极为复杂，也让俄罗斯陷入两难境地，因为我们与伊朗和阿拉伯国家都保持着良好关系。",
@@ -261,13 +263,37 @@
           "time_info": "[03时16分 ~ 04时55分]"
         },
         {
+          "title": "普京：俄伊保持良好关系 伊朗战事让俄罗斯“处境复杂”",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1071363.html",
+          "source": "联合早报",
+          "ranks": [
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 15时29分]"
+        },
+        {
+          "title": "伊朗革命卫队警告：侵犯伊朗船只将引发猛烈打击",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1071358.html",
+          "source": "联合早报",
+          "ranks": [
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 15时29分]"
+        },
+        {
           "title": "Polymarket预测市场显示，截至6月30日，美国与伊朗达成永久性和平协议的可能性为51%。",
           "url": "https://flash.jin10.com/detail/20260510111956260800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -305,15 +331,26 @@
           "time_info": "01时04分"
         },
         {
-          "title": "普京：俄伊保持良好关系 伊朗战事让俄罗斯“处境复杂”",
-          "url": "https://www.zaochenbao.com/news/politics/202605/1071363.html",
-          "source": "联合早报",
+          "title": "伊朗称若敌人再袭将进入新作战领域",
+          "url": "https://flash.jin10.com/detail/20260510145607152800",
+          "source": "金十数据",
           "ranks": [
-            17
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时07分"
+          "time_info": "15时29分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗军方发言人表示，如果敌人再次袭击伊朗，将会对新武器、新战争方式和新战场感到“惊讶”。",
+          "url": "https://flash.jin10.com/detail/20260510144023433800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         },
         {
           "title": "伊朗高级官员警告：“别亲手关死霍尔木兹海峡的大门”",
@@ -338,17 +375,6 @@
           "time_info": "03时16分"
         },
         {
-          "title": "伊朗革命卫队警告：侵犯伊朗船只将引发猛烈打击",
-          "url": "https://www.zaochenbao.com/news/politics/202605/1071358.html",
-          "source": "联合早报",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
           "title": "伊朗欲掌控霍尔木兹海峡海底互联网电缆",
           "url": "https://flash.jin10.com/detail/20260510011935382800",
           "source": "金十数据",
@@ -366,9 +392,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "伊军方：制裁伊朗国家的船只通过霍尔木兹海峡将面临困难",
+          "url": "https://flash.jin10.com/detail/20260510140350229800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         },
         {
           "title": "据伊朗Press TV：有美军战机在伊拉克首都巴格达上空飞行。",
@@ -377,7 +414,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -391,6 +428,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗军方发言人表示，遵循美国对伊朗制裁的国家将“在穿越霍尔木兹海峡时面临困难”。",
+          "url": "https://flash.jin10.com/detail/20260510134323649800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         }
       ]
     },
@@ -423,17 +471,6 @@
           "time_info": "07时58分"
         },
         {
-          "title": "纽时评论：特朗普将访问一个早已不再仰视美国的中国",
-          "url": "https://www.zaochenbao.com/news/opinion/202605/1071377.html",
-          "source": "联合早报",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
           "title": "特朗普盼俄乌停火三日可“大大延长” 遭莫斯科泼冷水",
           "url": "https://www.zaochenbao.com/news/politics/202605/1071347.html",
           "source": "联合早报",
@@ -445,15 +482,28 @@
           "time_info": "07时58分"
         },
         {
+          "title": "纽时评论：特朗普将访问一个早已不再仰视美国的中国",
+          "url": "https://www.zaochenbao.com/news/opinion/202605/1071377.html",
+          "source": "联合早报",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 15时29分]"
+        },
+        {
           "title": "北约国家为特朗普从欧洲撤出更多部队做准备",
           "url": "https://www.zaochenbao.com/news/politics/202605/1071376.html",
           "source": "联合早报",
           "ranks": [
-            4
+            4,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 15时29分]"
         },
         {
           "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
@@ -537,53 +587,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
-          "url": "https://www.cls.cn/detail/2366815",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 12时07分]"
-        },
-        {
-          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
-          "url": "https://wallstreetcn.com/articles/3771878",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 07时58分]"
-        },
-        {
-          "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
-          "url": "https://www.cls.cn/detail/2366733",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时55分 ~ 12时07分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
@@ -619,12 +624,79 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时04分 ~ 04时55分]"
+        },
+        {
+          "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
+          "url": "https://wallstreetcn.com/articles/3771916",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
+          "title": "沙特阿美股价在早盘交易中上涨1.1%。",
+          "url": "https://flash.jin10.com/detail/20260510150124748800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
+          "url": "https://www.cls.cn/detail/2366815",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 15时29分]"
+        },
+        {
+          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
+          "url": "https://wallstreetcn.com/articles/3771878",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 07时58分]"
+        },
+        {
+          "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
+          "url": "https://www.cls.cn/detail/2366733",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时55分 ~ 12时07分]"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "Deepseek和阿里谈崩了？市场人士回应",
@@ -636,6 +708,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时04分 ~ 07时58分]"
+        },
+        {
+          "title": "美媒：DeepSeek首轮融资达500亿人民币 梁文锋出四成",
+          "url": "https://www.zaochenbao.com/news/china/202605/1071384.html",
+          "source": "联合早报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         }
       ]
     }
