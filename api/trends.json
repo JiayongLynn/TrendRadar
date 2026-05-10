@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T15:29:55.292649+08:00",
-  "total_titles_processed": 325,
+  "generated_at": "2026-05-10T17:45:27.278477+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "美国战机向两艘悬挂伊朗国旗的油轮开火",
@@ -65,6 +65,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "伊朗总统：谈判并非投降 旨在捍卫国家利益",
+          "url": "https://flash.jin10.com/detail/20260510171430184800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "美高层会晤卡塔尔首相推动伊朗停火",
@@ -133,11 +144,12 @@
           "source": "联合早报",
           "ranks": [
             2,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 15时29分]"
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 17时45分]"
         },
         {
           "title": "伊朗为参加美加墨世界杯提多项要求",
@@ -227,6 +239,19 @@
           "time_info": "[05时55分 ~ 07时58分]"
         },
         {
+          "title": "普京：俄伊保持良好关系 伊朗战事让俄罗斯“处境复杂”",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1071363.html",
+          "source": "联合早报",
+          "ranks": [
+            17,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 17时45分]"
+        },
+        {
           "title": "据以色列第13频道援引以方消息人士称，以军认为当前伊朗势力的局势提供了一个行动契机，有必要重返战场并完成任务。",
           "url": "https://flash.jin10.com/detail/20260510020657101800",
           "source": "金十数据",
@@ -261,18 +286,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 04时55分]"
-        },
-        {
-          "title": "普京：俄伊保持良好关系 伊朗战事让俄罗斯“处境复杂”",
-          "url": "https://www.zaochenbao.com/news/politics/202605/1071363.html",
-          "source": "联合早报",
-          "ranks": [
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 15时29分]"
         },
         {
           "title": "伊朗革命卫队警告：侵犯伊朗船只将引发猛烈打击",
@@ -337,7 +350,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -348,9 +361,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
+        },
+        {
+          "title": "伊朗军方：制裁伊朗的国家通过霍尔木兹海峡时将“面临困难”",
+          "url": "https://flash.jin10.com/detail/20260510155822696800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "伊朗高级官员警告：“别亲手关死霍尔木兹海峡的大门”",
@@ -403,9 +427,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
+        },
+        {
+          "title": "伊朗海军司令：自主建造的轻型潜艇正在霍尔木兹海峡待命",
+          "url": "https://flash.jin10.com/detail/20260510155306716800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "据伊朗Press TV：有美军战机在伊拉克首都巴格达上空飞行。",
@@ -436,7 +471,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         }
@@ -487,11 +522,12 @@
           "source": "联合早报",
           "ranks": [
             3,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 15时29分]"
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 17时45分]"
         },
         {
           "title": "北约国家为特朗普从欧洲撤出更多部队做准备",
@@ -499,11 +535,12 @@
           "source": "联合早报",
           "ranks": [
             4,
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 15时29分]"
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 17时45分]"
         },
         {
           "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
@@ -630,11 +667,12 @@
           "url": "https://wallstreetcn.com/articles/3771916",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 17时45分]"
         },
         {
           "title": "沙特阿美股价在早盘交易中上涨1.1%。",
@@ -643,7 +681,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         }
@@ -716,7 +754,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         }
