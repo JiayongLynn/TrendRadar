@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T05:59:03.770542+08:00",
-  "total_titles_processed": 180,
+  "generated_at": "2026-05-11T07:01:32.603629+08:00",
+  "total_titles_processed": 201,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 42,
+      "match_count": 46,
       "titles": [
         {
           "title": "伊朗已回应美国提出的结束战争方案",
@@ -14,33 +14,23 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 07时01分]"
         },
         {
-          "title": "据悉伊朗拒绝了美国提出的方案",
-          "url": "https://flash.jin10.com/detail/20260511051524416800",
-          "source": "金十数据",
+          "title": "阿联酋称拦截伊朗导弹和无人机",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1071421.html",
+          "source": "联合早报",
           "ranks": [
-            3
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 05时59分]"
-        },
-        {
-          "title": "据伊朗方面报道：伊朗军方公共关系部门称，一小时前，一架敌方侦察无人机在伊朗西南部地区被防空网络系统摧毁。",
-          "url": "https://flash.jin10.com/detail/20260511050353062800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 07时01分]"
         },
         {
           "title": "内塔尼亚胡：美以对伊朗的军事行动尚未结束",
@@ -54,15 +44,15 @@
           "time_info": "01时04分"
         },
         {
-          "title": "阿联酋称拦截伊朗导弹和无人机",
-          "url": "https://www.zaochenbao.com/news/politics/202605/1071421.html",
-          "source": "联合早报",
+          "title": "据伊朗学生通讯社：伊朗与埃及外交部长通话，就地区最新局势以及在巴基斯坦斡旋下进行的伊美外交进程相关议题进行了讨论与磋商。",
+          "url": "https://flash.jin10.com/detail/20260511062016303800",
+          "source": "金十数据",
           "ranks": [
-            7
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 05时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "伊朗副外长：法英勿加剧危机 只有伊朗能保障霍尔木兹海峡安全",
@@ -74,6 +64,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "据悉伊朗拒绝了美国提出的方案",
+          "url": "https://flash.jin10.com/detail/20260511051524416800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时58分 ~ 07时01分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社援引消息人士报道，伊朗方面的回应要求，在达成初步谅解的同时应解冻伊朗被冻结的资产。",
@@ -98,6 +100,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时58分 ~ 05时59分]"
+        },
+        {
+          "title": "据伊朗方面报道：伊朗军方公共关系部门称，一小时前，一架敌方侦察无人机在伊朗西南部地区被防空网络系统摧毁。",
+          "url": "https://flash.jin10.com/detail/20260511050353062800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时58分 ~ 07时01分]"
         },
         {
           "title": "美媒证实一艘美国商船遭伊朗无人机袭击",
@@ -146,6 +160,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时58分 ~ 05时59分]"
+        },
+        {
+          "title": "伊朗提议美方在30天内撤销对伊石油销售制裁",
+          "url": "https://flash.jin10.com/detail/20260511050240291800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时58分 ~ 07时01分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社援引消息人士报道，伊朗提交给美方的谈判草案文本强调，美方必须解除制裁。",
@@ -280,17 +306,6 @@
           "time_info": "[04时58分 ~ 05时59分]"
         },
         {
-          "title": "伊朗提议美方在30天内撤销对伊石油销售制裁",
-          "url": "https://flash.jin10.com/detail/20260511050240291800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 05时59分]"
-        },
-        {
           "title": "美国能源部长对美国全国广播公司（NBC）表示，下一阶段我们对伊朗不排除任何选项，包括军事手段。",
           "url": "https://flash.jin10.com/detail/20260511002527478800",
           "source": "金十数据",
@@ -322,6 +337,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "伊朗外交部：伊朗外长与荷兰外长通话，就双边关系及最新的地区和外交动态交换了意见。",
+          "url": "https://flash.jin10.com/detail/20260511055903355800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "美国共和党参议员格雷厄姆：认为伊朗在谈判解决方案中无需彻底销毁其所有铀浓缩设施，这种说法毫无道理。所谓的暂停措施（如果不彻底拆除铀浓缩设施与相关能力）本质上就会重新变成《联合全面行动计划》（JCPOA，即“伊核协议”）。我确信伊朗拒绝摧毁其铀浓缩能力的立场将遭到坚决反对。",
+          "url": "https://flash.jin10.com/detail/20260511055611106800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "伊媒：伊朗不会为取悦美方而制定计划",
+          "url": "https://flash.jin10.com/detail/20260511055030200800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "美国能源部长：目标不是移除伊朗的浓缩铀，而是结束伊朗的核计划。",
@@ -492,8 +540,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "美国共和党参议员Roger Wicker敦促特朗普重启疏导霍尔木兹海峡受困船只的“自由计划”行动。",
+          "url": "https://flash.jin10.com/detail/20260511062819908800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
         {
           "title": "特朗普：伊朗的回应完全不可接受",
           "url": "https://flash.jin10.com/detail/20260511041440041800",
@@ -505,6 +564,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时58分 ~ 05时59分]"
+        },
+        {
+          "title": "美国总统特朗普在社交媒体上发帖批评福克斯新闻偏袒民主党人撒谎。",
+          "url": "https://flash.jin10.com/detail/20260511061810220800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "美国总统特朗普：我们刚刚成功促成三名波兰人和两名摩尔多瓦人获释，他们此前被关押在白俄罗斯和俄罗斯的拘留所。",
@@ -531,6 +601,18 @@
           "time_info": "[03时17分 ~ 04时58分]"
         },
         {
+          "title": "美国总统特朗普：“任何支付给美国的钱都无需退还。”——如果美国最高法院当初在那项备受争议的关税裁决中加入这句话，美国本可以省下1590亿美元！",
+          "url": "https://flash.jin10.com/detail/20260511045057242800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时58分 ~ 07时01分]"
+        },
+        {
           "title": "内塔尼亚胡与特朗普通电话",
           "url": "https://flash.jin10.com/detail/20260511034627624800",
           "source": "金十数据",
@@ -543,6 +625,30 @@
           "time_info": "[04时58分 ~ 05时59分]"
         },
         {
+          "title": "伊媒：特朗普对伊朗回应的反应无关紧要",
+          "url": "https://flash.jin10.com/detail/20260511044544545800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时58分 ~ 07时01分]"
+        },
+        {
+          "title": "美媒：特朗普对伊朗最新回应表示拒绝 未明确说明后续计划",
+          "url": "https://flash.jin10.com/detail/20260511043952589800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时58分 ~ 07时01分]"
+        },
+        {
           "title": "据以色列第12频道：以色列总理内塔尼亚胡刚刚结束与美国总统特朗普的通话。",
           "url": "https://flash.jin10.com/detail/20260511032554131800",
           "source": "金十数据",
@@ -553,39 +659,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时58分 ~ 05时59分]"
-        },
-        {
-          "title": "美国总统特朗普：“任何支付给美国的钱都无需退还。”——如果美国最高法院当初在那项备受争议的关税裁决中加入这句话，美国本可以省下1590亿美元！",
-          "url": "https://flash.jin10.com/detail/20260511045057242800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 05时59分]"
-        },
-        {
-          "title": "伊媒：特朗普对伊朗回应的反应无关紧要",
-          "url": "https://flash.jin10.com/detail/20260511044544545800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 05时59分]"
-        },
-        {
-          "title": "美媒：特朗普对伊朗最新回应表示拒绝 未明确说明后续计划",
-          "url": "https://flash.jin10.com/detail/20260511043952589800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 05时59分]"
         },
         {
           "title": "据以色列第i24频道：以色列总理内塔尼亚胡离开在死海举行的德鲁兹派与切尔克斯派地方领导人会议，他向与会者表示，必须赶回耶路撒冷接听美国总统特朗普的紧急来电。",
@@ -645,6 +718,34 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
+          "url": "https://wallstreetcn.com/articles/3771916",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 07时01分]"
+        },
+        {
+          "title": "美股三大股指期货周一开盘微跌。",
+          "url": "https://flash.jin10.com/detail/20260511060044695800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -653,11 +754,12 @@
           "url": "https://www.cls.cn/detail/2367192",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 07时01分]"
         }
       ]
     },
@@ -675,23 +777,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
-          "url": "https://wallstreetcn.com/articles/3771916",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 05时59分]"
         }
       ]
     }
