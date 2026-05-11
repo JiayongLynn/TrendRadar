@@ -1,12 +1,58 @@
 {
-  "generated_at": "2026-05-12T00:09:27.177311+08:00",
-  "total_titles_processed": 108,
+  "generated_at": "2026-05-12T03:03:46.881081+08:00",
+  "total_titles_processed": 143,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "美国总统特朗普将对中国进行国事访问",
+          "url": "https://wallstreetcn.com/articles/3771944",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 03时03分]"
+        },
+        {
+          "title": "特朗普在北京期间去哪儿住哪儿？",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1171505.html",
+          "source": "联合早报",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 03时03分]"
+        },
+        {
+          "title": "中美峰会周四登场 学者：特朗普不应寄望北京帮忙解决伊朗僵局",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1171504.html",
+          "source": "联合早报",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 03时03分]"
+        },
+        {
+          "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
+          "url": "https://wallstreetcn.com/articles/3771940",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 03时03分]"
+        },
         {
           "title": "特朗普拟暂停美国汽油税 政策仍需国会立法批准",
           "url": "https://flash.jin10.com/detail/20260511234158758800",
@@ -19,37 +65,15 @@
           "time_info": "00时09分"
         },
         {
-          "title": "特朗普在北京期间去哪儿住哪儿？",
-          "url": "https://www.zaochenbao.com/news/politics/202605/1171505.html",
+          "title": "消息：黄仁勋未受邀随特朗普访华",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1171508.html",
           "source": "联合早报",
           "ranks": [
             1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时09分"
-        },
-        {
-          "title": "美国总统特朗普将对中国进行国事访问",
-          "url": "https://wallstreetcn.com/articles/3771944",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
-        },
-        {
-          "title": "中美峰会周四登场 学者：特朗普不应寄望北京帮忙解决伊朗僵局",
-          "url": "https://www.zaochenbao.com/news/politics/202605/1171504.html",
-          "source": "联合早报",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "time_info": "03时03分"
         },
         {
           "title": "美国总统特朗普：伊朗的提议是个愚蠢的提议。",
@@ -74,17 +98,6 @@
           "time_info": "00时09分"
         },
         {
-          "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
-          "url": "https://wallstreetcn.com/articles/3771940",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
-        },
-        {
           "title": "美国总统特朗普：封锁伊朗是军事天才之举。",
           "url": "https://flash.jin10.com/detail/20260511233846599800",
           "source": "金十数据",
@@ -96,20 +109,32 @@
           "time_info": "00时09分"
         },
         {
-          "title": "美国总统特朗普：我有一个对伊朗的计划。",
-          "url": "https://flash.jin10.com/detail/20260511233710416800",
-          "source": "金十数据",
+          "title": "外交部介绍特朗普访华具体安排和中方期待",
+          "url": "https://wallstreetcn.com/articles/3771976",
+          "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 03时03分]"
         },
         {
-          "title": "外交部介绍特朗普访华具体安排和中方期待",
-          "url": "https://wallstreetcn.com/articles/3771976",
-          "source": "华尔街见闻",
+          "title": "美媒：特朗普拟与中方讨论140亿美元对台军售 或创先例",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/1171474.html",
+          "source": "联合早报",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 03时03分]"
+        },
+        {
+          "title": "美国总统特朗普：我有一个对伊朗的计划。",
+          "url": "https://flash.jin10.com/detail/20260511233710416800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
@@ -151,6 +176,50 @@
           "time_info": "00时09分"
         },
         {
+          "title": "据路透社/益普索调查：特朗普支持率在触及任内最低水平后，从34%升至36%。",
+          "url": "https://flash.jin10.com/detail/20260512021918353800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "据路透社/益普索调查：66%的美国人表示特朗普没有清楚解释美国在伊朗战争中的目标。",
+          "url": "https://flash.jin10.com/detail/20260512021907048800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "白宫副新闻秘书凯利：特朗普对伊朗问题并不着急，所有选项都在考虑之中。",
+          "url": "https://flash.jin10.com/detail/20260512021148583800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "白宫官员：特朗普周一将签署行政命令，允许增加牛肉进口并支持美国牛群存栏恢复。",
+          "url": "https://flash.jin10.com/detail/20260512020630622800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
           "title": "美国汽车业和议员敦促特朗普勿向中国汽车开放市场",
           "url": "https://www.zaochenbao.com/news/politics/202605/1171483.html",
           "source": "联合早报",
@@ -162,15 +231,133 @@
           "time_info": "00时09分"
         },
         {
-          "title": "美媒：特朗普拟与中方讨论140亿美元对台军售 或创先例",
-          "url": "https://www.zaochenbao.com/news/taiwan/202605/1171474.html",
+          "title": "据华盛顿邮报：特朗普最早可能在周一签署一项关于人工智能安全的行政命令。",
+          "url": "https://flash.jin10.com/detail/20260512013750764800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "据沙特阿拉比亚电视台：消息人士称，伊朗外长阿拉格齐将于本周前往印度新德里，参加5月14日至15日举行的金砖国家外长会议。",
+          "url": "https://flash.jin10.com/detail/20260512023346751800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "伊朗：谈判优先事项是结束战争，浓缩铀问题适时作出决定",
+          "url": "https://wallstreetcn.com/articles/3771985",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 03时03分]"
+        },
+        {
+          "title": "日本迎来伊朗战争后首批阿塞拜疆原油",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1171493.html",
           "source": "联合早报",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 03时03分]"
+        },
+        {
+          "title": "美国白宫：我们正寻求达成一项能够长期保护我们的安全并消除伊朗核威胁的协议。",
+          "url": "https://flash.jin10.com/detail/20260512023115214800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "美国白宫：在“史诗经济狂怒”行动的压力下，伊朗的经济已经完全瘫痪。",
+          "url": "https://flash.jin10.com/detail/20260512022956471800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "美国白宫：伊朗政权必须承认哈尔克岛油罐已满的事实 。",
+          "url": "https://flash.jin10.com/detail/20260512022754565800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：我们为所有选项做好了准备，他们（美以）将大吃一惊。",
+          "url": "https://flash.jin10.com/detail/20260512022158109800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：错误的战略和错误的决定，永远只会带来错误的结果，全世界早已明白这一点。",
+          "url": "https://flash.jin10.com/detail/20260512022137547800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：我们的武装部队已准备好对任何侵略行为，并作出具有教训意义的回应。",
+          "url": "https://flash.jin10.com/detail/20260512022115208800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "据美联社：美国政府敦促银行标记可疑的伊朗洗钱活动。",
+          "url": "https://flash.jin10.com/detail/20260512014103904800",
+          "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时09分"
+          "time_info": "03时03分"
         }
       ]
     },
@@ -186,8 +373,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 03时03分]"
         },
         {
           "title": "热门中概股美股盘前涨跌互现，理想汽车涨超4%",
@@ -197,8 +384,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 03时03分]"
         },
         {
           "title": "美股大型科技股盘前普跌，Arm跌超3%",
@@ -208,8 +395,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 03时03分]"
         },
         {
           "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
@@ -219,8 +406,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 03时03分]"
         }
       ]
     },
@@ -233,22 +420,12 @@
           "url": "https://www.zaochenbao.com/news/politics/202605/1171498.html",
           "source": "联合早报",
           "ranks": [
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
-        },
-        {
-          "title": "英国审慎监管局局长伍兹：合理预期ChatGPT和Mythos将对英国金融服务造成相当显著的干扰。",
-          "url": "https://flash.jin10.com/detail/20260511233650428800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 03时03分]"
         },
         {
           "title": "欧盟委员会对OpenAI开放新型ChatGPT模型访问权限表示欢迎",
@@ -258,32 +435,15 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗：谈判优先事项是结束战争，浓缩铀问题适时作出决定",
-          "url": "https://wallstreetcn.com/articles/3771985",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 03时03分]"
         },
         {
-          "title": "日本迎来伊朗战争后首批阿塞拜疆原油",
-          "url": "https://www.zaochenbao.com/news/politics/202605/1171493.html",
-          "source": "联合早报",
+          "title": "英国审慎监管局局长伍兹：合理预期ChatGPT和Mythos将对英国金融服务造成相当显著的干扰。",
+          "url": "https://flash.jin10.com/detail/20260511233650428800",
+          "source": "金十数据",
           "ranks": [
-            13
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
