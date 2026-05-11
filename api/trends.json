@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T03:03:46.881081+08:00",
-  "total_titles_processed": 143,
+  "generated_at": "2026-05-12T05:26:02.671977+08:00",
+  "total_titles_processed": 173,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "美国总统特朗普将对中国进行国事访问",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 05时26分]"
         },
         {
           "title": "特朗普在北京期间去哪儿住哪儿？",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 05时26分]"
         },
         {
           "title": "中美峰会周四登场 学者：特朗普不应寄望北京帮忙解决伊朗僵局",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 05时26分]"
         },
         {
           "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
@@ -50,8 +50,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 05时26分]"
+        },
+        {
+          "title": "消息：黄仁勋未受邀随特朗普访华",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1171508.html",
+          "source": "联合早报",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时03分 ~ 05时26分]"
         },
         {
           "title": "特朗普拟暂停美国汽油税 政策仍需国会立法批准",
@@ -63,17 +74,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
-        },
-        {
-          "title": "消息：黄仁勋未受邀随特朗普访华",
-          "url": "https://www.zaochenbao.com/news/politics/202605/1171508.html",
-          "source": "联合早报",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时03分"
         },
         {
           "title": "美国总统特朗普：伊朗的提议是个愚蠢的提议。",
@@ -116,8 +116,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 05时26分]"
         },
         {
           "title": "美媒：特朗普拟与中方讨论140亿美元对台军售 或创先例",
@@ -128,8 +128,30 @@
             30
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 05时26分]"
+        },
+        {
+          "title": "多个团体就特朗普政府可能削减住房项目发出警告",
+          "url": "https://flash.jin10.com/detail/20260512045723641800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时09分 ~ 03时03分]"
+          "time_info": "[05时25分 ~ 05时26分]"
+        },
+        {
+          "title": "美国总统特朗普：我们需要更多关税。",
+          "url": "https://flash.jin10.com/detail/20260512042137003800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 05时26分]"
         },
         {
           "title": "美国总统特朗普：我有一个对伊朗的计划。",
@@ -182,7 +204,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
         },
@@ -193,7 +215,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
         },
@@ -204,7 +226,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
         },
@@ -215,7 +237,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
         },
@@ -237,7 +259,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
         }
@@ -245,7 +267,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "据沙特阿拉比亚电视台：消息人士称，伊朗外长阿拉格齐将于本周前往印度新德里，参加5月14日至15日举行的金砖国家外长会议。",
@@ -254,7 +276,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
         },
@@ -267,8 +289,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 05时26分]"
         },
         {
           "title": "日本迎来伊朗战争后首批阿塞拜疆原油",
@@ -279,8 +301,63 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 05时26分]"
+        },
+        {
+          "title": "伊朗议长：“14点提案”无可替代",
+          "url": "https://flash.jin10.com/detail/20260512045612661800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时09分 ~ 03时03分]"
+          "time_info": "[05时25分 ~ 05时26分]"
+        },
+        {
+          "title": "伊朗议长：除了接受伊朗14点提案外别无他法",
+          "url": "https://flash.jin10.com/detail/20260512043724901800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 05时26分]"
+        },
+        {
+          "title": "美媒曝阿联酋四月初曾空袭伊朗炼油厂",
+          "url": "https://flash.jin10.com/detail/20260512042007758800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 05时26分]"
+        },
+        {
+          "title": "据华尔街日报：阿联酋一直在秘密对伊朗进行攻击。阿联酋尚未公开承认对伊朗的袭击。",
+          "url": "https://flash.jin10.com/detail/20260512041302774800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 05时26分]"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，阿联酋此前已对伊朗实施军事打击。阿联酋的袭击包括对伊朗拉万岛上一座炼油厂的攻击。",
+          "url": "https://flash.jin10.com/detail/20260512041239632800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 05时26分]"
         },
         {
           "title": "美国白宫：我们正寻求达成一项能够长期保护我们的安全并消除伊朗核威胁的协议。",
@@ -289,7 +366,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
         },
@@ -300,7 +377,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
         },
@@ -311,7 +388,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
         },
@@ -322,7 +399,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
         },
@@ -333,7 +410,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
         },
@@ -344,7 +421,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
         },
@@ -355,7 +432,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
         }
@@ -363,7 +440,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美伊局势僵持，美股盘初涨跌互现，英特尔、美光、高通、AMD股价齐创历史新高，现货白银涨7%站上85美元，布油再回100美元上方",
@@ -373,8 +450,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 05时26分]"
         },
         {
           "title": "热门中概股美股盘前涨跌互现，理想汽车涨超4%",
@@ -384,8 +461,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 05时26分]"
         },
         {
           "title": "美股大型科技股盘前普跌，Arm跌超3%",
@@ -395,8 +472,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 05时26分]"
         },
         {
           "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
@@ -406,14 +483,25 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 05时26分]"
+        },
+        {
+          "title": "金十图示：2026年05月11日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260512040533688800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时09分 ~ 03时03分]"
+          "time_info": "[05时25分 ~ 05时26分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美校园枪击嫌犯曾与ChatGPT讨论犯罪 引发AI刑责争议",
@@ -424,8 +512,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 05时26分]"
         },
         {
           "title": "欧盟委员会对OpenAI开放新型ChatGPT模型访问权限表示欢迎",
@@ -435,8 +523,19 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 05时26分]"
+        },
+        {
+          "title": "OpenAI：推出面向网络防御人员的前沿人工智能Daybreak。Daybreak整合了OpenAI最强大的模型、Codex以及我们的安全合作伙伴，以加速网络防御并持续保障软件安全。",
+          "url": "https://flash.jin10.com/detail/20260512044813399800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时09分 ~ 03时03分]"
+          "time_info": "[05时25分 ~ 05时26分]"
         },
         {
           "title": "英国审慎监管局局长伍兹：合理预期ChatGPT和Mythos将对英国金融服务造成相当显著的干扰。",
