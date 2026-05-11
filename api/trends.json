@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T07:01:32.603629+08:00",
-  "total_titles_processed": 201,
+  "generated_at": "2026-05-11T12:12:44.711655+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 46,
+      "match_count": 52,
       "titles": [
         {
           "title": "伊朗已回应美国提出的结束战争方案",
@@ -15,11 +15,12 @@
             6,
             5,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 07时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 12时12分]"
         },
         {
           "title": "阿联酋称拦截伊朗导弹和无人机",
@@ -31,6 +32,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时04分 ~ 07时01分]"
+        },
+        {
+          "title": "【早报】伊朗回应美国所提结束战争方案，美称“完全不可接受”；全球芯片LOF、中韩半导体ETF华泰柏瑞停牌1小时",
+          "url": "https://www.cls.cn/detail/2367370",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         },
         {
           "title": "内塔尼亚胡：美以对伊朗的军事行动尚未结束",
@@ -50,7 +62,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -328,6 +340,17 @@
           "time_info": "01时04分"
         },
         {
+          "title": "内坦亚胡：美以伊战争尚未结束 伊朗浓缩铀必须移除",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1171451.html",
+          "source": "联合早报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
           "title": "伊朗回应美方提议：聚焦结束地区战争 愿就核计划与海峡问题谈判",
           "url": "https://flash.jin10.com/detail/20260511021055839800",
           "source": "金十数据",
@@ -339,13 +362,46 @@
           "time_info": "03时17分"
         },
         {
+          "title": "伊朗最高领袖会见武装部队司令并下达新指令",
+          "url": "https://www.cls.cn/detail/2367274",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "美媒：一艘美国商船在波斯湾遭伊朗无人机袭击",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1171450.html",
+          "source": "联合早报",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "伊媒称美国提案“过分” 伊朗不会取悦美国",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1171449.html",
+          "source": "联合早报",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
           "title": "伊朗外交部：伊朗外长与荷兰外长通话，就双边关系及最新的地区和外交动态交换了意见。",
           "url": "https://flash.jin10.com/detail/20260511055903355800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -356,7 +412,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -367,7 +423,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -403,6 +459,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        },
+        {
+          "title": "王飞凌：美伊战争未能改变伊朗",
+          "url": "https://www.zaochenbao.com/news/opinion/202605/1171437.html",
+          "source": "联合早报",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         },
         {
           "title": "伊朗方面敦促国际原子能机构放弃“政治信息传递”，专注于其职责。",
@@ -540,8 +607,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "两美国人在华被拘超10年 家属呼吁特朗普向中方争取释放",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1171458.html",
+          "source": "联合早报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
         {
           "title": "美国共和党参议员Roger Wicker敦促特朗普重启疏导霍尔木兹海峡受困船只的“自由计划”行动。",
           "url": "https://flash.jin10.com/detail/20260511062819908800",
@@ -549,7 +627,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -572,7 +650,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -587,6 +665,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时58分 ~ 05时59分]"
+        },
+        {
+          "title": "美国总统特朗普将对中国进行国事访问",
+          "url": "https://www.cls.cn/detail/2367458",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "美国总统特朗普将对中国进行国事访问",
+          "url": "https://wallstreetcn.com/articles/3771944",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         },
         {
           "title": "特朗普下令所有联邦机构必须“买美国货”：毫无例外！",
@@ -661,6 +761,28 @@
           "time_info": "[04时58分 ~ 05时59分]"
         },
         {
+          "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
+          "url": "https://wallstreetcn.com/articles/3771940",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "特朗普重提审计诺克斯堡金库，欲亲自查验近7000亿美元黄金储备",
+          "url": "https://flash.jin10.com/detail/20260511114739373800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
           "title": "据以色列第i24频道：以色列总理内塔尼亚胡离开在死海举行的德鲁兹派与切尔克斯派地方领导人会议，他向与会者表示，必须赶回耶路撒冷接听美国总统特朗普的紧急来电。",
           "url": "https://flash.jin10.com/detail/20260511020842922800",
           "source": "金十数据",
@@ -683,6 +805,17 @@
           "time_info": "03时17分"
         },
         {
+          "title": "中国宣布特朗普5月13日至15日访华",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1171448.html",
+          "source": "联合早报",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
           "title": "特朗普斥伊朗“玩弄美国47年” 称不再容忍",
           "url": "https://flash.jin10.com/detail/20260511015611933800",
           "source": "金十数据",
@@ -703,6 +836,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "北京视美国为“跛脚的巨人”：习特会特朗普处境被动？",
+          "url": "https://www.zaochenbao.com/news/china/202605/1171444.html",
+          "source": "联合早报",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "特朗普力挺伊拉克总理热门人选 白宫要求其“疏远伊朗”",
+          "url": "https://flash.jin10.com/detail/20260511113319149800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "赵明昊：特朗普访华探索中美关系“战略稳定”新路径",
+          "url": "https://www.zaochenbao.com/news/opinion/202605/1171438.html",
+          "source": "联合早报",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "特朗普周三晚抵北京 拟就伊朗问题向习近平施压",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1171435.html",
+          "source": "联合早报",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         },
         {
           "title": "美国驻联合国大使：特朗普在回归战争之前给予外交一切机会。",
@@ -739,7 +916,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         }
@@ -755,11 +932,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 07时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 12时12分]"
         }
       ]
     },
