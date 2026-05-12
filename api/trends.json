@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-05-13T02:17:58.992079+08:00",
-  "total_titles_processed": 112,
+  "generated_at": "2026-05-13T04:45:27.518213+08:00",
+  "total_titles_processed": 137,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "马斯克库克随特朗普访华",
+          "url": "https://www.cls.cn/detail/2369414",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时45分]"
+        },
+        {
+          "title": "黄仁勋据报未随特朗普访华 分析：英伟达晶片难有大订单",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1271589.html",
+          "source": "联合早报",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时45分]"
+        },
         {
           "title": "美国总统特朗普：与俄罗斯总统普京没有达成共识，俄罗斯不应获得顿巴斯地区。",
           "url": "https://flash.jin10.com/detail/20260513020502120800",
@@ -22,28 +44,6 @@
           "title": "美国总统特朗普：北约令我失望，我们不需要它的帮助。",
           "url": "https://flash.jin10.com/detail/20260513020427789800",
           "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "马斯克库克随特朗普访华",
-          "url": "https://www.cls.cn/detail/2369414",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "黄仁勋据报未随特朗普访华 分析：英伟达晶片难有大订单",
-          "url": "https://www.zaochenbao.com/news/politics/202605/1271589.html",
-          "source": "联合早报",
           "ranks": [
             2
           ],
@@ -74,6 +74,28 @@
           "time_info": "02时17分"
         },
         {
+          "title": "特朗普即将到访 北京天坛公园安保进一步升级",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1271573.html",
+          "source": "联合早报",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时45分]"
+        },
+        {
+          "title": "习特会前 美议员促特朗普推进140亿美元对台军售案",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/1271565.html",
+          "source": "联合早报",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时45分]"
+        },
+        {
           "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
           "url": "https://wallstreetcn.com/articles/3772005",
           "source": "华尔街见闻",
@@ -85,6 +107,17 @@
           "time_info": "02时17分"
         },
         {
+          "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华，黄仁勋缺席",
+          "url": "https://wallstreetcn.com/articles/3772030",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
+        },
+        {
           "title": "美国总统特朗普：伊朗是一个失败的国家。",
           "url": "https://flash.jin10.com/detail/20260513015905924800",
           "source": "金十数据",
@@ -94,6 +127,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "美国总统特朗普：当假新闻媒体称伊朗在军事上对美国表现良好时，这几乎等同于叛国，因为这种说法完全错误，甚至荒谬。伊朗海军原本拥有159艘舰船，现在每一艘都已经沉入海底。他们已经没有海军，空军也已不存在，所有技术能力都被摧毁，他们的“领导人”也不复存在，这个国家如今已陷入经济灾难。",
+          "url": "https://flash.jin10.com/detail/20260513042642770800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
         },
         {
           "title": "美国总统特朗普：我们的通胀是短期的，石油供应将大幅增加。",
@@ -129,6 +173,17 @@
           "time_info": "02时17分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：特朗普对霍尔木兹海峡很快会开放充满信心。",
+          "url": "https://flash.jin10.com/detail/20260513042116284800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
+        },
+        {
           "title": "美国总统特朗普：当下是美国的黄金时代。",
           "url": "https://flash.jin10.com/detail/20260513015655163800",
           "source": "金十数据",
@@ -143,17 +198,6 @@
           "title": "美国总统特朗普：在应对伊朗拖延问题上，我不会当“傻瓜”。",
           "url": "https://flash.jin10.com/detail/20260513015630781800",
           "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "特朗普即将到访 北京天坛公园安保进一步升级",
-          "url": "https://www.zaochenbao.com/news/politics/202605/1271573.html",
-          "source": "联合早报",
           "ranks": [
             18
           ],
@@ -215,23 +259,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
-        },
-        {
-          "title": "习特会前 美议员促特朗普推进140亿美元对台军售案",
-          "url": "https://www.zaochenbao.com/news/taiwan/202605/1271565.html",
-          "source": "联合早报",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "美国通胀超预期，美股低开，科技股普跌，英伟达股价续创新高，美伊僵局致布油涨3%",
@@ -241,8 +274,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时45分]"
         },
         {
           "title": "热门中概股美股盘前多数上涨，腾讯音乐涨超6%",
@@ -252,8 +285,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时45分]"
         },
         {
           "title": "美股大型科技股盘前普跌，英特尔跌超3%",
@@ -263,8 +296,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时45分]"
         },
         {
           "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
@@ -274,8 +307,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时45分]"
         },
         {
           "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
@@ -285,8 +318,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时45分]"
         },
         {
           "title": "美股异动｜拜耳涨3.5%，Q1调整后EBITDA远超预期",
@@ -296,8 +329,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时45分]"
         },
         {
           "title": "美股异动｜半导体股回调，高通大跌超8%，三倍做空半导体ETF-Direxion涨超9%",
@@ -307,14 +340,36 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时45分]"
+        },
+        {
+          "title": "金十图示：2026年05月12日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260513040531113800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时17分"
+          "time_info": "04时45分"
+        },
+        {
+          "title": "金十图示：2026年05月12日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260513040527279800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
         {
           "title": "据路透社：四位知情人士透露，沙特战争期间对伊朗进行了未公开的报复性打击。",
@@ -335,8 +390,52 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时45分]"
+        },
+        {
+          "title": "伊朗外交部：挪威副外长与伊朗外长举行会晤。",
+          "url": "https://flash.jin10.com/detail/20260513043157511800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时17分"
+          "time_info": "04时45分"
+        },
+        {
+          "title": "据伊朗地震部门消息，伊朗德黑兰省与马赞德兰省交界地区发生4.6级地震。",
+          "url": "https://flash.jin10.com/detail/20260513042911717800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
+        },
+        {
+          "title": "据伊朗学生通讯社：德黑兰佩尔迪斯地区发生3.4级地震，震源深度8公里。",
+          "url": "https://flash.jin10.com/detail/20260513042125514800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
+        },
+        {
+          "title": "据伊朗媒体：伊朗德黑兰发生地震。",
+          "url": "https://flash.jin10.com/detail/20260513042012097800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
         }
       ]
     }
