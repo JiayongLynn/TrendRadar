@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T14:56:59.390324+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-05-12T17:58:32.211470+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "美国总统特朗普将对中国进行国事访问",
@@ -100,6 +100,17 @@
           "time_info": "00时09分"
         },
         {
+          "title": "习特会前 美议员促特朗普推进140亿美元对台军售案",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/1271565.html",
+          "source": "联合早报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
           "title": "美国总统特朗普：伊朗的提议是个愚蠢的提议。",
           "url": "https://flash.jin10.com/detail/20260511233956871800",
           "source": "金十数据",
@@ -165,8 +176,20 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时56分 ~ 17时58分]"
+        },
+        {
+          "title": "学者：特朗普未必反台 但台湾也并非不可交易",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/1271545.html",
+          "source": "联合早报",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时56分 ~ 14时56分]"
+          "time_info": "[14时56分 ~ 17时58分]"
         },
         {
           "title": "多个团体就特朗普政府可能削减住房项目发出警告",
@@ -190,6 +213,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时56分 ~ 14时56分]"
+        },
+        {
+          "title": "特朗普：非常期待中国之行",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1271540.html",
+          "source": "联合早报",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 17时58分]"
         },
         {
           "title": "美国总统特朗普：我们需要更多关税。",
@@ -247,17 +282,6 @@
           "time_info": "11时56分"
         },
         {
-          "title": "学者：特朗普未必反台 但台湾也并非不可交易",
-          "url": "https://www.zaochenbao.com/news/taiwan/202605/1271545.html",
-          "source": "联合早报",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
           "title": "分析：特朗普暂停征收燃油税或每月损失数十亿美元税收",
           "url": "https://flash.jin10.com/detail/20260512062007324800",
           "source": "金十数据",
@@ -300,17 +324,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
-        },
-        {
-          "title": "特朗普：非常期待中国之行",
-          "url": "https://www.zaochenbao.com/news/politics/202605/1271540.html",
-          "source": "联合早报",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时56分"
         },
         {
           "title": "据路透社/益普索调查：特朗普支持率在触及任内最低水平后，从34%升至36%。",
@@ -415,19 +428,8 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
-        {
-          "title": "涉助伊朗售卖石油 美国制裁九家海外公司与三伊朗人士",
-          "url": "https://www.zaochenbao.com/news/politics/202605/1271552.html",
-          "source": "联合早报",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
         {
           "title": "据沙特阿拉比亚电视台：消息人士称，伊朗外长阿拉格齐将于本周前往印度新德里，参加5月14日至15日举行的金砖国家外长会议。",
           "url": "https://flash.jin10.com/detail/20260512023346751800",
@@ -462,6 +464,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时09分 ~ 07时03分]"
+        },
+        {
+          "title": "知情人士披露：美国或考虑恢复对伊朗军事行动",
+          "url": "https://www.cls.cn/detail/2368816",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 17时58分]"
+        },
+        {
+          "title": "涉助伊朗售卖石油 美国制裁九家海外公司与三伊朗人士",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1271552.html",
+          "source": "联合早报",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 17时58分]"
         },
         {
           "title": "伊朗议长：美国须接受伊朗方案所提伊朗人民权利",
@@ -581,20 +607,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
         {
-          "title": "知情人士披露：美国或考虑恢复对伊朗军事行动",
-          "url": "https://www.cls.cn/detail/2368816",
+          "title": "伊朗官员：若再次遭袭 伊方或选择将浓缩铀丰度提升至90%",
+          "url": "https://www.cls.cn/detail/2368941",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时56分"
+          "time_info": "17时58分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：我们为所有选项做好了准备，他们（美以）将大吃一惊。",
@@ -647,7 +673,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         }
@@ -655,7 +681,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "热门中概股美股盘前涨跌互现，理想汽车涨超4%",
@@ -695,11 +721,12 @@
           "url": "https://wallstreetcn.com/articles/3771942",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时03分 ~ 14时56分]"
+          "appearance_count": 4,
+          "time_info": "[07时03分 ~ 17时58分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 存储、光通信延续逼空行情",
@@ -732,9 +759,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 17时58分]"
+        },
+        {
+          "title": "美股正重演2000年泡沫破灭剧本？“大空头”再发警告：纳指100将迎重大逆转！",
+          "url": "https://www.cls.cn/detail/2368550",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时56分 ~ 17时58分]"
         },
         {
           "title": "美股芯片板块狂飙暗藏风险 散户此刻大举冲入引发担忧",
@@ -750,18 +789,6 @@
           "time_info": "[07时03分 ~ 14时56分]"
         },
         {
-          "title": "美股正重演2000年泡沫破灭剧本？“大空头”再发警告：纳指100将迎重大逆转！",
-          "url": "https://www.cls.cn/detail/2368550",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 14时56分]"
-        },
-        {
           "title": "金十图示：2026年05月11日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260512040533688800",
           "source": "金十数据",
@@ -771,6 +798,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 05时26分]"
+        },
+        {
+          "title": "财报公布后，京东(JD.O)美股盘前短线走高，现涨3.5%。",
+          "url": "https://flash.jin10.com/detail/20260512175009044800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "腾讯音乐(TME.N)美股盘前一度大涨11.7%，此前中国市监总局附条件批准该公司收购喜马拉雅股权案。",
+          "url": "https://flash.jin10.com/detail/20260512174854000800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "美股异动丨HLIT盘前大涨13.8% Q1业绩超预期并上调全年指引",
+          "url": "https://www.gelonghui.com/news/5231908",
+          "source": "格隆汇",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "腾讯音乐(TME.N)美股盘前走高，现涨超10%；财报显示2026年腾讯音乐第一季度营收79亿元，同比增长7.3%。",
+          "url": "https://flash.jin10.com/detail/20260512174456014800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         }
       ]
     },
@@ -880,7 +951,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         }
