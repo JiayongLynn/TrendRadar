@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-05-13T06:28:45.455962+08:00",
-  "total_titles_processed": 170,
+  "generated_at": "2026-05-13T08:09:21.164756+08:00",
+  "total_titles_processed": 237,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 33,
       "titles": [
         {
           "title": "马斯克库克随特朗普访华",
           "url": "https://www.cls.cn/detail/2369414",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 06时28分]"
+          "appearance_count": 4,
+          "time_info": "[02时17分 ~ 08时09分]"
         },
         {
           "title": "黄仁勋据报未随特朗普访华 分析：英伟达晶片难有大订单",
           "url": "https://www.zaochenbao.com/news/politics/202605/1271589.html",
           "source": "联合早报",
           "ranks": [
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 06时28分]"
+          "appearance_count": 4,
+          "time_info": "[02时17分 ~ 08时09分]"
         },
         {
           "title": "美国总统特朗普：与俄罗斯总统普京没有达成共识，俄罗斯不应获得顿巴斯地区。",
@@ -41,6 +43,17 @@
           "time_info": "02时17分"
         },
         {
+          "title": "特朗普访华前夕 美财长访日给高市派定心丸",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1371595.html",
+          "source": "联合早报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
           "title": "美国总统特朗普：北约令我失望，我们不需要它的帮助。",
           "url": "https://flash.jin10.com/detail/20260513020427789800",
           "source": "金十数据",
@@ -50,6 +63,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "杨丹旭：特朗普访华的面子与里子",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1371594.html",
+          "source": "联合早报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
         },
         {
           "title": "美国总统特朗普：伊朗要么做正确的事，要么我们来完成这项工作。",
@@ -63,6 +87,28 @@
           "time_info": "02时17分"
         },
         {
+          "title": "【早报】马斯克、库克等将随特朗普访华；国内航线燃油附加费将上调",
+          "url": "https://www.cls.cn/detail/2369623",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
+          "title": "特朗普：古巴正在寻求帮助 双方将进行对话",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1371592.html",
+          "source": "联合早报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
           "title": "美国总统特朗普：俄乌冲突将很快结束。",
           "url": "https://flash.jin10.com/detail/20260513020138230800",
           "source": "金十数据",
@@ -74,6 +120,30 @@
           "time_info": "02时17分"
         },
         {
+          "title": "习特会前 美议员促特朗普推进140亿美元对台军售案",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/1271565.html",
+          "source": "联合早报",
+          "ranks": [
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时17分 ~ 08时09分]"
+        },
+        {
+          "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华，黄仁勋缺席",
+          "url": "https://wallstreetcn.com/articles/3772030",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时45分 ~ 08时09分]"
+        },
+        {
           "title": "特朗普即将到访 北京天坛公园安保进一步升级",
           "url": "https://www.zaochenbao.com/news/politics/202605/1271573.html",
           "source": "联合早报",
@@ -83,28 +153,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时17分 ~ 06时28分]"
-        },
-        {
-          "title": "习特会前 美议员促特朗普推进140亿美元对台军售案",
-          "url": "https://www.zaochenbao.com/news/taiwan/202605/1271565.html",
-          "source": "联合早报",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 06时28分]"
-        },
-        {
-          "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华，黄仁勋缺席",
-          "url": "https://wallstreetcn.com/articles/3772030",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时45分 ~ 06时28分]"
         },
         {
           "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
@@ -124,7 +172,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -179,7 +227,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -272,6 +320,17 @@
           "time_info": "02时17分"
         },
         {
+          "title": "美国总统特朗普在社交媒体上发布了一张图片，显示委内瑞拉成为美国第51个州。",
+          "url": "https://flash.jin10.com/detail/20260513065722063800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
           "title": "美国总统特朗普：将拭目以待与伊朗停火的事态发展。",
           "url": "https://flash.jin10.com/detail/20260513015448125800",
           "source": "金十数据",
@@ -283,13 +342,24 @@
           "time_info": "02时17分"
         },
         {
+          "title": "据AXIOS记者：美国众议院交通委员会主席萨姆·格雷夫斯在被问及特朗普提出的暂停征收燃油税方案时表示：“我认为这只是一个短期解决方案。”",
+          "url": "https://flash.jin10.com/detail/20260513064533429800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
           "title": "美国上诉法院暂缓对特朗普10%全球关税的不利裁决",
           "url": "https://flash.jin10.com/detail/20260513045304475800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -300,7 +370,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         }
@@ -308,7 +378,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "热门中概股美股盘前多数上涨，腾讯音乐涨超6%",
@@ -355,6 +425,29 @@
           "time_info": "[02时17分 ~ 04时45分]"
         },
         {
+          "title": "美国通胀升温、美伊僵局持续，美股承压，芯片股拖累纳指，美油盘中涨近5%",
+          "url": "https://wallstreetcn.com/articles/3772040",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
+          "title": "美股收盘： 通胀升温及伊朗局势施压市场 芯片股普遍回调 三大股指涨跌不一",
+          "url": "https://www.cls.cn/detail/2369590",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 08时09分]"
+        },
+        {
           "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
           "url": "https://wallstreetcn.com/articles/3772023",
           "source": "华尔街见闻",
@@ -388,15 +481,26 @@
           "time_info": "[02时17分 ~ 06时28分]"
         },
         {
-          "title": "美股收盘： 通胀升温及伊朗局势施压市场 芯片股普遍回调 三大股指涨跌不一",
-          "url": "https://www.cls.cn/detail/2369590",
-          "source": "财联社热门",
+          "title": "美股三大指数涨跌不一，芯片、半导体与光通信板块回调，中概指数跌0.82%",
+          "url": "https://www.gelonghui.com/news/5232423",
+          "source": "格隆汇",
           "ranks": [
-            11
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时28分"
+          "time_info": "08时09分"
+        },
+        {
+          "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
+          "url": "https://wallstreetcn.com/articles/3772105",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
         },
         {
           "title": "金十图示：2026年05月12日（周二）美股热门股票行情一览（美股收盘）",
@@ -424,7 +528,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "据路透社：四位知情人士透露，沙特战争期间对伊朗进行了未公开的报复性打击。",
@@ -436,6 +540,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "传阿联酋上月攻打伊朗 愿动用军力保护自身利益",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1371591.html",
+          "source": "联合早报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
         },
         {
           "title": "伊朗官员：若再次遭袭 伊方或选择将浓缩铀丰度提升至90%",
@@ -493,15 +608,76 @@
           "time_info": "04时45分"
         },
         {
+          "title": "伊朗副总统否认哈尔克岛石油设施漏油",
+          "url": "https://flash.jin10.com/detail/20260513072333209800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
           "title": "伊朗方面报道称，伊朗德黑兰再次发生地震。",
           "url": "https://flash.jin10.com/detail/20260513050007665800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "沙特也被曝曾对伊朗本土发动报复打击：海湾暗战浮出水面",
+          "url": "https://flash.jin10.com/detail/20260513065137238800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
+          "title": "科威特指伊朗“武装渗透”布比延岛 伊朗说巡逻船“导航故障”",
+          "url": "https://flash.jin10.com/detail/20260513063429108800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI奥特曼称马斯克曾支持营利计划，否认背叛指控",
+          "url": "https://www.36kr.com/newsflashes/3806915175702019",
+          "source": "36氪",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
+          "title": "微软在OpenAI上130亿美元的投资，已收回超过两倍的营收回报",
+          "url": "https://www.36kr.com/newsflashes/3806914683952648",
+          "source": "36氪",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
         }
       ]
     },
@@ -516,7 +692,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         }
@@ -533,7 +709,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         }
