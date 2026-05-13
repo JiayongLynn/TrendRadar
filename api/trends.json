@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T18:50:14.703244+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-05-13T21:32:21.281910+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 53,
       "titles": [
         {
           "title": "马斯克库克随特朗普访华",
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时56分 ~ 18时50分]"
+          "appearance_count": 3,
+          "time_info": "[15时56分 ~ 21时32分]"
         },
         {
           "title": "黄仁勋据报未随特朗普访华 分析：英伟达晶片难有大订单",
@@ -78,6 +78,17 @@
           "time_info": "08时09分"
         },
         {
+          "title": "泽连斯基希望特朗普与中国讨论结束俄乌战争",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1371651.html",
+          "source": "联合早报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "美国总统特朗普：北约令我失望，我们不需要它的帮助。",
           "url": "https://flash.jin10.com/detail/20260513020427789800",
           "source": "金十数据",
@@ -98,6 +109,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "外交部：中方欢迎特朗普总统对中国进行国事访问",
+          "url": "https://www.cls.cn/detail/2370077",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时56分 ~ 21时32分]"
         },
         {
           "title": "美国总统特朗普：伊朗要么做正确的事，要么我们来完成这项工作。",
@@ -122,17 +145,6 @@
           "time_info": "08时09分"
         },
         {
-          "title": "中国外交部：欢迎特朗普对中国进行国事访问",
-          "url": "https://www.zaochenbao.com/news/politics/202605/1371635.html",
-          "source": "联合早报",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时50分"
-        },
-        {
           "title": "美国总统特朗普：俄乌冲突将很快结束。",
           "url": "https://flash.jin10.com/detail/20260513020138230800",
           "source": "金十数据",
@@ -142,6 +154,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "美国总统特朗普抵达北京",
+          "url": "https://www.cls.cn/detail/2370433",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "美国总统特朗普抵达北京",
+          "url": "https://wallstreetcn.com/articles/3772194",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "特朗普称无须中国相助 美国终将战胜伊朗",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1371647.html",
+          "source": "联合早报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "启程访华！特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国，是我的荣幸",
+          "url": "https://wallstreetcn.com/articles/3772164",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 21时32分]"
         },
         {
           "title": "特朗普称他将要求习近平开放中国市场",
@@ -157,16 +214,16 @@
           "time_info": "[12时55分 ~ 18时50分]"
         },
         {
-          "title": "外交部：中方欢迎特朗普总统对中国进行国事访问",
-          "url": "https://www.cls.cn/detail/2370077",
-          "source": "财联社热门",
+          "title": "中国外交部：欢迎特朗普对中国进行国事访问",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1371635.html",
+          "source": "联合早报",
           "ranks": [
-            12,
-            1
+            4,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时56分 ~ 18时50分]"
+          "time_info": "[18时50分 ~ 21时32分]"
         },
         {
           "title": "习特会前 美议员促特朗普推进140亿美元对台军售案",
@@ -230,37 +287,49 @@
           "time_info": "[02时17分 ~ 06时28分]"
         },
         {
-          "title": "启程访华！特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国，是我的荣幸",
-          "url": "https://wallstreetcn.com/articles/3772164",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时50分"
-        },
-        {
           "title": "最后一刻临时追加！黄仁勋加入特朗普访华代表团",
           "url": "https://wallstreetcn.com/articles/3772146",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 21时32分]"
         },
         {
           "title": "话题“特朗普访华”登微博热搜第一",
           "url": "https://www.zaochenbao.com/news/politics/202605/1371631.html",
           "source": "联合早报",
           "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 21时32分]"
+        },
+        {
+          "title": "特朗普飞抵北京开始对华国事访问 韩正谢锋马兆旭等迎接",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1371645.html",
+          "source": "联合早报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "鲁比奥随特朗普访华 中国或已取消制裁",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1371644.html",
+          "source": "联合早报",
+          "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时50分"
+          "time_info": "21时32分"
         },
         {
           "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
@@ -305,6 +374,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
+        },
+        {
+          "title": "郑丽文：如特朗普在北京表明反台独 完全合乎国民党立场",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/1371641.html",
+          "source": "联合早报",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "美国总统特朗普将抵达北京",
+          "url": "https://www.cls.cn/detail/2370400",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "美国总统特朗普：我们的通胀是短期的，石油供应将大幅增加。",
@@ -519,7 +610,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "美国通胀升温、美伊僵局持续，美股承压，芯片股拖累纳指，美油盘中涨近5%",
@@ -531,8 +622,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时09分 ~ 18时50分]"
+          "appearance_count": 5,
+          "time_info": "[08时09分 ~ 21时32分]"
+        },
+        {
+          "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
+          "url": "https://wallstreetcn.com/articles/3772105",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时09分 ~ 21时32分]"
         },
         {
           "title": "热门中概股美股盘前多数上涨，腾讯音乐涨超6%",
@@ -568,19 +672,6 @@
           "time_info": "[02时17分 ~ 06时28分]"
         },
         {
-          "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
-          "url": "https://wallstreetcn.com/articles/3772105",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时09分 ~ 18时50分]"
-        },
-        {
           "title": "美国通胀超预期，美股低开，科技股普跌，英伟达股价续创新高，美伊僵局致布油涨3%",
           "url": "https://wallstreetcn.com/articles/3772040",
           "source": "华尔街见闻",
@@ -603,6 +694,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时28分 ~ 12时55分]"
+        },
+        {
+          "title": "热门中概股美股盘前多数下跌，阿里巴巴跌超3%",
+          "url": "https://www.36kr.com/newsflashes/3807724480142854",
+          "source": "36氪",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "美股大型科技股盘前涨跌不一，美光科技涨超4%",
+          "url": "https://www.36kr.com/newsflashes/3807719301242373",
+          "source": "36氪",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
@@ -672,6 +785,17 @@
           "time_info": "08时09分"
         },
         {
+          "title": "美股异动丨Quantum Cyber盘前暴涨超78%，获无人机技术独家授权协议",
+          "url": "https://www.gelonghui.com/news/5233043",
+          "source": "格隆汇",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "金十图示：2026年05月12日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260513040531113800",
           "source": "金十数据",
@@ -700,7 +824,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         }
@@ -751,11 +875,12 @@
           "ranks": [
             22,
             25,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 18时50分]"
+          "appearance_count": 4,
+          "time_info": "[12时55分 ~ 21时32分]"
         },
         {
           "title": "伊朗官员：若再次遭袭 伊方或选择将浓缩铀丰度提升至90%",
@@ -948,7 +1073,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         },
