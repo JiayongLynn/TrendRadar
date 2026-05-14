@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T18:28:47.254547+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2026-05-14T20:59:37.601277+08:00",
+  "total_titles_processed": 566,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 44,
       "titles": [
         {
           "title": "美国总统特朗普抵达北京",
@@ -48,22 +48,24 @@
           "url": "https://www.cls.cn/detail/2371097",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时49分 ~ 18时28分]"
+          "appearance_count": 3,
+          "time_info": "[15时49分 ~ 20时59分]"
         },
         {
           "title": "习近平同特朗普举行会谈：中美应当做伙伴而不是对手，让2026年成为中美关系继往开来的历史性、标志性年份",
           "url": "https://wallstreetcn.com/articles/3772243",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时49分 ~ 18时28分]"
+          "appearance_count": 3,
+          "time_info": "[15时49分 ~ 20时59分]"
         },
         {
           "title": "“八年贸易战”后特朗普再访华：打破旧平衡，还是重构新底线？",
@@ -97,6 +99,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "图讯丨习近平同美国总统特朗普参观天坛",
+          "url": "https://www.cls.cn/detail/2371151",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时49分 ~ 20时59分]"
         },
         {
           "title": "逾百人围观 特朗普车队抵达北京四季酒店",
@@ -226,16 +241,29 @@
           "time_info": "[00时41分 ~ 05时42分]"
         },
         {
-          "title": "图讯丨习近平同美国总统特朗普参观天坛",
-          "url": "https://www.cls.cn/detail/2371151",
-          "source": "财联社热门",
+          "title": "台媒：特朗普是习特会台湾议题最大变数",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/1471707.html",
+          "source": "联合早报",
           "ranks": [
-            12,
-            7
+            15,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时49分 ~ 20时59分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普会谈",
+          "url": "https://wallstreetcn.com/articles/3772261",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时49分 ~ 18时28分]"
+          "time_info": "[18时28分 ~ 20时59分]"
         },
         {
           "title": "【图集】习近平同特朗普参观天坛",
@@ -244,18 +272,6 @@
           "ranks": [
             10,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时49分 ~ 18时28分]"
-        },
-        {
-          "title": "台媒：特朗普是习特会台湾议题最大变数",
-          "url": "https://www.zaochenbao.com/news/taiwan/202605/1471707.html",
-          "source": "联合早报",
-          "ranks": [
-            15,
-            27
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -279,9 +295,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
+        },
+        {
+          "title": "黄仁勋称是特朗普邀他随行访华",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1471751.html",
+          "source": "联合早报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "特朗普：中美之间的关系将会是有史以来最好的",
@@ -293,17 +320,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
-        },
-        {
-          "title": "习近平同美国总统特朗普会谈",
-          "url": "https://wallstreetcn.com/articles/3772261",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
         },
         {
           "title": "特朗普称赞习近平是一位伟大的领导人",
@@ -334,9 +350,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
+        },
+        {
+          "title": "特朗普邀请习近平9月24日访美",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1471749.html",
+          "source": "联合早报",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "随特朗普访华商界高管总财富超1.07万亿美元",
@@ -345,7 +372,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -372,15 +399,37 @@
           "time_info": "15时49分"
         },
         {
+          "title": "习近平为特朗普举行欢迎宴会",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1471747.html",
+          "source": "联合早报",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-14）",
           "url": "https://flash.jin10.com/detail/20260514181021321800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
+        },
+        {
+          "title": "高清大图｜习近平为美国总统特朗普举行欢迎仪式",
+          "url": "https://www.cls.cn/detail/2371032",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "习近平举行仪式欢迎特朗普访华",
@@ -462,8 +511,203 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "美国副总统万斯：（关于伊朗谈判）我们正在取得进展。",
+          "url": "https://flash.jin10.com/detail/20260514025417529800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "伊朗战争、贸易、台湾：“习特会”将谈些什么？",
+          "url": "https://www.zaochenbao.com/news/china/202605/1471697.html",
+          "source": "联合早报",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "美媒：中企拟借道第三国向伊朗转运武器",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1471754.html",
+          "source": "联合早报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "金砖国家外长会议 伊朗与阿联酋针锋相对",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1471753.html",
+          "source": "联合早报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "惠誉：预计英国石油(BP.N)将于2026年底实现其140亿至180亿美元净债务目标区间的下限。伊朗战争对英国石油的运营影响有限，但预计其信用状况将受到正面影响，原因是油气价格上涨。",
+          "url": "https://flash.jin10.com/detail/20260514045739756800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时42分 ~ 07时14分]"
+        },
+        {
+          "title": "阿安·苏里亚纳：为何并非所有印尼回教徒都支持伊朗",
+          "url": "https://www.zaochenbao.com/news/opinion/202605/1471669.html",
+          "source": "联合早报",
+          "ranks": [
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 15时49分]"
+        },
+        {
+          "title": "接近国际货币基金组织（IMF）的消息人士称，由于伊朗战争，伊拉克已向IMF寻求财政援助。",
+          "url": "https://flash.jin10.com/detail/20260514204622472800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "美国副总统万斯：我们正在积极进行外交努力，以确保伊朗不拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260514024226850800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "美国副总统万斯：如果伊朗获得核武器，将会引发核军备竞赛，多个国家将会寻求获得核武器。",
+          "url": "https://flash.jin10.com/detail/20260514024152051800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "据以色列第12频道：内塔尼亚胡正在召开安全会议，讨论包括黎巴嫩和伊朗在内的议题。",
+          "url": "https://flash.jin10.com/detail/20260514024024403800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "伊朗战争导致美国更依赖中国稀土",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1471692.html",
+          "source": "联合早报",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "以色列国防部长卡茨：必须确保伊朗不会对以色列的生存构成威胁。",
+          "url": "https://flash.jin10.com/detail/20260514204220811800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "伊朗海军上将西亚里：美国在伊朗战争中的失败将载入史册。",
+          "url": "https://flash.jin10.com/detail/20260514000152843800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        },
+        {
+          "title": "白宫官员：中美双方同意伊朗绝不能拥有核武器",
+          "url": "https://www.zaochenbao.com/news/china/202605/1471740.html",
+          "source": "联合早报",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：任何与以色列勾连、试图制造分裂的人，都将被追究责任。",
+          "url": "https://flash.jin10.com/detail/20260514042124677800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗外长阿拉格齐抵达印度，参加5月14日至15日举行的金砖国家外长会议。",
+          "url": "https://flash.jin10.com/detail/20260513235916362800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        },
+        {
+          "title": "土耳其央行行长：伊朗战争带来的通胀影响在短期内将十分明显，我们将监测次级影响。",
+          "url": "https://flash.jin10.com/detail/20260514153306170800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "热门中概股美股盘前多数下跌，阿里巴巴跌超3%",
@@ -523,6 +767,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时41分 ~ 07时14分]"
+        },
+        {
+          "title": "美股盘前要点 | 中美关系新定位！美联储将开启“沃什时代”，思科盘前大涨超15%",
+          "url": "https://www.gelonghui.com/news/5233816",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "美股三大指数收盘涨跌不一，热门中概股普涨",
@@ -602,146 +857,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "美国副总统万斯：（关于伊朗谈判）我们正在取得进展。",
-          "url": "https://flash.jin10.com/detail/20260514025417529800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "伊朗战争、贸易、台湾：“习特会”将谈些什么？",
-          "url": "https://www.zaochenbao.com/news/china/202605/1471697.html",
-          "source": "联合早报",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "惠誉：预计英国石油(BP.N)将于2026年底实现其140亿至180亿美元净债务目标区间的下限。伊朗战争对英国石油的运营影响有限，但预计其信用状况将受到正面影响，原因是油气价格上涨。",
-          "url": "https://flash.jin10.com/detail/20260514045739756800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 07时14分]"
-        },
-        {
-          "title": "阿安·苏里亚纳：为何并非所有印尼回教徒都支持伊朗",
-          "url": "https://www.zaochenbao.com/news/opinion/202605/1471669.html",
-          "source": "联合早报",
-          "ranks": [
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 15时49分]"
-        },
-        {
-          "title": "美国副总统万斯：我们正在积极进行外交努力，以确保伊朗不拥有核武器。",
-          "url": "https://flash.jin10.com/detail/20260514024226850800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "美国副总统万斯：如果伊朗获得核武器，将会引发核军备竞赛，多个国家将会寻求获得核武器。",
-          "url": "https://flash.jin10.com/detail/20260514024152051800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "据以色列第12频道：内塔尼亚胡正在召开安全会议，讨论包括黎巴嫩和伊朗在内的议题。",
-          "url": "https://flash.jin10.com/detail/20260514024024403800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "伊朗战争导致美国更依赖中国稀土",
-          "url": "https://www.zaochenbao.com/news/politics/202605/1471692.html",
-          "source": "联合早报",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "伊朗海军上将西亚里：美国在伊朗战争中的失败将载入史册。",
-          "url": "https://flash.jin10.com/detail/20260514000152843800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：任何与以色列勾连、试图制造分裂的人，都将被追究责任。",
-          "url": "https://flash.jin10.com/detail/20260514042124677800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时42分"
-        },
-        {
-          "title": "据伊朗媒体Fars News：伊朗外长阿拉格齐抵达印度，参加5月14日至15日举行的金砖国家外长会议。",
-          "url": "https://flash.jin10.com/detail/20260513235916362800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "土耳其央行行长：伊朗战争带来的通胀影响在短期内将十分明显，我们将监测次级影响。",
-          "url": "https://flash.jin10.com/detail/20260514153306170800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时49分"
         }
       ]
     },
@@ -827,11 +942,12 @@
           "url": "https://wallstreetcn.com/articles/3772216",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 20时59分]"
         }
       ]
     },
