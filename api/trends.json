@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-05-14T07:14:09.135064+08:00",
-  "total_titles_processed": 205,
+  "generated_at": "2026-05-14T12:03:51.700808+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "启程访华！特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国，是我的荣幸",
+          "url": "https://wallstreetcn.com/articles/3772164",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 12时03分]"
+        },
+        {
+          "title": "美国总统特朗普抵达北京",
+          "url": "https://wallstreetcn.com/articles/3772194",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 12时03分]"
+        },
         {
           "title": "美国总统特朗普抵达北京",
           "url": "https://www.cls.cn/detail/2370433",
@@ -19,27 +44,26 @@
           "time_info": "[00时41分 ~ 07时14分]"
         },
         {
-          "title": "启程访华！特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国，是我的荣幸",
-          "url": "https://wallstreetcn.com/articles/3772164",
-          "source": "华尔街见闻",
+          "title": "特朗普时隔九年再度访华，中国年轻一代的“美国梦”在褪色吗？",
+          "url": "https://www.zaochenbao.com/news/china/202605/1471700.html",
+          "source": "联合早报",
           "ranks": [
             1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 07时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
-          "title": "美国总统特朗普抵达北京",
-          "url": "https://wallstreetcn.com/articles/3772194",
-          "source": "华尔街见闻",
+          "title": "“八年贸易战”后特朗普再访华：打破旧平衡，还是重构新底线？",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1471698.html",
+          "source": "联合早报",
           "ranks": [
-            3,
-            2
+            3
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 07时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "美国副总统万斯：特朗普总统的核心目标是让世界和美国人民免受伊朗拥有核武器的威胁。",
@@ -53,6 +77,17 @@
           "time_info": "03时02分"
         },
         {
+          "title": "16位商界领袖将陪同特朗普访华，他们是谁？",
+          "url": "https://www.zaochenbao.com/news/china/202605/1471696.html",
+          "source": "联合早报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
           "title": "逾百人围观 特朗普车队抵达北京四季酒店",
           "url": "https://www.zaochenbao.com/news/politics/202605/1371655.html",
           "source": "联合早报",
@@ -62,6 +97,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时41分 ~ 07时14分]"
+        },
+        {
+          "title": "【早报】特朗普抵达北京；中国巨石、恩捷股份公布扩产计划",
+          "url": "https://www.cls.cn/detail/2370716",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时14分 ~ 12时03分]"
         },
         {
           "title": "最后一刻临时追加！黄仁勋加入特朗普访华代表团",
@@ -155,26 +202,92 @@
           "time_info": "03时02分"
         },
         {
+          "title": "特朗普：中美之间的关系将会是有史以来最好的",
+          "url": "https://flash.jin10.com/detail/20260514113438045800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "特朗普称赞习近平是一位伟大的领导人",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1471693.html",
+          "source": "联合早报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
           "title": "据华尔街日报：作为特朗普削减驻军计划一部分，美国国防部取消了一个装甲旅赴欧洲的部署。此举令部分军方官员感到意外，外界原本预期美方会采取一种循序渐进的方式调整其在欧洲的部署。",
           "url": "https://flash.jin10.com/detail/20260514064701622800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
         {
-          "title": "【早报】特朗普抵达北京；中国巨石、恩捷股份公布扩产计划",
-          "url": "https://www.cls.cn/detail/2370716",
-          "source": "财联社热门",
+          "title": "习近平同特朗普举行会谈",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1471690.html",
+          "source": "联合早报",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "习近平举行仪式欢迎特朗普访华",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1471689.html",
+          "source": "联合早报",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时14分"
+          "time_info": "12时03分"
+        },
+        {
+          "title": "特朗普出发前往北京人民大会堂",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1471687.html",
+          "source": "联合早报",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "习近平同美国总统特朗普举行会谈",
+          "url": "https://www.36kr.com/newsflashes/3808513421860360",
+          "source": "36氪",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "最后期限已过 美参院仍支持特朗普对伊朗开战",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1471683.html",
+          "source": "联合早报",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         }
       ]
     },
@@ -219,6 +332,17 @@
           "time_info": "[00时41分 ~ 07时14分]"
         },
         {
+          "title": "美股收盘：纳指、标普指数再创新高 中概股与芯片股强势反弹",
+          "url": "https://www.cls.cn/detail/2370687",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时14分 ~ 12时03分]"
+        },
+        {
           "title": "美股首只纯存储ETF，刷新华尔街史上最快规模增长纪录",
           "url": "https://www.cls.cn/detail/2370478",
           "source": "财联社热门",
@@ -231,24 +355,13 @@
           "time_info": "[00时41分 ~ 07时14分]"
         },
         {
-          "title": "美股收盘：纳指、标普指数再创新高 中概股与芯片股强势反弹",
-          "url": "https://www.cls.cn/detail/2370687",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
           "title": "美股三大指数收盘涨跌不一，热门中概股普涨",
           "url": "https://www.36kr.com/newsflashes/3808308649041670",
           "source": "36氪",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -259,7 +372,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -313,7 +426,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "美国副总统万斯：（关于伊朗谈判）我们正在取得进展。",
@@ -325,6 +438,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "伊朗战争、贸易、台湾：“习特会”将谈些什么？",
+          "url": "https://www.zaochenbao.com/news/china/202605/1471697.html",
+          "source": "联合早报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "惠誉：预计英国石油(BP.N)将于2026年底实现其140亿至180亿美元净债务目标区间的下限。伊朗战争对英国石油的运营影响有限，但预计其信用状况将受到正面影响，原因是油气价格上涨。",
@@ -372,6 +496,17 @@
           "time_info": "03时02分"
         },
         {
+          "title": "伊朗战争导致美国更依赖中国稀土",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1471692.html",
+          "source": "联合早报",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
           "title": "伊朗海军上将西亚里：美国在伊朗战争中的失败将载入史册。",
           "url": "https://flash.jin10.com/detail/20260514000152843800",
           "source": "金十数据",
@@ -403,6 +538,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "阿安·苏里亚纳：为何并非所有印尼回教徒都支持伊朗",
+          "url": "https://www.zaochenbao.com/news/opinion/202605/1471669.html",
+          "source": "联合早报",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         }
       ]
     },
@@ -445,9 +591,26 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美通胀大超预期，金价何时才能复苏？",
+          "url": "https://flash.jin10.com/detail/20260514113435243800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         }
       ]
     },
