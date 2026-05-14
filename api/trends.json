@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-05-14T12:03:51.700808+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-05-14T15:49:47.686151+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 35,
       "titles": [
-        {
-          "title": "启程访华！特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国，是我的荣幸",
-          "url": "https://wallstreetcn.com/articles/3772164",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 12时03分]"
-        },
         {
           "title": "美国总统特朗普抵达北京",
           "url": "https://wallstreetcn.com/articles/3772194",
@@ -27,6 +15,18 @@
             3,
             2,
             1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 15时49分]"
+        },
+        {
+          "title": "启程访华！特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国，是我的荣幸",
+          "url": "https://wallstreetcn.com/articles/3772164",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -44,24 +44,13 @@
           "time_info": "[00时41分 ~ 07时14分]"
         },
         {
-          "title": "特朗普时隔九年再度访华，中国年轻一代的“美国梦”在褪色吗？",
-          "url": "https://www.zaochenbao.com/news/china/202605/1471700.html",
-          "source": "联合早报",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
           "title": "“八年贸易战”后特朗普再访华：打破旧平衡，还是重构新底线？",
           "url": "https://www.zaochenbao.com/news/politics/202605/1471698.html",
           "source": "联合早报",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -77,15 +66,48 @@
           "time_info": "03时02分"
         },
         {
+          "title": "习近平同美国总统特朗普会谈",
+          "url": "https://www.cls.cn/detail/2371097",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
+          "title": "习近平同特朗普举行会谈：中美应当做伙伴而不是对手，让2026年成为中美关系继往开来的历史性、标志性年份",
+          "url": "https://wallstreetcn.com/articles/3772243",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
           "title": "16位商界领袖将陪同特朗普访华，他们是谁？",
           "url": "https://www.zaochenbao.com/news/china/202605/1471696.html",
           "source": "联合早报",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "特朗普要在机场附近建凯旋门 FAA启动风险评估",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1471717.html",
+          "source": "联合早报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "逾百人围观 特朗普车队抵达北京四季酒店",
@@ -109,6 +131,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时14分 ~ 12时03分]"
+        },
+        {
+          "title": "特朗普时隔九年再度访华，中国年轻一代的“美国梦”在褪色吗？",
+          "url": "https://www.zaochenbao.com/news/china/202605/1471700.html",
+          "source": "联合早报",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 15时49分]"
         },
         {
           "title": "最后一刻临时追加！黄仁勋加入特朗普访华代表团",
@@ -208,7 +242,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -219,7 +253,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -235,15 +269,48 @@
           "time_info": "07时14分"
         },
         {
+          "title": "【图集】习近平同特朗普参观天坛",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1471712.html",
+          "source": "联合早报",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
           "title": "习近平同特朗普举行会谈",
           "url": "https://www.zaochenbao.com/news/politics/202605/1471690.html",
           "source": "联合早报",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "【视频】特朗普乘车抵达天坛",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1471711.html",
+          "source": "联合早报",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
+          "title": "图讯丨习近平同美国总统特朗普参观天坛",
+          "url": "https://www.cls.cn/detail/2371151",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "习近平举行仪式欢迎特朗普访华",
@@ -252,9 +319,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "习近平会见随同特朗普访华的美国企业家",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1471710.html",
+          "source": "联合早报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "特朗普出发前往北京人民大会堂",
@@ -263,9 +341,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "台媒：特朗普是习特会台湾议题最大变数",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/1471707.html",
+          "source": "联合早报",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "习近平同美国总统特朗普举行会谈",
@@ -274,7 +363,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -285,15 +374,37 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "【视频】中国为特朗普举行欢迎仪式 习特会登场",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1471702.html",
+          "source": "联合早报",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
+          "title": "特朗普对华雄心为何大幅缩水",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1471701.html",
+          "source": "联合早报",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "热门中概股美股盘前多数下跌，阿里巴巴跌超3%",
@@ -412,6 +523,17 @@
           "time_info": "[00时41分 ~ 03时02分]"
         },
         {
+          "title": "英伟达美股夜盘短线拉升",
+          "url": "https://www.36kr.com/newsflashes/3808721918926593",
+          "source": "36氪",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
           "title": "思科(CSCO.O)美股盘后上涨超7%。",
           "url": "https://flash.jin10.com/detail/20260514040733737800",
           "source": "金十数据",
@@ -426,7 +548,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美国副总统万斯：（关于伊朗谈判）我们正在取得进展。",
@@ -446,7 +568,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -461,6 +583,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 07时14分]"
+        },
+        {
+          "title": "阿安·苏里亚纳：为何并非所有印尼回教徒都支持伊朗",
+          "url": "https://www.zaochenbao.com/news/opinion/202605/1471669.html",
+          "source": "联合早报",
+          "ranks": [
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 15时49分]"
         },
         {
           "title": "美国副总统万斯：我们正在积极进行外交努力，以确保伊朗不拥有核武器。",
@@ -502,7 +636,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -540,21 +674,21 @@
           "time_info": "00时41分"
         },
         {
-          "title": "阿安·苏里亚纳：为何并非所有印尼回教徒都支持伊朗",
-          "url": "https://www.zaochenbao.com/news/opinion/202605/1471669.html",
-          "source": "联合早报",
+          "title": "土耳其央行行长：伊朗战争带来的通胀影响在短期内将十分明显，我们将监测次级影响。",
+          "url": "https://flash.jin10.com/detail/20260514153306170800",
+          "source": "金十数据",
           "ranks": [
-            25
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时03分"
+          "time_info": "15时49分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "微软寻求收购AI公司以摆脱对OpenAI依赖",
@@ -566,6 +700,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "OpenAI回应TanStack供应链攻击：未发现用户数据泄露",
+          "url": "https://www.36kr.com/newsflashes/3808728068152832",
+          "source": "36氪",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "消息人士：微软正探索与人工智能初创公司达成交易，以为“后OpenAI时代”做准备。微软曾考虑收购Cursor，但因反垄断担忧而放弃。微软已与人工智能初创公司Inception讨论交易事宜。Inception已聘请一家银行，就至少10亿美元的交易进行谈判。",
@@ -608,7 +753,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         }
