@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T12:56:44.965568+08:00",
-  "total_titles_processed": 333,
+  "generated_at": "2026-05-15T19:26:58.738863+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 48,
       "titles": [
         {
           "title": "习近平同美国总统特朗普会谈",
@@ -56,6 +56,18 @@
           "time_info": "[02时02分 ~ 08时03分]"
         },
         {
+          "title": "特朗普Q1交易：大幅减持亚马逊、Meta和微软，买入英伟达、博通和苹果，抄底甲骨文、Adobe等软件股",
+          "url": "https://wallstreetcn.com/articles/3772311",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时56分 ~ 19时26分]"
+        },
+        {
           "title": "韩咏红：特朗普访华一次峰会两套表述",
           "url": "https://www.zaochenbao.com/news/politics/202605/1571768.html",
           "source": "联合早报",
@@ -73,7 +85,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         },
@@ -87,6 +99,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "习近平同美国总统特朗普在中南海小范围会晤",
+          "url": "https://wallstreetcn.com/articles/3772334",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
+          "title": "特朗普称中方同意购买200架波音飞机，外交部：中美经贸关系本质是互利共赢",
+          "url": "https://www.cls.cn/detail/2372433",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "北京烤鸭招待 国宴播放特朗普竞选标志歌曲",
@@ -106,7 +140,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         },
@@ -123,24 +157,13 @@
           "time_info": "[02时02分 ~ 12时56分]"
         },
         {
-          "title": "特朗普Q1交易：大幅减持亚马逊、Meta和微软，买入英伟达、博通和苹果，抄底甲骨文、Adobe等软件股",
-          "url": "https://wallstreetcn.com/articles/3772311",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时56分"
-        },
-        {
           "title": "霍尔木兹海峡持续封锁 特朗普：中国有兴趣买美石油大豆",
           "url": "https://www.zaochenbao.com/news/politics/202605/1571796.html",
           "source": "联合早报",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         },
@@ -179,6 +202,28 @@
           "time_info": "[02时02分 ~ 06时17分]"
         },
         {
+          "title": "习近平同美国总统特朗普在中南海小范围会晤",
+          "url": "https://www.cls.cn/detail/2372297",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
+          "title": "随行人员：特朗普专机返美前 “任何来自中国物品”被扔垃圾桶",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1571830.html",
+          "source": "联合早报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
           "title": "据日经新闻：日本首相高市早苗计划最早于周五与美国总统特朗普进行电话会谈。",
           "url": "https://flash.jin10.com/detail/20260515071644787800",
           "source": "金十数据",
@@ -199,6 +244,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "美国总统特朗普结束访华",
+          "url": "https://wallstreetcn.com/articles/3772343",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "消息人士：特朗普政府在寻求实现黎巴嫩与以色列之间全面且长期和平协议的最终目标上，仍面临漫长的道路。",
@@ -229,7 +285,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         },
@@ -245,15 +301,37 @@
           "time_info": "02时02分"
         },
         {
+          "title": "日本首相高市早苗：与美国总统特朗普重申了日美同盟坚如磐石，并将于下月在G7峰会上与其会晤。",
+          "url": "https://flash.jin10.com/detail/20260515191148175800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
           "title": "红毯、国宴、会谈、台湾、黄仁勋：特朗普重返北京后的几大关键时刻",
           "url": "https://www.zaochenbao.com/news/china/202605/1571789.html",
           "source": "联合早报",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
+        },
+        {
+          "title": "特朗普：罗斯福提供资金建立习近平母校清华大学",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1571824.html",
+          "source": "联合早报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "据NBC新闻：美国总统特朗普提交的道德披露文件显示，其进行了与美国股票相关的交易。",
@@ -273,7 +351,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         },
@@ -284,7 +362,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         },
@@ -295,7 +373,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         },
@@ -317,9 +395,75 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
+        },
+        {
+          "title": "向特朗普提普京 习近平说极少在中南海接待外国领导人",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1571819.html",
+          "source": "联合早报",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
+          "title": "特朗普结束访华 王毅马朝旭谢锋送机",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1571818.html",
+          "source": "联合早报",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
+          "title": "日本首相高市早苗：重申与美国总统特朗普保持密切沟通。",
+          "url": "https://flash.jin10.com/detail/20260515190425636800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
+          "title": "日本首相高市早苗：刚刚与美国总统特朗普进行电话交谈。",
+          "url": "https://flash.jin10.com/detail/20260515190417889800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及伊朗浓缩铀材料）可能在合适的时机获得。如果我们得不到伊朗的核尘埃，我们就会采取行动。",
+          "url": "https://flash.jin10.com/detail/20260515190350101800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及美国国务卿鲁比奥）我认为他非常出色。",
+          "url": "https://flash.jin10.com/detail/20260515190150237800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "据ABC新闻：特朗普预计将撤销其针对美国国税局提出的100亿美元诉讼，交换条件是设立一项17亿美元的基金，用于赔偿那些声称自己遭到拜登政府错误针对的盟友。",
@@ -339,7 +483,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         },
@@ -355,21 +499,54 @@
           "time_info": "08时03分"
         },
         {
+          "title": "美国总统特朗普：（谈及英国）如果不处理移民和能源政策，英国首相斯塔默的政治生存将会非常艰难。",
+          "url": "https://flash.jin10.com/detail/20260515190004910800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
           "title": "特朗普称中国同意订购200架波音飞机 数量低于预期",
           "url": "https://www.zaochenbao.com/news/politics/202605/1571770.html",
           "source": "联合早报",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
+        },
+        {
+          "title": "美国总统特朗普：可能会对得州共和党初选参议院竞选做出决定。",
+          "url": "https://flash.jin10.com/detail/20260515185947646800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
+          "title": "美国总统特朗普对《纽约时报》记者表示，其关于伊朗的报道是“叛国行为”。",
+          "url": "https://flash.jin10.com/detail/20260515185905831800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "伊朗革命卫队指挥官贾法里：伊朗坚持谈判的前提条件。",
@@ -400,7 +577,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         },
@@ -451,6 +628,39 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时02分 ~ 08时03分]"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬呼吁与伊拉克开展战略合作。",
+          "url": "https://flash.jin10.com/detail/20260515191642928800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
+          "title": "伊朗外长说美方认真才可能重启谈判",
+          "url": "https://flash.jin10.com/detail/20260515191611579800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
+          "title": "美国已拒绝伊朗就结束战争提出的书面方案",
+          "url": "https://www.cls.cn/detail/2372496",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "伊朗议会内部事务委员会成员纳哈伊：作为对敌人任何侵略行径的回应，宣布关闭曼德海峡是合适的，这样侵略的代价对他们而言将变得难以承受。",
@@ -539,6 +749,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "消息：沙特推动中东国家与伊朗达成互不侵犯条约",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1571812.html",
+          "source": "联合早报",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         }
       ]
     },
@@ -682,7 +903,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         },
@@ -701,7 +922,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI：ChatGPT移动应用中的Codex功能预览版正开始在iOS和Android平台向所有套餐用户推出，包括免费版和Go套餐，将在所有支持地区上线。",
@@ -714,6 +935,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时40分 ~ 06时17分]"
+        },
+        {
+          "title": "OpenAI与苹果合作关系急剧恶化",
+          "url": "https://www.36kr.com/newsflashes/3810406934388227",
+          "source": "36氪",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "苹果与OpenAI关系紧张 后者拟诉诸法律",
@@ -767,7 +999,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         }
