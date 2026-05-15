@@ -1,55 +1,70 @@
 {
-  "generated_at": "2026-05-15T06:17:36.757785+08:00",
-  "total_titles_processed": 166,
+  "generated_at": "2026-05-15T08:03:54.835839+08:00",
+  "total_titles_processed": 228,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "习近平同特朗普举行会谈：中美应当做伙伴而不是对手，让2026年成为中美关系继往开来的历史性、标志性年份",
           "url": "https://wallstreetcn.com/articles/3772243",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 06时17分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 08时03分]"
         },
         {
           "title": "会见随特朗普访华美企巨头 李强承诺政策环境稳定开放",
           "url": "https://www.zaochenbao.com/news/politics/202605/1471764.html",
           "source": "联合早报",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 06时17分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 08时03分]"
         },
         {
           "title": "习近平同美国总统特朗普会谈",
           "url": "https://wallstreetcn.com/articles/3772261",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 06时17分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 08时03分]"
         },
         {
           "title": "北京烤鸭配国产葡萄酒 中国七道菜款待特朗普",
           "url": "https://www.zaochenbao.com/news/politics/202605/1471762.html",
           "source": "联合早报",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 06时17分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 08时03分]"
+        },
+        {
+          "title": "韩咏红：特朗普访华一次峰会两套表述",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1571768.html",
+          "source": "联合早报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         },
         {
           "title": "CIA官员：CIA局长向古巴方面传达了特朗普的信息：如果古巴作出“根本性改变”，美国准备在经济与安全议题上展开接触。",
@@ -58,20 +73,32 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "北京烤鸭招待 国宴播放特朗普竞选标志歌曲",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1571766.html",
+          "source": "联合早报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         },
         {
           "title": "三政治局常委出席特朗普访华国宴 较2017年少四人",
           "url": "https://www.zaochenbao.com/news/politics/202605/1471760.html",
           "source": "联合早报",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 06时17分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 08时03分]"
         },
         {
           "title": "习近平会见随同美国总统特朗普访华的美国企业家",
@@ -82,8 +109,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 06时17分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 08时03分]"
         },
         {
           "title": "黄仁勋称是特朗普邀他随行访华",
@@ -108,13 +135,24 @@
           "time_info": "[02时02分 ~ 06时17分]"
         },
         {
+          "title": "据日经新闻：日本首相高市早苗计划最早于周五与美国总统特朗普进行电话会谈。",
+          "url": "https://flash.jin10.com/detail/20260515071644787800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
           "title": "美众议院再度否决限制特朗普战争权力的议案 投票差距不断收窄",
           "url": "https://flash.jin10.com/detail/20260515052430160800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -136,7 +174,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -158,7 +196,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -169,15 +207,37 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "据ABC新闻：特朗普预计将撤销其针对美国国税局提出的100亿美元诉讼，交换条件是设立一项17亿美元的基金，用于赔偿那些声称自己遭到拜登政府错误针对的盟友。",
+          "url": "https://flash.jin10.com/detail/20260515065513519800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "买英伟达、卖微软：特朗普最新财务披露曝光，单季交易额最高达7.5亿美元",
+          "url": "https://flash.jin10.com/detail/20260515065305583800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊朗革命卫队指挥官贾法里：伊朗坚持谈判的前提条件。",
@@ -191,13 +251,24 @@
           "time_info": "02时02分"
         },
         {
+          "title": "“习特会”通报落差：北京提中美关系新定位与台湾 白宫强调伊朗问题共识",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/1571767.html",
+          "source": "联合早报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
           "title": "伊朗外长与印度总理讨论战争及地区安全局势",
           "url": "https://flash.jin10.com/detail/20260515053513085800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -206,33 +277,36 @@
           "url": "https://www.zaochenbao.com/news/politics/202605/1471754.html",
           "source": "联合早报",
           "ranks": [
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 06时17分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 08时03分]"
         },
         {
           "title": "金砖国家外长会议 伊朗与阿联酋针锋相对",
           "url": "https://www.zaochenbao.com/news/politics/202605/1471753.html",
           "source": "联合早报",
           "ranks": [
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 06时17分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 08时03分]"
         },
         {
           "title": "白宫官员：中美双方同意伊朗绝不能拥有核武器",
           "url": "https://www.zaochenbao.com/news/china/202605/1471740.html",
           "source": "联合早报",
           "ranks": [
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 06时17分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 08时03分]"
         },
         {
           "title": "伊朗议会内部事务委员会成员纳哈伊：作为对敌人任何侵略行径的回应，宣布关闭曼德海峡是合适的，这样侵略的代价对他们而言将变得难以承受。",
@@ -326,7 +400,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "热门中概股美股盘前普跌，小鹏集团跌超4%，",
@@ -351,15 +425,39 @@
           "time_info": "[02时02分 ~ 06时17分]"
         },
         {
+          "title": "美股异动｜福特汽车股价两日飙升21%，AI热潮向传统行业扩散",
+          "url": "https://www.gelonghui.com/news/5234010",
+          "source": "格隆汇",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
           "title": "美股三大期指集体走高 思科盘前大涨15% | 今夜看点",
           "url": "https://www.cls.cn/detail/2371660",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 06时17分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 08时03分]"
+        },
+        {
+          "title": "美股收盘：纳指、标普500指数再创新高 英伟达市值逼近6万亿美元",
+          "url": "https://www.cls.cn/detail/2371819",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 08时03分]"
         },
         {
           "title": "美股异动丨Nebius涨超11%，领涨云计算服务商，大摩预计AI基建将迈向万亿美元时代",
@@ -367,11 +465,12 @@
           "source": "格隆汇",
           "ranks": [
             8,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 06时17分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 08时03分]"
         },
         {
           "title": "美股异动丨台积电涨超5%创新高，总市值接近2.2万亿美元",
@@ -428,18 +527,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "美股收盘：纳指、标普500指数再创新高 英伟达市值逼近6万亿美元",
-          "url": "https://www.cls.cn/detail/2371819",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -496,7 +584,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
