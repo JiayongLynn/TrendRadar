@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T11:56:28.339065+08:00",
-  "total_titles_processed": 267,
+  "generated_at": "2026-05-16T14:29:57.560411+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "习近平同美国总统特朗普在中南海小范围会晤",
@@ -73,8 +73,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 11时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 14时29分]"
         },
         {
           "title": "特朗普称未就台湾问题向习近平承诺 分析：美若再军售恐触发大陆军演",
@@ -82,11 +82,24 @@
           "source": "联合早报",
           "ranks": [
             8,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 11时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 14时29分]"
+        },
+        {
+          "title": "特朗普称没对习近平就台湾问题许下承诺",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/1571836.html",
+          "source": "联合早报",
+          "ranks": [
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 14时29分]"
         },
         {
           "title": "特朗普政府拟设17亿美元“赔偿基金” 补偿遭拜登调查盟友",
@@ -98,29 +111,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
-        },
-        {
-          "title": "特朗普称没对习近平就台湾问题许下承诺",
-          "url": "https://www.zaochenbao.com/news/taiwan/202605/1571836.html",
-          "source": "联合早报",
-          "ranks": [
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 11时56分]"
-        },
-        {
-          "title": "美国总统特朗普：“伊斯兰国”极端组织全球二号人物阿布·比拉勒·明努基（Abu-Bilal al-Minuki）已被消灭。美国军队与尼日利亚武装部队联合执行了消灭阿布·比拉勒·明努基的行动。",
-          "url": "https://flash.jin10.com/detail/20260516113420199800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
         },
         {
           "title": "特朗普：习近平称不太可能释放黎智英",
@@ -156,6 +146,30 @@
           "time_info": "[00时56分 ~ 08时01分]"
         },
         {
+          "title": "美国总统特朗普：“伊斯兰国”极端组织全球二号人物阿布·比拉勒·明努基（Abu-Bilal al-Minuki）已被消灭。美国军队与尼日利亚武装部队联合执行了消灭阿布·比拉勒·明努基的行动。",
+          "url": "https://flash.jin10.com/detail/20260516113420199800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 14时29分]"
+        },
+        {
+          "title": "特朗普称美伊停火系“应其他国家要求”",
+          "url": "https://wallstreetcn.com/articles/3772383",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时01分 ~ 14时29分]"
+        },
+        {
           "title": "伊朗战争致全球供应受阻 特朗普借机加速阿拉斯加产能",
           "url": "https://flash.jin10.com/detail/20260516033957346800",
           "source": "金十数据",
@@ -168,16 +182,40 @@
           "time_info": "[04时20分 ~ 06时05分]"
         },
         {
-          "title": "特朗普称美伊停火系“应其他国家要求”",
-          "url": "https://wallstreetcn.com/articles/3772383",
-          "source": "华尔街见闻",
+          "title": "特朗普：不希望有人走向独立 台湾勿指望美军开空白支票",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/1671869.html",
+          "source": "联合早报",
           "ranks": [
-            10,
-            9
+            16,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时01分 ~ 11时56分]"
+          "time_info": "[11时56分 ~ 14时29分]"
+        },
+        {
+          "title": "蔡恩泽：特朗普访华随行企业大佬不是外交点缀",
+          "url": "https://www.zaochenbao.com/news/opinion/202605/1671865.html",
+          "source": "联合早报",
+          "ranks": [
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 14时29分]"
+        },
+        {
+          "title": "飞机发动机和大豆 特朗普称中国同意采购北京未确认下单",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1671859.html",
+          "source": "联合早报",
+          "ranks": [
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 14时29分]"
         },
         {
           "title": "墨西哥总统：我与特朗普总统进行了一次亲切且极好的交谈，我们重申了在安全领域以及贸易对话方面正在开展的工作。我们商定再次通话，并继续与他的几位即将于近期访问我国的合作者进行对话。",
@@ -213,35 +251,13 @@
           "time_info": "00时56分"
         },
         {
-          "title": "特朗普：不希望有人走向独立 台湾勿指望美军开空白支票",
-          "url": "https://www.zaochenbao.com/news/taiwan/202605/1671869.html",
-          "source": "联合早报",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        },
-        {
           "title": "美国加州州长纽森：去年，特朗普和共和党人选择提高数百万美国人在《平价医疗法案》（ACA）医保市场上的医疗保险保费。我提出的预算方案将继续为加州低收入居民保留每月0美元保费医保计划，以帮助收拾特朗普制造的财政混乱。",
           "url": "https://flash.jin10.com/detail/20260516095113788800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        },
-        {
-          "title": "蔡恩泽：特朗普访华随行企业大佬不是外交点缀",
-          "url": "https://www.zaochenbao.com/news/opinion/202605/1671865.html",
-          "source": "联合早报",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
         },
@@ -257,15 +273,15 @@
           "time_info": "02时26分"
         },
         {
-          "title": "飞机发动机和大豆 特朗普称中国同意采购北京未确认下单",
-          "url": "https://www.zaochenbao.com/news/politics/202605/1671859.html",
-          "source": "联合早报",
+          "title": "特朗普说“伊斯兰国”二号头目被“清除”",
+          "url": "https://flash.jin10.com/detail/20260516115016762800",
+          "source": "金十数据",
           "ranks": [
             26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时56分"
+          "time_info": "14时29分"
         }
       ]
     },
@@ -298,6 +314,17 @@
           "time_info": "[00时56分 ~ 11时56分]"
         },
         {
+          "title": "原油大涨掀债市抛售潮，美股回落，英伟达跌超4%，长债收益率创数年新高，金属重挫",
+          "url": "https://wallstreetcn.com/articles/3772341",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时01分 ~ 14时29分]"
+        },
+        {
           "title": "全球长债收益率飙升，美股走低，纳指跌2%，英伟达跌4%，白银大跌9%，黄金跌3%",
           "url": "https://wallstreetcn.com/articles/3772341",
           "source": "华尔街见闻",
@@ -309,15 +336,16 @@
           "time_info": "[00时56分 ~ 02时26分]"
         },
         {
-          "title": "原油大涨掀债市抛售潮，美股回落，英伟达跌超4%，长债收益率创数年新高，金属重挫",
-          "url": "https://wallstreetcn.com/articles/3772341",
-          "source": "华尔街见闻",
+          "title": "美股三大指数均收跌超1%，苹果收于300美元上方创历史新高，中概指数跌2.8%",
+          "url": "https://www.gelonghui.com/news/5234955",
+          "source": "格隆汇",
           "ranks": [
-            1
+            2,
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时01分 ~ 11时56分]"
+          "time_info": "[11时56分 ~ 14时29分]"
         },
         {
           "title": "原油大涨掀债市抛售潮，美股回落，盘中纳指跌2%，加息预期升温，金银重挫",
@@ -353,17 +381,6 @@
           "time_info": "08时01分"
         },
         {
-          "title": "美股三大指数均收跌超1%，苹果收于300美元上方创历史新高，中概指数跌2.8%",
-          "url": "https://www.gelonghui.com/news/5234955",
-          "source": "格隆汇",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        },
-        {
           "title": "美股收盘：三大指数收低 科技股显著回调",
           "url": "https://flash.jin10.com/detail/20260516040037420800",
           "source": "金十数据",
@@ -380,11 +397,12 @@
           "url": "https://www.36kr.com/newsflashes/3811288586968839",
           "source": "36氪",
           "ranks": [
-            10
+            10,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 14时29分]"
         },
         {
           "title": "金十图示：2026年05月15日（周五）美股热门股票行情一览（美股收盘）",
@@ -461,6 +479,18 @@
           "time_info": "[00时56分 ~ 08时01分]"
         },
         {
+          "title": "“海上浮动军火库”船只据报遭伊朗扣押",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1671878.html",
+          "source": "联合早报",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 14时29分]"
+        },
+        {
           "title": "美国已拒绝伊朗就结束战争提出的书面方案",
           "url": "https://wallstreetcn.com/articles/3772355",
           "source": "华尔街见闻",
@@ -471,17 +501,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时05分 ~ 08时01分]"
-        },
-        {
-          "title": "“海上浮动军火库”船只据报遭伊朗扣押",
-          "url": "https://www.zaochenbao.com/news/politics/202605/1671878.html",
-          "source": "联合早报",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
         },
         {
           "title": "伊朗驻联合国大使：巴勒斯坦的未来应由巴勒斯坦人民自己决定。",
@@ -518,11 +537,12 @@
           "ranks": [
             8,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 11时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 14时29分]"
         },
         {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
@@ -532,8 +552,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 11时56分]"
+          "appearance_count": 3,
+          "time_info": "[08时01分 ~ 14时29分]"
         },
         {
           "title": "油价与美债收益率齐升 美股期指集体走低 芯片股盘前普跌 | 今夜看点",
@@ -563,11 +583,12 @@
           "url": "https://wallstreetcn.com/articles/3772386",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 14时29分]"
         }
       ]
     },
@@ -580,11 +601,12 @@
           "url": "https://www.36kr.com/newsflashes/3811291086233353",
           "source": "36氪",
           "ranks": [
-            6
+            6,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 14时29分]"
         },
         {
           "title": "市场消息：OpenAI告知员工将启动重组，整合全线业务产品。",
@@ -608,11 +630,12 @@
           "url": "https://wallstreetcn.com/articles/3772402",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 14时29分]"
         }
       ]
     }
