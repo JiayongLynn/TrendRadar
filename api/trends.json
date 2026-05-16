@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T18:23:04.757359+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-05-16T19:58:35.255945+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "习近平同美国总统特朗普在中南海小范围会晤",
@@ -38,11 +38,12 @@
             15,
             16,
             24,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 18时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时56分 ~ 19时58分]"
         },
         {
           "title": "特朗普游中南海赞花卉又大又美 习近平称极少在此接待外国元首",
@@ -92,18 +93,6 @@
           "time_info": "[00时56分 ~ 14时29分]"
         },
         {
-          "title": "特朗普称没对习近平就台湾问题许下承诺",
-          "url": "https://www.zaochenbao.com/news/taiwan/202605/1571836.html",
-          "source": "联合早报",
-          "ranks": [
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 14时29分]"
-        },
-        {
           "title": "特朗普称美伊停火系“应其他国家要求”",
           "url": "https://wallstreetcn.com/articles/3772383",
           "source": "华尔街见闻",
@@ -114,8 +103,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时01分 ~ 18时23分]"
+          "appearance_count": 7,
+          "time_info": "[08时01分 ~ 19时58分]"
+        },
+        {
+          "title": "特朗普称没对习近平就台湾问题许下承诺",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/1571836.html",
+          "source": "联合早报",
+          "ranks": [
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 14时29分]"
         },
         {
           "title": "特朗普政府拟设17亿美元“赔偿基金” 补偿遭拜登调查盟友",
@@ -129,16 +130,32 @@
           "time_info": "06时05分"
         },
         {
+          "title": "特朗普：不希望有人走向独立 台湾勿指望美军开空白支票",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/1671869.html",
+          "source": "联合早报",
+          "ranks": [
+            16,
+            17,
+            25,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时56分 ~ 19时58分]"
+        },
+        {
           "title": "特朗普第一季度进行逾3700笔交易 涵盖与政府往来大公司",
           "url": "https://www.zaochenbao.com/news/politics/202605/1671896.html",
           "source": "联合早报",
           "ranks": [
             2,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时54分 ~ 18时23分]"
+          "appearance_count": 4,
+          "time_info": "[16时54分 ~ 19时58分]"
         },
         {
           "title": "特朗普：习近平称不太可能释放黎智英",
@@ -168,11 +185,12 @@
           "source": "联合早报",
           "ranks": [
             4,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时54分 ~ 18时23分]"
+          "appearance_count": 4,
+          "time_info": "[16时54分 ~ 19时58分]"
         },
         {
           "title": "特朗普：未来几天决定解除购买伊朗石油中企制裁",
@@ -184,20 +202,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时56分 ~ 08时01分]"
-        },
-        {
-          "title": "特朗普：不希望有人走向独立 台湾勿指望美军开空白支票",
-          "url": "https://www.zaochenbao.com/news/taiwan/202605/1671869.html",
-          "source": "联合早报",
-          "ranks": [
-            16,
-            17,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时56分 ~ 18时23分]"
         },
         {
           "title": "美国总统特朗普：“伊斯兰国”极端组织全球二号人物阿布·比拉勒·明努基（Abu-Bilal al-Minuki）已被消灭。美国军队与尼日利亚武装部队联合执行了消灭阿布·比拉勒·明努基的行动。",
@@ -217,11 +221,12 @@
           "source": "联合早报",
           "ranks": [
             8,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时54分 ~ 18时23分]"
+          "appearance_count": 4,
+          "time_info": "[16时54分 ~ 19时58分]"
         },
         {
           "title": "特朗普称不希望看到走向独立 台官员：致力维持台海和平现状",
@@ -229,11 +234,12 @@
           "source": "联合早报",
           "ranks": [
             13,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时54分 ~ 18时23分]"
+          "appearance_count": 4,
+          "time_info": "[16时54分 ~ 19时58分]"
         },
         {
           "title": "蔡恩泽：特朗普访华随行企业大佬不是外交点缀",
@@ -282,6 +288,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-16）",
+          "url": "https://flash.jin10.com/detail/20260516185024363800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         },
         {
           "title": "美国总统特朗普：我们对伊朗进行了极其严厉的打击，结果简直令人难以置信。",
@@ -341,6 +358,187 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "美国已拒绝伊朗就结束战争提出的书面方案",
+          "url": "https://www.cls.cn/detail/2372496",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 08时01分]"
+        },
+        {
+          "title": "“海上浮动军火库”船只据报遭伊朗扣押",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1671878.html",
+          "source": "联合早报",
+          "ranks": [
+            6,
+            7,
+            20,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时56分 ~ 19时58分]"
+        },
+        {
+          "title": "巴基斯坦外长：20名被美国军方扣押的伊朗人已被送回国。",
+          "url": "https://flash.jin10.com/detail/20260516020531535800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "消息人士：国际足联将“保证”伊朗参赛世界杯",
+          "url": "https://flash.jin10.com/detail/20260516192751228800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "香港海上安保公司船只据报在阿曼湾被伊朗扣押",
+          "url": "https://www.zaochenbao.com/news/hkMacao/202605/1671905.html",
+          "source": "联合早报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "伊朗革命卫队：在西北部阿尔达比勒省破获一个隶属于摩萨德的间谍网络，并逮捕了其中一名主要成员。",
+          "url": "https://flash.jin10.com/detail/20260516002146408800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "伊朗外长：伊朗愿接受中国等方面的支持 解决中东冲突",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1571842.html",
+          "source": "联合早报",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 08时01分]"
+        },
+        {
+          "title": "未直面回应有关回击伊朗报道 阿联酋称采取防御行动",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1671892.html",
+          "source": "联合早报",
+          "ranks": [
+            6,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时54分 ~ 19时58分]"
+        },
+        {
+          "title": "消息人士：美以或最早下周恢复对伊朗军事行动",
+          "url": "https://flash.jin10.com/detail/20260516151231684800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 18时23分]"
+        },
+        {
+          "title": "美国已拒绝伊朗就结束战争提出的书面方案",
+          "url": "https://wallstreetcn.com/articles/3772355",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时05分 ~ 08时01分]"
+        },
+        {
+          "title": "谈判濒临破裂，美以被曝最早下周恢复对伊朗打击，选项包括地面夺取核材料",
+          "url": "https://wallstreetcn.com/articles/3772425",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "伊朗驻联合国大使：巴勒斯坦的未来应由巴勒斯坦人民自己决定。",
+          "url": "https://flash.jin10.com/detail/20260516014504278800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "伊朗：已准备好管理霍尔木兹海峡的机制 相关细节很快公布",
+          "url": "https://flash.jin10.com/detail/20260516182456183800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "伊朗最高领袖顾问：新的秩序正在迅速调整规则，而这些规则不再以美国为中心。",
+          "url": "https://flash.jin10.com/detail/20260516032352430800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "消息人士：国际足联将就伊朗参加在美国举行的世界杯一事提供“保证”。国际足联秘书长将于周六在伊斯坦布尔与伊朗足协举行会谈，讨论世界杯筹备事宜。",
+          "url": "https://flash.jin10.com/detail/20260516142819545800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 12,
       "titles": [
@@ -352,8 +550,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时01分 ~ 18时23分]"
+          "appearance_count": 7,
+          "time_info": "[08时01分 ~ 19时58分]"
         },
         {
           "title": "美股三大指数均收跌超1%，苹果收于300美元上方创历史新高，中概指数跌2.8%",
@@ -365,8 +563,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时56分 ~ 18时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时56分 ~ 19时58分]"
         },
         {
           "title": "热门中概股美股盘前集体走弱，阿里巴巴跌超3%",
@@ -485,141 +683,6 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "美国已拒绝伊朗就结束战争提出的书面方案",
-          "url": "https://www.cls.cn/detail/2372496",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 08时01分]"
-        },
-        {
-          "title": "巴基斯坦外长：20名被美国军方扣押的伊朗人已被送回国。",
-          "url": "https://flash.jin10.com/detail/20260516020531535800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "“海上浮动军火库”船只据报遭伊朗扣押",
-          "url": "https://www.zaochenbao.com/news/politics/202605/1671878.html",
-          "source": "联合早报",
-          "ranks": [
-            6,
-            7,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时56分 ~ 18时23分]"
-        },
-        {
-          "title": "伊朗革命卫队：在西北部阿尔达比勒省破获一个隶属于摩萨德的间谍网络，并逮捕了其中一名主要成员。",
-          "url": "https://flash.jin10.com/detail/20260516002146408800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "伊朗外长：伊朗愿接受中国等方面的支持 解决中东冲突",
-          "url": "https://www.zaochenbao.com/news/politics/202605/1571842.html",
-          "source": "联合早报",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 08时01分]"
-        },
-        {
-          "title": "未直面回应有关回击伊朗报道 阿联酋称采取防御行动",
-          "url": "https://www.zaochenbao.com/news/politics/202605/1671892.html",
-          "source": "联合早报",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时54分 ~ 18时23分]"
-        },
-        {
-          "title": "消息人士：美以或最早下周恢复对伊朗军事行动",
-          "url": "https://flash.jin10.com/detail/20260516151231684800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时54分 ~ 18时23分]"
-        },
-        {
-          "title": "美国已拒绝伊朗就结束战争提出的书面方案",
-          "url": "https://wallstreetcn.com/articles/3772355",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时05分 ~ 08时01分]"
-        },
-        {
-          "title": "伊朗驻联合国大使：巴勒斯坦的未来应由巴勒斯坦人民自己决定。",
-          "url": "https://flash.jin10.com/detail/20260516014504278800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "伊朗最高领袖顾问：新的秩序正在迅速调整规则，而这些规则不再以美国为中心。",
-          "url": "https://flash.jin10.com/detail/20260516032352430800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "消息人士：国际足联将就伊朗参加在美国举行的世界杯一事提供“保证”。国际足联秘书长将于周六在伊斯坦布尔与伊朗足协举行会谈，讨论世界杯筹备事宜。",
-          "url": "https://flash.jin10.com/detail/20260516142819545800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时54分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 5,
       "titles": [
@@ -646,8 +709,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时01分 ~ 18时23分]"
+          "appearance_count": 7,
+          "time_info": "[08时01分 ~ 19时58分]"
         },
         {
           "title": "美债技术性破位，日债抛售恐慌，全球利率风暴正在形成",
@@ -655,11 +718,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时56分 ~ 18时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时56分 ~ 19时58分]"
         },
         {
           "title": "油价与美债收益率齐升 美股期指集体走低 芯片股盘前普跌 | 今夜看点",
@@ -688,7 +752,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI再次重组高管团队：布罗克曼正式接管产品",
@@ -699,8 +763,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时54分 ~ 18时23分]"
+          "appearance_count": 4,
+          "time_info": "[16时54分 ~ 19时58分]"
         },
         {
           "title": "OpenAI已收购AI声音克隆工具公司weights.gg",
@@ -724,6 +788,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "市场消息：OpenAI与马耳他达成合作，向所有公民提供ChatGPT Plus服务。",
+          "url": "https://flash.jin10.com/detail/20260516184026768800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         }
       ]
     },
@@ -738,11 +813,12 @@
           "ranks": [
             10,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时56分 ~ 18时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时56分 ~ 19时58分]"
         },
         {
           "title": "比尔·阿克曼：潘兴广场出售谷歌股票并非看空该公司。长期以来依然非常看好Alphabet。基于当前估值水平及有限的资本规模，我们将谷歌持仓变现，所得资金用于买入微软",
@@ -771,8 +847,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时54分 ~ 18时23分]"
+          "appearance_count": 4,
+          "time_info": "[16时54分 ~ 19时58分]"
         }
       ]
     }
