@@ -1,8 +1,432 @@
 {
-  "generated_at": "2026-05-17T21:49:44.892984+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-05-17T23:05:01.582608+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "特朗普",
+      "match_count": 36,
+      "titles": [
+        {
+          "title": "特朗普对伊耐心正消耗殆尽 伊称即将公布霍尔木兹海峡收费机制",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1671921.html",
+          "source": "联合早报",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 07时02分]"
+        },
+        {
+          "title": "中国官员推进企业外交 密集会见多位随特朗普访华美企高管",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1671919.html",
+          "source": "联合早报",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 07时02分]"
+        },
+        {
+          "title": "台陆委会前副主委张显耀：特朗普不会很快决定对台军售",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/1771963.html",
+          "source": "联合早报",
+          "ranks": [
+            1,
+            8,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时55分 ~ 23时05分]"
+        },
+        {
+          "title": "特朗普第一季度进行逾3700笔交易 涵盖与政府往来大公司",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1671896.html",
+          "source": "联合早报",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 07时02分]"
+        },
+        {
+          "title": "特朗普称不愿看到走向台独 总统府：赖清德主张维护两岸现状",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/1671890.html",
+          "source": "联合早报",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 07时02分]"
+        },
+        {
+          "title": "特朗普称不希望看到走向独立 台官员：致力维持台海和平现状",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/1671885.html",
+          "source": "联合早报",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 07时02分]"
+        },
+        {
+          "title": "特朗普称未就台湾问题向习近平承诺 分析：美若再军售恐触发大陆军演",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/1571846.html",
+          "source": "联合早报",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 07时02分]"
+        },
+        {
+          "title": "特朗普：不希望有人走向独立 台湾勿指望美军开空白支票",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/1671869.html",
+          "source": "联合早报",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 07时02分]"
+        },
+        {
+          "title": "特朗普暗示伊朗局势是“风暴前的平静”",
+          "url": "https://flash.jin10.com/detail/20260517042429937800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时00分 ~ 07时02分]"
+        },
+        {
+          "title": "特朗普宴会厅拨款提案遇阻 参议院：不符合预算规则",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1771952.html",
+          "source": "联合早报",
+          "ranks": [
+            3,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时38分 ~ 19时17分]"
+        },
+        {
+          "title": "据白宫随行记者团消息，美国总统特朗普今天在弗吉尼亚州斯特林的斯特林国家高尔夫俱乐部。",
+          "url": "https://flash.jin10.com/detail/20260517002136992800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 03时17分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-17）",
+          "url": "https://flash.jin10.com/detail/20260517183041756800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 21时49分]"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉表示，与特朗普的私交或可避免更多关税与制裁，并确保巴西民主得到尊重。",
+          "url": "https://flash.jin10.com/detail/20260517183017817800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 21时49分]"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉表示，特朗普称他会阅读那份2010年巴西和土耳其与伊朗谈判达成的核协议副本。",
+          "url": "https://flash.jin10.com/detail/20260517181926076800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 21时49分]"
+        },
+        {
+          "title": "谈亲历特朗普访华欢迎宴会 中国学者：场面多年难得一见",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1771941.html",
+          "source": "联合早报",
+          "ranks": [
+            7,
+            14,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 19时17分]"
+        },
+        {
+          "title": "特朗普：如果不能达成和平协议，伊朗将面临“非常糟糕的处境”",
+          "url": "https://flash.jin10.com/detail/20260517015331327800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            19,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时17分 ~ 07时02分]"
+        },
+        {
+          "title": "特朗普发文抨击众议员汤姆·马西 呼吁用选票将他赶下台",
+          "url": "https://flash.jin10.com/detail/20260517200041857800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时49分 ~ 23时05分]"
+        },
+        {
+          "title": "特朗普顾问担心大陆未来五年内可能对台湾采取行动",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/1771972.html",
+          "source": "联合早报",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时49分 ~ 23时05分]"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉表示，向特朗普递交了一份2010年巴西和土耳其与伊朗谈判达成的核协议副本，该协议曾被美国和欧盟拒绝。",
+          "url": "https://flash.jin10.com/detail/20260517181846468800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 21时49分]"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉请求美国总统特朗普解除对古巴的经济封锁。",
+          "url": "https://flash.jin10.com/detail/20260517181500544800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 21时49分]"
+        },
+        {
+          "title": "韩国青瓦台：韩国总统李在明与美国总统特朗普讨论了韩美联合事实清单。",
+          "url": "https://flash.jin10.com/detail/20260517215033948800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时04分 ~ 23时05分]"
+        },
+        {
+          "title": "据韩联社：韩国总统李在明与美国总统特朗普通电话。",
+          "url": "https://flash.jin10.com/detail/20260517213955159800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时04分 ~ 23时05分]"
+        },
+        {
+          "title": "特朗普警告台湾勿走向独立 对台军售成对大陆谈判筹码",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/1771925.html",
+          "source": "联合早报",
+          "ranks": [
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 15时38分]"
+        },
+        {
+          "title": "特朗普发文批评卡西迪“背叛”，称其政治生涯已终结",
+          "url": "https://flash.jin10.com/detail/20260517105950784800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉表示，希望美国总统特朗普能尊重巴西，理解他在巴西是民主选举产生的总统。",
+          "url": "https://flash.jin10.com/detail/20260517181141541800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
+          "title": "特朗普政敌参议员在共和党初选中落败",
+          "url": "https://flash.jin10.com/detail/20260517105803757800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉表示，他与美国总统特朗普的政治分歧并不影响其作为国家元首与他特朗普的关系。",
+          "url": "https://flash.jin10.com/detail/20260517181008473800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉表示，美国总统特朗普知道他反对（美国）与伊朗开战，反对美国在委内瑞拉的干预，且谴责在巴勒斯坦的“种族灭绝”。",
+          "url": "https://flash.jin10.com/detail/20260517180941712800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
+          "title": "特朗普结束访华回国途中，高市早苗迫不及待通电话",
+          "url": "https://flash.jin10.com/detail/20260517131605700800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "美参议院官员删除特朗普白宫宴会厅安保资金条款",
+          "url": "https://flash.jin10.com/detail/20260517102530488800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "美国民主党人表示，美国参议院一名官员已将特朗普白宫宴会厅项目的拨款从共和党支出方案中删除。",
+          "url": "https://flash.jin10.com/detail/20260517102035886800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "美国总统特朗普：从白宫通往椭圆形办公室的步道上，原本是破旧的石板地面。如今，通往椭圆形办公室的步道已铺设了全新的花岗岩地面，取代了原有的石板地面。",
+          "url": "https://flash.jin10.com/detail/20260517010131045800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡表示将于今天与特朗普总统通话，同时暗示两人也将讨论伊朗问题。",
+          "url": "https://flash.jin10.com/detail/20260517185935987800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
+          "title": "美国总统特朗普：马里兰州刚刚曝光了50万张假邮寄选票。作为一个国家，我们不能再容忍下去了！选民身份验证和公民身份证明现在必须得到批准，不正当的邮寄投票必须被制止！",
+          "url": "https://flash.jin10.com/detail/20260516214439239800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时08分"
+        },
+        {
+          "title": "美国总统特朗普：《拯救美国法案》现在就必须通过，要利用住房法案和《外国情报监控法》来推动它。",
+          "url": "https://flash.jin10.com/detail/20260516214353885800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时08分"
+        },
+        {
+          "title": "美国参议院少数党领袖抨击共和党推动特朗普宴会厅计划",
+          "url": "https://flash.jin10.com/detail/20260517093403715800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        }
+      ]
+    },
     {
       "keyword_group": "伊朗",
       "match_count": 35,
@@ -21,6 +445,20 @@
           "time_info": "[01时08分 ~ 15时38分]"
         },
         {
+          "title": "伊朗宣布5月19日起恢复股票市场交易",
+          "url": "https://www.cls.cn/detail/2373254",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时08分 ~ 23时05分]"
+        },
+        {
           "title": "香港海上安保公司船只据报在阿曼湾被伊朗扣押",
           "url": "https://www.zaochenbao.com/news/hkMacao/202605/1671905.html",
           "source": "联合早报",
@@ -34,6 +472,18 @@
           "time_info": "[01时08分 ~ 15时38分]"
         },
         {
+          "title": "报道：美方在回应伊朗提议时列出5个关键条件",
+          "url": "https://wallstreetcn.com/articles/3772457",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时17分 ~ 23时05分]"
+        },
+        {
           "title": "据伊朗国家媒体：伊朗西北部一家发动机油厂火灾已完全扑灭，未报告伤亡情况。",
           "url": "https://flash.jin10.com/detail/20260517002017095800",
           "source": "金十数据",
@@ -45,28 +495,16 @@
           "time_info": "01时08分"
         },
         {
-          "title": "伊朗宣布5月19日起恢复股票市场交易",
-          "url": "https://www.cls.cn/detail/2373254",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 21时49分]"
-        },
-        {
           "title": "拟为衔接欧亚海底电缆征费 伊朗对霍尔木兹海峡的钳制从海上伸入海底",
           "url": "https://www.zaochenbao.com/news/politics/202605/1771977.html",
           "source": "联合早报",
           "ranks": [
-            5
+            5,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时49分 ~ 23时05分]"
         },
         {
           "title": "伊朗股市将于下周二重开",
@@ -128,18 +566,6 @@
           "ranks": [
             1,
             23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 21时49分]"
-        },
-        {
-          "title": "报道：美方在回应伊朗提议时列出5个关键条件",
-          "url": "https://wallstreetcn.com/articles/3772457",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            2
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -419,405 +845,6 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 34,
-      "titles": [
-        {
-          "title": "特朗普对伊耐心正消耗殆尽 伊称即将公布霍尔木兹海峡收费机制",
-          "url": "https://www.zaochenbao.com/news/politics/202605/1671921.html",
-          "source": "联合早报",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 07时02分]"
-        },
-        {
-          "title": "中国官员推进企业外交 密集会见多位随特朗普访华美企高管",
-          "url": "https://www.zaochenbao.com/news/politics/202605/1671919.html",
-          "source": "联合早报",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 07时02分]"
-        },
-        {
-          "title": "特朗普第一季度进行逾3700笔交易 涵盖与政府往来大公司",
-          "url": "https://www.zaochenbao.com/news/politics/202605/1671896.html",
-          "source": "联合早报",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 07时02分]"
-        },
-        {
-          "title": "特朗普称不愿看到走向台独 总统府：赖清德主张维护两岸现状",
-          "url": "https://www.zaochenbao.com/news/taiwan/202605/1671890.html",
-          "source": "联合早报",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 07时02分]"
-        },
-        {
-          "title": "特朗普称不希望看到走向独立 台官员：致力维持台海和平现状",
-          "url": "https://www.zaochenbao.com/news/taiwan/202605/1671885.html",
-          "source": "联合早报",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 07时02分]"
-        },
-        {
-          "title": "特朗普称未就台湾问题向习近平承诺 分析：美若再军售恐触发大陆军演",
-          "url": "https://www.zaochenbao.com/news/taiwan/202605/1571846.html",
-          "source": "联合早报",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 07时02分]"
-        },
-        {
-          "title": "特朗普：不希望有人走向独立 台湾勿指望美军开空白支票",
-          "url": "https://www.zaochenbao.com/news/taiwan/202605/1671869.html",
-          "source": "联合早报",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 07时02分]"
-        },
-        {
-          "title": "台陆委会前副主委张显耀：特朗普不会很快决定对台军售",
-          "url": "https://www.zaochenbao.com/news/taiwan/202605/1771963.html",
-          "source": "联合早报",
-          "ranks": [
-            1,
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时55分 ~ 21时49分]"
-        },
-        {
-          "title": "特朗普暗示伊朗局势是“风暴前的平静”",
-          "url": "https://flash.jin10.com/detail/20260517042429937800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时00分 ~ 07时02分]"
-        },
-        {
-          "title": "特朗普宴会厅拨款提案遇阻 参议院：不符合预算规则",
-          "url": "https://www.zaochenbao.com/news/politics/202605/1771952.html",
-          "source": "联合早报",
-          "ranks": [
-            3,
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时38分 ~ 19时17分]"
-        },
-        {
-          "title": "据白宫随行记者团消息，美国总统特朗普今天在弗吉尼亚州斯特林的斯特林国家高尔夫俱乐部。",
-          "url": "https://flash.jin10.com/detail/20260517002136992800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 03时17分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-17）",
-          "url": "https://flash.jin10.com/detail/20260517183041756800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 21时49分]"
-        },
-        {
-          "title": "据华盛顿邮报：巴西总统卢拉表示，与特朗普的私交或可避免更多关税与制裁，并确保巴西民主得到尊重。",
-          "url": "https://flash.jin10.com/detail/20260517183017817800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 21时49分]"
-        },
-        {
-          "title": "据华盛顿邮报：巴西总统卢拉表示，特朗普称他会阅读那份2010年巴西和土耳其与伊朗谈判达成的核协议副本。",
-          "url": "https://flash.jin10.com/detail/20260517181926076800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 21时49分]"
-        },
-        {
-          "title": "谈亲历特朗普访华欢迎宴会 中国学者：场面多年难得一见",
-          "url": "https://www.zaochenbao.com/news/politics/202605/1771941.html",
-          "source": "联合早报",
-          "ranks": [
-            7,
-            14,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时08分 ~ 19时17分]"
-        },
-        {
-          "title": "特朗普：如果不能达成和平协议，伊朗将面临“非常糟糕的处境”",
-          "url": "https://flash.jin10.com/detail/20260517015331327800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            19,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时17分 ~ 07时02分]"
-        },
-        {
-          "title": "据华盛顿邮报：巴西总统卢拉表示，向特朗普递交了一份2010年巴西和土耳其与伊朗谈判达成的核协议副本，该协议曾被美国和欧盟拒绝。",
-          "url": "https://flash.jin10.com/detail/20260517181846468800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 21时49分]"
-        },
-        {
-          "title": "据华盛顿邮报：巴西总统卢拉请求美国总统特朗普解除对古巴的经济封锁。",
-          "url": "https://flash.jin10.com/detail/20260517181500544800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 21时49分]"
-        },
-        {
-          "title": "特朗普警告台湾勿走向独立 对台军售成对大陆谈判筹码",
-          "url": "https://www.zaochenbao.com/news/taiwan/202605/1771925.html",
-          "source": "联合早报",
-          "ranks": [
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 15时38分]"
-        },
-        {
-          "title": "特朗普发文抨击众议员汤姆·马西 呼吁用选票将他赶下台",
-          "url": "https://flash.jin10.com/detail/20260517200041857800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
-        },
-        {
-          "title": "特朗普顾问担心大陆未来五年内可能对台湾采取行动",
-          "url": "https://www.zaochenbao.com/news/taiwan/202605/1771972.html",
-          "source": "联合早报",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
-        },
-        {
-          "title": "特朗普发文批评卡西迪“背叛”，称其政治生涯已终结",
-          "url": "https://flash.jin10.com/detail/20260517105950784800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "据华盛顿邮报：巴西总统卢拉表示，希望美国总统特朗普能尊重巴西，理解他在巴西是民主选举产生的总统。",
-          "url": "https://flash.jin10.com/detail/20260517181141541800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "特朗普政敌参议员在共和党初选中落败",
-          "url": "https://flash.jin10.com/detail/20260517105803757800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "据华盛顿邮报：巴西总统卢拉表示，他与美国总统特朗普的政治分歧并不影响其作为国家元首与他特朗普的关系。",
-          "url": "https://flash.jin10.com/detail/20260517181008473800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "据华盛顿邮报：巴西总统卢拉表示，美国总统特朗普知道他反对（美国）与伊朗开战，反对美国在委内瑞拉的干预，且谴责在巴勒斯坦的“种族灭绝”。",
-          "url": "https://flash.jin10.com/detail/20260517180941712800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "特朗普结束访华回国途中，高市早苗迫不及待通电话",
-          "url": "https://flash.jin10.com/detail/20260517131605700800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
-          "title": "美参议院官员删除特朗普白宫宴会厅安保资金条款",
-          "url": "https://flash.jin10.com/detail/20260517102530488800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "美国民主党人表示，美国参议院一名官员已将特朗普白宫宴会厅项目的拨款从共和党支出方案中删除。",
-          "url": "https://flash.jin10.com/detail/20260517102035886800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "美国总统特朗普：从白宫通往椭圆形办公室的步道上，原本是破旧的石板地面。如今，通往椭圆形办公室的步道已铺设了全新的花岗岩地面，取代了原有的石板地面。",
-          "url": "https://flash.jin10.com/detail/20260517010131045800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡表示将于今天与特朗普总统通话，同时暗示两人也将讨论伊朗问题。",
-          "url": "https://flash.jin10.com/detail/20260517185935987800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
-        },
-        {
-          "title": "美国总统特朗普：马里兰州刚刚曝光了50万张假邮寄选票。作为一个国家，我们不能再容忍下去了！选民身份验证和公民身份证明现在必须得到批准，不正当的邮寄投票必须被制止！",
-          "url": "https://flash.jin10.com/detail/20260516214439239800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        },
-        {
-          "title": "美国总统特朗普：《拯救美国法案》现在就必须通过，要利用住房法案和《外国情报监控法》来推动它。",
-          "url": "https://flash.jin10.com/detail/20260516214353885800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        },
-        {
-          "title": "美国参议院少数党领袖抨击共和党推动特朗普宴会厅计划",
-          "url": "https://flash.jin10.com/detail/20260517093403715800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 5,
       "titles": [
@@ -844,6 +871,18 @@
           "time_info": "[01时08分 ~ 07时02分]"
         },
         {
+          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
+          "url": "https://www.cls.cn/detail/2373249",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时08分 ~ 23时05分]"
+        },
+        {
           "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
           "url": "https://www.cls.cn/detail/2373172",
           "source": "财联社热门",
@@ -855,18 +894,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时08分 ~ 15时38分]"
-        },
-        {
-          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
-          "url": "https://www.cls.cn/detail/2373249",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 21时49分]"
         },
         {
           "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
@@ -903,11 +930,12 @@
           "url": "https://wallstreetcn.com/articles/3772335",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时49分 ~ 23时05分]"
         }
       ]
     },
@@ -969,8 +997,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时38分 ~ 21时49分]"
+          "appearance_count": 6,
+          "time_info": "[15时38分 ~ 23时05分]"
         }
       ]
     },
