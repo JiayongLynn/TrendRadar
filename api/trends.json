@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T19:17:34.549206+08:00",
-  "total_titles_processed": 426,
+  "generated_at": "2026-05-17T21:49:44.892984+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "谈判濒临破裂，美以被曝最早下周恢复对伊朗打击，选项包括地面夺取核材料",
@@ -34,17 +34,6 @@
           "time_info": "[01时08分 ~ 15时38分]"
         },
         {
-          "title": "伊朗外交部：美以用“维护能源稳定”作借口 为对伊战争辩护",
-          "url": "https://flash.jin10.com/detail/20260517184132510800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
           "title": "据伊朗国家媒体：伊朗西北部一家发动机油厂火灾已完全扑灭，未报告伤亡情况。",
           "url": "https://flash.jin10.com/detail/20260517002017095800",
           "source": "金十数据",
@@ -54,6 +43,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "伊朗宣布5月19日起恢复股票市场交易",
+          "url": "https://www.cls.cn/detail/2373254",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 21时49分]"
+        },
+        {
+          "title": "拟为衔接欧亚海底电缆征费 伊朗对霍尔木兹海峡的钳制从海上伸入海底",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1771977.html",
+          "source": "联合早报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         },
         {
           "title": "伊朗股市将于下周二重开",
@@ -109,6 +122,30 @@
           "time_info": "[17时55分 ~ 19时17分]"
         },
         {
+          "title": "伊朗外交部：美以用“维护能源稳定”作借口 为对伊战争辩护",
+          "url": "https://flash.jin10.com/detail/20260517184132510800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 21时49分]"
+        },
+        {
+          "title": "报道：美方在回应伊朗提议时列出5个关键条件",
+          "url": "https://wallstreetcn.com/articles/3772457",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 21时49分]"
+        },
+        {
           "title": "伊朗议长谴责以色列“违反承诺”",
           "url": "https://flash.jin10.com/detail/20260517173627509800",
           "source": "金十数据",
@@ -119,19 +156,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时55分 ~ 19时17分]"
-        },
-        {
-          "title": "伊朗宣布5月19日起恢复股票市场交易",
-          "url": "https://www.cls.cn/detail/2373254",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时08分 ~ 19时17分]"
         },
         {
           "title": "韩国外交部：韩国与伊朗将保持沟通以确保霍尔木兹海峡的安全。",
@@ -261,17 +285,6 @@
           "time_info": "01时08分"
         },
         {
-          "title": "报道：美方在回应伊朗提议时列出5个关键条件",
-          "url": "https://wallstreetcn.com/articles/3772457",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
           "title": "伊朗议长卡利巴夫被任命为对华事务特别代表",
           "url": "https://flash.jin10.com/detail/20260517170237212800",
           "source": "金十数据",
@@ -289,7 +302,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -311,7 +324,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -355,7 +368,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -407,7 +420,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普对伊耐心正消耗殆尽 伊称即将公布霍尔木兹海峡收费机制",
@@ -430,39 +443,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时08分 ~ 07时02分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-17）",
-          "url": "https://flash.jin10.com/detail/20260517183041756800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "据华盛顿邮报：巴西总统卢拉表示，与特朗普的私交或可避免更多关税与制裁，并确保巴西民主得到尊重。",
-          "url": "https://flash.jin10.com/detail/20260517183017817800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "据华盛顿邮报：巴西总统卢拉表示，特朗普称他会阅读那份2010年巴西和土耳其与伊朗谈判达成的核协议副本。",
-          "url": "https://flash.jin10.com/detail/20260517181926076800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
         },
         {
           "title": "特朗普第一季度进行逾3700笔交易 涵盖与政府往来大公司",
@@ -525,11 +505,12 @@
           "source": "联合早报",
           "ranks": [
             1,
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 19时17分]"
+          "appearance_count": 3,
+          "time_info": "[17时55分 ~ 21时49分]"
         },
         {
           "title": "特朗普暗示伊朗局势是“风暴前的平静”",
@@ -570,6 +551,42 @@
           "time_info": "[01时08分 ~ 03时17分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-17）",
+          "url": "https://flash.jin10.com/detail/20260517183041756800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 21时49分]"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉表示，与特朗普的私交或可避免更多关税与制裁，并确保巴西民主得到尊重。",
+          "url": "https://flash.jin10.com/detail/20260517183017817800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 21时49分]"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉表示，特朗普称他会阅读那份2010年巴西和土耳其与伊朗谈判达成的核协议副本。",
+          "url": "https://flash.jin10.com/detail/20260517181926076800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 21时49分]"
+        },
+        {
           "title": "谈亲历特朗普访华欢迎宴会 中国学者：场面多年难得一见",
           "url": "https://www.zaochenbao.com/news/politics/202605/1771941.html",
           "source": "联合早报",
@@ -598,6 +615,30 @@
           "time_info": "[03时17分 ~ 07时02分]"
         },
         {
+          "title": "据华盛顿邮报：巴西总统卢拉表示，向特朗普递交了一份2010年巴西和土耳其与伊朗谈判达成的核协议副本，该协议曾被美国和欧盟拒绝。",
+          "url": "https://flash.jin10.com/detail/20260517181846468800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 21时49分]"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉请求美国总统特朗普解除对古巴的经济封锁。",
+          "url": "https://flash.jin10.com/detail/20260517181500544800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 21时49分]"
+        },
+        {
           "title": "特朗普警告台湾勿走向独立 对台军售成对大陆谈判筹码",
           "url": "https://www.zaochenbao.com/news/taiwan/202605/1771925.html",
           "source": "联合早报",
@@ -610,26 +651,26 @@
           "time_info": "[12时08分 ~ 15时38分]"
         },
         {
-          "title": "据华盛顿邮报：巴西总统卢拉表示，向特朗普递交了一份2010年巴西和土耳其与伊朗谈判达成的核协议副本，该协议曾被美国和欧盟拒绝。",
-          "url": "https://flash.jin10.com/detail/20260517181846468800",
+          "title": "特朗普发文抨击众议员汤姆·马西 呼吁用选票将他赶下台",
+          "url": "https://flash.jin10.com/detail/20260517200041857800",
           "source": "金十数据",
           "ranks": [
-            6
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时17分"
+          "time_info": "21时49分"
         },
         {
-          "title": "据华盛顿邮报：巴西总统卢拉请求美国总统特朗普解除对古巴的经济封锁。",
-          "url": "https://flash.jin10.com/detail/20260517181500544800",
-          "source": "金十数据",
+          "title": "特朗普顾问担心大陆未来五年内可能对台湾采取行动",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/1771972.html",
+          "source": "联合早报",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时17分"
+          "time_info": "21时49分"
         },
         {
           "title": "特朗普发文批评卡西迪“背叛”，称其政治生涯已终结",
@@ -649,7 +690,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -671,7 +712,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -682,7 +723,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -729,6 +770,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡表示将于今天与特朗普总统通话，同时暗示两人也将讨论伊朗问题。",
+          "url": "https://flash.jin10.com/detail/20260517185935987800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         },
         {
           "title": "美国总统特朗普：马里兰州刚刚曝光了50万张假邮寄选票。作为一个国家，我们不能再容忍下去了！选民身份验证和公民身份证明现在必须得到批准，不正当的邮寄投票必须被制止！",
@@ -813,8 +865,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时08分 ~ 19时17分]"
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 21时49分]"
         },
         {
           "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
@@ -828,6 +880,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时08分 ~ 17时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伯克希尔“新王新气象”：Q1减仓零售、油气，加仓谷歌，还建仓了航空",
+          "url": "https://wallstreetcn.com/articles/3772402",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 07时02分]"
+        },
+        {
+          "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
+          "url": "https://wallstreetcn.com/articles/3772335",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         }
       ]
     },
@@ -872,11 +952,12 @@
             5,
             8,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 19时17分]"
+          "appearance_count": 10,
+          "time_info": "[01时08分 ~ 21时49分]"
         },
         {
           "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
@@ -884,11 +965,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时38分 ~ 19时17分]"
+          "appearance_count": 4,
+          "time_info": "[15时38分 ~ 21时49分]"
         }
       ]
     },
@@ -907,23 +989,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时08分 ~ 12时08分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伯克希尔“新王新气象”：Q1减仓零售、油气，加仓谷歌，还建仓了航空",
-          "url": "https://wallstreetcn.com/articles/3772402",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 07时02分]"
         }
       ]
     }
