@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T12:08:50.003452+08:00",
-  "total_titles_processed": 256,
+  "generated_at": "2026-05-17T15:38:09.258233+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普对伊耐心正消耗殆尽 伊称即将公布霍尔木兹海峡收费机制",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时08分 ~ 07时02分]"
+        },
+        {
+          "title": "特朗普宴会厅拨款提案遇阻 参议院：不符合预算规则",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1771952.html",
+          "source": "联合早报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "特朗普第一季度进行逾3700笔交易 涵盖与政府往来大公司",
@@ -128,11 +139,24 @@
           "url": "https://www.zaochenbao.com/news/politics/202605/1771941.html",
           "source": "联合早报",
           "ranks": [
-            7
+            7,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 15时38分]"
+        },
+        {
+          "title": "特朗普警告台湾勿走向独立 对台军售成对大陆谈判筹码",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/1771925.html",
+          "source": "联合早报",
+          "ranks": [
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 15时38分]"
         },
         {
           "title": "特朗普发文批评卡西迪“背叛”，称其政治生涯已终结",
@@ -141,7 +165,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -152,9 +176,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "特朗普结束访华回国途中，高市早苗迫不及待通电话",
+          "url": "https://flash.jin10.com/detail/20260517131605700800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "美参议院官员删除特朗普白宫宴会厅安保资金条款",
@@ -163,7 +198,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -174,7 +209,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -188,17 +223,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
-        },
-        {
-          "title": "特朗普警告台湾勿走向独立 对台军售成对大陆谈判筹码",
-          "url": "https://www.zaochenbao.com/news/taiwan/202605/1771925.html",
-          "source": "联合早报",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
         },
         {
           "title": "美国总统特朗普：马里兰州刚刚曝光了50万张假邮寄选票。作为一个国家，我们不能再容忍下去了！选民身份验证和公民身份证明现在必须得到批准，不正当的邮寄投票必须被制止！",
@@ -229,7 +253,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         }
@@ -237,7 +261,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "谈判濒临破裂，美以被曝最早下周恢复对伊朗打击，选项包括地面夺取核材料",
@@ -245,11 +269,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 12时08分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 15时38分]"
         },
         {
           "title": "香港海上安保公司船只据报在阿曼湾被伊朗扣押",
@@ -257,11 +282,12 @@
           "source": "联合早报",
           "ranks": [
             18,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 12时08分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 15时38分]"
         },
         {
           "title": "据伊朗国家媒体：伊朗西北部一家发动机油厂火灾已完全扑灭，未报告伤亡情况。",
@@ -329,6 +355,18 @@
           "time_info": "[05时00分 ~ 07时02分]"
         },
         {
+          "title": "伊朗宣布5月19日起恢复股票市场交易",
+          "url": "https://www.cls.cn/detail/2373254",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 15时38分]"
+        },
+        {
           "title": "美国怀疑伊朗黑客入侵多州加油站燃油监测系统",
           "url": "https://flash.jin10.com/detail/20260517013755887800",
           "source": "金十数据",
@@ -352,13 +390,35 @@
           "time_info": "01时08分"
         },
         {
+          "title": "卡塔尔外交部：卡塔尔首相兼外交大臣与沙特外交大臣进行了电话会谈。双方回顾了两国的合作关系及进一步支持和强化合作的途径，还讨论了地区局势发展，尤其是涉及美国与伊朗停火的相关事项，以及旨在降级紧张局势、提升地区安全与稳定的努力。",
+          "url": "https://flash.jin10.com/detail/20260517141215258800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "北约情报机构认为伊朗仍保有大部分导弹库存及设施",
+          "url": "https://flash.jin10.com/detail/20260517141106720800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "高盛：当前市场最大威胁是“伊朗风险叠加利率风暴”，股市再涨也会波动加大",
           "url": "https://wallstreetcn.com/articles/3772420",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -375,23 +435,12 @@
         },
         {
           "title": "伊朗宣布5月19日起恢复股票市场交易",
-          "url": "https://www.cls.cn/detail/2373254",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "伊朗宣布5月19日起恢复股票市场交易",
           "url": "https://www.36kr.com/newsflashes/3812662323420936",
           "source": "36氪",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -446,7 +495,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -475,8 +524,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 12时08分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 15时38分]"
         },
         {
           "title": "原油大涨掀债市抛售潮，美股回落，英伟达跌超4%，长债收益率创数年新高，金属重挫",
@@ -499,30 +548,32 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 12时08分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 15时38分]"
         },
         {
           "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
           "url": "https://www.cls.cn/detail/2373249",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 15时38分]"
         },
         {
           "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
           "url": "https://wallstreetcn.com/articles/3772431",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 15时38分]"
         }
       ]
     },
@@ -530,17 +581,6 @@
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
-        {
-          "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
-          "url": "https://www.36kr.com/newsflashes/3812703324249856",
-          "source": "36氪",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
         {
           "title": "OpenAI再次重组高管团队：布罗克曼正式接管产品",
           "url": "https://www.36kr.com/newsflashes/3811623947476489",
@@ -551,6 +591,48 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时08分 ~ 07时02分]"
+        },
+        {
+          "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
+          "url": "https://www.36kr.com/newsflashes/3812703324249856",
+          "source": "36氪",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 15时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2373036",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 15时38分]"
+        },
+        {
+          "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
+          "url": "https://wallstreetcn.com/articles/3772363",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         }
       ]
     },
@@ -586,24 +668,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时08分 ~ 07时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2373036",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 12时08分]"
         }
       ]
     }
