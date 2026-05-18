@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T03:56:35.196637+08:00",
-  "total_titles_processed": 136,
+  "generated_at": "2026-05-19T05:21:30.855224+08:00",
+  "total_titles_processed": 160,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普在北京大谈“友谊”，但峰会未达成任何实质成果",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时34分 ~ 05时21分]"
         },
         {
           "title": "特朗普：取消原定于明天的对伊军事打击",
@@ -25,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
         },
@@ -45,11 +45,12 @@
           "url": "https://www.cls.cn/detail/2374617",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时34分 ~ 05时21分]"
         },
         {
           "title": "国民党副主席张荣恭：特朗普明白拒绝台倚美谋独",
@@ -59,8 +60,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时34分 ~ 05时21分]"
         },
         {
           "title": "美国总统特朗普：已作进一步指示，一旦未能达成可接受的协议，应随时准备立即执行对伊朗的大规模全面军事打击行动。",
@@ -69,7 +70,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
         },
@@ -80,7 +81,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
         },
@@ -91,9 +92,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
+        },
+        {
+          "title": "美国总统特朗普将于12月14日至15日在迈阿密召开领导人峰会。",
+          "url": "https://flash.jin10.com/detail/20260519044155118800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "特朗普强硬表态：拒绝对伊朗做出任何让步 暗示行动将至",
@@ -116,6 +128,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "特朗普高调主持沃什在白宫的宣誓就职仪式 重现格林斯潘时刻",
+          "url": "https://flash.jin10.com/detail/20260519042820893800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "据纽约邮报：美国总统特朗普表示，伊朗知道即将要发生什么。",
@@ -165,7 +188,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "报道：美方同意在谈判期间暂时豁免对伊朗的石油制裁",
@@ -175,8 +198,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时34分 ~ 05时21分]"
         },
         {
           "title": "“这可能是你最后一次听到我的声音”：战争以来伊朗政治处决激增",
@@ -186,8 +209,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时34分 ~ 05时21分]"
         },
         {
           "title": "伊朗塔斯尼姆通讯社：伊朗在格什姆岛发现美以无人机。",
@@ -196,7 +219,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
         },
@@ -218,7 +241,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
         },
@@ -229,7 +252,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
         },
@@ -242,8 +265,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时34分 ~ 05时21分]"
         },
         {
           "title": "伊朗经巴基斯坦向美方反馈最新谈判意见",
@@ -253,8 +276,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时34分 ~ 05时21分]"
         },
         {
           "title": "美国中央司令部：继续严格执行对伊朗港口的封锁。美国军队现已令85艘商业船只更改航向，以确保完全遵守封锁。",
@@ -274,15 +297,59 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
+        },
+        {
+          "title": "惠誉评级：尽管伊朗冲突带来持续不确定性，4月美国杠杆融资市场依然表现出广泛的韧性。伊朗冲突仍对违约预期构成上行风险。",
+          "url": "https://flash.jin10.com/detail/20260519043740942800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗伊斯法罕市的防空系统已启动。",
+          "url": "https://flash.jin10.com/detail/20260519043149502800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "伊朗最高领袖重申将考虑开辟新战线",
+          "url": "https://flash.jin10.com/detail/20260519042309628800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "伊朗官员：美国自设打击的最后期限又自行取消",
+          "url": "https://flash.jin10.com/detail/20260519040226244800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "美伊局势缓和，美股高开，半导体股普涨，油价回落，黄金小幅上涨",
@@ -292,8 +359,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时34分 ~ 05时21分]"
         },
         {
           "title": "热门中概股美股盘前涨跌不一，百度涨近5%",
@@ -303,8 +370,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时34分 ~ 05时21分]"
         },
         {
           "title": "美股大型科技股盘前涨跌不一，英伟达涨超2%",
@@ -314,19 +381,92 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时34分 ~ 05时21分]"
         },
         {
           "title": "美股迎来史上最大电力并购案 SpaceX概念股盘前走高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2374572",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时34分 ~ 05时21分]"
+        },
+        {
+          "title": "金十图示：2026年05月18日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260519040525263800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "金十图示：2026年05月18日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260519040523142800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 理想汽车跌近10%",
+          "url": "https://flash.jin10.com/detail/20260519040054557800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "马斯克：（关于OpenAI 裁决）法官和陪审团实际上从未对案件的是非曲直做出裁决，只是针对日程上的一个技术性问题进行了裁定。",
+          "url": "https://flash.jin10.com/detail/20260519044502123800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "马斯克：（关于OpenAI 裁决）我将向第九巡回法院提出上诉。",
+          "url": "https://flash.jin10.com/detail/20260519044208799800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "马斯克：（关于OpenAI 裁决）奥克兰法官的裁决创造了可怕的先例。",
+          "url": "https://flash.jin10.com/detail/20260519043702372800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         }
       ]
     },
@@ -342,8 +482,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时34分 ~ 05时21分]"
         },
         {
           "title": "戴尔：谷歌与戴尔合作，在戴尔PowerEdge XE9780服务器上通过谷歌分布式云推出Gemini 3闪存模型。",
@@ -370,8 +510,42 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时34分 ~ 05时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英国在3月增持美债 中国和日本减持",
+          "url": "https://flash.jin10.com/detail/20260519040958364800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数18日下跌",
+          "url": "https://flash.jin10.com/detail/20260519045712884800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         }
       ]
     }
