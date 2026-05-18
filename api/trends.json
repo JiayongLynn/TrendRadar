@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T18:21:45.674353+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-05-18T22:36:51.296142+08:00",
+  "total_titles_processed": 551,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 37,
       "titles": [
         {
           "title": "报道：美方在回应伊朗提议时列出5个关键条件",
@@ -77,15 +77,37 @@
           "time_info": "[03时20分 ~ 05时04分]"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：接近谈判团队的消息人士称，伊朗表示，尽管草案有所修改，但美国的要求仍然过于苛刻。",
+          "url": "https://flash.jin10.com/detail/20260518221412457800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
+        },
+        {
           "title": "德国总理默茨：伊朗必须重新与美国进行谈判。",
           "url": "https://flash.jin10.com/detail/20260518181716685800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
+        },
+        {
+          "title": "报道：美方同意在谈判期间暂时豁免对伊朗的石油制裁",
+          "url": "https://wallstreetcn.com/articles/3772532",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         },
         {
           "title": "伊朗国防部：伊朗完全准备好应对任何新的侵略。",
@@ -130,6 +152,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时03分 ~ 05时04分]"
+        },
+        {
+          "title": "伊朗媒体：也门胡塞武装击落美军无人机",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1872033.html",
+          "source": "联合早报",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 22时36分]"
         },
         {
           "title": "伊朗外交部：伊朗外长与韩国外长进行电话交谈，讨论地区最新动态。",
@@ -193,9 +227,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
+        },
+        {
+          "title": "伊朗经巴基斯坦向美方反馈最新谈判意见",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1872060.html",
+          "source": "联合早报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：来自谈判团队的消息人士透露，伊朗的新方案侧重于就结束战争进行谈判以及由美方建立信任。",
@@ -204,7 +249,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -215,7 +260,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -226,7 +271,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -259,18 +304,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "伊朗媒体：也门胡塞武装击落美军无人机",
-          "url": "https://www.zaochenbao.com/news/politics/202605/1872033.html",
-          "source": "联合早报",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -286,6 +320,17 @@
           "time_info": "01时07分"
         },
         {
+          "title": "报道：伊朗船只突破美国封锁 已停靠在伊朗哈尔克岛",
+          "url": "https://flash.jin10.com/detail/20260518215650183800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
+        },
+        {
           "title": "据半岛电视台：伊朗国防部发言人称，美国全球影响力已经“崩溃”。",
           "url": "https://flash.jin10.com/detail/20260518000116788800",
           "source": "金十数据",
@@ -295,6 +340,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "伊朗消息人士：美国在伊朗维持有限核活动问题上表现出灵活性",
+          "url": "https://flash.jin10.com/detail/20260518215615050800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         },
         {
           "title": "据伊朗Press TV：伊朗总统佩泽希齐扬表示，美国和以色列政权正企图推行分裂性计划并制造不信任，以挑拨穆斯林国家相互对抗。",
@@ -319,13 +375,24 @@
           "time_info": "01时07分"
         },
         {
+          "title": "现货黄金震荡上行，向上触及4580美元/盎司，日内涨0.92%。消息面上，伊朗称伊方船只已突破美国封锁。",
+          "url": "https://flash.jin10.com/detail/20260518215305790800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
+        },
+        {
           "title": "伊朗已逮捕6500多名间谍及通敌人员",
           "url": "https://flash.jin10.com/detail/20260518175905139800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -347,7 +414,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         }
@@ -355,7 +422,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普与李在明通话 讨论中美峰会成果",
@@ -389,6 +456,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时07分 ~ 08时07分]"
+        },
+        {
+          "title": "外交部发言人就美国总统特朗普涉台表态答记者问",
+          "url": "https://www.cls.cn/detail/2374157",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 22时36分]"
         },
         {
           "title": "特朗普会晤国安高层后发文警告伊朗快点行动，否则将一无所有",
@@ -438,17 +516,6 @@
           "time_info": "01时07分"
         },
         {
-          "title": "外交部发言人就美国总统特朗普涉台表态答记者问",
-          "url": "https://www.cls.cn/detail/2374157",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
           "title": "美国总统特朗普：对伊朗来说，时间在流逝，他们最好迅速行动，否则将一无所剩。",
           "url": "https://flash.jin10.com/detail/20260518004343934800",
           "source": "金十数据",
@@ -466,7 +533,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -502,6 +569,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时06分 ~ 08时07分]"
+        },
+        {
+          "title": "国民党副主席张荣恭：特朗普明白拒绝台倚美谋独",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/1872042.html",
+          "source": "联合早报",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 22时36分]"
+        },
+        {
+          "title": "内塔尼亚胡与特朗普通话“讨论重启对伊战事可能性”，阿联酋关键核电站遭袭",
+          "url": "https://wallstreetcn.com/articles/3772466",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 22时36分]"
+        },
+        {
+          "title": "特朗普警告伊朗：“时钟正滴答作响”",
+          "url": "https://www.cls.cn/detail/2373911",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 22时36分]"
         },
         {
           "title": "特朗普称仍相信伊朗有意达成协议",
@@ -565,42 +668,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
         {
-          "title": "国民党副主席张荣恭：特朗普明白拒绝台倚美谋独",
-          "url": "https://www.zaochenbao.com/news/taiwan/202605/1872042.html",
-          "source": "联合早报",
+          "title": "美国消息人士：伊朗仅剩数日窗口 特朗普耐心正在耗尽",
+          "url": "https://flash.jin10.com/detail/20260518220028346800",
+          "source": "金十数据",
           "ranks": [
-            8
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "内塔尼亚胡与特朗普通话“讨论重启对伊战事可能性”，阿联酋关键核电站遭袭",
-          "url": "https://wallstreetcn.com/articles/3772466",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "特朗普警告伊朗：“时钟正滴答作响”",
-          "url": "https://www.cls.cn/detail/2373911",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "22时36分"
         },
         {
           "title": "特朗普特使首访格陵兰岛 参加经济论坛",
@@ -682,6 +763,112 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
+          "url": "https://www.cls.cn/detail/2373249",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 08时07分]"
+        },
+        {
+          "title": "美伊局势缓和，美股高开，半导体股普涨，油价回落，黄金小幅上涨",
+          "url": "https://wallstreetcn.com/articles/3772473",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
+        },
+        {
+          "title": "理想汽车美股盘前跌超9%",
+          "url": "https://www.36kr.com/newsflashes/3814620333579780",
+          "source": "36氪",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "热门中概股美股盘前涨跌不一，百度涨近5%",
+          "url": "https://www.36kr.com/newsflashes/3814796670115590",
+          "source": "36氪",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
+        },
+        {
+          "title": "警报拉响！美股无视“通胀猛虎”，华尔街警告随时面临坠落风险",
+          "url": "https://flash.jin10.com/detail/20260518220842499800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
+        },
+        {
+          "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
+          "url": "https://www.cls.cn/detail/2373172",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
+        },
+        {
+          "title": "美股股指期货周一小幅低开，其中道指期货跌0.3%。",
+          "url": "https://flash.jin10.com/detail/20260518060027813800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时00分 ~ 07时01分]"
+        },
+        {
+          "title": "美股大型科技股盘前涨跌不一，英伟达涨超2%",
+          "url": "https://www.36kr.com/newsflashes/3814792174657025",
+          "source": "36氪",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
+        },
+        {
+          "title": "美股迎来史上最大电力并购案 SpaceX概念股盘前走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2374572",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 4,
       "titles": [
@@ -701,11 +888,12 @@
           "url": "https://www.cls.cn/detail/2374021",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 22时36分]"
         },
         {
           "title": "抛美债、买日债--华尔街准备应对“日资回流”",
@@ -731,57 +919,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时13分 ~ 18时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
-          "url": "https://www.cls.cn/detail/2373249",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 08时07分]"
-        },
-        {
-          "title": "理想汽车美股盘前跌超9%",
-          "url": "https://www.36kr.com/newsflashes/3814620333579780",
-          "source": "36氪",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
-          "url": "https://www.cls.cn/detail/2373172",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时06分 ~ 08时07分]"
-        },
-        {
-          "title": "美股股指期货周一小幅低开，其中道指期货跌0.3%。",
-          "url": "https://flash.jin10.com/detail/20260518060027813800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时00分 ~ 07时01分]"
         }
       ]
     },
@@ -838,6 +975,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "网易有道旗下多项产品服务接入DeepSeek-V4",
+          "url": "https://www.36kr.com/newsflashes/3814758816587523",
+          "source": "36氪",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         }
       ]
     }
