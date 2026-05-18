@@ -1,250 +1,11 @@
 {
-  "generated_at": "2026-05-18T08:07:05.862569+08:00",
-  "total_titles_processed": 249,
+  "generated_at": "2026-05-18T13:13:21.910367+08:00",
+  "total_titles_processed": 354,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 21,
-      "titles": [
-        {
-          "title": "报道：美方在回应伊朗提议时列出5个关键条件",
-          "url": "https://wallstreetcn.com/articles/3772457",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 08时07分]"
-        },
-        {
-          "title": "英媒：美国游说阿联酋夺取伊朗关键岛屿 为战争发挥更大作用",
-          "url": "https://www.zaochenbao.com/news/politics/202605/1771985.html",
-          "source": "联合早报",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 08时07分]"
-        },
-        {
-          "title": "伊朗宣布5月19日起恢复股票市场交易",
-          "url": "https://www.cls.cn/detail/2373254",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 08时07分]"
-        },
-        {
-          "title": "拟为衔接欧亚海底电缆征费 伊朗对霍尔木兹海峡的钳制从海上伸入海底",
-          "url": "https://www.zaochenbao.com/news/politics/202605/1771977.html",
-          "source": "联合早报",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 08时07分]"
-        },
-        {
-          "title": "据伊朗Press TV：伊朗副总统表示，伊朗将不再允许敌方的军事装备通过霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260518023048693800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时20分 ~ 05时04分]"
-        },
-        {
-          "title": "伊朗表示已做好应对美国升级局势的准备",
-          "url": "https://flash.jin10.com/detail/20260518021708433800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时20分 ~ 05时04分]"
-        },
-        {
-          "title": "伊朗国防部：伊朗完全准备好应对任何新的侵略。",
-          "url": "https://flash.jin10.com/detail/20260518021341985800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 03时21分]"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外长和法国外长进行电话交谈。",
-          "url": "https://flash.jin10.com/detail/20260518035559589800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时03分 ~ 05时04分]"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外长阿拉格齐在与韩国外长的通话中指出，该地区所遭受的不安全状况及其引发的全球性后果，均源于美国及犹太复国主义政权针对伊朗采取的侵略行径。国际社会必须追究其违反国际法及所犯罪行的责任。",
-          "url": "https://flash.jin10.com/detail/20260518033524325800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时03分 ~ 05时04分]"
-        },
-        {
-          "title": "据伊朗学生通讯社：伊朗外长阿拉格齐与土耳其外长通电话。",
-          "url": "https://flash.jin10.com/detail/20260518032430766800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时03分 ~ 05时04分]"
-        },
-        {
-          "title": "伊朗外交部：伊朗外长与韩国外长进行电话交谈，讨论地区最新动态。",
-          "url": "https://flash.jin10.com/detail/20260518014946022800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 03时21分]"
-        },
-        {
-          "title": "据伊朗Press TV：前伊朗革命卫队指挥官穆赫森·雷扎伊表示，美方曾在停火期间两次试图打通霍尔木兹海峡，但均告失败；在其中一次尝试中，美方的一艘舰船遭到了伊朗导弹的重创。",
-          "url": "https://flash.jin10.com/detail/20260518032032892800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时03分 ~ 05时04分]"
-        },
-        {
-          "title": "据伊朗Press TV：伊拉克总理已向该国海关当局下达直接指令，要求允许伊朗货物经由伊拉克领土进行过境和转运。",
-          "url": "https://flash.jin10.com/detail/20260518030722552800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时03分 ~ 05时04分]"
-        },
-        {
-          "title": "据沙特媒体哈达斯（Alhadath）：以色列媒体报道，针对伊朗的打击目标清单中，包含了华盛顿在上一轮行动中拒绝予以打击的地点。",
-          "url": "https://flash.jin10.com/detail/20260518013851218800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 03时21分]"
-        },
-        {
-          "title": "伊朗媒体称，美国在最新的和平提议中“没有做出任何让步”",
-          "url": "https://flash.jin10.com/detail/20260518003743507800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "卡塔尔外交部发表声明称，卡塔尔首相与巴基斯坦总理谢赫巴兹·谢里夫通电话，讨论巴基斯坦在伊朗战争中的调解努力。卡塔尔首相重申卡塔尔全力支持巴基斯坦为通过和平手段结束危机而进行的调解努力。",
-          "url": "https://flash.jin10.com/detail/20260518001615603800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗重申已做好充分准备应对任何新的袭击。",
-          "url": "https://flash.jin10.com/detail/20260518000250093800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "据半岛电视台：伊朗国防部发言人称，美国全球影响力已经“崩溃”。",
-          "url": "https://flash.jin10.com/detail/20260518000116788800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "据伊朗Press TV：伊朗总统佩泽希齐扬表示，美国和以色列政权正企图推行分裂性计划并制造不信任，以挑拨穆斯林国家相互对抗。",
-          "url": "https://flash.jin10.com/detail/20260517235350901800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "伊朗外长与卡塔尔外长通话，讨论“地区局势发展”。",
-          "url": "https://flash.jin10.com/detail/20260517233910090800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "美媒：伊朗计划收取霍尔木兹海峡海底光缆通行费",
-          "url": "https://flash.jin10.com/detail/20260517233156883800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普与李在明通话 讨论中美峰会成果",
@@ -426,6 +187,17 @@
           "time_info": "[03时20分 ~ 03时21分]"
         },
         {
+          "title": "特朗普特使首访格陵兰岛 参加经济论坛",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1872008.html",
+          "source": "联合早报",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
           "title": "美国参议员格雷厄姆敦促特朗普恢复对伊朗的打击",
           "url": "https://flash.jin10.com/detail/20260518001435288800",
           "source": "金十数据",
@@ -437,6 +209,50 @@
           "time_info": "01时07分"
         },
         {
+          "title": "因特朗普行政令 法德航运公司暂停往返古巴船次预定",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1872007.html",
+          "source": "联合早报",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "特朗普警告伊朗时间所剩不多 媒体：美以领导人通话",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1872004.html",
+          "source": "联合早报",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "伟达：特朗普的魔幻现实外交及效应",
+          "url": "https://www.zaochenbao.com/news/opinion/202605/1871997.html",
+          "source": "联合早报",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "海基·帕托迈基：规划后美元时代秩序 终结特朗普混乱局面",
+          "url": "https://www.zaochenbao.com/news/opinion/202605/1871995.html",
+          "source": "联合早报",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
           "title": "据AXIOS：以色列官员透露，特朗普已与以色列总理内塔尼亚胡通电话，并讨论了伊朗问题。",
           "url": "https://flash.jin10.com/detail/20260517233453161800",
           "source": "金十数据",
@@ -446,6 +262,297 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "报道：美方在回应伊朗提议时列出5个关键条件",
+          "url": "https://wallstreetcn.com/articles/3772457",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 13时13分]"
+        },
+        {
+          "title": "英媒：美国游说阿联酋夺取伊朗关键岛屿 为战争发挥更大作用",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1771985.html",
+          "source": "联合早报",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 08时07分]"
+        },
+        {
+          "title": "伊朗宣布5月19日起恢复股票市场交易",
+          "url": "https://www.cls.cn/detail/2373254",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 08时07分]"
+        },
+        {
+          "title": "拟为衔接欧亚海底电缆征费 伊朗对霍尔木兹海峡的钳制从海上伸入海底",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1771977.html",
+          "source": "联合早报",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 08时07分]"
+        },
+        {
+          "title": "据伊朗Press TV：伊朗副总统表示，伊朗将不再允许敌方的军事装备通过霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260518023048693800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时20分 ~ 05时04分]"
+        },
+        {
+          "title": "伊朗表示已做好应对美国升级局势的准备",
+          "url": "https://flash.jin10.com/detail/20260518021708433800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时20分 ~ 05时04分]"
+        },
+        {
+          "title": "伊朗国防部：伊朗完全准备好应对任何新的侵略。",
+          "url": "https://flash.jin10.com/detail/20260518021341985800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 03时21分]"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外长和法国外长进行电话交谈。",
+          "url": "https://flash.jin10.com/detail/20260518035559589800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时03分 ~ 05时04分]"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外长阿拉格齐在与韩国外长的通话中指出，该地区所遭受的不安全状况及其引发的全球性后果，均源于美国及犹太复国主义政权针对伊朗采取的侵略行径。国际社会必须追究其违反国际法及所犯罪行的责任。",
+          "url": "https://flash.jin10.com/detail/20260518033524325800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时03分 ~ 05时04分]"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗外长阿拉格齐与土耳其外长通电话。",
+          "url": "https://flash.jin10.com/detail/20260518032430766800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时03分 ~ 05时04分]"
+        },
+        {
+          "title": "伊朗外交部：伊朗外长与韩国外长进行电话交谈，讨论地区最新动态。",
+          "url": "https://flash.jin10.com/detail/20260518014946022800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 03时21分]"
+        },
+        {
+          "title": "据伊朗Press TV：前伊朗革命卫队指挥官穆赫森·雷扎伊表示，美方曾在停火期间两次试图打通霍尔木兹海峡，但均告失败；在其中一次尝试中，美方的一艘舰船遭到了伊朗导弹的重创。",
+          "url": "https://flash.jin10.com/detail/20260518032032892800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时03分 ~ 05时04分]"
+        },
+        {
+          "title": "据伊朗Press TV：伊拉克总理已向该国海关当局下达直接指令，要求允许伊朗货物经由伊拉克领土进行过境和转运。",
+          "url": "https://flash.jin10.com/detail/20260518030722552800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时03分 ~ 05时04分]"
+        },
+        {
+          "title": "据沙特媒体哈达斯（Alhadath）：以色列媒体报道，针对伊朗的打击目标清单中，包含了华盛顿在上一轮行动中拒绝予以打击的地点。",
+          "url": "https://flash.jin10.com/detail/20260518013851218800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 03时21分]"
+        },
+        {
+          "title": "伊朗媒体称，美国在最新的和平提议中“没有做出任何让步”",
+          "url": "https://flash.jin10.com/detail/20260518003743507800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "伊朗议长获任对华事务特别代表",
+          "url": "https://www.zaochenbao.com/news/china/202605/1872010.html",
+          "source": "联合早报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "卡塔尔外交部发表声明称，卡塔尔首相与巴基斯坦总理谢赫巴兹·谢里夫通电话，讨论巴基斯坦在伊朗战争中的调解努力。卡塔尔首相重申卡塔尔全力支持巴基斯坦为通过和平手段结束危机而进行的调解努力。",
+          "url": "https://flash.jin10.com/detail/20260518001615603800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗重申已做好充分准备应对任何新的袭击。",
+          "url": "https://flash.jin10.com/detail/20260518000250093800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "据半岛电视台：伊朗国防部发言人称，美国全球影响力已经“崩溃”。",
+          "url": "https://flash.jin10.com/detail/20260518000116788800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "据伊朗Press TV：伊朗总统佩泽希齐扬表示，美国和以色列政权正企图推行分裂性计划并制造不信任，以挑拨穆斯林国家相互对抗。",
+          "url": "https://flash.jin10.com/detail/20260517235350901800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "伊朗外长与卡塔尔外长通话，讨论“地区局势发展”。",
+          "url": "https://flash.jin10.com/detail/20260517233910090800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "美媒：伊朗计划收取霍尔木兹海峡海底光缆通行费",
+          "url": "https://flash.jin10.com/detail/20260517233156883800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
+          "url": "https://wallstreetcn.com/articles/3772363",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 08时07分]"
+        },
+        {
+          "title": "抛美债、买日债--华尔街准备应对“日资回流”",
+          "url": "https://wallstreetcn.com/articles/3772455",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时00分 ~ 13时13分]"
+        },
+        {
+          "title": "美股不祥信号浮现？美债收益率狂飙 一文解析背后三大推手",
+          "url": "https://www.cls.cn/detail/2373864",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         }
       ]
     },
@@ -490,36 +597,8 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
-          "url": "https://wallstreetcn.com/articles/3772363",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 08时07分]"
-        },
-        {
-          "title": "抛美债、买日债--华尔街准备应对“日资回流”",
-          "url": "https://wallstreetcn.com/articles/3772455",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时00分 ~ 07时01分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
@@ -531,6 +610,45 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时07分 ~ 08时07分]"
+        },
+        {
+          "title": "本周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
+          "url": "https://wallstreetcn.com/articles/3772335",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "高盛称各国央行料将加大力度购买黄金，预估金价年底可达5400美元",
+          "url": "https://www.36kr.com/newsflashes/3814313402506754",
+          "source": "36氪",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "印度限金令催生恐慌性抢购潮，高盛：年底金价仍看至5400美元",
+          "url": "https://wallstreetcn.com/articles/3772448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         }
       ]
     }
