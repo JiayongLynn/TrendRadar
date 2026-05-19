@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T12:17:01.302492+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-19T16:35:12.721677+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普在北京大谈“友谊”，但峰会未达成任何实质成果",
@@ -23,22 +23,12 @@
           "url": "https://wallstreetcn.com/articles/3772569",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 12时17分]"
-        },
-        {
-          "title": "分析：特习会使中美贸易回归 或接近特朗普首任水平",
-          "url": "https://www.zaochenbao.com/news/politics/202605/1972099.html",
-          "source": "联合早报",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 12时17分]"
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 16时35分]"
         },
         {
           "title": "特朗普谈入股英特尔：后悔当初只拿10%股份，“应该多要一点”",
@@ -62,6 +52,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
+        },
+        {
+          "title": "格陵兰岛总理：特朗普仍然渴望控制和拥有格陵兰岛",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1972115.html",
+          "source": "联合早报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "特朗普称将推迟对伊朗发动军事打击",
@@ -98,6 +99,40 @@
           "time_info": "07时13分"
         },
         {
+          "title": "沃什上任在即！特朗普“撤回”降息压力：伊朗战争结束前无法确定利率前景",
+          "url": "https://www.cls.cn/detail/2375112",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "美媒称特朗普对古巴“动武”可能性在增加",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1972113.html",
+          "source": "联合早报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "分析：特习会使中美贸易回归 或接近特朗普首任水平",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1972099.html",
+          "source": "联合早报",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 16时35分]"
+        },
+        {
           "title": "国民党副主席张荣恭：特朗普明白拒绝台倚美谋独",
           "url": "https://www.zaochenbao.com/news/taiwan/202605/1872042.html",
           "source": "联合早报",
@@ -113,11 +148,36 @@
           "url": "https://www.cls.cn/detail/2374803",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 12时17分]"
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 16时35分]"
+        },
+        {
+          "title": "陈国祥：特朗普亲口表态的对台新政策即将形成",
+          "url": "https://www.zaochenbao.com/news/opinion/202605/1972083.html",
+          "source": "联合早报",
+          "ranks": [
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 16时35分]"
+        },
+        {
+          "title": "王庆民：特朗普访华：务实竞合压倒意识形态对立",
+          "url": "https://www.zaochenbao.com/news/opinion/202605/1972082.html",
+          "source": "联合早报",
+          "ranks": [
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 16时35分]"
         },
         {
           "title": "称原定19日恢复打击伊朗 特朗普应中东盟友要求暂缓行动",
@@ -125,28 +185,6 @@
           "source": "联合早报",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 12时17分]"
-        },
-        {
-          "title": "陈国祥：特朗普亲口表态的对台新政策即将形成",
-          "url": "https://www.zaochenbao.com/news/opinion/202605/1972083.html",
-          "source": "联合早报",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 12时17分]"
-        },
-        {
-          "title": "王庆民：特朗普访华：务实竞合压倒意识形态对立",
-          "url": "https://www.zaochenbao.com/news/opinion/202605/1972082.html",
-          "source": "联合早报",
-          "ranks": [
-            21
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -173,6 +211,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
+        },
+        {
+          "title": "特朗普按下暂停键，原油多头为何还没撤？｜原油头条",
+          "url": "https://flash.jin10.com/detail/20260519162211728800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "美国总统特朗普：（对伊朗的）袭击原定于明天进行。",
@@ -206,6 +255,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "特朗普对古巴动武意愿急升，军事选项摆上白宫桌面",
+          "url": "https://flash.jin10.com/detail/20260519161458780800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "特朗普处方药网站新增数百种仿制药",
@@ -375,6 +435,172 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
+          "url": "https://wallstreetcn.com/articles/3772473",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时13分 ~ 16时35分]"
+        },
+        {
+          "title": "美股收盘：标普纳指连跌两日 存储概念股、芯片板块整体走弱",
+          "url": "https://www.cls.cn/detail/2374787",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时13分 ~ 16时35分]"
+        },
+        {
+          "title": "【早报】美股存储、半导体板块大跌；特朗普：暂缓对伊打击",
+          "url": "https://www.cls.cn/detail/2374806",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 16时35分]"
+        },
+        {
+          "title": "美伊局势缓和，美股高开，半导体股普涨，油价回落，黄金小幅上涨",
+          "url": "https://wallstreetcn.com/articles/3772473",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时34分 ~ 05时21分]"
+        },
+        {
+          "title": "热门中概股美股盘前涨跌不一，百度涨近5%",
+          "url": "https://www.36kr.com/newsflashes/3814796670115590",
+          "source": "36氪",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时34分 ~ 07时13分]"
+        },
+        {
+          "title": "美股异动丨禾赛盘前涨2.2%，理想L9 Livis全球首发禾赛FTX纯固态激光雷达",
+          "url": "https://www.gelonghui.com/news/5236076",
+          "source": "格隆汇",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "美股迎来史上最大电力并购案 SpaceX概念股盘前走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2374572",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时34分 ~ 07时13分]"
+        },
+        {
+          "title": "美股大型科技股盘前涨跌不一，英伟达涨超2%",
+          "url": "https://www.36kr.com/newsflashes/3814792174657025",
+          "source": "36氪",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时34分 ~ 07时13分]"
+        },
+        {
+          "title": "美股三大指数收盘涨跌不一，理想汽车跌超9%",
+          "url": "https://www.36kr.com/newsflashes/3815389882801923",
+          "source": "36氪",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
+          "title": "美股三大指数收盘涨跌不一 费城半导体指数跌2.47%",
+          "url": "https://www.gelonghui.com/news/5235826",
+          "source": "格隆汇",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
+          "title": "美股异动｜SAP盘前涨3.6%，与英伟达共同开发代理式AI基础设施",
+          "url": "https://www.gelonghui.com/news/5236067",
+          "source": "格隆汇",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "金十图示：2026年05月18日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260519040525263800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "金十图示：2026年05月18日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260519040523142800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 理想汽车跌近10%",
+          "url": "https://flash.jin10.com/detail/20260519040054557800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 14,
       "titles": [
@@ -383,11 +609,12 @@
           "url": "https://wallstreetcn.com/articles/3772532",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时34分 ~ 12时17分]"
+          "appearance_count": 7,
+          "time_info": "[01时34分 ~ 16时35分]"
         },
         {
           "title": "“这可能是你最后一次听到我的声音”：战争以来伊朗政治处决激增",
@@ -410,8 +637,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时34分 ~ 12时17分]"
+          "appearance_count": 7,
+          "time_info": "[01时34分 ~ 16时35分]"
         },
         {
           "title": "伊朗塔斯尼姆通讯社：伊朗在格什姆岛发现美以无人机。",
@@ -537,151 +764,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "美伊局势缓和，美股高开，半导体股普涨，油价回落，黄金小幅上涨",
-          "url": "https://wallstreetcn.com/articles/3772473",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时34分 ~ 05时21分]"
-        },
-        {
-          "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
-          "url": "https://wallstreetcn.com/articles/3772473",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时13分 ~ 12时17分]"
-        },
-        {
-          "title": "美股收盘：标普纳指连跌两日 存储概念股、芯片板块整体走弱",
-          "url": "https://www.cls.cn/detail/2374787",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时13分 ~ 12时17分]"
-        },
-        {
-          "title": "【早报】美股存储、半导体板块大跌；特朗普：暂缓对伊打击",
-          "url": "https://www.cls.cn/detail/2374806",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 12时17分]"
-        },
-        {
-          "title": "热门中概股美股盘前涨跌不一，百度涨近5%",
-          "url": "https://www.36kr.com/newsflashes/3814796670115590",
-          "source": "36氪",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时34分 ~ 07时13分]"
-        },
-        {
-          "title": "美股迎来史上最大电力并购案 SpaceX概念股盘前走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2374572",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时34分 ~ 07时13分]"
-        },
-        {
-          "title": "美股大型科技股盘前涨跌不一，英伟达涨超2%",
-          "url": "https://www.36kr.com/newsflashes/3814792174657025",
-          "source": "36氪",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时34分 ~ 07时13分]"
-        },
-        {
-          "title": "美股三大指数收盘涨跌不一，理想汽车跌超9%",
-          "url": "https://www.36kr.com/newsflashes/3815389882801923",
-          "source": "36氪",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "美股三大指数收盘涨跌不一 费城半导体指数跌2.47%",
-          "url": "https://www.gelonghui.com/news/5235826",
-          "source": "格隆汇",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "金十图示：2026年05月18日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260519040525263800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "金十图示：2026年05月18日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260519040523142800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 理想汽车跌近10%",
-          "url": "https://flash.jin10.com/detail/20260519040054557800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "日本财相放话：如有必要将随时干预日元，但尽量不推高美债收益率",
@@ -699,11 +783,12 @@
           "url": "https://www.cls.cn/detail/2374855",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 12时17分]"
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 16时35分]"
         },
         {
           "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
@@ -713,8 +798,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 12时17分]"
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 16时35分]"
         },
         {
           "title": "警戒线已破！摩根士丹利：10年期美债收益率升穿4.5%，美股显著回调风险骤增",
@@ -726,6 +811,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时16分 ~ 12时17分]"
+        },
+        {
+          "title": "3月外国投资者美债持仓下降 管涛：地缘冲突、能源供给冲击的自然反应，4月或回升",
+          "url": "https://www.cls.cn/detail/2374826",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "英国在3月增持美债 中国和日本减持",
@@ -748,6 +844,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股异动丨谷歌大涨2.7%，创历史新高，市值超4.9万亿美元",
+          "url": "https://www.gelonghui.com/news/5235744",
+          "source": "格隆汇",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时34分 ~ 05时21分]"
+        },
+        {
+          "title": "九大看点梳理！谷歌I/O大会前瞻：“AI全栈霸主”能否再度惊艳华尔街？",
+          "url": "https://www.cls.cn/detail/2374982",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "谷歌DeepMind创始人据悉为Anthropic早期投资人",
+          "url": "https://www.36kr.com/newsflashes/3815910562569733",
+          "source": "36氪",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "戴尔：谷歌与戴尔合作，在戴尔PowerEdge XE9780服务器上通过谷歌分布式云推出Gemini 3闪存模型。",
+          "url": "https://flash.jin10.com/detail/20260519010215789800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时34分"
         }
       ]
     },
@@ -798,34 +944,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股异动丨谷歌大涨2.7%，创历史新高，市值超4.9万亿美元",
-          "url": "https://www.gelonghui.com/news/5235744",
-          "source": "格隆汇",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时34分 ~ 05时21分]"
-        },
-        {
-          "title": "戴尔：谷歌与戴尔合作，在戴尔PowerEdge XE9780服务器上通过谷歌分布式云推出Gemini 3闪存模型。",
-          "url": "https://flash.jin10.com/detail/20260519010215789800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
         }
       ]
     },
