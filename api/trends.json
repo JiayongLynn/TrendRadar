@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T07:13:23.029482+08:00",
-  "total_titles_processed": 208,
+  "generated_at": "2026-05-19T12:17:01.302492+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普在北京大谈“友谊”，但峰会未达成任何实质成果",
@@ -19,6 +19,40 @@
           "time_info": "[01时34分 ~ 07时13分]"
         },
         {
+          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
+          "url": "https://wallstreetcn.com/articles/3772569",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 12时17分]"
+        },
+        {
+          "title": "分析：特习会使中美贸易回归 或接近特朗普首任水平",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1972099.html",
+          "source": "联合早报",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 12时17分]"
+        },
+        {
+          "title": "特朗普谈入股英特尔：后悔当初只拿10%股份，“应该多要一点”",
+          "url": "https://www.cls.cn/detail/2374617",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时34分 ~ 12时17分]"
+        },
+        {
           "title": "特朗普：取消原定于明天的对伊军事打击",
           "url": "https://flash.jin10.com/detail/20260519031017684800",
           "source": "金十数据",
@@ -28,6 +62,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
+        },
+        {
+          "title": "特朗普称将推迟对伊朗发动军事打击",
+          "url": "https://www.cls.cn/detail/2374774",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时13分 ~ 12时17分]"
         },
         {
           "title": "美、布两油短线大幅跳水，现货金银快速拉升。特朗普称，应中东国家请求暂缓原定于明天进行的对伊朗的攻击。",
@@ -47,21 +93,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
-        },
-        {
-          "title": "特朗普谈入股英特尔：后悔当初只拿10%股份，“应该多要一点”",
-          "url": "https://www.cls.cn/detail/2374617",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时34分 ~ 07时13分]"
         },
         {
           "title": "国民党副主席张荣恭：特朗普明白拒绝台倚美谋独",
@@ -73,6 +107,61 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时34分 ~ 07时13分]"
+        },
+        {
+          "title": "特朗普称将推迟对伊朗发动军事打击 SpaceX正式启动拆股计划 | 环球市场",
+          "url": "https://www.cls.cn/detail/2374803",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 12时17分]"
+        },
+        {
+          "title": "称原定19日恢复打击伊朗 特朗普应中东盟友要求暂缓行动",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1972090.html",
+          "source": "联合早报",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 12时17分]"
+        },
+        {
+          "title": "陈国祥：特朗普亲口表态的对台新政策即将形成",
+          "url": "https://www.zaochenbao.com/news/opinion/202605/1972083.html",
+          "source": "联合早报",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 12时17分]"
+        },
+        {
+          "title": "王庆民：特朗普访华：务实竞合压倒意识形态对立",
+          "url": "https://www.zaochenbao.com/news/opinion/202605/1972082.html",
+          "source": "联合早报",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 12时17分]"
+        },
+        {
+          "title": "特朗普再警告伊朗 不达成协议将一无所有",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1972079.html",
+          "source": "联合早报",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 12时17分]"
         },
         {
           "title": "美国总统特朗普：已作进一步指示，一旦未能达成可接受的协议，应随时准备立即执行对伊朗的大规模全面军事打击行动。",
@@ -125,18 +214,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "特朗普称将推迟对伊朗发动军事打击",
-          "url": "https://www.cls.cn/detail/2374774",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -191,7 +269,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -235,7 +313,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -246,7 +324,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -257,7 +335,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -268,7 +346,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -279,7 +357,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -290,7 +368,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         }
@@ -308,8 +386,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时34分 ~ 07时13分]"
+          "appearance_count": 6,
+          "time_info": "[01时34分 ~ 12时17分]"
         },
         {
           "title": "“这可能是你最后一次听到我的声音”：战争以来伊朗政治处决激增",
@@ -321,6 +399,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时34分 ~ 07时13分]"
+        },
+        {
+          "title": "伊朗哈尔克岛油轮积压创峰值，美军封锁令原油出口陷入瓶颈",
+          "url": "https://wallstreetcn.com/articles/3772533",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时34分 ~ 12时17分]"
         },
         {
           "title": "伊朗塔斯尼姆通讯社：伊朗在格什姆岛发现美以无人机。",
@@ -365,19 +456,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
-        },
-        {
-          "title": "伊朗哈尔克岛油轮积压创峰值，美军封锁令原油出口陷入瓶颈",
-          "url": "https://wallstreetcn.com/articles/3772533",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时34分 ~ 07时13分]"
         },
         {
           "title": "伊朗经巴基斯坦向美方反馈最新谈判意见",
@@ -460,7 +538,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美伊局势缓和，美股高开，半导体股普涨，油价回落，黄金小幅上涨",
@@ -474,6 +552,40 @@
           "time_info": "[01时34分 ~ 05时21分]"
         },
         {
+          "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
+          "url": "https://wallstreetcn.com/articles/3772473",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时13分 ~ 12时17分]"
+        },
+        {
+          "title": "美股收盘：标普纳指连跌两日 存储概念股、芯片板块整体走弱",
+          "url": "https://www.cls.cn/detail/2374787",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时13分 ~ 12时17分]"
+        },
+        {
+          "title": "【早报】美股存储、半导体板块大跌；特朗普：暂缓对伊打击",
+          "url": "https://www.cls.cn/detail/2374806",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 12时17分]"
+        },
+        {
           "title": "热门中概股美股盘前涨跌不一，百度涨近5%",
           "url": "https://www.36kr.com/newsflashes/3814796670115590",
           "source": "36氪",
@@ -484,28 +596,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时34分 ~ 07时13分]"
-        },
-        {
-          "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
-          "url": "https://wallstreetcn.com/articles/3772473",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "美股收盘：标普纳指连跌两日 存储概念股、芯片板块整体走弱",
-          "url": "https://www.cls.cn/detail/2374787",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时13分"
         },
         {
           "title": "美股迎来史上最大电力并购案 SpaceX概念股盘前走高 | 今夜看点",
@@ -539,7 +629,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -550,7 +640,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -590,6 +680,78 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "日本财相放话：如有必要将随时干预日元，但尽量不推高美债收益率",
+          "url": "https://flash.jin10.com/detail/20260519114608612800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 12时17分]"
+        },
+        {
+          "title": "美联储“不得不鹰”？大摩预警：若美债收益率持续飙升 美股恐现“重大回调”",
+          "url": "https://www.cls.cn/detail/2374855",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 12时17分]"
+        },
+        {
+          "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
+          "url": "https://wallstreetcn.com/articles/3772572",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 12时17分]"
+        },
+        {
+          "title": "警戒线已破！摩根士丹利：10年期美债收益率升穿4.5%，美股显著回调风险骤增",
+          "url": "https://flash.jin10.com/detail/20260519111245641800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 12时17分]"
+        },
+        {
+          "title": "英国在3月增持美债 中国和日本减持",
+          "url": "https://flash.jin10.com/detail/20260519040958364800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "日本官员质疑抛美债撑日元操作 担忧干预可能适得其反",
+          "url": "https://flash.jin10.com/detail/20260519055948313800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 4,
       "titles": [
@@ -600,7 +762,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -668,34 +830,6 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "英国在3月增持美债 中国和日本减持",
-          "url": "https://flash.jin10.com/detail/20260519040958364800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "日本官员质疑抛美债撑日元操作 担忧干预可能适得其反",
-          "url": "https://flash.jin10.com/detail/20260519055948313800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -710,6 +844,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时34分 ~ 07时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年05月19日（周二）上海金早盘价为999.72元/克，较国际金价(993.94元/克)，高5.78元/克",
+          "url": "https://flash.jin10.com/detail/20260519110202141800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 12时17分]"
         }
       ]
     },
