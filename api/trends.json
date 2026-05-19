@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T05:28:06.189392+08:00",
-  "total_titles_processed": 165,
+  "generated_at": "2026-05-20T07:13:12.383203+08:00",
+  "total_titles_processed": 198,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 05时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 07时13分]"
         },
         {
           "title": "特朗普称习近平承诺中国不会向伊朗提供武器",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 05时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 07时13分]"
         },
         {
           "title": "特朗普暂搁军售 卓荣泰：台湾是全球核心利益 不轻易被牺牲",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 05时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 07时13分]"
         },
         {
           "title": "美驻华大使：特朗普向习近平表明美国不支持台独",
@@ -48,8 +48,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 05时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 07时13分]"
         },
         {
           "title": "特朗普应波斯湾盟友要求 暂缓对伊朗新一轮打击",
@@ -59,8 +59,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 05时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 07时13分]"
         },
         {
           "title": "格陵兰岛总理：特朗普仍然渴望控制和拥有格陵兰岛",
@@ -70,8 +70,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 05时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 07时13分]"
         },
         {
           "title": "特朗普政府拟缩减北约危机响应部队 要求欧洲接棒安全主导权",
@@ -94,6 +94,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 05时28分]"
+        },
+        {
+          "title": "特朗普威胁再“重击”伊朗，参议院反对战争的信号却愈发强烈",
+          "url": "https://flash.jin10.com/detail/20260520065925719800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
         },
         {
           "title": "市场消息：信函显示，美国民主党参议员华纳表示特朗普的手机制造存在误导性声明，对该公司的商业行为表示质疑。",
@@ -129,6 +140,17 @@
           "time_info": "03时09分"
         },
         {
+          "title": "美国参议院推进迫使特朗普从伊朗撤军的法案 共和党议员倒戈",
+          "url": "https://flash.jin10.com/detail/20260520060344604800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
           "title": "路透社/益普索调查显示，47%的共和党人支持特朗普对生活成本的处理，46%表示不支持。",
           "url": "https://flash.jin10.com/detail/20260520021242101800",
           "source": "金十数据",
@@ -160,6 +182,147 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "美国总统特朗普：强烈敦促国会将我在2023年强力支持的《铁路安全法案》纳入《地面运输再授权法案》。我要求所有共和党人本周在交通委员会将该法案作为修正案提出时投赞成票。",
+          "url": "https://flash.jin10.com/detail/20260520053745499800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
+          "title": "白宫：美国总统特朗普签署行政命令，旨在保护美国金融系统免受非法活动的影响。",
+          "url": "https://flash.jin10.com/detail/20260520053143326800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "热门中概股美股盘前涨跌互现，哔哩哔哩跌超4%",
+          "url": "https://www.36kr.com/newsflashes/3816212978680200",
+          "source": "36氪",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 07时13分]"
+        },
+        {
+          "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
+          "url": "https://wallstreetcn.com/articles/3772473",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 07时13分]"
+        },
+        {
+          "title": "美股大型科技股盘前多数下跌，英特尔跌超1%",
+          "url": "https://www.36kr.com/newsflashes/3816210396250497",
+          "source": "36氪",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 07时13分]"
+        },
+        {
+          "title": "美股三大指数集体收跌 光通信概念股逆势走强",
+          "url": "https://www.gelonghui.com/news/5236682",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
+          "title": "美股收盘：三大指数集体走低 光通信概念股逆市走强",
+          "url": "https://www.cls.cn/detail/2376079",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
+          "title": "美股异动丨现货黄金一度失守4500美元，黄金白银股集体下跌",
+          "url": "https://www.gelonghui.com/news/5236576",
+          "source": "格隆汇",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 07时13分]"
+        },
+        {
+          "title": "贝壳Q1财报后美股盘中大涨超8%",
+          "url": "https://www.gelonghui.com/news/5236570",
+          "source": "格隆汇",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 07时13分]"
+        },
+        {
+          "title": "美银基金经理调查：美股超配程度接近“卖出信号”，30年期收益率恐升破6%",
+          "url": "https://wallstreetcn.com/articles/3772622",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时27分 ~ 07时13分]"
+        },
+        {
+          "title": "金十图示：2026年05月19日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260520040952291800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 05时28分]"
+        },
+        {
+          "title": "金十图示：2026年05月19日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260520040951743800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 05时28分]"
         }
       ]
     },
@@ -175,8 +338,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 05时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 07时13分]"
         },
         {
           "title": "欧洲央行管委科赫尔：如果伊朗战争局面没有改善，预计将在6月加息。",
@@ -292,8 +455,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 05时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 07时13分]"
         },
         {
           "title": "谷歌人工智能负责人宣布推出面向科学的研究导向型Gemini。",
@@ -364,102 +527,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "热门中概股美股盘前涨跌互现，哔哩哔哩跌超4%",
-          "url": "https://www.36kr.com/newsflashes/3816212978680200",
-          "source": "36氪",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 05时28分]"
-        },
-        {
-          "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
-          "url": "https://wallstreetcn.com/articles/3772473",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 05时28分]"
-        },
-        {
-          "title": "美股大型科技股盘前多数下跌，英特尔跌超1%",
-          "url": "https://www.36kr.com/newsflashes/3816210396250497",
-          "source": "36氪",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 05时28分]"
-        },
-        {
-          "title": "美股异动丨现货黄金一度失守4500美元，黄金白银股集体下跌",
-          "url": "https://www.gelonghui.com/news/5236576",
-          "source": "格隆汇",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 05时28分]"
-        },
-        {
-          "title": "贝壳Q1财报后美股盘中大涨超8%",
-          "url": "https://www.gelonghui.com/news/5236570",
-          "source": "格隆汇",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 05时28分]"
-        },
-        {
-          "title": "美银基金经理调查：美股超配程度接近“卖出信号”，30年期收益率恐升破6%",
-          "url": "https://wallstreetcn.com/articles/3772622",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 05时28分]"
-        },
-        {
-          "title": "金十图示：2026年05月19日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260520040952291800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 05时28分]"
-        },
-        {
-          "title": "金十图示：2026年05月19日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260520040951743800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 05时28分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "通胀担忧高企，美债收益率持续攀升，美股存储概念股转涨，现货黄金日内跌2%",
@@ -471,6 +540,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时29分 ~ 05时28分]"
+        },
+        {
+          "title": "通胀担忧高企，美债收益率飙升至多年高位，标普、纳指三连跌，黄金一度跌超2%",
+          "url": "https://wallstreetcn.com/articles/3772605",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
         },
         {
           "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
@@ -494,11 +574,12 @@
           "url": "https://www.cls.cn/detail/2375756",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 05时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 07时13分]"
         }
       ]
     },
