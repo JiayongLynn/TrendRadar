@@ -1,33 +1,46 @@
 {
-  "generated_at": "2026-05-21T05:04:57.142447+08:00",
-  "total_titles_processed": 146,
+  "generated_at": "2026-05-21T07:21:04.887108+08:00",
+  "total_titles_processed": 193,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "美股收盘：三大指数均涨超1% 光通信、CPU概念表现强势",
+          "url": "https://www.cls.cn/detail/2377305",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时21分]"
+        },
         {
           "title": "热门中概股美股盘前涨跌不一，理想汽车跌超2%",
           "url": "https://www.36kr.com/newsflashes/3817625750389633",
           "source": "36氪",
           "ranks": [
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[02时26分 ~ 07时21分]"
         },
         {
           "title": "美股大型科技股盘前多数上涨，Arm涨超2%",
           "url": "https://www.36kr.com/newsflashes/3817624419157129",
           "source": "36氪",
           "ranks": [
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[02时26分 ~ 07时21分]"
         },
         {
           "title": "英伟达(NVDA.O)美股盘后转涨，其第一财季营收及第二财季营收展望均超出平均预期。",
@@ -36,7 +49,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -57,22 +70,35 @@
           "url": "https://www.gelonghui.com/news/5237610",
           "source": "格隆汇",
           "ranks": [
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[02时26分 ~ 07时21分]"
         },
         {
           "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
           "url": "https://wallstreetcn.com/articles/3772698",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时26分 ~ 07时21分]"
+        },
+        {
+          "title": "美股三大指数收涨超1%，CPU概念股表现强势，ARM大涨15%，AMD涨超8%，英特尔涨超7%",
+          "url": "https://www.gelonghui.com/news/5237694",
+          "source": "格隆汇",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时26分 ~ 05时04分]"
+          "time_info": "[07时20分 ~ 07时21分]"
         },
         {
           "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
@@ -87,13 +113,24 @@
           "time_info": "[02时26分 ~ 05时04分]"
         },
         {
+          "title": "美股三大指数集体收涨，ARM涨超15%",
+          "url": "https://www.36kr.com/newsflashes/3818225784767367",
+          "source": "36氪",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
           "title": "英伟达(NVDA.O)财报公布后，美股盘后跌超3%。",
           "url": "https://flash.jin10.com/detail/20260521042254934800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -104,7 +141,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -115,7 +152,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -126,7 +163,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         }
@@ -134,7 +171,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "美以曾计划扶植伊朗强硬派前总统上台",
@@ -144,8 +181,30 @@
             25
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时26分 ~ 07时21分]"
+        },
+        {
+          "title": "伊朗重申其对霍尔木兹海峡“管理监督范围”",
+          "url": "https://flash.jin10.com/detail/20260521064008184800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时26分 ~ 05时04分]"
+          "time_info": "[07时20分 ~ 07时21分]"
+        },
+        {
+          "title": "美军在阿曼湾登船搜查一艘伊朗油轮",
+          "url": "https://flash.jin10.com/detail/20260521061556986800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时21分]"
         },
         {
           "title": "伊朗提出与阿曼合作建设霍尔木兹海峡长期安全机制",
@@ -209,7 +268,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -220,7 +279,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -260,8 +319,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[02时26分 ~ 07时21分]"
         },
         {
           "title": "白宫新宴会厅细节曝光 特朗普称设“无人机港”",
@@ -271,8 +330,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[02时26分 ~ 07时21分]"
         },
         {
           "title": "克宫：不排除普京特朗普APEC期间在华会晤",
@@ -282,8 +341,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[02时26分 ~ 07时21分]"
         },
         {
           "title": "克里姆林宫：没必要比较中国为普京与特朗普举行的仪式",
@@ -293,8 +352,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[02时26分 ~ 07时21分]"
         }
       ]
     },
@@ -307,11 +366,12 @@
           "url": "https://www.36kr.com/newsflashes/3817628052505733",
           "source": "36氪",
           "ranks": [
-            2
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[02时26分 ~ 07时21分]"
         },
         {
           "title": "泰雷兹与谷歌云将在德国推出主权云服务",
@@ -321,15 +381,26 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 05时04分]"
+          "appearance_count": 3,
+          "time_info": "[02时26分 ~ 07时20分]"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美伊冲突降温，WIT原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
+          "url": "https://wallstreetcn.com/articles/3772708",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时21分]"
+        },
         {
           "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
           "url": "https://wallstreetcn.com/articles/3772671",
@@ -339,8 +410,25 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[02时26分 ~ 07时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI据悉拟在几周内提交IPO文件，计划于秋季上市",
+          "url": "https://www.36kr.com/newsflashes/3818237046866817",
+          "source": "36氪",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         }
       ]
     },
@@ -355,7 +443,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         }
