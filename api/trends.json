@@ -1,12 +1,152 @@
 {
-  "generated_at": "2026-05-21T02:26:56.791802+08:00",
-  "total_titles_processed": 117,
+  "generated_at": "2026-05-21T05:04:57.142447+08:00",
+  "total_titles_processed": 146,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 8,
+      "keyword_group": "美股",
+      "match_count": 11,
       "titles": [
+        {
+          "title": "热门中概股美股盘前涨跌不一，理想汽车跌超2%",
+          "url": "https://www.36kr.com/newsflashes/3817625750389633",
+          "source": "36氪",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 05时04分]"
+        },
+        {
+          "title": "美股大型科技股盘前多数上涨，Arm涨超2%",
+          "url": "https://www.36kr.com/newsflashes/3817624419157129",
+          "source": "36氪",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 05时04分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)美股盘后转涨，其第一财季营收及第二财季营收展望均超出平均预期。",
+          "url": "https://flash.jin10.com/detail/20260521042616685800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "都盯着英伟达财报！美股高开，半导体股普涨，全球长债收益率高企，油价跌超2%",
+          "url": "https://wallstreetcn.com/articles/3772708",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 05时04分]"
+        },
+        {
+          "title": "美股异动｜塔吉特一度跌超8%，CEO警告称宏观环境持续存在不确定性",
+          "url": "https://www.gelonghui.com/news/5237610",
+          "source": "格隆汇",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 05时04分]"
+        },
+        {
+          "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
+          "url": "https://wallstreetcn.com/articles/3772698",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 05时04分]"
+        },
+        {
+          "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
+          "url": "https://wallstreetcn.com/articles/3772678",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 05时04分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)财报公布后，美股盘后跌超3%。",
+          "url": "https://flash.jin10.com/detail/20260521042254934800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "金十图示：2026年05月20日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260521040629314800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "金十图示：2026年05月20日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260521040610507800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "美股收盘：三大股指涨超1% 特斯拉涨3%",
+          "url": "https://flash.jin10.com/detail/20260521040127045800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "美以曾计划扶植伊朗强硬派前总统上台",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2072211.html",
+          "source": "联合早报",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 05时04分]"
+        },
         {
           "title": "伊朗提出与阿曼合作建设霍尔木兹海峡长期安全机制",
           "url": "https://flash.jin10.com/detail/20260521015904689800",
@@ -63,15 +203,26 @@
           "time_info": "02时26分"
         },
         {
-          "title": "美以曾计划扶植伊朗强硬派前总统上台",
-          "url": "https://www.zaochenbao.com/news/politics/202605/2072211.html",
-          "source": "联合早报",
+          "title": "伊朗“波斯湾海峡管理局”在社交媒体上公布了霍尔木兹海峡的受控海域。",
+          "url": "https://flash.jin10.com/detail/20260521035746749800",
+          "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时26分"
+          "time_info": "05时04分"
+        },
+        {
+          "title": "美国财长贝森特：在巴黎与卡塔尔财政大臣讨论了伊朗问题。",
+          "url": "https://flash.jin10.com/detail/20260521033600584800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         },
         {
           "title": "伊朗外交部发言人：伊朗准备与其他沿海国家合作，制定安全航运交通协议。",
@@ -98,78 +249,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "热门中概股美股盘前涨跌不一，理想汽车跌超2%",
-          "url": "https://www.36kr.com/newsflashes/3817625750389633",
-          "source": "36氪",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "美股大型科技股盘前多数上涨，Arm涨超2%",
-          "url": "https://www.36kr.com/newsflashes/3817624419157129",
-          "source": "36氪",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "都盯着英伟达财报！美股高开，半导体股普涨，全球长债收益率高企，油价跌超2%",
-          "url": "https://wallstreetcn.com/articles/3772708",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "美股异动｜塔吉特一度跌超8%，CEO警告称宏观环境持续存在不确定性",
-          "url": "https://www.gelonghui.com/news/5237610",
-          "source": "格隆汇",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
-          "url": "https://wallstreetcn.com/articles/3772698",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
-          "url": "https://wallstreetcn.com/articles/3772678",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
       "match_count": 4,
       "titles": [
@@ -181,8 +260,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 05时04分]"
         },
         {
           "title": "白宫新宴会厅细节曝光 特朗普称设“无人机港”",
@@ -192,8 +271,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 05时04分]"
         },
         {
           "title": "克宫：不排除普京特朗普APEC期间在华会晤",
@@ -203,8 +282,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 05时04分]"
         },
         {
           "title": "克里姆林宫：没必要比较中国为普京与特朗普举行的仪式",
@@ -214,8 +293,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 05时04分]"
         }
       ]
     },
@@ -231,8 +310,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 05时04分]"
         },
         {
           "title": "泰雷兹与谷歌云将在德国推出主权云服务",
@@ -242,8 +321,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 05时04分]"
         }
       ]
     },
@@ -256,11 +335,29 @@
           "url": "https://wallstreetcn.com/articles/3772671",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 05时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数20日下跌",
+          "url": "https://flash.jin10.com/detail/20260521035335949800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时26分"
+          "time_info": "05时04分"
         }
       ]
     }
