@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T12:17:47.719211+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2026-05-20T16:44:04.883854+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
@@ -30,6 +30,31 @@
           "time_info": "[00时29分 ~ 07时13分]"
         },
         {
+          "title": "美驻华大使：特朗普向习近平表明美国不支持台独",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/1972145.html",
+          "source": "联合早报",
+          "ranks": [
+            12,
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 16时44分]"
+        },
+        {
+          "title": "美联储加息概率飙升！特朗普松口：沃什可“按自己意愿” 决定利率",
+          "url": "https://www.cls.cn/detail/2376144",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时17分 ~ 16时44分]"
+        },
+        {
           "title": "特朗普暂搁军售 卓荣泰：台湾是全球核心利益 不轻易被牺牲",
           "url": "https://www.zaochenbao.com/news/taiwan/202605/1972151.html",
           "source": "联合早报",
@@ -40,29 +65,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时29分 ~ 12时17分]"
-        },
-        {
-          "title": "美驻华大使：特朗普向习近平表明美国不支持台独",
-          "url": "https://www.zaochenbao.com/news/taiwan/202605/1972145.html",
-          "source": "联合早报",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 12时17分]"
-        },
-        {
-          "title": "美联储加息概率飙升！特朗普松口：沃什可“按自己意愿” 决定利率",
-          "url": "https://www.cls.cn/detail/2376144",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
         },
         {
           "title": "特朗普应波斯湾盟友要求 暂缓对伊朗新一轮打击",
@@ -85,6 +87,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时29分 ~ 07时13分]"
+        },
+        {
+          "title": "特朗普：伊朗战争很快结束 德黑兰很渴望达成协议",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2072199.html",
+          "source": "联合早报",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 16时44分]"
         },
         {
           "title": "特朗普政府拟缩减北约危机响应部队 要求欧洲接棒安全主导权",
@@ -126,7 +139,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -137,7 +150,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -159,7 +172,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -214,7 +227,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -266,8 +279,20 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
+          "url": "https://wallstreetcn.com/articles/3772658",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时17分 ~ 16时44分]"
+        },
         {
           "title": "英伟达(NVDA.O)：与谷歌云助力下一波人工智能开发者。",
           "url": "https://flash.jin10.com/detail/20260520043717324800",
@@ -286,18 +311,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
-          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
-          "url": "https://wallstreetcn.com/articles/3772658",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -312,6 +326,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时29分 ~ 07时13分]"
+        },
+        {
+          "title": "Token消耗一年暴增7倍！谷歌步入Agent驱动时代 带来什么启示？",
+          "url": "https://www.cls.cn/detail/2376249",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 16时44分]"
         },
         {
           "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
@@ -332,7 +357,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -354,7 +379,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -406,7 +431,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "热门中概股美股盘前涨跌互现，哔哩哔哩跌超4%",
@@ -443,6 +468,19 @@
           "time_info": "[00时29分 ~ 07时13分]"
         },
         {
+          "title": "美银基金经理调查：美股超配程度接近“卖出信号”，30年期收益率恐升破6%",
+          "url": "https://wallstreetcn.com/articles/3772622",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时27分 ~ 16时44分]"
+        },
+        {
           "title": "美股收盘：三大指数集体走低 光通信概念股逆市走强",
           "url": "https://www.cls.cn/detail/2376079",
           "source": "财联社热门",
@@ -453,18 +491,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时13分 ~ 12时17分]"
-        },
-        {
-          "title": "美银基金经理调查：美股超配程度接近“卖出信号”，30年期收益率恐升破6%",
-          "url": "https://wallstreetcn.com/articles/3772622",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时27分 ~ 12时17分]"
         },
         {
           "title": "美股三大指数集体收跌 光通信概念股逆势走强",
@@ -502,6 +528,17 @@
           "time_info": "[00时29分 ~ 07时13分]"
         },
         {
+          "title": "美股异动丨阿斯麦盘前涨超1% 首批High-NA光刻机生产的芯片料将在数月内面世",
+          "url": "https://www.gelonghui.com/news/5236905",
+          "source": "格隆汇",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 16时44分]"
+        },
+        {
           "title": "金十图示：2026年05月19日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260520040952291800",
           "source": "金十数据",
@@ -530,7 +567,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         }
@@ -538,8 +575,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "美以曾计划扶植伊朗强硬派前总统上台",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2072211.html",
+          "source": "联合早报",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 16时44分]"
+        },
         {
           "title": "霍尔木兹海峡持续关闭 伊朗推比特币航运保险筹资",
           "url": "https://www.zaochenbao.com/news/politics/202605/1972140.html",
@@ -550,6 +598,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时29分 ~ 07时13分]"
+        },
+        {
+          "title": "美国制裁逾50个涉伊朗实体 包括中国大陆和香港企业",
+          "url": "https://www.zaochenbao.com/news/hkMacao/202605/2072169.html",
+          "source": "联合早报",
+          "ranks": [
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时17分 ~ 16时44分]"
         },
         {
           "title": "欧洲央行管委科赫尔：如果伊朗战争局面没有改善，预计将在6月加息。",
@@ -646,18 +706,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
-          "title": "美国制裁逾50个涉伊朗实体 包括中国大陆和香港企业",
-          "url": "https://www.zaochenbao.com/news/hkMacao/202605/2072169.html",
-          "source": "联合早报",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         }
@@ -665,7 +714,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "通胀担忧高企，美债收益率持续攀升，美股存储概念股转涨，现货黄金日内跌2%",
@@ -694,11 +743,23 @@
           "url": "https://wallstreetcn.com/articles/3772671",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时17分 ~ 16时44分]"
+        },
+        {
+          "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
+          "url": "https://www.cls.cn/detail/2376546",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 16时44分]"
         },
         {
           "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
@@ -742,7 +803,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         }
@@ -776,7 +837,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         }
