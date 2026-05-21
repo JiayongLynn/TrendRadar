@@ -1,8 +1,251 @@
 {
-  "generated_at": "2026-05-21T16:40:35.527055+08:00",
-  "total_titles_processed": 386,
-  "failed_sources": [],
+  "generated_at": "2026-05-21T20:24:57.326696+08:00",
+  "total_titles_processed": 467,
+  "failed_sources": [
+    "cls-hot"
+  ],
   "trends": [
+    {
+      "keyword_group": "伊朗",
+      "match_count": 21,
+      "titles": [
+        {
+          "title": "阿拉格齐：伊朗官员即使殉难也坚守阵地",
+          "url": "https://flash.jin10.com/detail/20260521115702577800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 12时26分]"
+        },
+        {
+          "title": "英国与海合会在伊朗战争阴影下达成贸易协议",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2172286.html",
+          "source": "联合早报",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 20时24分]"
+        },
+        {
+          "title": "美国封锁下，伊朗的能源出口如何继续流向他国",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2172269.html",
+          "source": "联合早报",
+          "ranks": [
+            9,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时25分 ~ 20时24分]"
+        },
+        {
+          "title": "美以曾计划扶植伊朗强硬派前总统上台",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2072211.html",
+          "source": "联合早报",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时26分 ~ 07时21分]"
+        },
+        {
+          "title": "美军在阿曼湾登检伊朗油轮后放行 令改航向",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2172283.html",
+          "source": "联合早报",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 20时24分]"
+        },
+        {
+          "title": "伊朗重申其对霍尔木兹海峡“管理监督范围”",
+          "url": "https://flash.jin10.com/detail/20260521064008184800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时21分]"
+        },
+        {
+          "title": "美军在阿曼湾登船搜查一艘伊朗油轮",
+          "url": "https://flash.jin10.com/detail/20260521061556986800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时21分]"
+        },
+        {
+          "title": "美国会众议院将表决一项涉伊朗战争决议",
+          "url": "https://flash.jin10.com/detail/20260521201914091800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "伊朗提出与阿曼合作建设霍尔木兹海峡长期安全机制",
+          "url": "https://flash.jin10.com/detail/20260521015904689800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "强硬回绝！伊朗最高领袖下死令：严禁高浓缩铀外运",
+          "url": "https://flash.jin10.com/detail/20260521201246368800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "伊朗外交部发言人：欧洲应从二战时期的绥靖政策经历中汲取教训，停止在面对以色列政权时无所作为。",
+          "url": "https://flash.jin10.com/detail/20260521201226254800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "美军周三登检一艘伊朗油轮，称其“违反封锁”",
+          "url": "https://flash.jin10.com/detail/20260521014431833800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "伊朗副总统：政府解决能源失衡的方案不是涨价，已将降低消费和改变生活方式作为工作重点，并已授权伊斯法罕省试点实施相关计划。",
+          "url": "https://flash.jin10.com/detail/20260521201051896800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "据伊朗电视台：伊朗外长阿拉格奇正在准备前往美国，参加联合国会议。",
+          "url": "https://flash.jin10.com/detail/20260521013713748800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "伊朗副总统：由于需要大量资金和较长时间，增加能源生产能力并非政府的当务之急。",
+          "url": "https://flash.jin10.com/detail/20260521201023736800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬在伊朗会见了巴基斯坦内政部长莫辛·纳克维。",
+          "url": "https://flash.jin10.com/detail/20260521012525117800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "伊朗称将在“强烈不信任美国”的情况下继续推进谈判",
+          "url": "https://flash.jin10.com/detail/20260521012400985800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "伊朗“波斯湾海峡管理局”在社交媒体上公布了霍尔木兹海峡的受控海域。",
+          "url": "https://flash.jin10.com/detail/20260521035746749800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "美国财长贝森特：在巴黎与卡塔尔财政大臣讨论了伊朗问题。",
+          "url": "https://flash.jin10.com/detail/20260521033600584800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "伊朗外交部发言人：伊朗准备与其他沿海国家合作，制定安全航运交通协议。",
+          "url": "https://flash.jin10.com/detail/20260521011425588800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "伊朗外交部发言人：寻求与阿曼建立机制，并与“专业国际机构”协调，以确保霍尔木兹海峡的可持续安全。",
+          "url": "https://flash.jin10.com/detail/20260521011325987800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 16,
@@ -152,7 +395,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -192,192 +435,21 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "阿拉格齐：伊朗官员即使殉难也坚守阵地",
-          "url": "https://flash.jin10.com/detail/20260521115702577800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 12时26分]"
-        },
-        {
-          "title": "英国与海合会在伊朗战争阴影下达成贸易协议",
-          "url": "https://www.zaochenbao.com/news/politics/202605/2172286.html",
-          "source": "联合早报",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        },
-        {
-          "title": "美以曾计划扶植伊朗强硬派前总统上台",
-          "url": "https://www.zaochenbao.com/news/politics/202605/2072211.html",
-          "source": "联合早报",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时26分 ~ 07时21分]"
-        },
-        {
-          "title": "美国封锁下，伊朗的能源出口如何继续流向他国",
-          "url": "https://www.zaochenbao.com/news/politics/202605/2172269.html",
-          "source": "联合早报",
-          "ranks": [
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时25分 ~ 16时40分]"
-        },
-        {
-          "title": "伊朗重申其对霍尔木兹海峡“管理监督范围”",
-          "url": "https://flash.jin10.com/detail/20260521064008184800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
-        },
-        {
-          "title": "美军在阿曼湾登船搜查一艘伊朗油轮",
-          "url": "https://flash.jin10.com/detail/20260521061556986800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
-        },
-        {
-          "title": "美军在阿曼湾登检伊朗油轮后放行 令改航向",
-          "url": "https://www.zaochenbao.com/news/politics/202605/2172283.html",
-          "source": "联合早报",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        },
-        {
-          "title": "伊朗提出与阿曼合作建设霍尔木兹海峡长期安全机制",
-          "url": "https://flash.jin10.com/detail/20260521015904689800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "美军周三登检一艘伊朗油轮，称其“违反封锁”",
-          "url": "https://flash.jin10.com/detail/20260521014431833800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "据伊朗电视台：伊朗外长阿拉格奇正在准备前往美国，参加联合国会议。",
-          "url": "https://flash.jin10.com/detail/20260521013713748800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "伊朗总统佩泽希齐扬在伊朗会见了巴基斯坦内政部长莫辛·纳克维。",
-          "url": "https://flash.jin10.com/detail/20260521012525117800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "伊朗称将在“强烈不信任美国”的情况下继续推进谈判",
-          "url": "https://flash.jin10.com/detail/20260521012400985800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "伊朗“波斯湾海峡管理局”在社交媒体上公布了霍尔木兹海峡的受控海域。",
-          "url": "https://flash.jin10.com/detail/20260521035746749800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "美国财长贝森特：在巴黎与卡塔尔财政大臣讨论了伊朗问题。",
-          "url": "https://flash.jin10.com/detail/20260521033600584800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "伊朗外交部发言人：伊朗准备与其他沿海国家合作，制定安全航运交通协议。",
-          "url": "https://flash.jin10.com/detail/20260521011425588800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "伊朗外交部发言人：寻求与阿曼建立机制，并与“专业国际机构”协调，以确保霍尔木兹海峡的可持续安全。",
-          "url": "https://flash.jin10.com/detail/20260521011325987800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
       "match_count": 14,
       "titles": [
+        {
+          "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
+          "url": "https://wallstreetcn.com/articles/3772754",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时25分 ~ 20时24分]"
+        },
         {
           "title": "赖清德要向特朗普阐明：台湾会不亢不卑维持现状吁美持续对台军售",
           "url": "https://www.zaochenbao.com/news/taiwan/202605/2072241.html",
@@ -389,18 +461,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时26分 ~ 12时26分]"
-        },
-        {
-          "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
-          "url": "https://wallstreetcn.com/articles/3772754",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时25分 ~ 16时40分]"
         },
         {
           "title": "特朗普前脚离开，普京后脚抵京：两场访问背后的中国外交密码",
@@ -426,6 +486,32 @@
           "time_info": "[02时26分 ~ 07时21分]"
         },
         {
+          "title": "消息：特朗普与内坦亚胡就如何推进伊朗战争意见分歧",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2172266.html",
+          "source": "联合早报",
+          "ranks": [
+            11,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时25分 ~ 20时24分]"
+        },
+        {
+          "title": "台湾外交部称赖清德乐意与特朗普通话",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/2172261.html",
+          "source": "联合早报",
+          "ranks": [
+            17,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时25分 ~ 20时24分]"
+        },
+        {
           "title": "克宫：不排除普京特朗普APEC期间在华会晤",
           "url": "https://www.zaochenbao.com/news/politics/202605/2072215.html",
           "source": "联合早报",
@@ -435,6 +521,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时26分 ~ 07时21分]"
+        },
+        {
+          "title": "白宫：特朗普拟短时间内决定新对台军售",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/2172254.html",
+          "source": "联合早报",
+          "ranks": [
+            22,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时25分 ~ 20时24分]"
         },
         {
           "title": "克里姆林宫：没必要比较中国为普京与特朗普举行的仪式",
@@ -448,40 +547,16 @@
           "time_info": "[02时26分 ~ 07时21分]"
         },
         {
-          "title": "消息：特朗普与内坦亚胡就如何推进伊朗战争意见分歧",
-          "url": "https://www.zaochenbao.com/news/politics/202605/2172266.html",
+          "title": "台总统府秘书长：目前未接获特朗普与赖清德通话安排",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/2172278.html",
           "source": "联合早报",
           "ranks": [
-            11,
-            22
+            12,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时25分 ~ 16时40分]"
-        },
-        {
-          "title": "台湾外交部称赖清德乐意与特朗普通话",
-          "url": "https://www.zaochenbao.com/news/taiwan/202605/2172261.html",
-          "source": "联合早报",
-          "ranks": [
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时25分 ~ 16时40分]"
-        },
-        {
-          "title": "白宫：特朗普拟短时间内决定新对台军售",
-          "url": "https://www.zaochenbao.com/news/taiwan/202605/2172254.html",
-          "source": "联合早报",
-          "ranks": [
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时25分 ~ 16时40分]"
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 20时24分]"
         },
         {
           "title": "特朗普称愿多等几天以获伊朗“正确答案”",
@@ -512,7 +587,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -523,18 +598,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        },
-        {
-          "title": "台总统府秘书长：目前未接获特朗普与赖清德通话安排",
-          "url": "https://www.zaochenbao.com/news/taiwan/202605/2172278.html",
-          "source": "联合早报",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         }
@@ -542,7 +606,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
@@ -552,8 +616,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时25分 ~ 16时40分]"
+          "appearance_count": 4,
+          "time_info": "[12时25分 ~ 20时24分]"
         },
         {
           "title": "美伊冲突降温，WIT原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
@@ -577,6 +641,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时26分 ~ 07时21分]"
+        },
+        {
+          "title": "核谈判僵持，油价攀升，美股涨势受阻，量子计算股盘前拉升，美债震荡",
+          "url": "https://wallstreetcn.com/articles/3772777",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         }
       ]
     },
