@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T12:26:02.007979+08:00",
-  "total_titles_processed": 302,
+  "generated_at": "2026-05-21T16:40:35.527055+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股收盘：三大指数均涨超1% 光通信、CPU概念表现强势",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 12时26分]"
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 16时40分]"
         },
         {
           "title": "热门中概股美股盘前涨跌不一，理想汽车跌超2%",
@@ -146,6 +146,17 @@
           "time_info": "05时04分"
         },
         {
+          "title": "美股异动｜财捷盘前大跌13% Q3营收增速创2024年来最慢 拟全球裁员17%",
+          "url": "https://www.gelonghui.com/news/5237875",
+          "source": "格隆汇",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "金十图示：2026年05月20日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260521040629314800",
           "source": "金十数据",
@@ -182,7 +193,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "阿拉格齐：伊朗官员即使殉难也坚守阵地",
@@ -194,6 +205,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时25分 ~ 12时26分]"
+        },
+        {
+          "title": "英国与海合会在伊朗战争阴影下达成贸易协议",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2172286.html",
+          "source": "联合早报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "美以曾计划扶植伊朗强硬派前总统上台",
@@ -211,11 +233,12 @@
           "url": "https://www.zaochenbao.com/news/politics/202605/2172269.html",
           "source": "联合早报",
           "ranks": [
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 12时26分]"
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 16时40分]"
         },
         {
           "title": "伊朗重申其对霍尔木兹海峡“管理监督范围”",
@@ -238,6 +261,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时20分 ~ 07时21分]"
+        },
+        {
+          "title": "美军在阿曼湾登检伊朗油轮后放行 令改航向",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2172283.html",
+          "source": "联合早报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "伊朗提出与阿曼合作建设霍尔木兹海峡长期安全机制",
@@ -342,7 +376,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "赖清德要向特朗普阐明：台湾会不亢不卑维持现状吁美持续对台军售",
@@ -361,22 +395,24 @@
           "url": "https://wallstreetcn.com/articles/3772754",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 12时26分]"
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 16时40分]"
         },
         {
           "title": "特朗普前脚离开，普京后脚抵京：两场访问背后的中国外交密码",
           "url": "https://www.zaochenbao.com/news/china/202605/2172273.html",
           "source": "联合早报",
           "ranks": [
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 12时26分]"
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 16时40分]"
         },
         {
           "title": "白宫新宴会厅细节曝光 特朗普称设“无人机港”",
@@ -416,11 +452,36 @@
           "url": "https://www.zaochenbao.com/news/politics/202605/2172266.html",
           "source": "联合早报",
           "ranks": [
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 12时26分]"
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 16时40分]"
+        },
+        {
+          "title": "台湾外交部称赖清德乐意与特朗普通话",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/2172261.html",
+          "source": "联合早报",
+          "ranks": [
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 16时40分]"
+        },
+        {
+          "title": "白宫：特朗普拟短时间内决定新对台军售",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/2172254.html",
+          "source": "联合早报",
+          "ranks": [
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 16时40分]"
         },
         {
           "title": "特朗普称愿多等几天以获伊朗“正确答案”",
@@ -428,28 +489,6 @@
           "source": "联合早报",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 12时26分]"
-        },
-        {
-          "title": "台湾外交部称赖清德乐意与特朗普通话",
-          "url": "https://www.zaochenbao.com/news/taiwan/202605/2172261.html",
-          "source": "联合早报",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 12时26分]"
-        },
-        {
-          "title": "白宫：特朗普拟短时间内决定新对台军售",
-          "url": "https://www.zaochenbao.com/news/taiwan/202605/2172254.html",
-          "source": "联合早报",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -465,6 +504,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时25分 ~ 12时26分]"
+        },
+        {
+          "title": "美媒称特朗普政府已开始制定对古巴军事行动方案",
+          "url": "https://www.cls.cn/detail/2377710",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "特朗普称愿意多花几天等待伊方消息 SpaceX提交IPO文件 | 环球市场",
+          "url": "https://www.cls.cn/detail/2377369",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "台总统府秘书长：目前未接获特朗普与赖清德通话安排",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/2172278.html",
+          "source": "联合早报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         }
       ]
     },
@@ -480,8 +552,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 12时26分]"
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 16时40分]"
         },
         {
           "title": "美伊冲突降温，WIT原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
