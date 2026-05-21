@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T03:05:37.342845+08:00",
-  "total_titles_processed": 140,
+  "generated_at": "2026-05-22T05:43:27.052517+08:00",
+  "total_titles_processed": 171,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普政府推动量子战略升级：20亿美元扶持9家企业 政府将直接持股",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 05时43分]"
         },
         {
           "title": "特朗普称将就对台军售与赖清德通话 北京重申反对立场",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 05时43分]"
         },
         {
           "title": "美国总统特朗普：我们希望古巴开放。",
@@ -51,6 +51,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "消息人士称，美国国土安全部部长马林警告航空公司高管，特朗普政府可能暂停部分“庇护城市”机场的国际旅行处理服务。",
+          "url": "https://flash.jin10.com/detail/20260522053538980800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         },
         {
           "title": "美国总统特朗普：不会通过派遣航母威胁古巴，我们会帮助古巴。",
@@ -93,8 +104,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 05时43分]"
         },
         {
           "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
@@ -114,16 +125,143 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "据美国政治新闻网Politico：特朗普政府暂停发往刚果（金）的遣返航班，因当地埃博拉疫情肆虐。",
+          "url": "https://flash.jin10.com/detail/20260522050949939800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "特朗普宣布将向波兰增兵5000人 推翻五角大楼一周前撤军计划",
+          "url": "https://flash.jin10.com/detail/20260522050714239800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "美国总统特朗普：美国将向波兰增派5000名士兵。",
+          "url": "https://flash.jin10.com/detail/20260522042656396800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "特朗普再威胁伊朗交出浓缩铀 称到手后或销毁",
+          "url": "https://flash.jin10.com/detail/20260522041941266800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "热门中概股美股盘前普跌，蔚来涨超7%",
+          "url": "https://www.36kr.com/newsflashes/3819049493565575",
+          "source": "36氪",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 05时43分]"
+        },
+        {
+          "title": "美股大型科技股盘前普跌，英特尔跌超2%",
+          "url": "https://www.36kr.com/newsflashes/3819042557759623",
+          "source": "36氪",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 05时43分]"
+        },
+        {
+          "title": "美股异动丨沃尔玛Q1营收超预期但Q2指引疲软，盘中大跌近8%",
+          "url": "https://www.gelonghui.com/news/5238322",
+          "source": "格隆汇",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 05时43分]"
+        },
+        {
+          "title": "金十图示：2026年05月21日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260522041945523800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "金十图示：2026年05月21日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260522041555580800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 Arm涨16%",
+          "url": "https://flash.jin10.com/detail/20260522040124425800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "据伊朗学生通讯社：伊朗与美国之间的消息交流正在进行，巴基斯坦方面从中进行调解。",
+          "url": "https://flash.jin10.com/detail/20260522053700213800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
         {
           "title": "经巴基斯坦新加坡斡旋 遭美军扣押伊朗船员回国",
           "url": "https://www.zaochenbao.com/news/politics/202605/2172308.html",
@@ -132,8 +270,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 05时43分]"
         },
         {
           "title": "英国与海合会在伊朗战争阴影下达成贸易协议",
@@ -143,19 +281,20 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 05时43分]"
         },
         {
           "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
           "url": "https://wallstreetcn.com/articles/3772837",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时05分 ~ 05时43分]"
         },
         {
           "title": "鲁比奥：若伊朗在霍尔木兹海峡实施收费制度，美伊外交协议将难以达成",
@@ -167,45 +306,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "热门中概股美股盘前普跌，蔚来涨超7%",
-          "url": "https://www.36kr.com/newsflashes/3819049493565575",
-          "source": "36氪",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时05分]"
         },
         {
-          "title": "美股大型科技股盘前普跌，英特尔跌超2%",
-          "url": "https://www.36kr.com/newsflashes/3819042557759623",
-          "source": "36氪",
+          "title": "胡塞武装领导人：全力支持伊朗 以色列可以被击败",
+          "url": "https://flash.jin10.com/detail/20260522043531786800",
+          "source": "金十数据",
           "ranks": [
-            5
+            15
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时05分]"
-        },
-        {
-          "title": "美股异动丨沃尔玛Q1营收超预期但Q2指引疲软，盘中大跌近8%",
-          "url": "https://www.gelonghui.com/news/5238322",
-          "source": "格隆汇",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         }
       ]
     },
@@ -220,7 +331,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
         },
@@ -231,7 +342,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
         }
@@ -249,8 +360,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 05时43分]"
         },
         {
           "title": "美伊核谈判僵持，油价涨4%，美股低开，量子计算股大涨，美债震荡",
@@ -260,8 +371,25 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 05时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数21日上涨",
+          "url": "https://flash.jin10.com/detail/20260522040912332800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         }
       ]
     }
