@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-05-22T00:21:21.178106+08:00",
-  "total_titles_processed": 114,
+  "generated_at": "2026-05-22T03:05:37.342845+08:00",
+  "total_titles_processed": 140,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "特朗普政府推动量子战略升级：20亿美元扶持9家企业 政府将直接持股",
+          "url": "https://www.cls.cn/detail/2378228",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 03时05分]"
+        },
+        {
+          "title": "特朗普称将就对台军售与赖清德通话 北京重申反对立场",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/2172315.html",
+          "source": "联合早报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 03时05分]"
+        },
         {
           "title": "美国总统特朗普：我们希望古巴开放。",
           "url": "https://flash.jin10.com/detail/20260522000841101800",
@@ -41,28 +64,6 @@
           "time_info": "00时21分"
         },
         {
-          "title": "特朗普政府推动量子战略升级：20亿美元扶持9家企业 政府将直接持股",
-          "url": "https://www.cls.cn/detail/2378228",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "特朗普称将就对台军售与赖清德通话 北京重申反对立场",
-          "url": "https://www.zaochenbao.com/news/taiwan/202605/2172315.html",
-          "source": "联合早报",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
           "title": "美国总统特朗普：宴会厅项目按计划推进，且预算控制在范围内，无需（额外）现金。",
           "url": "https://flash.jin10.com/detail/20260522000646100800",
           "source": "金十数据",
@@ -85,6 +86,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "台总统府秘书长：目前未接获特朗普与赖清德通话安排",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/2172278.html",
+          "source": "联合早报",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 03时05分]"
+        },
+        {
           "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
           "url": "https://wallstreetcn.com/articles/3772754",
           "source": "华尔街见闻",
@@ -96,11 +108,61 @@
           "time_info": "00时21分"
         },
         {
-          "title": "台总统府秘书长：目前未接获特朗普与赖清德通话安排",
-          "url": "https://www.zaochenbao.com/news/taiwan/202605/2172278.html",
+          "title": "IBM(IBM.N)涨超11%，公司获得特朗普政府的资金支持。",
+          "url": "https://flash.jin10.com/detail/20260522022754736800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "经巴基斯坦新加坡斡旋 遭美军扣押伊朗船员回国",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2172308.html",
           "source": "联合早报",
           "ranks": [
-            30
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 03时05分]"
+        },
+        {
+          "title": "英国与海合会在伊朗战争阴影下达成贸易协议",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2172286.html",
+          "source": "联合早报",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 03时05分]"
+        },
+        {
+          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
+          "url": "https://wallstreetcn.com/articles/3772837",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "鲁比奥：若伊朗在霍尔木兹海峡实施收费制度，美伊外交协议将难以达成",
+          "url": "https://flash.jin10.com/detail/20260521234844520800",
+          "source": "金十数据",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -120,8 +182,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 03时05分]"
         },
         {
           "title": "美股大型科技股盘前普跌，英特尔跌超2%",
@@ -131,8 +193,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 03时05分]"
         },
         {
           "title": "美股异动丨沃尔玛Q1营收超预期但Q2指引疲软，盘中大跌近8%",
@@ -142,47 +204,36 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 03时05分]"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 3,
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
       "titles": [
         {
-          "title": "经巴基斯坦新加坡斡旋 遭美军扣押伊朗船员回国",
-          "url": "https://www.zaochenbao.com/news/politics/202605/2172308.html",
-          "source": "联合早报",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "鲁比奥：若伊朗在霍尔木兹海峡实施收费制度，美伊外交协议将难以达成",
-          "url": "https://flash.jin10.com/detail/20260521234844520800",
+          "title": "据The Information：Anthropic的年化收入近期达到接近450亿美元水平，超过了OpenAI的250亿美元。",
+          "url": "https://flash.jin10.com/detail/20260522022949905800",
           "source": "金十数据",
           "ranks": [
-            12
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时21分"
+          "time_info": "03时05分"
         },
         {
-          "title": "英国与海合会在伊朗战争阴影下达成贸易协议",
-          "url": "https://www.zaochenbao.com/news/politics/202605/2172286.html",
-          "source": "联合早报",
+          "title": "据The Information：OpenAI在第一季度创造了57亿美元的收入，领先竞争对手Anthropic 10亿美元",
+          "url": "https://flash.jin10.com/detail/20260522022849271800",
+          "source": "金十数据",
           "ranks": [
-            29
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时21分"
+          "time_info": "03时05分"
         }
       ]
     },
@@ -198,8 +249,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 03时05分]"
         },
         {
           "title": "美伊核谈判僵持，油价涨4%，美股低开，量子计算股大涨，美债震荡",
@@ -209,8 +260,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 03时05分]"
         }
       ]
     }
