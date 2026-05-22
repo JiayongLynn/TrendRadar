@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T16:28:06.558767+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-05-22T19:52:04.880151+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普政府推动量子战略升级：20亿美元扶持9家企业 政府将直接持股",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时21分 ~ 12时20分]"
+        },
+        {
+          "title": "不愿削弱对华竞争优势 特朗普暂缓签署国内AI行政令",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2272373.html",
+          "source": "联合早报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
         },
         {
           "title": "美国总统特朗普：我们希望古巴开放。",
@@ -110,6 +121,18 @@
           "time_info": "[05时43分 ~ 07时10分]"
         },
         {
+          "title": "对特朗普说不 格陵兰人在美国新领事馆外抗议",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2272359.html",
+          "source": "联合早报",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 19时52分]"
+        },
+        {
           "title": "台总统府秘书长：目前未接获特朗普与赖清德通话安排",
           "url": "https://www.zaochenbao.com/news/taiwan/202605/2172278.html",
           "source": "联合早报",
@@ -131,17 +154,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时20分 ~ 16时28分]"
-        },
-        {
-          "title": "对特朗普说不 格陵兰人在美国新领事馆外抗议",
-          "url": "https://www.zaochenbao.com/news/politics/202605/2272359.html",
-          "source": "联合早报",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 16时28分]"
         },
         {
           "title": "据美国政治新闻网Politico：特朗普政府暂停发往刚果（金）的遣返航班，因当地埃博拉疫情肆虐。",
@@ -199,6 +211,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
+          "title": "美国总统特朗普：股市创下了新纪录。",
+          "url": "https://flash.jin10.com/detail/20260522192731398800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
         },
         {
           "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
@@ -281,7 +304,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
@@ -303,11 +326,12 @@
           "url": "https://www.zaochenbao.com/news/politics/202605/2272361.html",
           "source": "联合早报",
           "ranks": [
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 16时28分]"
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 19时52分]"
         },
         {
           "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌",
@@ -379,6 +403,17 @@
           "time_info": "[12时20分 ~ 16时28分]"
         },
         {
+          "title": "伊朗红新月会国际事务副主席：伊拉克、乌兹别克斯坦和哈萨克斯坦的人道主义援助物资于本周通过正式陆地口岸运抵伊朗。这些援助包括食品、药品和医疗设备。",
+          "url": "https://flash.jin10.com/detail/20260522194041660800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
+        },
+        {
           "title": "胡塞武装领导人：全力支持伊朗 以色列可以被击败",
           "url": "https://flash.jin10.com/detail/20260522043531786800",
           "source": "金十数据",
@@ -400,6 +435,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
+          "title": "伊朗外交部发言人：关于霍尔木兹海峡以及所谓的“海上封锁”（这完全违反国际法），他们必须采取措施结束这种封锁。",
+          "url": "https://flash.jin10.com/detail/20260522191758138800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
+        },
+        {
+          "title": "伊朗外交部发言人：我们要求美国停止针对伊朗民族的犯罪行为，制裁必须解除，伊朗被冻结的资产必须解冻并供伊朗使用。",
+          "url": "https://flash.jin10.com/detail/20260522191747933800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
+        },
+        {
+          "title": "伊朗外交部发言人：我们希望我们的权利得到恢复。过去五十年来，我们一直受到他们所谓的“严厉制裁”。这些制裁以各种借口强加于伊朗，主要原因是所谓的“伊朗核威胁”，而伊朗并未对地区或世界任何行为体构成核威胁。",
+          "url": "https://flash.jin10.com/detail/20260522191725506800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
+        },
+        {
+          "title": "伊朗外交部发言人：当谈论“让步”时，我们必须谨慎用词。我们不向美国要求任何让步，我们只要求我们的权利。",
+          "url": "https://flash.jin10.com/detail/20260522191711399800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
         },
         {
           "title": "鲁比奥：若伊朗在霍尔木兹海峡实施收费制度，美伊外交协议将难以达成",
@@ -593,8 +672,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时20分 ~ 16时28分]"
+          "appearance_count": 5,
+          "time_info": "[12时20分 ~ 19时52分]"
         },
         {
           "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
