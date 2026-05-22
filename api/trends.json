@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T19:52:04.880151+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-05-22T22:54:58.671350+08:00",
+  "total_titles_processed": 568,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普政府推动量子战略升级：20亿美元扶持9家企业 政府将直接持股",
@@ -246,6 +246,28 @@
           "time_info": "03时05分"
         },
         {
+          "title": "特朗普和他的顾问们显然根本没读过修昔底德",
+          "url": "https://www.zaochenbao.com/news/Chronicles/202605/2272388.html",
+          "source": "联合早报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "特朗普批准英伟达向中国销售芯片，北京为何不愿接受？",
+          "url": "https://www.zaochenbao.com/news/china/202605/2272387.html",
+          "source": "联合早报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "美伊表态愿意谈判，报道称5月底举行，特朗普与内塔尼亚胡“激烈通话”",
           "url": "https://wallstreetcn.com/articles/3772759",
           "source": "华尔街见闻",
@@ -268,6 +290,28 @@
           "time_info": "12时20分"
         },
         {
+          "title": "特朗普特使：加沙分裂局面或永久化",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2272383.html",
+          "source": "联合早报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "美众议院推迟表决限制特朗普对伊朗动武法案",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2272381.html",
+          "source": "联合早报",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "美国总统特朗普：美国将向波兰增派5000名士兵。",
           "url": "https://flash.jin10.com/detail/20260522042656396800",
           "source": "金十数据",
@@ -277,6 +321,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "美司法部起诉古巴前总统卡斯特罗，特朗普施压行动升级",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2272377.html",
+          "source": "联合早报",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "特朗普再威胁伊朗交出浓缩铀 称到手后或销毁",
@@ -304,7 +359,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
@@ -503,6 +558,17 @@
           "time_info": "07时10分"
         },
         {
+          "title": "美联储理事沃勒：近期不应期待政策利率的变化，结果将严重依赖于伊朗冲突的持续时间。通胀面临变得更加持久的风险，价格压力正在加大。",
+          "url": "https://flash.jin10.com/detail/20260522220126856800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "伊朗划定霍尔木兹海峡管控海域 船只通行须得到批准",
           "url": "https://www.zaochenbao.com/news/politics/202605/2272321.html",
           "source": "联合早报",
@@ -517,7 +583,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "热门中概股美股盘前普跌，蔚来涨超7%",
@@ -551,6 +617,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
+          "title": "热门中概股美股盘前普跌，富途控股跌超37%",
+          "url": "https://www.36kr.com/newsflashes/3820460116480385",
+          "source": "36氪",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "美股大型科技股盘前普涨，英特尔涨超1%",
+          "url": "https://www.36kr.com/newsflashes/3820458165178499",
+          "source": "36氪",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "美股收盘：三大指数齐升道指刷新高 量子概念爆发存储续走强",
@@ -623,8 +711,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
+          "url": "https://flash.jin10.com/detail/20260522222139981800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
         {
           "title": "据The Information：Anthropic的年化收入近期达到接近450亿美元水平，超过了OpenAI的250亿美元。",
           "url": "https://flash.jin10.com/detail/20260522022949905800",
@@ -669,11 +768,12 @@
           "url": "https://wallstreetcn.com/articles/3772777",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时20分 ~ 19时52分]"
+          "appearance_count": 6,
+          "time_info": "[12时20分 ~ 22时54分]"
         },
         {
           "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
@@ -701,8 +801,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美元指数DXY短线小幅走高，美联储理事沃勒表示，美联储不应再释放降息信号。",
+          "url": "https://flash.jin10.com/detail/20260522220459582800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
         {
           "title": "美元指数21日上涨",
           "url": "https://flash.jin10.com/detail/20260522040912332800",
@@ -713,6 +824,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "台湾数发部邀苹果谷歌协商 防军事设施卫星图资成安全漏洞",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/2272391.html",
+          "source": "联合早报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         }
       ]
     }
