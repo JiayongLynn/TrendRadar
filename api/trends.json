@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T12:20:38.558559+08:00",
-  "total_titles_processed": 299,
+  "generated_at": "2026-05-22T16:28:06.558767+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普政府推动量子战略升级：20亿美元扶持9家企业 政府将直接持股",
@@ -93,7 +93,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -121,6 +121,29 @@
           "time_info": "[00时21分 ~ 07时10分]"
         },
         {
+          "title": "特朗普誓言要把伊朗浓缩铀“弄到手”",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2272338.html",
+          "source": "联合早报",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 16时28分]"
+        },
+        {
+          "title": "对特朗普说不 格陵兰人在美国新领事馆外抗议",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2272359.html",
+          "source": "联合早报",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
           "title": "据美国政治新闻网Politico：特朗普政府暂停发往刚果（金）的遣返航班，因当地埃博拉疫情肆虐。",
           "url": "https://flash.jin10.com/detail/20260522050949939800",
           "source": "金十数据",
@@ -145,6 +168,39 @@
           "time_info": "[05时43分 ~ 07时10分]"
         },
         {
+          "title": "特朗普密集谈伊朗、关税与AI，称美国将获得伊浓缩铀、重申伊不能拥有核武",
+          "url": "https://wallstreetcn.com/articles/3772862",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
+          "title": "今晚11点！美联储新主席沃什将宣誓就职 特朗普“降息梦”能实现吗？",
+          "url": "https://www.cls.cn/detail/2378649",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
+          "title": "德国外长：我们与美国的所有交流都表明，美国将会与我们共同协调驻军调整事宜。我欢迎特朗普决定在波兰增派5000名美军。",
+          "url": "https://flash.jin10.com/detail/20260522155753634800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
           "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
           "url": "https://wallstreetcn.com/articles/3772754",
           "source": "华尔街见闻",
@@ -167,17 +223,6 @@
           "time_info": "03时05分"
         },
         {
-          "title": "特朗普誓言要把伊朗浓缩铀“弄到手”",
-          "url": "https://www.zaochenbao.com/news/politics/202605/2272338.html",
-          "source": "联合早报",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
           "title": "美伊表态愿意谈判，报道称5月底举行，特朗普与内塔尼亚胡“激烈通话”",
           "url": "https://wallstreetcn.com/articles/3772759",
           "source": "华尔街见闻",
@@ -195,7 +240,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -228,7 +273,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         }
@@ -236,8 +281,34 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
+          "url": "https://wallstreetcn.com/articles/3772837",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时05分 ~ 16时28分]"
+        },
+        {
+          "title": "中东五国不接受伊朗管控霍尔木兹海峡",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2272361.html",
+          "source": "联合早报",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
+        },
         {
           "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌",
           "url": "https://wallstreetcn.com/articles/3772777",
@@ -250,20 +321,6 @@
           "time_info": "07时10分"
         },
         {
-          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
-          "url": "https://wallstreetcn.com/articles/3772837",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时05分 ~ 12时20分]"
-        },
-        {
           "title": "据伊朗学生通讯社：伊朗与美国之间的消息交流正在进行，巴基斯坦方面从中进行调解。",
           "url": "https://flash.jin10.com/detail/20260522053700213800",
           "source": "金十数据",
@@ -274,6 +331,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 07时10分]"
+        },
+        {
+          "title": "伊朗：美方谈判文本在一定程度上“缩小了分歧”，伊方“正在回应”",
+          "url": "https://wallstreetcn.com/articles/3772830",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时10分 ~ 16时28分]"
         },
         {
           "title": "经巴基斯坦新加坡斡旋 遭美军扣押伊朗船员回国",
@@ -298,16 +367,16 @@
           "time_info": "[00时21分 ~ 07时10分]"
         },
         {
-          "title": "伊朗：美方谈判文本在一定程度上“缩小了分歧”，伊方“正在回应”",
-          "url": "https://wallstreetcn.com/articles/3772830",
-          "source": "华尔街见闻",
+          "title": "伊朗媒体：伊美在巴基斯坦调解下继续对话",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2272339.html",
+          "source": "联合早报",
           "ranks": [
-            10,
-            7
+            6,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时10分 ~ 12时20分]"
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 16时28分]"
         },
         {
           "title": "胡塞武装领导人：全力支持伊朗 以色列可以被击败",
@@ -322,15 +391,15 @@
           "time_info": "[05时43分 ~ 07时10分]"
         },
         {
-          "title": "伊朗媒体：伊美在巴基斯坦调解下继续对话",
-          "url": "https://www.zaochenbao.com/news/politics/202605/2272339.html",
+          "title": "克宫否认俄士兵秘密在华受训 证实俄中元首谈伊朗局势",
+          "url": "https://www.zaochenbao.com/news/china/202605/2272347.html",
           "source": "联合早报",
           "ranks": [
-            6
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
         },
         {
           "title": "鲁比奥：若伊朗在霍尔木兹海峡实施收费制度，美伊外交协议将难以达成",
@@ -361,7 +430,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         }
@@ -369,7 +438,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "热门中概股美股盘前普跌，蔚来涨超7%",
@@ -394,6 +463,17 @@
           "time_info": "[00时21分 ~ 07时10分]"
         },
         {
+          "title": "美股异动丨Zoom盘前涨8.6%，Q1业绩胜预期+新增10亿美元股票回购计划",
+          "url": "https://www.gelonghui.com/news/5238604",
+          "source": "格隆汇",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
           "title": "美股收盘：三大指数齐升道指刷新高 量子概念爆发存储续走强",
           "url": "https://www.cls.cn/detail/2378488",
           "source": "财联社热门",
@@ -415,6 +495,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时21分 ~ 05时43分]"
+        },
+        {
+          "title": "史诗级资金“抽水泵”来了：三大世纪IPO恐触发美股“大换血”？",
+          "url": "https://www.cls.cn/detail/2378668",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
         },
         {
           "title": "金十图示：2026年05月21日（周四）美股热门股票行情一览（美股收盘）",
@@ -495,6 +586,17 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
+          "url": "https://wallstreetcn.com/articles/3772777",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 16时28分]"
+        },
+        {
           "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
           "url": "https://wallstreetcn.com/articles/3772708",
           "source": "华尔街见闻",
@@ -515,17 +617,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时21分 ~ 05时43分]"
-        },
-        {
-          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
-          "url": "https://wallstreetcn.com/articles/3772777",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
         }
       ]
     },
