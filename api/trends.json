@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T07:10:31.469200+08:00",
-  "total_titles_processed": 192,
+  "generated_at": "2026-05-22T12:20:38.558559+08:00",
+  "total_titles_processed": 299,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普政府推动量子战略升级：20亿美元扶持9家企业 政府将直接持股",
@@ -24,11 +24,12 @@
           "url": "https://www.zaochenbao.com/news/taiwan/202605/2172315.html",
           "source": "联合早报",
           "ranks": [
-            3
+            3,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 07时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 12时20分]"
         },
         {
           "title": "美国总统特朗普：我们希望古巴开放。",
@@ -84,6 +85,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "特朗普再威胁伊朗交出浓缩铀 欧盟被爆考虑重启与俄正式沟通 | 环球市场",
+          "url": "https://www.cls.cn/detail/2378520",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         },
         {
           "title": "消息人士称，美国国土安全部部长马林警告航空公司高管，特朗普政府可能暂停部分“庇护城市”机场的国际旅行处理服务。",
@@ -155,15 +167,37 @@
           "time_info": "03时05分"
         },
         {
+          "title": "特朗普誓言要把伊朗浓缩铀“弄到手”",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2272338.html",
+          "source": "联合早报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
           "title": "美伊表态愿意谈判，报道称5月底举行，特朗普与内塔尼亚胡“激烈通话”",
           "url": "https://wallstreetcn.com/articles/3772759",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        },
+        {
+          "title": "特朗普称美国将向波兰增派5000名士兵",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2272334.html",
+          "source": "联合早报",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         },
         {
           "title": "美国总统特朗普：美国将向波兰增派5000名士兵。",
@@ -186,12 +220,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "特朗普政府押注量子计算，20亿美元换股权！",
+          "url": "https://flash.jin10.com/detail/20260522111058966800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌",
@@ -200,9 +245,23 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        },
+        {
+          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
+          "url": "https://wallstreetcn.com/articles/3772837",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时05分 ~ 12时20分]"
         },
         {
           "title": "据伊朗学生通讯社：伊朗与美国之间的消息交流正在进行，巴基斯坦方面从中进行调解。",
@@ -239,17 +298,16 @@
           "time_info": "[00时21分 ~ 07时10分]"
         },
         {
-          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
-          "url": "https://wallstreetcn.com/articles/3772837",
+          "title": "伊朗：美方谈判文本在一定程度上“缩小了分歧”，伊方“正在回应”",
+          "url": "https://wallstreetcn.com/articles/3772830",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9,
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时05分 ~ 07时10分]"
+          "appearance_count": 2,
+          "time_info": "[07时10分 ~ 12时20分]"
         },
         {
           "title": "胡塞武装领导人：全力支持伊朗 以色列可以被击败",
@@ -264,15 +322,15 @@
           "time_info": "[05时43分 ~ 07时10分]"
         },
         {
-          "title": "伊朗：美方谈判文本在一定程度上“缩小了分歧”，伊方“正在回应”",
-          "url": "https://wallstreetcn.com/articles/3772830",
-          "source": "华尔街见闻",
+          "title": "伊朗媒体：伊美在巴基斯坦调解下继续对话",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2272339.html",
+          "source": "联合早报",
           "ranks": [
-            10
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时10分"
+          "time_info": "12时20分"
         },
         {
           "title": "鲁比奥：若伊朗在霍尔木兹海峡实施收费制度，美伊外交协议将难以达成",
@@ -292,9 +350,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        },
+        {
+          "title": "伊朗划定霍尔木兹海峡管控海域 船只通行须得到批准",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2272321.html",
+          "source": "联合早报",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         }
       ]
     },
@@ -325,6 +394,18 @@
           "time_info": "[00时21分 ~ 07时10分]"
         },
         {
+          "title": "美股收盘：三大指数齐升道指刷新高 量子概念爆发存储续走强",
+          "url": "https://www.cls.cn/detail/2378488",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时10分 ~ 12时20分]"
+        },
+        {
           "title": "美股异动丨沃尔玛Q1营收超预期但Q2指引疲软，盘中大跌近8%",
           "url": "https://www.gelonghui.com/news/5238322",
           "source": "格隆汇",
@@ -334,17 +415,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时21分 ~ 05时43分]"
-        },
-        {
-          "title": "美股收盘：三大指数齐升道指刷新高 量子概念爆发存储续走强",
-          "url": "https://www.cls.cn/detail/2378488",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时10分"
         },
         {
           "title": "金十图示：2026年05月21日（周四）美股热门股票行情一览（美股收盘）",
@@ -403,7 +473,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -422,7 +492,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
@@ -445,6 +515,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时21分 ~ 05时43分]"
+        },
+        {
+          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
+          "url": "https://wallstreetcn.com/articles/3772777",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         }
       ]
     },
