@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T05:21:15.626819+08:00",
-  "total_titles_processed": 148,
+  "generated_at": "2026-05-23T07:12:31.308269+08:00",
+  "total_titles_processed": 151,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时21分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时12分]"
         },
         {
           "title": "特朗普批准英伟达向中国销售芯片，北京为何不愿接受？",
@@ -26,8 +26,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时21分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时12分]"
         },
         {
           "title": "特朗普特使：加沙分裂局面或永久化",
@@ -37,8 +37,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时21分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时12分]"
         },
         {
           "title": "美众议院推迟表决限制特朗普对伊朗动武法案",
@@ -48,8 +48,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时21分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时12分]"
         },
         {
           "title": "美司法部起诉古巴前总统卡斯特罗，特朗普施压行动升级",
@@ -59,8 +59,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时21分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时12分]"
         },
         {
           "title": "美联储主席沃什：感谢美国总统特朗普。我们正处于一个重要的时刻。",
@@ -120,8 +120,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时21分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时12分]"
         },
         {
           "title": "美股大型科技股盘前普涨，英特尔涨超1%",
@@ -131,8 +131,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时21分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时12分]"
         },
         {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股收盘）",
@@ -141,9 +141,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 07时12分]"
         },
         {
           "title": "金十图示：2026年05月22日（周五）热门中概股行情一览（美股收盘）",
@@ -152,9 +152,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 07时12分]"
         },
         {
           "title": "美股收盘：三大股指收涨 高通涨超11%",
@@ -163,9 +163,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 07时12分]"
         }
       ]
     },
@@ -180,9 +180,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 07时12分]"
+        },
+        {
+          "title": "伊媒：知情人士称伊朗谈判仍在继续 所有争议问题形成共识前不会达成协议",
+          "url": "https://flash.jin10.com/detail/20260523040131039800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 07时12分]"
         },
         {
           "title": "据半岛电视台：一位伊朗消息人士表示，目前尚未达成任何最终协议，双方正在努力缩小差距，停止所有战线的战争是未来任何谈判的基本前提。",
@@ -205,17 +216,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "伊媒：知情人士称伊朗谈判仍在继续 所有争议问题形成共识前不会达成协议",
-          "url": "https://flash.jin10.com/detail/20260523040131039800",
-          "source": "金十数据",
+          "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
+          "url": "https://wallstreetcn.com/articles/3772907",
+          "source": "华尔街见闻",
           "ranks": [
-            17
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时21分"
+          "time_info": "07时12分"
+        },
+        {
+          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
+          "url": "https://wallstreetcn.com/articles/3772777",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时12分]"
         }
       ]
     },
@@ -231,25 +259,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
-          "url": "https://wallstreetcn.com/articles/3772777",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时21分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时12分]"
         }
       ]
     }
