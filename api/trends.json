@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T01:16:42.228083+08:00",
-  "total_titles_processed": 108,
+  "generated_at": "2026-05-23T04:01:09.503545+08:00",
+  "total_titles_processed": 130,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 04时01分]"
         },
         {
           "title": "特朗普批准英伟达向中国销售芯片，北京为何不愿接受？",
@@ -26,8 +26,41 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 04时01分]"
+        },
+        {
+          "title": "特朗普特使：加沙分裂局面或永久化",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2272383.html",
+          "source": "联合早报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 04时01分]"
+        },
+        {
+          "title": "美众议院推迟表决限制特朗普对伊朗动武法案",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2272381.html",
+          "source": "联合早报",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 04时01分]"
+        },
+        {
+          "title": "美司法部起诉古巴前总统卡斯特罗，特朗普施压行动升级",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2272377.html",
+          "source": "联合早报",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 04时01分]"
         },
         {
           "title": "美联储主席沃什：感谢美国总统特朗普。我们正处于一个重要的时刻。",
@@ -41,31 +74,9 @@
           "time_info": "01时16分"
         },
         {
-          "title": "特朗普特使：加沙分裂局面或永久化",
-          "url": "https://www.zaochenbao.com/news/politics/202605/2272383.html",
-          "source": "联合早报",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
           "title": "特朗普主持沃什就任美联储主席仪式",
           "url": "https://flash.jin10.com/detail/20260523000549977800",
           "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "美众议院推迟表决限制特朗普对伊朗动武法案",
-          "url": "https://www.zaochenbao.com/news/politics/202605/2272381.html",
-          "source": "联合早报",
           "ranks": [
             18
           ],
@@ -94,17 +105,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
-        },
-        {
-          "title": "美司法部起诉古巴前总统卡斯特罗，特朗普施压行动升级",
-          "url": "https://www.zaochenbao.com/news/politics/202605/2272377.html",
-          "source": "联合早报",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
         }
       ]
     },
@@ -120,8 +120,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 04时01分]"
         },
         {
           "title": "美股大型科技股盘前普涨，英特尔涨超1%",
@@ -129,6 +129,34 @@
           "source": "36氪",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 04时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据半岛电视台：一位伊朗消息人士表示，目前尚未达成任何最终协议，双方正在努力缩小差距，停止所有战线的战争是未来任何谈判的基本前提。",
+          "url": "https://flash.jin10.com/detail/20260523024028629800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时00分 ~ 04时01分]"
+        },
+        {
+          "title": "市场消息：伊朗官员强调，巴基斯坦陆军参谋长穆尼尔此次到访并不意味着各方已就协议的初步框架达成最终共识。",
+          "url": "https://flash.jin10.com/detail/20260523004051302800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -148,8 +176,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 04时01分]"
         }
       ]
     },
@@ -165,25 +193,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "市场消息：伊朗官员强调，巴基斯坦陆军参谋长穆尼尔此次到访并不意味着各方已就协议的初步框架达成最终共识。",
-          "url": "https://flash.jin10.com/detail/20260523004051302800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 04时01分]"
         }
       ]
     }
