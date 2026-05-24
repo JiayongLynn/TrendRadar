@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T02:04:39.399531+08:00",
-  "total_titles_processed": 144,
+  "generated_at": "2026-05-25T04:13:30.438940+08:00",
+  "total_titles_processed": 170,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "伊朗外交部发言人强烈谴责发生在奎达铁路站的恐怖袭击行为，该事件已导致大量巴基斯坦公民伤亡。",
@@ -25,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -48,8 +48,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 04时13分]"
         },
         {
           "title": "美媒：协议含放弃浓缩铀 伊朗：暂不谈核问题",
@@ -60,8 +60,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 04时13分]"
         },
         {
           "title": "伊朗称在境内击落一架以色列无人机",
@@ -71,8 +71,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 04时13分]"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）援引美国官员：伊朗当前似乎比军事行动前更愿意做出让步。",
@@ -235,9 +235,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "据福克斯新闻援引美国官员：我们不会在今天或明天与伊朗签署协议，总统倾向于给他们几天时间来完成协议。",
+          "url": "https://flash.jin10.com/detail/20260525031752685800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "鲁比奥：伊朗核计划细节仍待谈判，72小时内无法解决核问题",
+          "url": "https://flash.jin10.com/detail/20260525031511693800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         },
         {
           "title": "波兰外长：如果伊朗试图通过控制霍尔木兹海峡来改变全球秩序，我们将采取立场。",
@@ -246,7 +268,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -257,7 +279,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -268,7 +290,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -279,7 +301,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -290,7 +312,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -301,7 +323,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         }
@@ -309,7 +331,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
@@ -319,8 +341,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 04时13分]"
         },
         {
           "title": "特朗普：美伊基本谈妥包括开放海峡 伊朗：协议可达海峡掌控不可松",
@@ -330,8 +352,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 04时13分]"
         },
         {
           "title": "中东再传利好！特朗普：美伊协议基本谈成 霍尔木兹海峡将开放",
@@ -341,8 +363,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 04时13分]"
         },
         {
           "title": "白宫附近传出数十声枪响！特朗普当时正在白宫内，特勤局：枪手被执法人员击中，送医后身亡",
@@ -353,8 +375,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 04时13分]"
+        },
+        {
+          "title": "特朗普：美伊协议“尚未完全谈妥”",
+          "url": "https://flash.jin10.com/detail/20260525035821576800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         },
         {
           "title": "枪手白宫附近开火遭击毙 特朗普无恙",
@@ -364,8 +397,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 04时13分]"
         },
         {
           "title": "1季度做了3711笔交易！高频交易、先买后吹——这是“白宫股神”特朗普的交易策略",
@@ -385,9 +418,42 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "特朗普要求穆斯林领导人在伊朗战后加入《亚伯拉罕协议》",
+          "url": "https://flash.jin10.com/detail/20260525025220703800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "特朗普：若与伊朗达成协议，将是“良好且正当的”",
+          "url": "https://flash.jin10.com/detail/20260525021837160800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "据以色列第13频道：内塔尼亚胡在安全会议中表示“对美国总统特朗普的影响力有限”。",
+          "url": "https://flash.jin10.com/detail/20260525014506415800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         }
       ]
     },
@@ -403,8 +469,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 04时13分]"
         },
         {
           "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
@@ -414,8 +480,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 04时13分]"
         },
         {
           "title": "DeepSeek宣布V4模型永久降价 或加剧AI价格战",
@@ -425,8 +491,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 04时13分]"
         },
         {
           "title": "梁文锋与DeepSeek的十万亿美元棋盘",
@@ -437,8 +503,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 04时13分]"
         }
       ]
     },
@@ -454,8 +520,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 04时13分]"
         }
       ]
     }
