@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24T08:07:52.425224+08:00",
-  "total_titles_processed": 184,
+  "generated_at": "2026-05-24T13:07:58.853710+08:00",
+  "total_titles_processed": 259,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 47,
       "titles": [
         {
           "title": "美联储新主席宣誓！特朗普呼吁“要遏制通胀，不要遏制伟大”，沃什表态要做格林斯潘",
@@ -54,15 +54,26 @@
           "time_info": "[07时00分 ~ 08时07分]"
         },
         {
-          "title": "美伊指停火谈判取进展 特朗普：协议基本谈成",
-          "url": "https://www.zaochenbao.com/news/politics/202605/2472477.html",
-          "source": "联合早报",
+          "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
+          "url": "https://wallstreetcn.com/articles/3772980",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "特朗普回应白宫附近枪击案 呼吁加强白宫安保",
+          "url": "https://flash.jin10.com/detail/20260524122944346800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时07分"
+          "time_info": "13时07分"
         },
         {
           "title": "据Axios援引以色列官员报道，以色列总理内塔尼亚胡敦促美国总统特朗普恢复对伊朗的打击。报道还称，内塔尼亚胡对目前正在起草的美伊协议感到极为担忧。",
@@ -74,6 +85,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "纽时：马斯克随特朗普访华 冀解开30亿美元太阳能设备输美禁令",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2472503.html",
+          "source": "联合早报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "特朗普：已与多国领导人通话 美伊协议基本达成",
@@ -123,6 +145,17 @@
           "time_info": "01时12分"
         },
         {
+          "title": "中东再传利好！特朗普：美伊协议基本谈成 霍尔木兹海峡将开放",
+          "url": "https://www.cls.cn/detail/2379936",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
           "title": "美国总统特朗普：伊朗协议的最终细节目前正在讨论中，预计将很快公布。",
           "url": "https://flash.jin10.com/detail/20260524043328074800",
           "source": "金十数据",
@@ -145,6 +178,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时03分 ~ 08时07分]"
+        },
+        {
+          "title": "美伊指停火谈判取进展 特朗普：协议基本谈成",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2472477.html",
+          "source": "联合早报",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时07分 ~ 13时07分]"
         },
         {
           "title": "据Axios援引知情人士：美国总统特朗普与卡塔尔、沙特阿拉伯、阿联酋、埃及、土耳其和巴基斯坦的领导人进行了通话。多位领导人在通话中敦促特朗普接受协议。",
@@ -287,6 +332,17 @@
           "time_info": "01时12分"
         },
         {
+          "title": "白宫附近传出数十声枪响！特朗普当时正在白宫内，特勤局：枪手被执法人员击中，送医后身亡",
+          "url": "https://wallstreetcn.com/articles/3772979",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
           "title": "阿拉伯官员对路透社表示，特朗普周六将与沙特、卡塔尔、阿联酋、埃及、土耳其和巴基斯坦领导人通电话。",
           "url": "https://flash.jin10.com/detail/20260524002851537800",
           "source": "金十数据",
@@ -296,6 +352,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "1季度做了3711笔交易！高频交易、先买后吹——这是“白宫股神”特朗普的交易策略",
+          "url": "https://wallstreetcn.com/articles/3772984",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "【美媒曝光美伊协议内容：海峡重开、美国解除港口封锁、涉核问题等】金十数据5月24日讯，据AXIOS报道，一名美国官员透露美伊即将签署的协议的主要内容。但目前尚不清楚该协议是否能促成一项持久的和平协议，同时还能满足特朗普提出的核要求。美国官员表示，白宫希望在接下来的几个小时内解决最后的分歧，并在周日宣布协议。但这尚未最终确定。该官员提供了当前草案的详细概要，其中大部分内容得到其他接近谈判的消息人士的证实。而伊朗方面尚未确认这些细节，但伊方也表示协议已接近达成。 ①主要内容：双方将签署一份谅解备忘录，有效期60天，经双方同意可延长。在60天期限内，霍尔木兹海峡将开放且不收取通行费，伊朗同意清除其在海峡中部署的水雷，以允许船只自由通行。作为交换，美国将解除对伊朗港口的封锁，并发布一些制裁豁免，允许伊朗自由出售石油。伊朗方面希望立即解冻资金并永久解除制裁，但美方表示只有在做出切实让步后才会实现。 ②核问题仍待谈判：该美国官员称，谅解备忘录草案包括伊朗承诺永不寻求核武器，并就暂停其铀浓缩计划及清除其高浓缩铀库存进行谈判。两位知情人士称，伊朗通过调解人向美国口头承诺了其在暂停铀浓缩和放弃核材料方面愿意做出的让步范围。近几个月动员的美军将在60天内留在该地区，只有达成最终协议才会撤军。 ③黎巴嫩停火：谅解备忘录草案还明确，以黎之间的战争将结束。美国官员表示，这不会是“单方面停火”，如果真主党试图重新武装或煽动袭击，以色列将被允许采取行动阻止。",
+          "url": "https://flash.jin10.com/detail/20260524112705766800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "特朗普称可能于24日决定是否恢复对伊军事行动",
@@ -408,6 +486,17 @@
           "time_info": "01时12分"
         },
         {
+          "title": "据News Nation白宫记者：周六晚上9:30（北京时间早上9:30），特朗普总统仍在椭圆形办公室办公。",
+          "url": "https://flash.jin10.com/detail/20260524093809982800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
           "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普已查看与伊朗的协议草案。",
           "url": "https://flash.jin10.com/detail/20260523235849178800",
           "source": "金十数据",
@@ -439,12 +528,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "美国官员：在特朗普所称协议中，伊朗同意放弃高浓缩铀",
+          "url": "https://flash.jin10.com/detail/20260524091450206800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "知情人士否认暂缓对台军售与伊朗战事有关 尚无“特赖通话”计划",
@@ -452,11 +552,12 @@
           "source": "联合早报",
           "ranks": [
             3,
-            9
+            9,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 08时07分]"
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 13时07分]"
         },
         {
           "title": "据黎巴嫩电视台Al-Mayadeen：伊朗与美国的谅解备忘录内容包括，停火、霍尔木兹海峡重新开放、美军舰队撤回、结束海上封锁，以及释放60亿美元被冻结的伊朗资金。",
@@ -503,6 +604,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时23分 ~ 08时07分]"
+        },
+        {
+          "title": "伊朗队将世界杯驻地从美国改至墨西哥",
+          "url": "https://flash.jin10.com/detail/20260524120425817800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "伊朗外长：美国要求过分且立场矛盾阻碍谈判进程",
@@ -574,6 +686,28 @@
           "time_info": "[03时23分 ~ 05时03分]"
         },
         {
+          "title": "美媒称伊朗同意放弃高浓缩铀库存",
+          "url": "https://flash.jin10.com/detail/20260524120141644800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "伊朗否认有关暂停铀浓缩10年的报道 称谈判重点只有“结束战争”",
+          "url": "https://flash.jin10.com/detail/20260524115756370800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
           "title": "卡塔尔外交大臣与沙特外交大臣通电话，讨论了巴基斯坦在美国与伊朗之间进行的调解努力。",
           "url": "https://flash.jin10.com/detail/20260524004225513800",
           "source": "金十数据",
@@ -607,6 +741,17 @@
           "time_info": "01时12分"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：知情人士表示，沙特阿拉伯电视台关于伊朗提议暂停丰度3.6%以上的铀浓缩活动为期10年的报道从根本上说是错误的。",
+          "url": "https://flash.jin10.com/detail/20260524113121959800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
           "title": "据Kan News报道，以色列此前因担忧伊朗可能遭受打击而在节日期间维持的高度戒备状态现已降低。现阶段，以色列官员并未获悉美国预期将对伊朗发动任何攻击。",
           "url": "https://flash.jin10.com/detail/20260524014723341800",
           "source": "金十数据",
@@ -616,6 +761,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "据半岛电视台：伊朗副外长表示，我们追求与武力相结合的和平，追求与尊严相结合的外交，并捍卫我们的领土。",
+          "url": "https://flash.jin10.com/detail/20260524105928732800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "据伊朗法尔斯通讯社：若三点问题未解决，谈判不会进行。",
@@ -664,6 +820,75 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "DeepSeek-V4-Pro API永久降价",
+          "url": "https://www.36kr.com/newsflashes/3821591669166214",
+          "source": "36氪",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 13时07分]"
+        },
+        {
+          "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
+          "url": "https://www.cls.cn/detail/2379922",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "AI进入“按量付费与算力配给”时代--Anthropic和DeepSeek告诉我们的事",
+          "url": "https://wallstreetcn.com/articles/3772969",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
+          "url": "https://wallstreetcn.com/articles/3772907",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 07时00分]"
+        },
+        {
+          "title": "美股和美债的“矛盾走势”，接下来谁会赢？",
+          "url": "https://wallstreetcn.com/articles/3772970",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
@@ -673,11 +898,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 08时07分]"
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 13时07分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -685,28 +911,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 08时07分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek-V4-Pro API永久降价",
-          "url": "https://www.36kr.com/newsflashes/3821591669166214",
-          "source": "36氪",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 08时07分]"
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 13时07分]"
         }
       ]
     },
@@ -727,24 +937,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时12分 ~ 08时07分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
-          "url": "https://wallstreetcn.com/articles/3772907",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 07时00分]"
         }
       ]
     }
