@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T18:25:17.767604+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-05-25T22:15:08.734315+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "美媒：协议含放弃浓缩铀 伊朗：暂不谈核问题",
@@ -298,6 +298,17 @@
           "time_info": "06时02分"
         },
         {
+          "title": "卡塔尔确认伊朗高级代表团正在多哈会谈",
+          "url": "https://flash.jin10.com/detail/20260525213030762800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "波兰外长：如果伊朗试图通过控制霍尔木兹海峡来改变全球秩序，我们将采取立场。",
           "url": "https://flash.jin10.com/detail/20260525005729007800",
           "source": "金十数据",
@@ -326,7 +337,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -359,9 +370,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "据伊朗媒体报道：近几个小时内，伊朗启用了新型“Arash Archers（阿拉什弓箭手）”系统，在波斯湾这一战略水域上空成功击落了一架敌方无人机。",
+          "url": "https://flash.jin10.com/detail/20260525210657614800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "伊朗外交部：中国在推动停火谈判进程中发挥了积极作用",
+          "url": "https://flash.jin10.com/detail/20260525210443833800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "伊朗称处决伊斯法罕省骚乱“武装领导人之一”",
@@ -370,7 +403,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -422,7 +455,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
@@ -474,13 +507,25 @@
           "time_info": "[00时08分 ~ 08时08分]"
         },
         {
+          "title": "特朗普称美伊协议基本谈成，油价跳水，全球股市走强，日股指新高，金银齐涨",
+          "url": "https://wallstreetcn.com/articles/3773010",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 22时15分]"
+        },
+        {
           "title": "美国总统特朗普：（关于伊朗问题）与伊朗达成的协议要么是伟大且有意义的，要么就不会达成协议。",
           "url": "https://flash.jin10.com/detail/20260525181117122800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -495,17 +540,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时08分 ~ 08时08分]"
-        },
-        {
-          "title": "特朗普称美伊协议基本谈成，油价跳水，全球股市走强，日股指新高，金银齐涨",
-          "url": "https://wallstreetcn.com/articles/3773010",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
         },
         {
           "title": "特朗普：美伊协议“尚未完全谈妥”",
@@ -543,6 +577,42 @@
           "time_info": "[00时08分 ~ 02时04分]"
         },
         {
+          "title": "特朗普指示谈判代表“不要急于与伊朗达成协议” 油价大幅下跌",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2572582.html",
+          "source": "联合早报",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 22时15分]"
+        },
+        {
+          "title": "霍尔木兹海峡有望重开，但特朗普的伊朗问题仍难解",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2572581.html",
+          "source": "联合早报",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 22时15分]"
+        },
+        {
+          "title": "美国总统特朗普向中国示好引发印度担忧",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2572580.html",
+          "source": "联合早报",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 22时15分]"
+        },
+        {
           "title": "据以色列第13频道：以色列总理内塔尼亚胡在私下谈话中承认，难以对特朗普施加压力。",
           "url": "https://flash.jin10.com/detail/20260525010916654800",
           "source": "金十数据",
@@ -554,24 +624,35 @@
           "time_info": "02时04分"
         },
         {
+          "title": "特朗普：与伊朗要么谈成有意义协议 要么什么都没有",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2572603.html",
+          "source": "联合早报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "美国正边缘化以色列：内塔尼亚胡私下坦言无力干预特朗普决策",
+          "url": "https://flash.jin10.com/detail/20260525213109463800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "“白宫股神”推了“最火的存储”！特朗普公开大赞美光",
           "url": "https://wallstreetcn.com/articles/3773000",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "特朗普指示谈判代表“不要急于与伊朗达成协议” 油价大幅下跌",
-          "url": "https://www.zaochenbao.com/news/politics/202605/2572582.html",
-          "source": "联合早报",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -587,17 +668,6 @@
           "time_info": "08时08分"
         },
         {
-          "title": "霍尔木兹海峡有望重开，但特朗普的伊朗问题仍难解",
-          "url": "https://www.zaochenbao.com/news/politics/202605/2572581.html",
-          "source": "联合早报",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
           "title": "消息：内坦亚胡告知特朗普 以色列有应对威胁的行动自由",
           "url": "https://www.zaochenbao.com/news/politics/202605/2572554.html",
           "source": "联合早报",
@@ -607,17 +677,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
-        },
-        {
-          "title": "美国总统特朗普向中国示好引发印度担忧",
-          "url": "https://www.zaochenbao.com/news/politics/202605/2572580.html",
-          "source": "联合早报",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
         },
         {
           "title": "特朗普要求穆斯林领导人在伊朗战后加入《亚伯拉罕协议》",
@@ -648,7 +707,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -673,6 +732,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "沃什接棒鲍威尔，特朗普再无“背锅侠”",
+          "url": "https://flash.jin10.com/detail/20260525205756687800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         }
       ]
     },
