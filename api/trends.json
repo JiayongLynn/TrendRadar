@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-26T05:19:20.660161+08:00",
-  "total_titles_processed": 156,
+  "generated_at": "2026-05-26T07:15:07.624689+08:00",
+  "total_titles_processed": 196,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "据伊朗迈赫尔通讯社：伊朗霍尔木兹甘省霍尔木兹港市传出爆炸声，原因尚不明。",
@@ -14,9 +14,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "美国国务院：美国国务卿鲁比奥与俄罗斯外长拉夫罗夫就俄罗斯-乌克兰冲突、双边关系及伊朗局势进行了交流。",
+          "url": "https://flash.jin10.com/detail/20260526064906747800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         },
         {
           "title": "市场消息：美伊草案协议规定美国承诺放松对伊朗港口的封锁；将为伊朗石油出口提供特定的制裁豁免，将分阶段考虑放松对伊朗石油的制裁措施，具体情况取决于伊朗对其承诺的落实。草案规定，需在30天内恢复霍尔木兹海峡的通航。",
@@ -109,7 +120,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
         },
@@ -120,7 +131,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
         },
@@ -131,7 +142,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
         },
@@ -142,7 +153,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
         },
@@ -178,12 +189,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
+        },
+        {
+          "title": "伊朗阿巴斯港传出爆炸声 媒体说无需担心",
+          "url": "https://flash.jin10.com/detail/20260526053123872800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗阿巴斯港局势受控，该市东部发生爆炸后无需担忧。",
+          "url": "https://flash.jin10.com/detail/20260526052630196800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "伊朗南部阿巴斯港传出连续爆炸声",
+          "url": "https://flash.jin10.com/detail/20260526050429003800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "伊朗部分地区传出爆炸声 原因尚不明",
+          "url": "https://flash.jin10.com/detail/20260526045359340800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "美伊淡化外界对谈判预期 特朗普：若无“伟大协议”就拉倒",
@@ -193,8 +248,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 05时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 07时15分]"
         },
         {
           "title": "特朗普称美伊协议基本谈成，油价跳水，全球股市走强，日股指新高，金银齐涨",
@@ -214,7 +269,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
         },
@@ -226,8 +281,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 05时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 07时15分]"
         },
         {
           "title": "据AXIOS：一位美国高级官员透露，特朗普政府将支持以色列加大对真主党的军事打击力度。",
@@ -254,6 +309,28 @@
           "time_info": "[03时52分 ~ 05时19分]"
         },
         {
+          "title": "特朗普提出伊朗浓缩铀两种处理方法",
+          "url": "https://flash.jin10.com/detail/20260526064730179800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "据Axios记者：特朗普有关伊朗浓缩铀的最新表态似乎表明美国在浓缩铀库存问题上的立场有所软化，更接近伊朗在这一问题上的立场。",
+          "url": "https://flash.jin10.com/detail/20260526060746668800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
           "title": "美国总统特朗普：伊朗不会拥有核武器。",
           "url": "https://flash.jin10.com/detail/20260526011223011800",
           "source": "金十数据",
@@ -263,12 +340,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
+        },
+        {
+          "title": "特朗普：浓缩铀要么移交给美国 要么销毁",
+          "url": "https://flash.jin10.com/detail/20260526054700468800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "特朗普要求先签“亚伯拉罕协议” 沙特方面回应",
+          "url": "https://flash.jin10.com/detail/20260526051929396800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金十图示：2026年05月25日（周一）美股热门股票行情一览（美股盘中）",
@@ -291,6 +390,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "美股三大股指期货走高，纳斯达克期货上涨1.3%，标普500指数期货涨0.9%，道指期货涨0.87%。",
+          "url": "https://flash.jin10.com/detail/20260526060620011800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         }
       ]
     },
@@ -305,7 +415,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
         }
