@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T06:02:47.394930+08:00",
-  "total_titles_processed": 187,
+  "generated_at": "2026-05-25T08:08:46.155291+08:00",
+  "total_titles_processed": 247,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "伊朗外交部发言人强烈谴责发生在奎达铁路站的恐怖袭击行为，该事件已导致大量巴基斯坦公民伤亡。",
@@ -17,6 +17,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时08分 ~ 00时09分]"
+        },
+        {
+          "title": "美媒：协议含放弃浓缩铀 伊朗：暂不谈核问题",
+          "url": "https://wallstreetcn.com/articles/3772994",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 08时08分]"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：德黑兰并不寻求发展核武器",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2472528.html",
+          "source": "联合早报",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 08时08分]"
         },
         {
           "title": "美官员：解冻伊朗资金取决于开放霍尔木兹及履行核承诺",
@@ -41,38 +66,15 @@
           "time_info": "02时04分"
         },
         {
-          "title": "伊朗总统佩泽希齐扬：德黑兰并不寻求发展核武器",
-          "url": "https://www.zaochenbao.com/news/politics/202605/2472528.html",
-          "source": "联合早报",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 06时02分]"
-        },
-        {
           "title": "伊朗方面称现阶段伊尚未就核问题的细节做出任何承诺",
           "url": "https://flash.jin10.com/detail/20260525045954752800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
-        },
-        {
-          "title": "美媒：协议含放弃浓缩铀 伊朗：暂不谈核问题",
-          "url": "https://wallstreetcn.com/articles/3772994",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 06时02分]"
         },
         {
           "title": "伊朗称在境内击落一架以色列无人机",
@@ -269,7 +271,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -291,7 +293,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -335,7 +337,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -371,12 +373,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "美伊谈判进展扰动市场：美油跌超5%！美方放风“数小时内或有好消息”，伊朗谨慎",
+          "url": "https://flash.jin10.com/detail/20260525064631414800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时08分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
@@ -386,19 +399,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 06时02分]"
-        },
-        {
-          "title": "特朗普：美伊基本谈妥包括开放海峡 伊朗：协议可达海峡掌控不可松",
-          "url": "https://www.zaochenbao.com/news/politics/202605/2472533.html",
-          "source": "联合早报",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 08时08分]"
         },
         {
           "title": "中东再传利好！特朗普：美伊协议基本谈成 霍尔木兹海峡将开放",
@@ -409,8 +411,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 08时08分]"
+        },
+        {
+          "title": "特朗普：美伊基本谈妥包括开放海峡 伊朗：协议可达海峡掌控不可松",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2472533.html",
+          "source": "联合早报",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 08时08分]"
         },
         {
           "title": "白宫附近传出数十声枪响！特朗普当时正在白宫内，特勤局：枪手被执法人员击中，送医后身亡",
@@ -418,22 +432,24 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 08时08分]"
         },
         {
           "title": "枪手白宫附近开火遭击毙 特朗普无恙",
           "url": "https://www.zaochenbao.com/news/politics/202605/2472527.html",
           "source": "联合早报",
           "ranks": [
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 08时08分]"
         },
         {
           "title": "特朗普：美伊协议“尚未完全谈妥”",
@@ -468,6 +484,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "特朗普被自己人“围攻”：共和党强硬派怒批伊朗协议“让步太多”",
+          "url": "https://flash.jin10.com/detail/20260525074701003800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时08分"
         },
         {
           "title": "特朗普要求穆斯林领导人在伊朗战后加入《亚伯拉罕协议》",
@@ -513,11 +540,12 @@
           "url": "https://www.cls.cn/detail/2380075",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 08时08分]"
         },
         {
           "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
@@ -528,19 +556,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 08时08分]"
         },
         {
           "title": "DeepSeek宣布V4模型永久降价 或加剧AI价格战",
           "url": "https://www.zaochenbao.com/news/china/202605/2472531.html",
           "source": "联合早报",
           "ranks": [
-            5
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 08时08分]"
         },
         {
           "title": "梁文锋与DeepSeek的十万亿美元棋盘",
@@ -551,14 +580,14 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 08时08分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
@@ -570,6 +599,34 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时08分 ~ 06时02分]"
+        },
+        {
+          "title": "美股三大股指期货延续涨势，纳斯达克100指数期货涨幅达1%，标普500指数期货涨0.65%，道指期货涨0.54%。",
+          "url": "https://flash.jin10.com/detail/20260525073538076800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美伊协议前景缓和通胀担忧，金价反弹超1%",
+          "url": "https://flash.jin10.com/detail/20260525070547710800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时08分"
         }
       ]
     }
