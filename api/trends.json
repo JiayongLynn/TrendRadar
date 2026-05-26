@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T03:24:32.222610+08:00",
-  "total_titles_processed": 135,
+  "generated_at": "2026-05-27T05:54:21.497630+08:00",
+  "total_titles_processed": 163,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 05时54分]"
         },
         {
           "title": "停火协议形同废纸！伊朗开火，回击美国空袭，小哈梅内伊：中东地区国家将不再庇护美军",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 05时54分]"
         },
         {
           "title": "报道：伊朗将在与美达成协议30天后重开霍尔木兹，美伊就伊冻结资产达成谅解",
@@ -59,7 +59,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -69,11 +69,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 05时54分]"
         },
         {
           "title": "伊朗革命卫队声称正在对霍尔木兹海峡实施“智能控制”，并警告称，任何在该水道的侵略行为将遭到“毁灭性”回应，进一步强化了德黑兰在维护该战略要道主权上的立场。",
@@ -82,7 +83,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -115,7 +116,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -126,7 +127,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -137,9 +138,103 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美国总统特朗普：确保商品期货交易委员会对预测市场专属管辖权得到维护至关重要。",
+          "url": "https://flash.jin10.com/detail/20260527052251487800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "与美伊停战协议挂钩 特朗普促穆斯林国家与以色列建交",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2672676.html",
+          "source": "联合早报",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 05时54分]"
+        },
+        {
+          "title": "巴西参议员弗拉维奥·博尔索纳罗确认，他于当地时间周二在白宫会见了美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20260527050312456800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
+          "url": "https://wallstreetcn.com/articles/3773076",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        },
+        {
+          "title": "美国总统特朗普：考虑到明天可能出现的恶劣天气情况，我们将在白宫举行内阁会议，并推迟前往戴维营的内阁行程。",
+          "url": "https://flash.jin10.com/detail/20260527044831585800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "美国贸易代表格里尔：美国与加拿大存在贸易争端，该国对特朗普的关税采取了报复措施。",
+          "url": "https://flash.jin10.com/detail/20260527043602723800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "美国贸易代表格里尔：美国总统特朗普对美国与墨西哥之间的贸易赤字表示担忧。",
+          "url": "https://flash.jin10.com/detail/20260527043047760800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "美国贸易代表格里尔：美国总统特朗普对关税豁免计划不感兴趣。",
+          "url": "https://flash.jin10.com/detail/20260527042055039800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
         }
       ]
     },
@@ -155,8 +250,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 05时54分]"
         },
         {
           "title": "美股异动｜戴尔科技涨约4.6%创新高，年内已累计上涨超140%",
@@ -166,8 +261,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 05时54分]"
         },
         {
           "title": "美股大型科技股盘前普涨，美光科技涨超8%",
@@ -177,8 +272,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 05时54分]"
         },
         {
           "title": "美伊谈判前景提振市场 美股三大期指集体上涨 美光盘前大涨超8% | 今夜看点",
@@ -189,8 +284,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 05时54分]"
         },
         {
           "title": "下午察：普通人告别“一键买美股”",
@@ -200,36 +295,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 03时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "与美伊停战协议挂钩 特朗普促穆斯林国家与以色列建交",
-          "url": "https://www.zaochenbao.com/news/politics/202605/2672676.html",
-          "source": "联合早报",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 03时24分]"
-        },
-        {
-          "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
-          "url": "https://wallstreetcn.com/articles/3773076",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 05时54分]"
         }
       ]
     },
@@ -245,8 +312,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 05时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数26日上涨",
+          "url": "https://flash.jin10.com/detail/20260527042819319800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
         }
       ]
     }
