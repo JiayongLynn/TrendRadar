@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T12:40:05.784289+08:00",
-  "total_titles_processed": 299,
+  "generated_at": "2026-05-27T16:44:37.143178+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 23,
       "titles": [
         {
           "title": "停火协议形同废纸！伊朗开火，回击美国空袭，小哈梅内伊：中东地区国家将不再庇护美军",
@@ -176,6 +176,28 @@
           "time_info": "03时24分"
         },
         {
+          "title": "乌克兰战争和伊朗战争比你想象的更为相似",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2772732.html",
+          "source": "联合早报",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
+          "title": "伊朗战争下，环球货币谁胜谁败？",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2772731.html",
+          "source": "联合早报",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
           "title": "据黎巴嫩电视台Al-Mayadeen：伊朗议会议长卡利巴夫的顾问表示，如果美国“玩文字游戏”，德黑兰将退出谈判。",
           "url": "https://flash.jin10.com/detail/20260527013502637800",
           "source": "金十数据",
@@ -185,6 +207,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "韩国外交部：将召见伊朗大使以分享调查结果。",
+          "url": "https://flash.jin10.com/detail/20260527162036028800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
+          "title": "伊朗支付超7万亿土曼“药品支持计划”相关欠款",
+          "url": "https://flash.jin10.com/detail/20260527161559718800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
+          "title": "伊朗战争加剧市场波动 美英企业外汇对冲比例升至新高",
+          "url": "https://flash.jin10.com/detail/20260527161507239800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
+          "title": "韩国政府表示，击中‘Na Mu号’的发动机与伊朗制造的涡轮喷气发动机相似。",
+          "url": "https://flash.jin10.com/detail/20260527161330089800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
+          "title": "市场消息：韩国政府计划召见伊朗大使，提出强烈抗议，并要求采取措施以防止此类事件再次发生。",
+          "url": "https://flash.jin10.com/detail/20260527160955491800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         }
       ]
     },
@@ -329,7 +406,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "热门中概股美股盘前涨跌不一，小鹏集团涨超5%",
@@ -423,6 +500,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时49分 ~ 07时17分]"
+        },
+        {
+          "title": "美股航空航天板块盘前上涨，Momentus涨超30%，太空基础设施公司Redwire涨约23%，AST SpaceMobile、Rocket Lab涨超6%。此前，美国国家航空航天局（NASA）26日公布月球基地建设三阶段路线图，进一步细化未来在月球南极地区建设长期驻留设施的发展目标和实施路径。",
+          "url": "https://flash.jin10.com/detail/20260527162232462800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
+          "title": "美股异动丨IREN盘前续涨超4%，豪掷16亿美元采购Blackwell算力系统",
+          "url": "https://www.gelonghui.com/news/5240852",
+          "source": "格隆汇",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         }
       ]
     },
@@ -466,8 +565,25 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 07时17分]"
+          "appearance_count": 3,
+          "time_info": "[07时16分 ~ 16时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌将于7月1日更新在爱尔兰的博彩和游戏政策，以符合新的监管要求。",
+          "url": "https://flash.jin10.com/detail/20260527163129223800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         }
       ]
     },
