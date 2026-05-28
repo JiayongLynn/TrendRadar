@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T06:03:29.730730+08:00",
-  "total_titles_processed": 169,
+  "generated_at": "2026-05-28T08:06:41.017905+08:00",
+  "total_titles_processed": 236,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "美国总统特朗普重申伊朗不能拥有核武器。",
@@ -36,7 +36,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "美军对伊朗军事基地发动新打击！特朗普放话：不在乎中期选举，不会为了选票对伊让步",
+          "url": "https://flash.jin10.com/detail/20260528073637188800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         },
         {
           "title": "美国总统特朗普：昨晚的初步结果是“中期选举的序幕”。",
@@ -78,11 +89,12 @@
           "url": "https://www.zaochenbao.com/news/politics/202605/2872772.html",
           "source": "联合早报",
           "ranks": [
-            5
+            5,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时03分 ~ 08时06分]"
         },
         {
           "title": "赖清德出席美国独立纪念日晚会 送张忠谋自传给特朗普",
@@ -192,7 +204,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -203,7 +215,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -228,6 +240,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "美国总统特朗普：很快，美国和亚美尼亚将共同启动国际和平与繁荣的特朗普路线，这将改变南高加索，并帮助我们优秀的美国能源公司获得从中亚直通美国的通道。",
+          "url": "https://flash.jin10.com/detail/20260528065553692800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "特朗普威胁“炸飞”阿曼：没人能控制霍尔木兹海峡，伊阿共管草案遭否",
+          "url": "https://flash.jin10.com/detail/20260528065405164800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         },
         {
           "title": "据美国公共电视网 (PBS)：美国总统特朗普称，沙特应该加入亚伯拉罕协议。",
@@ -272,45 +306,70 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "美国智库：特朗普嘴上说不关心，但最怕共和党中期选举惨败",
+          "url": "https://flash.jin10.com/detail/20260528062011418800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "消息称：若与伊朗达成协议 美将撤走部署以机场的军机",
-          "url": "https://www.zaochenbao.com/news/politics/202605/2872773.html",
-          "source": "联合早报",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        },
         {
           "title": "伊朗：美方承诺在所有战线停火60天，战争重新爆发的可能性\"低\"",
           "url": "https://wallstreetcn.com/articles/3773227",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 06时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 08时06分]"
+        },
+        {
+          "title": "伊朗指美国“弱” 再次开战可能性低",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2872779.html",
+          "source": "联合早报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         },
         {
           "title": "伊美“停火框架”草案披露：美国解除“海上封锁”并部分撤军，伊朗于一个月内逐步通航",
           "url": "https://wallstreetcn.com/articles/3773253",
           "source": "华尔街见闻",
           "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 08时06分]"
+        },
+        {
+          "title": "消息称：若与伊朗达成协议 美将撤走部署以机场的军机",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2872773.html",
+          "source": "联合早报",
+          "ranks": [
+            4,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 06时03分]"
+          "appearance_count": 2,
+          "time_info": "[06时03分 ~ 08时06分]"
         },
         {
           "title": "一份协议如何让双方“宣布胜利”？美国提出新要求，伊朗有两个目标",
@@ -318,11 +377,24 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 06时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 08时06分]"
+        },
+        {
+          "title": "美伊初步非正式协议披露 伊朗一个月内恢复商业船只通行",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2872769.html",
+          "source": "联合早报",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时03分 ~ 08时06分]"
         },
         {
           "title": "伊朗情报部：美以目标仍是推翻伊朗政权并分裂国家",
@@ -336,15 +408,37 @@
           "time_info": "[00时42分 ~ 03时30分]"
         },
         {
-          "title": "美伊初步非正式协议披露 伊朗一个月内恢复商业船只通行",
-          "url": "https://www.zaochenbao.com/news/politics/202605/2872769.html",
-          "source": "联合早报",
+          "title": "美国10年期国债期货下跌4个基点，30年期国债期货下跌6个基点，此前美军称再次袭击伊朗军事设施。",
+          "url": "https://flash.jin10.com/detail/20260528073233232800",
+          "source": "金十数据",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时03分"
+          "time_info": "08时06分"
+        },
+        {
+          "title": "美军称再袭伊朗军事设施",
+          "url": "https://flash.jin10.com/detail/20260528072538038800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "现货黄金短线小幅走低，向下触及4450美元/盎司，日内跌0.14%。消息面上，美军对伊朗军事基地实施新打击。",
+          "url": "https://flash.jin10.com/detail/20260528072210186800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         },
         {
           "title": "据伊朗学生通讯社：伊斯法罕国际机场在停运80天后将全面恢复运营。",
@@ -358,6 +452,17 @@
           "time_info": "03时30分"
         },
         {
+          "title": "美官员：美军对伊朗军事基地实施新打击",
+          "url": "https://flash.jin10.com/detail/20260528071746735800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
           "title": "伊朗外长和新西兰外长通话",
           "url": "https://flash.jin10.com/detail/20260527235001725800",
           "source": "金十数据",
@@ -369,6 +474,28 @@
           "time_info": "00时42分"
         },
         {
+          "title": "伊朗阿巴斯港发生爆炸 防空系统启动数分钟",
+          "url": "https://flash.jin10.com/detail/20260528064119637800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "伊朗阿巴斯港消息人士称，听到远处传来三四声爆炸声，听起来和几天前晚上（发生爆炸）的方向一样。",
+          "url": "https://flash.jin10.com/detail/20260528063725013800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
           "title": "俄罗斯国家原子能公司负责人：决定推迟让工作人员返回伊朗布什尔核电站。",
           "url": "https://flash.jin10.com/detail/20260527233350098800",
           "source": "金十数据",
@@ -378,35 +505,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "当地居民称，伊朗南部阿巴斯港传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260528063440282800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "热门中概股美股盘前普跌，拼多多跌超8%",
-          "url": "https://www.36kr.com/newsflashes/3827542979957636",
-          "source": "36氪",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 06时03分]"
-        },
-        {
-          "title": "美股大型科技股盘前涨跌不一，美光科技涨超6%",
-          "url": "https://www.36kr.com/newsflashes/3827541113655942",
-          "source": "36氪",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 06时03分]"
-        },
         {
           "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
           "url": "https://wallstreetcn.com/articles/3773196",
@@ -420,15 +536,62 @@
           "time_info": "[00时42分 ~ 06时03分]"
         },
         {
+          "title": "热门中概股美股盘前普跌，拼多多跌超8%",
+          "url": "https://www.36kr.com/newsflashes/3827542979957636",
+          "source": "36氪",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 08时06分]"
+        },
+        {
+          "title": "美股大型科技股盘前涨跌不一，美光科技涨超6%",
+          "url": "https://www.36kr.com/newsflashes/3827541113655942",
+          "source": "36氪",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 08时06分]"
+        },
+        {
+          "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "美股收盘：三大股指勉强收涨 美光市值压过伯克希尔",
+          "url": "https://www.cls.cn/detail/2383514",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
           "title": "美股期指集体走高 美光盘前再度大涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2383334",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 06时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 08时06分]"
         },
         {
           "title": "美股异动｜WTI原油期货大跌6%，油气股全线下跌",
@@ -453,6 +616,17 @@
           "time_info": "[00时42分 ~ 03时30分]"
         },
         {
+          "title": "美股三大股指小幅收涨 美光科技续创新高",
+          "url": "https://www.gelonghui.com/news/5241448",
+          "source": "格隆汇",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
           "title": "美股走低，标普500指数跌0.1%，纳指下跌0.4%，道指涨0.3%。",
           "url": "https://flash.jin10.com/detail/20260527234806210800",
           "source": "金十数据",
@@ -462,6 +636,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "美股三大股指小幅收涨，美光科技涨超3%续创新高",
+          "url": "https://www.36kr.com/newsflashes/3828128355652227",
+          "source": "36氪",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据华尔街日报：谷歌(GOOG.O)员工因在预测市场Polymarket上进行内幕交易被起诉。",
+          "url": "https://flash.jin10.com/detail/20260528062625089800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美债遭遇“百年最惨熊市”，“末日博士”彼得·希夫：真正的危机才刚开始",
+          "url": "https://wallstreetcn.com/articles/3773219",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY短线小幅走高，现报99.25，非美货币普跌。",
+          "url": "https://flash.jin10.com/detail/20260528072300527800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         }
       ]
     }
