@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-05-28T18:19:35.455108+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2026-05-28T22:43:37.102346+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
+        {
+          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
+          "url": "https://wallstreetcn.com/articles/3773275",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 22时43分]"
+        },
         {
           "title": "中东波澜又起！白宫斥协议草案“纯属捏造” 特朗普称对谈判进程“不满意”",
           "url": "https://www.cls.cn/detail/2383563",
@@ -52,18 +65,6 @@
           "time_info": "06时03分"
         },
         {
-          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
-          "url": "https://wallstreetcn.com/articles/3773275",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时15分 ~ 18时19分]"
-        },
-        {
           "title": "美国总统特朗普：我并不关心中期选举。",
           "url": "https://flash.jin10.com/detail/20260528000819941800",
           "source": "金十数据",
@@ -84,6 +85,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "特朗普就海峡控制权警告阿曼 不守规矩将被“炸毁”",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2872839.html",
+          "source": "联合早报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "美国总统特朗普：昨晚的初步结果是“中期选举的序幕”。",
@@ -222,6 +234,17 @@
           "time_info": "00时42分"
         },
         {
+          "title": "美媒：美军完成对古巴军事部署 只等特朗普一声令下",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2872836.html",
+          "source": "联合早报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "美国总统特朗普：伊朗以为他们能拖住我，但事实并非如此。",
           "url": "https://flash.jin10.com/detail/20260528000555759800",
           "source": "金十数据",
@@ -277,6 +300,17 @@
           "time_info": "06时03分"
         },
         {
+          "title": "美国官员：美伊就谅解备忘录达成一致，但仍需特朗普最终批准",
+          "url": "https://flash.jin10.com/detail/20260528221738265800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "美国总统特朗普在白宫召开内阁会议。",
           "url": "https://flash.jin10.com/detail/20260527235635821800",
           "source": "金十数据",
@@ -321,13 +355,24 @@
           "time_info": "08时06分"
         },
         {
+          "title": "据AXIOS网站：两名美国官员表示，美国和伊朗谈判代表已就一项为期60天的谅解备忘录达成一致，以延长停火并启动关于伊朗核计划的谈判，但特朗普总统尚未给予最终批准。",
+          "url": "https://flash.jin10.com/detail/20260528221435055800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "与特朗普“撞脸”水牛 哈芝节前豁免宰杀",
           "url": "https://www.zaochenbao.com/news/politics/202605/2872810.html",
           "source": "联合早报",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -390,7 +435,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "伊朗：美方承诺在所有战线停火60天，战争重新爆发的可能性\"低\"",
@@ -491,6 +536,18 @@
           "time_info": "[00时42分 ~ 03时30分]"
         },
         {
+          "title": "伊朗革命卫队称对美空军基地进行报复打击",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2872812.html",
+          "source": "联合早报",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 22时43分]"
+        },
+        {
           "title": "美国10年期国债期货下跌4个基点，30年期国债期货下跌6个基点，此前美军称再次袭击伊朗军事设施。",
           "url": "https://flash.jin10.com/detail/20260528073233232800",
           "source": "金十数据",
@@ -522,6 +579,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "白宫否认伊媒曝光草案，标普转跌，鲁比奥称给伊朗谈判“一切成功的机会”，美油跌近6%",
+          "url": "https://wallstreetcn.com/articles/3773277",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "据伊朗学生通讯社：伊斯法罕国际机场在停运80天后将全面恢复运营。",
@@ -557,24 +625,13 @@
           "time_info": "00时42分"
         },
         {
-          "title": "伊朗革命卫队称对美空军基地进行报复打击",
-          "url": "https://www.zaochenbao.com/news/politics/202605/2872812.html",
-          "source": "联合早报",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
           "title": "美财政部将伊朗波斯湾海峡管理局列入制裁名单",
           "url": "https://www.zaochenbao.com/news/politics/202605/2872811.html",
           "source": "联合早报",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -626,7 +683,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
@@ -637,8 +694,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时06分 ~ 18时19分]"
+          "appearance_count": 5,
+          "time_info": "[08时06分 ~ 22时43分]"
         },
         {
           "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
@@ -689,6 +746,39 @@
           "time_info": "[00时42分 ~ 08时06分]"
         },
         {
+          "title": "热门中概股美股盘前多数下跌，理想汽车跌超3%",
+          "url": "https://www.36kr.com/newsflashes/3828948117038470",
+          "source": "36氪",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "美股大型科技股盘前涨跌不一，Meta涨近1%",
+          "url": "https://www.36kr.com/newsflashes/3828947146073222",
+          "source": "36氪",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "美股异动丨戴尔续创新高，微软涨超3%，获美国防部授予97亿美元软件合约",
+          "url": "https://www.gelonghui.com/news/5242098",
+          "source": "格隆汇",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "美股期指集体走高 美光盘前再度大涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2383334",
           "source": "财联社热门",
@@ -729,9 +819,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
+        },
+        {
+          "title": "美国4月PCE同比升3.8% 美股期指走低 Snowflake盘前大涨38% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2384590",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "美股三大股指小幅收涨 美光科技续创新高",
@@ -743,6 +844,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "美股异动｜礼来涨超3%创逾四个月新高，CVS恢复Zepbound报销",
+          "url": "https://www.gelonghui.com/news/5242092",
+          "source": "格隆汇",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "拼多多第一季总营收低于预期 在美股价大跌10%",
+          "url": "https://www.zaochenbao.com/news/china/202605/2872828.html",
+          "source": "联合早报",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "美股走低，标普500指数跌0.1%，纳指下跌0.4%，道指涨0.3%。",
@@ -769,6 +892,35 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美债遭遇“百年最惨熊市”，“末日博士”彼得·希夫：真正的危机才刚开始",
+          "url": "https://wallstreetcn.com/articles/3773219",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 13时16分]"
+        },
+        {
+          "title": "美债继续上涨；10年期收益率跌5个基点至4.43%。",
+          "url": "https://flash.jin10.com/detail/20260528221804770800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -777,11 +929,12 @@
           "url": "https://wallstreetcn.com/articles/3773316",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 22时43分]"
         }
       ]
     },
@@ -811,29 +964,12 @@
           "url": "https://wallstreetcn.com/articles/3773313",
           "source": "华尔街见闻",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美债遭遇“百年最惨熊市”，“末日博士”彼得·希夫：真正的危机才刚开始",
-          "url": "https://wallstreetcn.com/articles/3773219",
-          "source": "华尔街见闻",
-          "ranks": [
             9,
-            8
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时06分 ~ 13时16分]"
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 22时43分]"
         }
       ]
     },
