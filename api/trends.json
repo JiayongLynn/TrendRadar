@@ -1,34 +1,12 @@
 {
-  "generated_at": "2026-05-29T05:14:14.434114+08:00",
-  "total_titles_processed": 136,
+  "generated_at": "2026-05-29T07:25:12.294293+08:00",
+  "total_titles_processed": 178,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
-        {
-          "title": "热门中概股美股盘前多数下跌，理想汽车跌超3%",
-          "url": "https://www.36kr.com/newsflashes/3828948117038470",
-          "source": "36氪",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 05时14分]"
-        },
-        {
-          "title": "美股大型科技股盘前涨跌不一，Meta涨近1%",
-          "url": "https://www.36kr.com/newsflashes/3828947146073222",
-          "source": "36氪",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 05时14分]"
-        },
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
           "url": "https://wallstreetcn.com/articles/3773196",
@@ -41,6 +19,52 @@
           "time_info": "[02时17分 ~ 05时14分]"
         },
         {
+          "title": "美伊停火传言搅动市场，美股收创新高，半导体指数涨1%，黄金深V反转",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "美股异动｜戴尔盘后飙升近40% 第一财季业绩远超预期+上调年度营收预期",
+          "url": "https://www.gelonghui.com/news/5242229",
+          "source": "格隆汇",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "热门中概股美股盘前多数下跌，理想汽车跌超3%",
+          "url": "https://www.36kr.com/newsflashes/3828948117038470",
+          "source": "36氪",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 07时25分]"
+        },
+        {
+          "title": "美股大型科技股盘前涨跌不一，Meta涨近1%",
+          "url": "https://www.36kr.com/newsflashes/3828947146073222",
+          "source": "36氪",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 07时25分]"
+        },
+        {
           "title": "美国4月PCE同比升3.8% 美股期指走低 Snowflake盘前大涨38% | 今夜看点",
           "url": "https://www.cls.cn/detail/2384590",
           "source": "财联社热门",
@@ -49,8 +73,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 05时14分]"
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 07时25分]"
+        },
+        {
+          "title": "拼多多第一季总营收低于预期 在美股价大跌10%",
+          "url": "https://www.zaochenbao.com/news/china/202605/2872828.html",
+          "source": "联合早报",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 07时25分]"
         },
         {
           "title": "美股异动丨存储概念股持续走高，闪迪、西部数据及希捷科技齐创新高",
@@ -64,15 +99,37 @@
           "time_info": "[02时17分 ~ 05时14分]"
         },
         {
-          "title": "拼多多第一季总营收低于预期 在美股价大跌10%",
-          "url": "https://www.zaochenbao.com/news/china/202605/2872828.html",
-          "source": "联合早报",
+          "title": "美股三大股指集体收涨 Snowflake大涨超36%",
+          "url": "https://www.gelonghui.com/news/5242226",
+          "source": "格隆汇",
           "ranks": [
-            20
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 05时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "美股三大股指集体收涨，热门中概股多数下跌",
+          "url": "https://www.36kr.com/newsflashes/3829542557623424",
+          "source": "36氪",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
+          "url": "https://www.cls.cn/detail/2384768",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "金十图示：2026年05月28日（周四）美股热门股票行情一览（美股收盘）",
@@ -81,7 +138,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -92,7 +149,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         }
@@ -100,7 +157,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "伊朗军方称在布什尔附近拦截一架美国无人机",
@@ -109,7 +166,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -120,7 +177,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -131,7 +188,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -145,6 +202,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "美国中央司令部：伊朗国家电视台声称伊朗军队在布什尔附近击落了一架美国飞机为不实消息。事实上没有美国飞机被击落，所有美国空中资产无一损失。",
+          "url": "https://flash.jin10.com/detail/20260529065130382800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "伊朗副外长称伊方不会签署任何不符合国家利益的谅解协议",
@@ -175,9 +243,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "伊朗外交部谴责美国对阿曼的威胁",
+          "url": "https://flash.jin10.com/detail/20260529061116002800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "据以色列i24新闻台中东高级记者：伊朗非官方媒体报道，伊朗革命卫队海军对四艘“违规船只”发射了警告炮弹，这些船只试图在未协调的情况下通过霍尔木兹海峡。",
@@ -186,9 +265,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "美国官员表示，在伊朗布什尔附近并没有美国飞机被击落。",
+          "url": "https://flash.jin10.com/detail/20260529060346329800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         }
       ]
     },
@@ -204,8 +294,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 05时14分]"
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 07时25分]"
         },
         {
           "title": "美媒称美伊达成60天谅解备忘录延长停火、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
@@ -213,11 +303,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 05时14分]"
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 07时25分]"
         },
         {
           "title": "特朗普就海峡控制权警告阿曼 不守规矩将被“炸毁”",
@@ -227,8 +318,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 05时14分]"
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 07时25分]"
         },
         {
           "title": "美媒：美军完成对古巴军事部署 只等特朗普一声令下",
@@ -238,8 +329,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 05时14分]"
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 07时25分]"
         },
         {
           "title": "美国总统特朗普：（置评伊朗冲突）我们掌握所有筹码。伊朗在军事上被击败。",
@@ -248,7 +339,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         }
@@ -266,19 +357,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 05时14分]"
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 07时25分]"
         },
         {
           "title": "国家大基金领投DeepSeek，投前估值450亿美元",
           "url": "https://wallstreetcn.com/articles/3773316",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 05时14分]"
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 07时25分]"
         }
       ]
     },
