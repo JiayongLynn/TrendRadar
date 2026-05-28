@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-28T08:06:41.017905+08:00",
-  "total_titles_processed": 236,
+  "generated_at": "2026-05-28T13:16:04.300199+08:00",
+  "total_titles_processed": 332,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "中东波澜又起！白宫斥协议草案“纯属捏造” 特朗普称对谈判进程“不满意”",
+          "url": "https://www.cls.cn/detail/2383563",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
+        },
         {
           "title": "美国总统特朗普重申伊朗不能拥有核武器。",
           "url": "https://flash.jin10.com/detail/20260528000920766800",
@@ -58,7 +69,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -121,6 +132,28 @@
           "time_info": "[00时42分 ~ 06时03分]"
         },
         {
+          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
+          "url": "https://wallstreetcn.com/articles/3773275",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
+        },
+        {
+          "title": "不怕美伊战争伤选情 特朗普：伊朗跟我耗是大错特错",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2872796.html",
+          "source": "联合早报",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
+        },
+        {
           "title": "中国学者：特朗普外交遗产或延续三五十年",
           "url": "https://www.zaochenbao.com/news/politics/202605/2772759.html",
           "source": "联合早报",
@@ -141,6 +174,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时42分 ~ 03时30分]"
+        },
+        {
+          "title": "特朗普：霍尔木兹海峡不归任何人管辖 盟友阿曼不守规矩也会被炸",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2872791.html",
+          "source": "联合早报",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
+        },
+        {
+          "title": "美军三天两炸伊朗、科威特防空激活！前线升温，特朗普却被左右撕扯",
+          "url": "https://flash.jin10.com/detail/20260528124859867800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
         },
         {
           "title": "消息称：特朗普领导的和平委员会“零捐款”",
@@ -248,7 +303,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -259,7 +314,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -314,7 +369,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         }
@@ -322,7 +377,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗：美方承诺在所有战线停火60天，战争重新爆发的可能性\"低\"",
@@ -330,22 +385,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 08时06分]"
-        },
-        {
-          "title": "伊朗指美国“弱” 再次开战可能性低",
-          "url": "https://www.zaochenbao.com/news/politics/202605/2872779.html",
-          "source": "联合早报",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 13时16分]"
         },
         {
           "title": "伊美“停火框架”草案披露：美国解除“海上封锁”并部分撤军，伊朗于一个月内逐步通航",
@@ -353,11 +398,24 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 08时06分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 13时16分]"
+        },
+        {
+          "title": "伊朗指美国“弱” 再次开战可能性低",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2872779.html",
+          "source": "联合早报",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 13时16分]"
         },
         {
           "title": "消息称：若与伊朗达成协议 美将撤走部署以机场的军机",
@@ -397,6 +455,17 @@
           "time_info": "[06时03分 ~ 08时06分]"
         },
         {
+          "title": "美军对伊朗军事目标发动新一轮空袭",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2872794.html",
+          "source": "联合早报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
+        },
+        {
           "title": "伊朗情报部：美以目标仍是推翻伊朗政权并分裂国家",
           "url": "https://www.zaochenbao.com/news/politics/202605/2772756.html",
           "source": "联合早报",
@@ -414,7 +483,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -425,7 +494,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -436,7 +505,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -458,7 +527,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -480,7 +549,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -491,7 +560,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -513,7 +582,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         }
@@ -523,6 +592,17 @@
       "keyword_group": "美股",
       "match_count": 11,
       "titles": [
+        {
+          "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 13时16分]"
+        },
         {
           "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
           "url": "https://wallstreetcn.com/articles/3773196",
@@ -534,6 +614,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时42分 ~ 06时03分]"
+        },
+        {
+          "title": "美股收盘：三大股指勉强收涨 美光市值压过伯克希尔",
+          "url": "https://www.cls.cn/detail/2383514",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 13时16分]"
         },
         {
           "title": "热门中概股美股盘前普跌，拼多多跌超8%",
@@ -558,28 +650,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时42分 ~ 08时06分]"
-        },
-        {
-          "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
-          "url": "https://wallstreetcn.com/articles/3773196",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "美股收盘：三大股指勉强收涨 美光市值压过伯克希尔",
-          "url": "https://www.cls.cn/detail/2383514",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
         },
         {
           "title": "美股期指集体走高 美光盘前再度大涨 | 今夜看点",
@@ -622,7 +692,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -644,7 +714,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         }
@@ -661,7 +731,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         }
@@ -676,11 +746,12 @@
           "url": "https://wallstreetcn.com/articles/3773219",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 13时16分]"
         }
       ]
     },
@@ -695,7 +766,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         }
