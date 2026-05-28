@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T13:16:04.300199+08:00",
-  "total_titles_processed": 332,
+  "generated_at": "2026-05-28T18:19:35.455108+08:00",
+  "total_titles_processed": 425,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "中东波澜又起！白宫斥协议草案“纯属捏造” 特朗普称对谈判进程“不满意”",
@@ -50,6 +50,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
+          "url": "https://wallstreetcn.com/articles/3773275",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时15分 ~ 18时19分]"
         },
         {
           "title": "美国总统特朗普：我并不关心中期选举。",
@@ -132,26 +144,16 @@
           "time_info": "[00时42分 ~ 06时03分]"
         },
         {
-          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
-          "url": "https://wallstreetcn.com/articles/3773275",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
-        },
-        {
           "title": "不怕美伊战争伤选情 特朗普：伊朗跟我耗是大错特错",
           "url": "https://www.zaochenbao.com/news/politics/202605/2872796.html",
           "source": "联合早报",
           "ranks": [
-            9
+            9,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
+          "appearance_count": 3,
+          "time_info": "[13时15分 ~ 18时19分]"
         },
         {
           "title": "中国学者：特朗普外交遗产或延续三五十年",
@@ -319,6 +321,17 @@
           "time_info": "08时06分"
         },
         {
+          "title": "与特朗普“撞脸”水牛 哈芝节前豁免宰杀",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2872810.html",
+          "source": "联合早报",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "据美国公共电视网 (PBS)：美国总统特朗普称，沙特应该加入亚伯拉罕协议。",
           "url": "https://flash.jin10.com/detail/20260527234721424800",
           "source": "金十数据",
@@ -377,7 +390,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "伊朗：美方承诺在所有战线停火60天，战争重新爆发的可能性\"低\"",
@@ -399,11 +412,12 @@
           "ranks": [
             8,
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 13时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 18时19分]"
         },
         {
           "title": "伊朗指美国“弱” 再次开战可能性低",
@@ -543,6 +557,28 @@
           "time_info": "00时42分"
         },
         {
+          "title": "伊朗革命卫队称对美空军基地进行报复打击",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2872812.html",
+          "source": "联合早报",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "美财政部将伊朗波斯湾海峡管理局列入制裁名单",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2872811.html",
+          "source": "联合早报",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "伊朗阿巴斯港发生爆炸 防空系统启动数分钟",
           "url": "https://flash.jin10.com/detail/20260528064119637800",
           "source": "金十数据",
@@ -590,18 +626,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
           "url": "https://wallstreetcn.com/articles/3773196",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时06分 ~ 13时16分]"
+          "appearance_count": 4,
+          "time_info": "[08时06分 ~ 18时19分]"
         },
         {
           "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
@@ -686,6 +723,17 @@
           "time_info": "[00时42分 ~ 03时30分]"
         },
         {
+          "title": "当AI愈发相信“光”的力量！美股光通信龙头大幅上调营收预期",
+          "url": "https://www.cls.cn/detail/2383585",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "美股三大股指小幅收涨 美光科技续创新高",
           "url": "https://www.gelonghui.com/news/5241448",
           "source": "格隆汇",
@@ -721,6 +769,23 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国家大基金领投DeepSeek，投前估值450亿美元",
+          "url": "https://wallstreetcn.com/articles/3773316",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -734,6 +799,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         }
       ]
     },
