@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-29T12:22:20.195994+08:00",
-  "total_titles_processed": 284,
+  "generated_at": "2026-05-29T16:48:57.543948+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 16时48分]"
+        },
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
           "url": "https://wallstreetcn.com/articles/3773196",
@@ -25,7 +36,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -39,17 +50,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
-        },
-        {
-          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
-          "url": "https://wallstreetcn.com/articles/3773313",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
         },
         {
           "title": "美股异动｜戴尔盘后飙升近40% 第一财季业绩远超预期+上调年度营收预期",
@@ -161,9 +161,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "美股异动丨业绩炸裂！戴尔盘前飙升超40%",
+          "url": "https://www.gelonghui.com/news/5242521",
+          "source": "格隆汇",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         },
         {
           "title": "美股异动丨Gap夜盘跌13.6%，下调年度销售预期",
@@ -172,7 +183,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -197,12 +208,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "戴尔(DELL.N)美股盘前大涨近40%，第一财季业绩远超预期。",
+          "url": "https://flash.jin10.com/detail/20260529160216964800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊朗军方称在布什尔附近拦截一架美国无人机",
@@ -220,11 +242,12 @@
           "url": "https://www.zaochenbao.com/news/politics/202605/2972866.html",
           "source": "联合早报",
           "ranks": [
-            9
+            9,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 16时48分]"
         },
         {
           "title": "据伊朗国家媒体：（伊朗布什尔的）爆炸声系防空系统与飞行器交战所致。",
@@ -269,6 +292,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "伊朗官员称无意将浓缩铀运出伊朗",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2972886.html",
+          "source": "联合早报",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         },
         {
           "title": "伊朗副外长称伊方不会签署任何不符合国家利益的谅解协议",
@@ -363,8 +397,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时17分 ~ 12时22分]"
+          "appearance_count": 5,
+          "time_info": "[02时17分 ~ 16时48分]"
         },
         {
           "title": "特朗普就海峡控制权警告阿曼 不守规矩将被“炸毁”",
@@ -393,11 +427,12 @@
           "url": "https://www.zaochenbao.com/news/politics/202605/2972867.html",
           "source": "联合早报",
           "ranks": [
-            8
+            8,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 16时48分]"
         },
         {
           "title": "美国总统特朗普：（置评伊朗冲突）我们掌握所有筹码。伊朗在军事上被击败。",
@@ -414,7 +449,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI：正在调查影响用户登录和使用ChatGPT的故障",
@@ -423,7 +458,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -439,13 +474,24 @@
           "time_info": "[02时17分 ~ 05时14分]"
         },
         {
+          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
+          "url": "https://wallstreetcn.com/articles/3773389",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
           "title": "OpenAI：（就出现故障问题）我们已经采取了应对措施，并正在监测恢复情况。",
           "url": "https://flash.jin10.com/detail/20260529114249446800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -456,7 +502,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         }
@@ -513,7 +559,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         }
