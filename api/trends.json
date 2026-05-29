@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T16:48:57.543948+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-05-29T20:23:53.056055+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3773313",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 16时48分]"
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 20时23分]"
         },
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
@@ -172,7 +173,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -216,7 +217,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         }
@@ -224,7 +225,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗军方称在布什尔附近拦截一架美国无人机",
@@ -238,6 +239,39 @@
           "time_info": "05时14分"
         },
         {
+          "title": "美国和伊朗是接近和平，还是正在滑向战争深渊？",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2972920.html",
+          "source": "联合早报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "美国与伊朗海上对峙：一场“看谁先眨眼认输”的僵局",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2972919.html",
+          "source": "联合早报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：消息人士称，与美国的谅解备忘录文本在最近几天发生了变化。",
+          "url": "https://flash.jin10.com/detail/20260529195330709800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "美国对伊朗军用石油销售实施新制裁",
           "url": "https://www.zaochenbao.com/news/politics/202605/2972866.html",
           "source": "联合早报",
@@ -248,6 +282,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时22分 ~ 16时48分]"
+        },
+        {
+          "title": "伊朗谴责美国最新军事打击严重违反停火协议",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2972913.html",
+          "source": "联合早报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "据伊朗国家媒体：（伊朗布什尔的）爆炸声系防空系统与飞行器交战所致。",
@@ -300,7 +345,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -360,6 +405,17 @@
           "time_info": "05时14分"
         },
         {
+          "title": "雪佛龙首席执行官：雪佛龙不会为通过霍尔木兹海峡向伊朗支付通行费。",
+          "url": "https://flash.jin10.com/detail/20260529193751505800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "美国官员表示，在伊朗布什尔附近并没有美国飞机被击落。",
           "url": "https://flash.jin10.com/detail/20260529060346329800",
           "source": "金十数据",
@@ -377,17 +433,6 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
-          "url": "https://wallstreetcn.com/articles/3773275",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 07时25分]"
-        },
-        {
           "title": "美媒称美伊达成60天谅解备忘录延长停火、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
           "url": "https://wallstreetcn.com/articles/3773378",
           "source": "华尔街见闻",
@@ -397,8 +442,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时17分 ~ 16时48分]"
+          "appearance_count": 6,
+          "time_info": "[02时17分 ~ 20时23分]"
+        },
+        {
+          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
+          "url": "https://wallstreetcn.com/articles/3773275",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 07时25分]"
         },
         {
           "title": "特朗普就海峡控制权警告阿曼 不守规矩将被“炸毁”",
@@ -463,6 +519,18 @@
           "time_info": "12时22分"
         },
         {
+          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
+          "url": "https://wallstreetcn.com/articles/3773389",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 20时23分]"
+        },
+        {
           "title": "美股异动丨Nebius涨近11%，前OpenAI研究员旗下对冲基金披露持有5.6%股份",
           "url": "https://www.gelonghui.com/news/5242113",
           "source": "格隆汇",
@@ -472,17 +540,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时17分 ~ 05时14分]"
-        },
-        {
-          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
-          "url": "https://wallstreetcn.com/articles/3773389",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时48分"
         },
         {
           "title": "OpenAI：（就出现故障问题）我们已经采取了应对措施，并正在监测恢复情况。",
@@ -562,6 +619,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌是如何“逆风翻盘”、开始赢得人工智能竞赛的？",
+          "url": "https://www.zaochenbao.com/news/opinion/202605/2972909.html",
+          "source": "联合早报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         }
       ]
     }
