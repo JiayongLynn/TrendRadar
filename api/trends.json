@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-05-31T04:13:47.896601+08:00",
-  "total_titles_processed": 165,
+  "generated_at": "2026-05-31T06:06:41.046626+08:00",
+  "total_titles_processed": 172,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "伊朗谈判代表：与美协议未最终敲定 拟议协议允许伊朗设置退出机制",
+          "url": "https://flash.jin10.com/detail/20260531045814291800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
         {
           "title": "伊朗官员：对伊朗的海上封锁终将结束",
           "url": "https://flash.jin10.com/detail/20260531033706700800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 06时06分]"
         },
         {
           "title": "美国汽车协会：数据显示，美国全国汽油30日当天平均零售价为每加仑4.35美元，较前一日下降4美分，较一周前下降17美分，仍较伊朗战事前水平高出46%。",
@@ -35,22 +47,35 @@
           "url": "https://flash.jin10.com/detail/20260531024236027800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 06时06分]"
         },
         {
           "title": "美媒：再拦截一艘赴伊朗商船 累计已达6艘",
           "url": "https://flash.jin10.com/detail/20260531022332734800",
           "source": "金十数据",
           "ranks": [
-            17
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 06时06分]"
+        },
+        {
+          "title": "伊朗称对霍尔木兹海峡航运实施全面管理",
+          "url": "https://flash.jin10.com/detail/20260531043022329800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "06时06分"
         },
         {
           "title": "伊媒：伊朗议会将通过霍尔木兹海峡“主权管辖”计划",
@@ -100,8 +125,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 06时06分]"
         },
         {
           "title": "特朗普政府推迟对台军售案以防空系统为主",
@@ -111,8 +136,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 06时06分]"
         },
         {
           "title": "多名艺人退演“自由 250”音乐会 特朗普考虑改为集会和演讲",
@@ -151,8 +176,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 06时06分]"
         },
         {
           "title": "美股5月收官：AI行情引爆美股！三大股指月线两连涨续创新高！戴尔股价翻倍，美光飙升逾87%",
@@ -162,8 +187,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 06时06分]"
         },
         {
           "title": "美股三大股指全线收涨续创新高，戴尔大涨近33%，超微电脑涨超11%",
@@ -173,8 +198,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 06时06分]"
         },
         {
           "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
@@ -184,8 +209,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 06时06分]"
         }
       ]
     }
