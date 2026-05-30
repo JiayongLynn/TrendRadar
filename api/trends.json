@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T18:08:17.237617+08:00",
-  "total_titles_processed": 354,
+  "generated_at": "2026-05-30T20:09:16.529328+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "美国和伊朗是接近和平，还是正在滑向战争深渊？",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时36分 ~ 03时37分]"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：伊朗革命卫队霍尔木兹甘省军队称，从明天开始，将进行为期3天的敌方未爆弹药的排除作业。",
+          "url": "https://flash.jin10.com/detail/20260530200112317800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
         },
         {
           "title": "伊朗高级消息人士：伊朗与美国之间已达成政治共识，但尚未最终确定。",
@@ -184,7 +195,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -206,7 +217,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -217,7 +228,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -231,6 +242,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "英国海事部门表示，美国对伊朗港口的封锁正在严格执行。霍尔木兹海峡附近船只的船长必须表明其无前往伊朗港口的意图。船只若不服从美国海军在霍尔木兹海峡的命令，将面临危险。",
+          "url": "https://flash.jin10.com/detail/20260530185118096800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
         },
         {
           "title": "美国国防部长赫格塞思：与伊朗达成的任何协议都将是一份好协议。",
@@ -253,13 +275,37 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：在过去的24小时内，20艘船在伊朗海军的协调下通过了霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260530184239283800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
+          "url": "https://wallstreetcn.com/articles/3773469",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时59分 ~ 20时09分]"
+        },
         {
           "title": "美国财长贝森特：美国总统特朗普明确寻求霍尔木兹海峡的自由开放通行。",
           "url": "https://flash.jin10.com/detail/20260530031143777800",
@@ -272,17 +318,31 @@
           "time_info": "[03时36分 ~ 03时37分]"
         },
         {
-          "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
-          "url": "https://wallstreetcn.com/articles/3773469",
-          "source": "华尔街见闻",
+          "title": "白宫医生称特朗普健康极佳 但建议他减肥",
+          "url": "https://www.zaochenbao.com/news/politics/202605/3072970.html",
+          "source": "联合早报",
           "ranks": [
-            10,
-            8,
-            2
+            5,
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时59分 ~ 18时08分]"
+          "appearance_count": 3,
+          "time_info": "[15时45分 ~ 20时09分]"
+        },
+        {
+          "title": "美伊局势迷雾重重：特朗普被曝推迟作“最终决定” 双方仍各说各话",
+          "url": "https://www.cls.cn/detail/2385988",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 20时09分]"
         },
         {
           "title": "白宫备忘录显示，美国总统特朗普健康状况极佳，心脏、肺、神经系统及整体身体机能均表现强健。",
@@ -309,29 +369,17 @@
           "time_info": "[12时07分 ~ 15时45分]"
         },
         {
-          "title": "白宫医生称特朗普健康极佳 但建议他减肥",
-          "url": "https://www.zaochenbao.com/news/politics/202605/3072970.html",
+          "title": "特朗普政府推迟对台军售案以防空系统为主",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/3072960.html",
           "source": "联合早报",
           "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时45分 ~ 18时08分]"
-        },
-        {
-          "title": "美伊局势迷雾重重：特朗普被曝推迟作“最终决定” 双方仍各说各话",
-          "url": "https://www.cls.cn/detail/2385988",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            7
+            15,
+            21,
+            23
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时07分 ~ 18时08分]"
+          "time_info": "[15时45分 ~ 20时09分]"
         },
         {
           "title": "美媒：特朗普未就与伊朗达成任何新协议做出决定",
@@ -378,18 +426,6 @@
           "time_info": "[03时36分 ~ 03时37分]"
         },
         {
-          "title": "特朗普政府推迟对台军售案以防空系统为主",
-          "url": "https://www.zaochenbao.com/news/taiwan/202605/3072960.html",
-          "source": "联合早报",
-          "ranks": [
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时45分 ~ 18时08分]"
-        },
-        {
           "title": "美国财长贝森特：我从未偏袒过沃什。特朗普决定任命沃什为美联储主席。",
           "url": "https://flash.jin10.com/detail/20260530033635502800",
           "source": "金十数据",
@@ -434,6 +470,17 @@
           "time_info": "12时07分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-30）",
+          "url": "https://flash.jin10.com/detail/20260530190753354800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
           "title": "法官裁定肯尼迪中心更名违法 下令移除特朗普名字",
           "url": "https://www.zaochenbao.com/news/politics/202605/3072945.html",
           "source": "联合早报",
@@ -470,7 +517,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
@@ -482,6 +529,32 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时51分 ~ 05时59分]"
+        },
+        {
+          "title": "美股5月收官：AI行情引爆美股！三大股指月线两连涨续创新高！戴尔股价翻倍，美光飙升逾87%",
+          "url": "https://www.gelonghui.com/news/5243111",
+          "source": "格隆汇",
+          "ranks": [
+            1,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 20时09分]"
+        },
+        {
+          "title": "美股三大股指全线收涨续创新高，戴尔大涨近33%，超微电脑涨超11%",
+          "url": "https://www.gelonghui.com/news/5243110",
+          "source": "格隆汇",
+          "ranks": [
+            2,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 20时09分]"
         },
         {
           "title": "热门中概股美股盘前多数下跌，名创优品涨超3%",
@@ -522,30 +595,17 @@
           "time_info": "[00时51分 ~ 18时08分]"
         },
         {
-          "title": "美股5月收官：AI行情引爆美股！三大股指月线两连涨续创新高！戴尔股价翻倍，美光飙升逾87%",
-          "url": "https://www.gelonghui.com/news/5243111",
-          "source": "格隆汇",
+          "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
+          "url": "https://www.cls.cn/detail/2385964",
+          "source": "财联社热门",
           "ranks": [
-            1,
-            3,
+            9,
+            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 18时08分]"
-        },
-        {
-          "title": "美股三大股指全线收涨续创新高，戴尔大涨近33%，超微电脑涨超11%",
-          "url": "https://www.gelonghui.com/news/5243110",
-          "source": "格隆汇",
-          "ranks": [
-            2,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 18时08分]"
+          "appearance_count": 5,
+          "time_info": "[07时25分 ~ 20时09分]"
         },
         {
           "title": "金十图示：2026年05月29日（周五）美股热门股票行情一览（美股收盘）",
@@ -557,19 +617,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时59分 ~ 07时25分]"
-        },
-        {
-          "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
-          "url": "https://www.cls.cn/detail/2385964",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时25分 ~ 18时08分]"
         },
         {
           "title": "金十图示：2026年05月29日（周五）热门中概股行情一览（美股收盘）",
@@ -618,6 +665,17 @@
           "time_info": "[00时51分 ~ 05时59分]"
         },
         {
+          "title": "连涨9周，自3月低点反弹20%！美股这波反弹之凶猛“历史罕见”",
+          "url": "https://wallstreetcn.com/articles/3773491",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时08分 ~ 20时09分]"
+        },
+        {
           "title": "美股收盘：三大股指微涨 标普500指数连涨九周",
           "url": "https://flash.jin10.com/detail/20260530040220789800",
           "source": "金十数据",
@@ -629,15 +687,15 @@
           "time_info": "[05时59分 ~ 07时25分]"
         },
         {
-          "title": "连涨9周，自3月低点反弹20%！美股这波反弹之凶猛“历史罕见”",
-          "url": "https://wallstreetcn.com/articles/3773491",
-          "source": "华尔街见闻",
+          "title": "AI驱动美股狂飙！标普500 5月牛股盘点：戴尔、美光强势领跑",
+          "url": "https://www.cls.cn/detail/2386086",
+          "source": "财联社热门",
           "ranks": [
-            9
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时08分"
+          "time_info": "20时09分"
         },
         {
           "title": "美股三大股指集体收涨，戴尔大涨近33%创最大单日涨幅",
@@ -654,7 +712,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
@@ -679,6 +737,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时59分 ~ 07时25分]"
+        },
+        {
+          "title": "据悉OpenAI已与花旗、摩根大通讨论参与IPO事宜",
+          "url": "https://flash.jin10.com/detail/20260530193729860800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
         },
         {
           "title": "Anthropic估值超OpenAI，成全球最“贵”AI初创公司",
