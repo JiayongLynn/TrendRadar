@@ -1,11 +1,184 @@
 {
-  "generated_at": "2026-05-31T08:09:02.073459+08:00",
-  "total_titles_processed": 182,
+  "generated_at": "2026-05-31T13:25:01.458274+08:00",
+  "total_titles_processed": 249,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
+          "url": "https://wallstreetcn.com/articles/3773469",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 02时08分]"
+        },
+        {
+          "title": "美国总统特朗普：所有竞选总统和副总统的人都应该被强制进行高难度认知测试。国会和民主党人应该要求这一点！",
+          "url": "https://flash.jin10.com/detail/20260531123650502800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
+        },
+        {
+          "title": "中国前驻美大使称北京拒绝接受特朗普的G2标签",
+          "url": "https://www.zaochenbao.com/news/politics/202605/3173023.html",
+          "source": "联合早报",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
+        },
+        {
+          "title": "美国总统特朗普：事实上，这是我进行的第四次此类测试，全部都是完美的，120道题目中答对120道！能够获得满分是非常罕见的，尤其是连续四次都能做到。",
+          "url": "https://flash.jin10.com/detail/20260531123639729800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
+        },
+        {
+          "title": "白宫：特朗普坚持底线 尚未就伊朗协议作最终决定",
+          "url": "https://www.zaochenbao.com/news/politics/202605/3173002.html",
+          "source": "联合早报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 08时09分]"
+        },
+        {
+          "title": "特朗普政府收回“绿卡须返原籍国申请”说法 改称个案处理",
+          "url": "https://www.zaochenbao.com/news/politics/202605/3173022.html",
+          "source": "联合早报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
+        },
+        {
+          "title": "美国总统特朗普：与其他美国总统不同，他们从未接受过批准的高难度认知测试，我的得分是30分满分，被认为是“极高智力”。",
+          "url": "https://flash.jin10.com/detail/20260531123628014800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
+        },
+        {
+          "title": "美国总统特朗普：我在沃尔特·里德军事医疗中心进行的体检结果刚刚发布，结果非常好。",
+          "url": "https://flash.jin10.com/detail/20260531123548870800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
+        },
+        {
+          "title": "美伊局势迷雾重重：特朗普被曝推迟作“最终决定” 双方仍各说各话",
+          "url": "https://www.cls.cn/detail/2385988",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 08时09分]"
+        },
+        {
+          "title": "特朗普政府推迟对台军售案以防空系统为主",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/3072960.html",
+          "source": "联合早报",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 08时09分]"
+        },
+        {
+          "title": "特朗普吁取消美国国庆音乐会 改办MAGA集会",
+          "url": "https://www.zaochenbao.com/news/politics/202605/3173018.html",
+          "source": "联合早报",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
+        },
+        {
+          "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
+          "url": "https://wallstreetcn.com/articles/3773514",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
+        },
+        {
+          "title": "特朗普：美伊若无法达成协议 “战争部”将介入",
+          "url": "https://flash.jin10.com/detail/20260531103926927800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
+        },
+        {
+          "title": "多名艺人退演“自由 250”音乐会 特朗普考虑改为集会和演讲",
+          "url": "https://flash.jin10.com/detail/20260531003720339800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时08分"
+        },
+        {
+          "title": "美国总统特朗普：将不在“自由250”音乐会上演出，但会在华盛顿特区同一地点的竞选集会上发表演讲。",
+          "url": "https://flash.jin10.com/detail/20260531001517348800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "伊朗谈判代表：与美协议未最终敲定 拟议协议允许伊朗设置退出机制",
@@ -94,6 +267,28 @@
           "time_info": "[02时08分 ~ 04时13分]"
         },
         {
+          "title": "伊朗伊斯兰革命卫队称击落一架美军无人机",
+          "url": "https://www.zaochenbao.com/news/politics/202605/3173017.html",
+          "source": "联合早报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
+        },
+        {
+          "title": "英国外长将访中印 聚焦伊朗战事与伊波拉疫情等议题",
+          "url": "https://www.zaochenbao.com/news/politics/202605/3173014.html",
+          "source": "联合早报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
+        },
+        {
           "title": "伊媒：伊朗议会将通过霍尔木兹海峡“主权管辖”计划",
           "url": "https://flash.jin10.com/detail/20260530201304741800",
           "source": "金十数据",
@@ -118,83 +313,21 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
-          "url": "https://wallstreetcn.com/articles/3773469",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 02时08分]"
-        },
-        {
-          "title": "白宫：特朗普坚持底线 尚未就伊朗协议作最终决定",
-          "url": "https://www.zaochenbao.com/news/politics/202605/3173002.html",
-          "source": "联合早报",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时08分 ~ 08时09分]"
-        },
-        {
-          "title": "美伊局势迷雾重重：特朗普被曝推迟作“最终决定” 双方仍各说各话",
-          "url": "https://www.cls.cn/detail/2385988",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 08时09分]"
-        },
-        {
-          "title": "特朗普政府推迟对台军售案以防空系统为主",
-          "url": "https://www.zaochenbao.com/news/taiwan/202605/3072960.html",
-          "source": "联合早报",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 08时09分]"
-        },
-        {
-          "title": "多名艺人退演“自由 250”音乐会 特朗普考虑改为集会和演讲",
-          "url": "https://flash.jin10.com/detail/20260531003720339800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时08分"
-        },
-        {
-          "title": "美国总统特朗普：将不在“自由250”音乐会上演出，但会在华盛顿特区同一地点的竞选集会上发表演讲。",
-          "url": "https://flash.jin10.com/detail/20260531001517348800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 4,
       "titles": [
+        {
+          "title": "美股5月收官：AI行情引爆美股！三大股指月线两连涨续创新高！戴尔股价翻倍，美光飙升逾87%",
+          "url": "https://www.gelonghui.com/news/5243111",
+          "source": "格隆汇",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 13时25分]"
+        },
         {
           "title": "连涨9周，自3月低点反弹20%！美股这波反弹之凶猛“历史罕见”",
           "url": "https://wallstreetcn.com/articles/3773491",
@@ -209,26 +342,16 @@
           "time_info": "[00时10分 ~ 08时09分]"
         },
         {
-          "title": "美股5月收官：AI行情引爆美股！三大股指月线两连涨续创新高！戴尔股价翻倍，美光飙升逾87%",
-          "url": "https://www.gelonghui.com/news/5243111",
-          "source": "格隆汇",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 08时09分]"
-        },
-        {
           "title": "美股三大股指全线收涨续创新高，戴尔大涨近33%，超微电脑涨超11%",
           "url": "https://www.gelonghui.com/news/5243110",
           "source": "格隆汇",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 08时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 13时25分]"
         },
         {
           "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
@@ -236,11 +359,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 08时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 13时25分]"
         }
       ]
     }
