@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T13:25:01.458274+08:00",
-  "total_titles_processed": 249,
+  "generated_at": "2026-05-31T17:16:01.126082+08:00",
+  "total_titles_processed": 333,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
@@ -86,6 +86,18 @@
           "time_info": "[13时24分 ~ 13时25分]"
         },
         {
+          "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
+          "url": "https://wallstreetcn.com/articles/3773514",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 17时16分]"
+        },
+        {
           "title": "美国总统特朗普：我在沃尔特·里德军事医疗中心进行的体检结果刚刚发布，结果非常好。",
           "url": "https://flash.jin10.com/detail/20260531123548870800",
           "source": "金十数据",
@@ -131,15 +143,26 @@
           "time_info": "[13时24分 ~ 13时25分]"
         },
         {
-          "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
-          "url": "https://wallstreetcn.com/articles/3773514",
-          "source": "华尔街见闻",
+          "title": "医生称报告显示特朗普健康状况极佳，美国总统体检是否已成公关活动",
+          "url": "https://www.zaochenbao.com/news/Chronicles/202605/3173038.html",
+          "source": "联合早报",
           "ranks": [
-            8
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
+          "time_info": "[17时15分 ~ 17时16分]"
+        },
+        {
+          "title": "美国财政部拟将特朗普肖像印在新版250美元纸币上",
+          "url": "https://www.zaochenbao.com/news/world/202605/3173036.html",
+          "source": "联合早报",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 17时16分]"
         },
         {
           "title": "特朗普：美伊若无法达成协议 “战争部”将介入",
@@ -151,6 +174,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时24分 ~ 13时25分]"
+        },
+        {
+          "title": "特朗普：正缓慢但切实接近与伊朗达成协议",
+          "url": "https://www.zaochenbao.com/news/politics/202605/3173032.html",
+          "source": "联合早报",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 17时16分]"
         },
         {
           "title": "多名艺人退演“自由 250”音乐会 特朗普考虑改为集会和演讲",
@@ -178,7 +212,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊朗谈判代表：与美协议未最终敲定 拟议协议允许伊朗设置退出机制",
@@ -267,6 +301,17 @@
           "time_info": "[02时08分 ~ 04时13分]"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗伊斯兰革命卫队宣布，过去24小时内有28艘包括油轮、集装箱船及其他商船在获得许可后，经过伊朗海军的协调和安全保障，从霍尔木兹海峡通过。",
+          "url": "https://flash.jin10.com/detail/20260531163534017800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 17时16分]"
+        },
+        {
           "title": "伊朗伊斯兰革命卫队称击落一架美军无人机",
           "url": "https://www.zaochenbao.com/news/politics/202605/3173017.html",
           "source": "联合早报",
@@ -287,6 +332,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时24分 ~ 13时25分]"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社：伊朗议会主席团成员宣誓就职。仪式由议长卡利巴夫主持，187名代表在线参会，14名代表到场参会。",
+          "url": "https://flash.jin10.com/detail/20260531154748281800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 17时16分]"
         },
         {
           "title": "伊媒：伊朗议会将通过霍尔木兹海峡“主权管辖”计划",
@@ -363,8 +419,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 13时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时10分 ~ 17时16分]"
         }
       ]
     }
