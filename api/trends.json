@@ -1,33 +1,46 @@
 {
-  "generated_at": "2026-06-01T06:07:54.803238+08:00",
-  "total_titles_processed": 162,
+  "generated_at": "2026-06-01T08:12:43.052063+08:00",
+  "total_titles_processed": 230,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗议长：美国要达成协议 须保障伊朗权益",
           "url": "https://www.zaochenbao.com/news/politics/202605/3173060.html",
           "source": "联合早报",
           "ranks": [
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 06时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 08时12分]"
+        },
+        {
+          "title": "伊朗总统府再否认佩泽希齐扬辞职传闻 指境外媒体散布谣言",
+          "url": "https://www.zaochenbao.com/news/politics/202606/0173069.html",
+          "source": "联合早报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
         },
         {
           "title": "美媒：伊朗地下导弹基地迅速重开 挑战美国轰炸战略",
           "url": "https://www.zaochenbao.com/news/politics/202605/3173059.html",
           "source": "联合早报",
           "ranks": [
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 06时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 08时12分]"
         },
         {
           "title": "伊官员称伊朗在核问题上对美方没有任何承诺",
@@ -192,7 +205,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -236,7 +249,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -277,7 +290,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
@@ -288,8 +301,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 06时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 08时12分]"
         },
         {
           "title": "特朗普据报修改部分条款 向伊朗提出更强硬协议提案",
@@ -344,7 +357,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -355,7 +368,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -369,6 +382,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "特朗普驳斥伊朗协议不涉及核问题的消息",
+          "url": "https://flash.jin10.com/detail/20260601073133221800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
         },
         {
           "title": "美媒：特朗普对拟议协议的修改导致美伊谈判延长一周",
