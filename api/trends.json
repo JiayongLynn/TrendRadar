@@ -1,607 +1,106 @@
 {
-  "generated_at": "2026-06-02T23:01:56.462484+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-06-03T02:51:53.518873+08:00",
+  "total_titles_processed": 113,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 8,
       "titles": [
         {
-          "title": "美国总统特朗普：今天我与内塔尼亚胡进行了交谈，要求他不要对黎巴嫩首都贝鲁特发动大规模突袭。他随即下令部队撤回。谢谢你，内塔尼亚胡！我还与真主党领导人的代表进行了对话，他们同意停止向以色列及其士兵开火。同样，以色列也同意停止向他们开火。让我们拭目以待，看看这种停火能持续多久，但愿它能持续到永远！",
-          "url": "https://flash.jin10.com/detail/20260602054949735800",
+          "title": "白宫记协晚宴改期至7月 特朗普称计划出席",
+          "url": "https://flash.jin10.com/detail/20260603023318280800",
           "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "巴西总统卢拉：自我与特朗普上次会晤以来， 美国和巴西的贸易谈判代表已会晤三次；目前尚未达成协议。",
-          "url": "https://flash.jin10.com/detail/20260602225644050800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时01分"
+          "time_info": "02时51分"
         },
         {
           "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
           "url": "https://wallstreetcn.com/articles/3773609",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时56分 ~ 23时01分]"
-        },
-        {
-          "title": "巴西总统卢拉：已向特朗普说明，美国对巴西不存在贸易逆差。",
-          "url": "https://flash.jin10.com/detail/20260602225630130800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时01分"
-        },
-        {
-          "title": "一波三折！伊朗叫停对话后，特朗普最新表态：美伊或一周内达成协议",
-          "url": "https://www.cls.cn/detail/2387782",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "特朗普：协议有望在未来一周内达成 今天只是小插曲",
-          "url": "https://flash.jin10.com/detail/20260602054717157800",
-          "source": "金十数据",
-          "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "巴西总统卢拉：我告诉美国总统特朗普，美国国务卿鲁比奥反对拉丁美洲，他不喜欢巴西。",
-          "url": "https://flash.jin10.com/detail/20260602225417756800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时01分"
-        },
-        {
-          "title": "特朗普称以色列与真主党同意停火",
-          "url": "https://www.zaochenbao.com/news/politics/202606/0273143.html",
-          "source": "联合早报",
-          "ranks": [
-            3,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时21分 ~ 13时56分]"
-        },
-        {
-          "title": "美伊又打起来了，特朗普：伊朗“确实想要”达成协议",
-          "url": "https://wallstreetcn.com/articles/3773555",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时14分 ~ 13时56分]"
-        },
-        {
-          "title": "港媒：特朗普亲自促中方帮忙结束俄乌战争",
-          "url": "https://www.zaochenbao.com/news/hkMacao/202606/0273193.html",
-          "source": "联合早报",
-          "ranks": [
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 23时01分]"
-        },
-        {
-          "title": "据ABC新闻：美国总统特朗普称，他认为在“未来一周内”，他将与伊朗达成一项协议，以延长停火期限并重新开放霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260602054006093800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "据CNN：UFC总裁现身美国白宫，白宫南草坪上的格斗场建设仍在继续，为6月14日的赛事做准备。美国总统特朗普曾宣布将在其80岁生日（6月14日）当天举办一场UFC拳击赛事。",
-          "url": "https://flash.jin10.com/detail/20260602075130214800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时21分"
-        },
-        {
-          "title": "美国法官叫停特朗普政府关闭气候研究中心的计划。",
-          "url": "https://flash.jin10.com/detail/20260602053325030800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
+          "time_info": "02时51分"
         },
         {
           "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡：你他妈疯了，要不是我你早进监狱了！",
           "url": "https://wallstreetcn.com/articles/3773679",
           "source": "华尔街见闻",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时01分"
-        },
-        {
-          "title": "特朗普安抚市场： 黎以所有交火行动将立即停止 与伊朗的谈判正“快速推进”",
-          "url": "https://www.cls.cn/detail/2387700",
-          "source": "财联社热门",
-          "ranks": [
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时56分"
+          "time_info": "02时51分"
         },
         {
-          "title": "特朗普：与伊朗的谈判正“快速推进”",
-          "url": "https://flash.jin10.com/detail/20260602014426058800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "特朗普称美伊或于一周内达成协议 美国战略石油储备降至两年多来最低水平 | 环球市场",
-          "url": "https://www.cls.cn/detail/2387742",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "特朗普：不在乎美伊谈判是否终结，油价将“像石头一样下跌”",
-          "url": "https://flash.jin10.com/detail/20260602074011283800",
+          "title": "美国总统特朗普：用于支持非法移民或存储非法移民福利的银行账户将被关闭，资金最终将被扣押和没收，以便归还给纳税人。",
+          "url": "https://flash.jin10.com/detail/20260603022637217800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时21分"
+          "time_info": "02时51分"
         },
         {
-          "title": "特朗普政府拟撤销18亿美元法律基金",
-          "url": "https://www.zaochenbao.com/news/politics/202606/0273160.html",
-          "source": "联合早报",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "美国总统特朗普：（与伊朗）旷日持久的谈判“开始变得非常无聊了”。",
-          "url": "https://flash.jin10.com/detail/20260602013804542800",
+          "title": "美国总统特朗普：我们国家金融系统的使用权限必须仅限于那些拥有合法居留权、从事合法正当商业活动的人。",
+          "url": "https://flash.jin10.com/detail/20260603022625519800",
           "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时44分"
+          "time_info": "02时51分"
         },
         {
-          "title": "特朗普：以色列和黎真主党的所有交火行动将立即停止",
-          "url": "https://flash.jin10.com/detail/20260602013511108800",
+          "title": "美国总统特朗普：非法移民和外国诈骗者每年从美国纳税人那里窃取数十亿美元。作为我政府历史性努力的一部分，以结束欺诈和扭转大规模非法移民，我最近签署了一项强有力的新行政命令，由财政部主导，旨在阻止银行、信用卡和金融机构被用于促进人口走私、毒品贩运、非法移民以及策划这些活动的犯罪集团。",
+          "url": "https://flash.jin10.com/detail/20260603022601524800",
           "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时44分"
+          "time_info": "02时51分"
         },
         {
-          "title": "美国总统特朗普：以色列不会攻击他们（真主党），他们也不会攻击以色列。",
-          "url": "https://flash.jin10.com/detail/20260602013138559800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "美国总统特朗普：通过高层代表，我与黎巴嫩真主党进行了非常好的通话，他们同意停止所有射击。",
-          "url": "https://flash.jin10.com/detail/20260602013108643800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "美国总统特朗普：我与以色列总理内塔尼亚胡进行了非常富有成效的通话，不会有军队前往贝鲁特，任何正在前往的军队已经被召回。",
-          "url": "https://flash.jin10.com/detail/20260602013048880800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "特朗普：是时候查金库了",
-          "url": "https://flash.jin10.com/detail/20260602073308299800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时21分"
-        },
-        {
-          "title": "两名以色列消息人士称，以色列方面正在等待特朗普对在贝鲁特南部郊区开展任何行动的最终批准。",
-          "url": "https://flash.jin10.com/detail/20260602012545991800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "为保美伊和谈，特朗普爆粗痛骂内塔尼亚胡！",
-          "url": "https://flash.jin10.com/detail/20260602071639017800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时21分"
-        },
-        {
-          "title": "特朗普拟放弃设立“反武器化”基金 曾被质疑是政治同盟金库",
-          "url": "https://flash.jin10.com/detail/20260602043708453800",
+          "title": "特朗普：已接受在白宫记者晚宴发言的邀请",
+          "url": "https://flash.jin10.com/detail/20260603020332024800",
           "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时14分"
+          "time_info": "02时51分"
         },
         {
-          "title": "土耳其外长预计特朗普将出席北约峰会",
-          "url": "https://flash.jin10.com/detail/20260602180738152800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "抗议以军扩大在黎行动，伊朗据称将暂停与美沟通，计划彻底封锁霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3773592",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时44分 ~ 23时01分]"
-        },
-        {
-          "title": "伊朗暂停与美国对话！“霍尔木兹、曼德海峡双封锁”重新摆上台面",
-          "url": "https://www.cls.cn/detail/2387611",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时44分 ~ 13时56分]"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗一名高级军官表示，一旦以色列在黎巴嫩违反停火协议，霍尔木兹海峡既定的秩序也将适用于曼德海峡。",
-          "url": "https://flash.jin10.com/detail/20260602054738014800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "伊朗恫言彻底封锁霍尔木兹海峡",
-          "url": "https://www.zaochenbao.com/news/politics/202606/0173136.html",
+          "title": "港媒：特朗普亲自促中方帮忙结束俄乌战争",
+          "url": "https://www.zaochenbao.com/news/hkMacao/202606/0273193.html",
           "source": "联合早报",
           "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时44分 ~ 08时21分]"
-        },
-        {
-          "title": "美国国务卿鲁比奥：伊朗不会仅因重新开放霍尔木兹海峡而获得制裁解除。",
-          "url": "https://flash.jin10.com/detail/20260602224924746800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时01分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：任何对伊朗的制裁减免都将以满足相关条件为前提。",
-          "url": "https://flash.jin10.com/detail/20260602224911393800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时01分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：在与黎巴嫩议会议长的交谈中，我强调指出，如果以色列在黎巴嫩的罪行继续下去，我们不仅将中止谈判进程，更将挺身而出，与其进行对抗。",
-          "url": "https://flash.jin10.com/detail/20260602052416641800",
-          "source": "金十数据",
-          "ranks": [
-            9
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：伊朗还必须承诺就高浓缩铀的处置问题开展具体谈判。",
-          "url": "https://flash.jin10.com/detail/20260602224903531800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时01分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：谈判的首要条件是伊朗开放霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260602224837180800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时01分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：阿曼曾与伊朗有过“暧昧”接触以控制霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260602224825111800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时01分"
-        },
-        {
-          "title": "伊朗外交部：美对以色列违反黎以停火协议负有直接责任",
-          "url": "https://flash.jin10.com/detail/20260602014039105800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：伊朗已在霍尔木兹海峡的大部分区域进行了布雷。",
-          "url": "https://flash.jin10.com/detail/20260602224752312800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时01分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：伊朗正在攻击商业船只。",
-          "url": "https://flash.jin10.com/detail/20260602224704109800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时01分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：伊朗表示在停火生效时将开放霍尔木兹海峡，但他们并没有这样做。",
-          "url": "https://flash.jin10.com/detail/20260602224658046800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时01分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：伊朗必须重新开放霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260602224649330800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时01分"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗石油部长表示，能源基础设施修复取得重大进展，对产能链迅速恢复持乐观态度 。",
-          "url": "https://flash.jin10.com/detail/20260602012913809800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队称对美以船只实施打击",
-          "url": "https://flash.jin10.com/detail/20260602042542100800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
+          "time_info": "02时51分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "【早报】全线大涨，美股芯片股批量创新高；特朗普：美伊或于“一周内”达成协议",
-          "url": "https://www.cls.cn/detail/2387748",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时21分 ~ 13时56分]"
-        },
-        {
-          "title": "美股收盘：三大指数均创收盘新高 英伟达领涨科技股",
-          "url": "https://www.cls.cn/detail/2387720",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时21分 ~ 13时56分]"
-        },
-        {
-          "title": "热门中概股美股盘前涨跌不一，哔哩哔哩涨超4%",
-          "url": "https://www.36kr.com/newsflashes/3834618025193857",
-          "source": "36氪",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时44分 ~ 06时14分]"
-        },
-        {
-          "title": "伊朗称将全面封锁霍尔木兹，美股低开，IBM涨近9%，ARM大涨12%，美油涨6%",
-          "url": "https://wallstreetcn.com/articles/3773537",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时44分 ~ 06时14分]"
-        },
-        {
-          "title": "美股大型科技股盘前涨跌不一，Arm涨超10%",
-          "url": "https://www.36kr.com/newsflashes/3834615865684101",
-          "source": "36氪",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时44分 ~ 06时14分]"
-        },
-        {
-          "title": "美股异动丨英伟达大涨超6%，市值一夜暴增逾两万亿",
-          "url": "https://www.gelonghui.com/news/5244122",
-          "source": "格隆汇",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时21分"
-        },
         {
           "title": "热门中概股美股盘前普涨，理想汽车涨超7%",
           "url": "https://www.36kr.com/newsflashes/3836034865411207",
@@ -609,20 +108,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时01分"
+          "time_info": "02时51分"
         },
         {
-          "title": "美股异动｜应用软件板块大幅回调，财捷、Figma跌超10%",
-          "url": "https://www.gelonghui.com/news/5244935",
+          "title": "美股异动｜老虎国际一度跌超9%，将暂停存量投资者账户在中国境内所有品种的新开仓、加仓交易",
+          "url": "https://www.gelonghui.com/news/5244953",
           "source": "格隆汇",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时01分"
+          "time_info": "02时51分"
         },
         {
           "title": "美股大型科技股盘前涨跌不一，迈威尔科技涨超18%",
@@ -631,212 +130,76 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时01分"
+          "time_info": "02时51分"
         },
         {
           "title": "美股期指下跌 慧与科技盘前大涨超28% | 今夜看点",
           "url": "https://www.cls.cn/detail/2388757",
           "source": "财联社热门",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时01分"
-        },
-        {
-          "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2387523",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时44分 ~ 08时21分]"
-        },
-        {
-          "title": "美股三大指数集体收涨续创新高，甲骨文涨近10%，英伟达涨超6%，中概指数涨1.47%",
-          "url": "https://www.gelonghui.com/news/5244116",
-          "source": "格隆汇",
-          "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时21分"
+          "time_info": "02时51分"
         },
         {
           "title": "美伊前景不明，美股低开，Marvell大涨25%，布油持稳95美元，比特币跌破6.9万美元",
           "url": "https://wallstreetcn.com/articles/3773650",
           "source": "华尔街见闻",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时01分"
-        },
-        {
-          "title": "这一幕像极了互联网泡沫破裂前夕！美股陷入极端“窄牛” 华尔街拉响警报",
-          "url": "https://www.cls.cn/detail/2388081",
-          "source": "财联社热门",
-          "ranks": [
-            12
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时51分"
+          "time_info": "02时51分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
           "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
           "url": "https://wallstreetcn.com/articles/3773607",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时56分 ~ 23时01分]"
-        },
-        {
-          "title": "谷歌拟筹800亿美元 伯克希尔100亿美元跟投",
-          "url": "https://flash.jin10.com/detail/20260602050830269800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "美国证交会文件显示，谷歌母公司Alphabet申请发行最多1.5亿份B系列存托股份，计划发行总规模150亿美元的A类普通股和C类资本股。",
-          "url": "https://flash.jin10.com/detail/20260602181543749800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时51分"
-        },
-        {
-          "title": "谷歌(GOOG.O)美股盘后跌1.7%。",
-          "url": "https://flash.jin10.com/detail/20260602044727050800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "国际金价高位震荡，黄金ETF资金大幅流出",
-          "url": "https://www.36kr.com/newsflashes/3835277097890944",
-          "source": "36氪",
-          "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时21分"
+          "time_info": "02时51分"
         },
         {
-          "title": "德商银行：将2026年年末钯金价格预测下调至每盎司1,600美元，之前为1,800美元。",
-          "url": "https://flash.jin10.com/detail/20260602181505885800",
+          "title": "谷歌(GOOG.O)：从6月2日起，将更新美国预测市场政策，禁止在俄亥俄州投放预测市场合约及相关产品的广告。",
+          "url": "https://flash.jin10.com/detail/20260603022348534800",
           "source": "金十数据",
           "ranks": [
-            15
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时51分"
-        },
-        {
-          "title": "德商银行：将2026年年末白银价格预测下调至每盎司80美元，之前为90美元。将2026年年末铂金价格预测下调至每盎司2,100美元，之前为每盎司2,300美元。",
-          "url": "https://flash.jin10.com/detail/20260602181458529800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时51分"
-        },
-        {
-          "title": "德商银行：将2026年年末黄金价格预测下调至每盎司4800美元，之前为5000美元。维持2027年底每盎司5200美元的价格预测。",
-          "url": "https://flash.jin10.com/detail/20260602181147730800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时51分"
+          "time_info": "02时51分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "keyword_group": "伊朗",
+      "match_count": 1,
       "titles": [
         {
-          "title": "先上市者为王？一文读懂：Anthropic与OpenAI缘何上演“抢滩登陆战”！",
-          "url": "https://www.cls.cn/detail/2387988",
-          "source": "财联社热门",
+          "title": "伊朗外长阿拉格齐：伊朗与沙特外长在电话中讨论了外交努力。",
+          "url": "https://flash.jin10.com/detail/20260603023158498800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时51分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)：OpenAI的GPT-5.5、GPT-5.4及Codex现已登陆Amazon Bedrock。",
-          "url": "https://flash.jin10.com/detail/20260602053510657800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "AI不背锅？资管巨头：导致美债暴跌的元凶仍是通胀",
-          "url": "https://flash.jin10.com/detail/20260602133513524800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
+          "time_info": "02时51分"
         }
       ]
     }
