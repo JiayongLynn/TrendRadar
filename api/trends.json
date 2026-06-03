@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-04T03:55:53.717910+08:00",
-  "total_titles_processed": 112,
+  "generated_at": "2026-06-04T06:31:51.401276+08:00",
+  "total_titles_processed": 142,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 06时31分]"
+        },
         {
           "title": "美股跌幅扩大，道指下跌1%，标普500指数跌0.6%。",
           "url": "https://flash.jin10.com/detail/20260604032845063800",
@@ -19,15 +30,26 @@
           "time_info": "03时55分"
         },
         {
-          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
-          "url": "https://wallstreetcn.com/articles/3773650",
-          "source": "华尔街见闻",
+          "title": "美股三大股指集体收跌 芯片存储板块逆势上涨",
+          "url": "https://www.gelonghui.com/news/5245728",
+          "source": "格隆汇",
           "ranks": [
-            2
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时55分"
+          "time_info": "06时31分"
+        },
+        {
+          "title": "美股收盘：三大指数从历史高位回落 美伊紧张局势再度升级",
+          "url": "https://www.cls.cn/detail/2390139",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
         },
         {
           "title": "特朗普言论提振有限，美股指涨跌互现，Marvell开盘涨近10%，油价涨幅收窄",
@@ -41,6 +63,17 @@
           "time_info": "03时55分"
         },
         {
+          "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
+          "url": "https://wallstreetcn.com/articles/3773742",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
           "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
           "url": "https://wallstreetcn.com/articles/3773769",
           "source": "华尔街见闻",
@@ -48,8 +81,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时55分"
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 06时31分]"
         },
         {
           "title": "热门中概股美股盘前多数下跌，小鹏集团跌超3%",
@@ -59,8 +92,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时55分"
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 06时31分]"
         },
         {
           "title": "美股大型科技股盘前跌多涨少，特斯拉跌超1%",
@@ -70,36 +103,143 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时55分"
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 06时31分]"
         },
         {
           "title": "美股异动丨迈威尔科技涨超11%续创新高，市值两日暴涨超900亿美元",
           "url": "https://www.gelonghui.com/news/5245670",
           "source": "格隆汇",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时55分"
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 06时31分]"
         },
         {
           "title": "美股期指下跌 布油站上98美元 比特币跌破6.7万美元 | 今夜看点",
           "url": "https://www.cls.cn/detail/2389957",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 06时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
+          "url": "https://wallstreetcn.com/articles/3773781",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 06时31分]"
+        },
+        {
+          "title": "特朗普称美伊协议可能在本周末达成",
+          "url": "https://flash.jin10.com/detail/20260604060822313800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
+          "url": "https://wallstreetcn.com/articles/3773725",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 06时31分]"
+        },
+        {
+          "title": "特朗普签AI行政令 鼓励顶尖AI模型发布前接受测试",
+          "url": "https://www.zaochenbao.com/news/politics/202606/0373302.html",
+          "source": "联合早报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 06时31分]"
+        },
+        {
+          "title": "美国总统特朗普政府（针对尖端模型发布前须先送审）提议对“可信申请者”免除严格的国家安全许可审查，并同意持续的监督和监测。",
+          "url": "https://flash.jin10.com/detail/20260604031751979800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
+        },
+        {
+          "title": "特朗普称对伊封锁“比轰炸更有影响力” 美伊将联手挖掘核材料",
+          "url": "https://flash.jin10.com/detail/20260604054420456800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "美国总统特朗普：副总统万斯和共和党人在各州打击诈骗方面做得非常出色。数十亿美元的资金正在被发现，如果我们找到了这一切，我们就能够平衡预算，同时减少税收。",
+          "url": "https://flash.jin10.com/detail/20260604031018291800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时55分"
+        },
+        {
+          "title": "美众议院通过决议 限制特朗普对伊动武权力",
+          "url": "https://flash.jin10.com/detail/20260604053252416800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "美国众议院通过一项决议，限制美国总统特朗普对伊朗的战争权力。",
+          "url": "https://flash.jin10.com/detail/20260604051828129800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "伊朗军队称刚刚打击美军指挥舰",
@@ -168,6 +308,17 @@
           "time_info": "03时55分"
         },
         {
+          "title": "据Axios：美国众议院以215票对208票通过限制伊朗战争权力的决议，4名共和党人议员与民主党人一起投票支持该措施。",
+          "url": "https://flash.jin10.com/detail/20260604052011929800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
           "title": "据塔斯尼姆通讯社：伊朗外长表示，重返谈判桌的前提是保障伊朗民族的权利、结束黎巴嫩战争以及平息该地区的紧张局势。",
           "url": "https://flash.jin10.com/detail/20260604023648153800",
           "source": "金十数据",
@@ -192,67 +343,6 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
-          "url": "https://wallstreetcn.com/articles/3773781",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时55分"
-        },
-        {
-          "title": "美国总统特朗普政府（针对尖端模型发布前须先送审）提议对“可信申请者”免除严格的国家安全许可审查，并同意持续的监督和监测。",
-          "url": "https://flash.jin10.com/detail/20260604031751979800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时55分"
-        },
-        {
-          "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
-          "url": "https://wallstreetcn.com/articles/3773725",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时55分"
-        },
-        {
-          "title": "特朗普签AI行政令 鼓励顶尖AI模型发布前接受测试",
-          "url": "https://www.zaochenbao.com/news/politics/202606/0373302.html",
-          "source": "联合早报",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时55分"
-        },
-        {
-          "title": "美国总统特朗普：副总统万斯和共和党人在各州打击诈骗方面做得非常出色。数十亿美元的资金正在被发现，如果我们找到了这一切，我们就能够平衡预算，同时减少税收。",
-          "url": "https://flash.jin10.com/detail/20260604031018291800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -261,11 +351,29 @@
           "url": "https://www.cls.cn/detail/2389857",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 06时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "博通首席执行官：预计第三季度非人工智能半导体收入约为45亿美元。谷歌合作关系仍然是非常重要的。",
+          "url": "https://flash.jin10.com/detail/20260604051716270800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时55分"
+          "time_info": "06时31分"
         }
       ]
     }
