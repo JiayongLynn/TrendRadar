@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T13:01:54.322490+08:00",
-  "total_titles_processed": 285,
+  "generated_at": "2026-06-03T18:02:52.146448+08:00",
+  "total_titles_processed": 383,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "美军称对伊朗格什姆岛实施“自卫性”打击 伊朗向邻国发射导弹",
@@ -96,6 +96,18 @@
           "time_info": "[07时54分 ~ 07时55分]"
         },
         {
+          "title": "伊朗称打击美第五舰队总部等美军基地 美方否认遭击中",
+          "url": "https://www.zaochenbao.com/news/politics/202606/0373253.html",
+          "source": "联合早报",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 18时02分]"
+        },
+        {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：针对科威特和巴林境内美军基地的新一轮袭击已经开始。",
           "url": "https://flash.jin10.com/detail/20260603071713687800",
           "source": "金十数据",
@@ -105,6 +117,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时54分 ~ 07时55分]"
+        },
+        {
+          "title": "伊朗向科威特巴林射导弹未命中 美空袭格什姆岛回应",
+          "url": "https://www.zaochenbao.com/news/politics/202606/0373252.html",
+          "source": "联合早报",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 18时02分]"
         },
         {
           "title": "科威特称拦截来袭导弹 伊朗格什姆岛传爆炸声",
@@ -140,15 +164,15 @@
           "time_info": "05时55分"
         },
         {
-          "title": "伊朗称打击美第五舰队总部等美军基地 美方否认遭击中",
-          "url": "https://www.zaochenbao.com/news/politics/202606/0373253.html",
-          "source": "联合早报",
+          "title": "瑞士央行行长：伊朗战争可能会加大对瑞郎的压力。",
+          "url": "https://flash.jin10.com/detail/20260603173551973800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时01分"
+          "time_info": "18时02分"
         },
         {
           "title": "美军称袭击一艘伊朗相关油轮 使其失去航行能力",
@@ -162,15 +186,15 @@
           "time_info": "05时55分"
         },
         {
-          "title": "伊朗向科威特巴林射导弹未命中 美空袭格什姆岛回应",
-          "url": "https://www.zaochenbao.com/news/politics/202606/0373252.html",
-          "source": "联合早报",
+          "title": "伊朗官员：如有必要伊方会同美进行谈判",
+          "url": "https://flash.jin10.com/detail/20260603173515429800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时01分"
+          "time_info": "18时02分"
         },
         {
           "title": "录音显示美军袭击一艘伊朗相关油轮",
@@ -190,7 +214,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -201,7 +225,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -226,12 +250,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
+        },
+        {
+          "title": "伊朗五月未能突破美国封锁，约8000万桶石油被困海上",
+          "url": "https://flash.jin10.com/detail/20260603172549659800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
@@ -281,6 +316,17 @@
           "time_info": "05时55分"
         },
         {
+          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡“疯了”：要不是我你早进监狱了！",
+          "url": "https://wallstreetcn.com/articles/3773679",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "港媒：特朗普亲自促中方帮忙结束俄乌战争",
           "url": "https://www.zaochenbao.com/news/hkMacao/202606/0273193.html",
           "source": "联合早报",
@@ -307,11 +353,23 @@
           "url": "https://www.zaochenbao.com/news/politics/202606/0373254.html",
           "source": "联合早报",
           "ranks": [
-            11
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 18时02分]"
+        },
+        {
+          "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
+          "url": "https://wallstreetcn.com/articles/3773725",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时01分"
+          "time_info": "18时02分"
         },
         {
           "title": "美国总统特朗普：用于支持非法移民或存储非法移民福利的银行账户将被关闭，资金最终将被扣押和没收，以便归还给纳税人。",
@@ -342,7 +400,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -375,7 +433,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -397,7 +455,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         }
@@ -405,7 +463,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -416,8 +474,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时54分 ~ 13时01分]"
+          "appearance_count": 4,
+          "time_info": "[07时54分 ~ 18时02分]"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
@@ -477,6 +535,17 @@
           "time_info": "[02时51分 ~ 05时55分]"
         },
         {
+          "title": "美股异动丨nLIGHT盘前再涨4% 高能激光平台点燃国防业务想象空间",
+          "url": "https://www.gelonghui.com/news/5245359",
+          "source": "格隆汇",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "美股期指下跌 慧与科技盘前大涨超28% | 今夜看点",
           "url": "https://www.cls.cn/detail/2388757",
           "source": "财联社热门",
@@ -498,6 +567,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时51分 ~ 05时55分]"
+        },
+        {
+          "title": "大戏即将开演！美股IPO市场今年显著回暖 三大独角兽即将接力登场",
+          "url": "https://www.cls.cn/detail/2389478",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         }
       ]
     },
@@ -512,7 +592,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -523,7 +603,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         }
@@ -558,25 +638,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI举行“AI上岗”发布会：股票研究、投行路演都能干",
-          "url": "https://www.cls.cn/detail/2388950",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "欧央行最新报告：黄金历史性超越美债，成为全球第一大储备资产",
@@ -587,8 +650,36 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时54分 ~ 13时01分]"
+          "appearance_count": 4,
+          "time_info": "[07时54分 ~ 18时02分]"
+        },
+        {
+          "title": "黄金超越美债引发储备体系重估，美国非农前哨牵动加息预期 | 每日市场观察06.03",
+          "url": "https://flash.jin10.com/detail/20260603173402031800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI举行“AI上岗”发布会：股票研究、投行路演都能干",
+          "url": "https://www.cls.cn/detail/2388950",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         }
       ]
     }
