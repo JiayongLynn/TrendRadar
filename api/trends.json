@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T07:55:04.566632+08:00",
-  "total_titles_processed": 189,
+  "generated_at": "2026-06-03T13:01:54.322490+08:00",
+  "total_titles_processed": 285,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "美军称对伊朗格什姆岛实施“自卫性”打击 伊朗向邻国发射导弹",
@@ -140,6 +140,17 @@
           "time_info": "05时55分"
         },
         {
+          "title": "伊朗称打击美第五舰队总部等美军基地 美方否认遭击中",
+          "url": "https://www.zaochenbao.com/news/politics/202606/0373253.html",
+          "source": "联合早报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
           "title": "美军称袭击一艘伊朗相关油轮 使其失去航行能力",
           "url": "https://flash.jin10.com/detail/20260603050450041800",
           "source": "金十数据",
@@ -151,6 +162,17 @@
           "time_info": "05时55分"
         },
         {
+          "title": "伊朗向科威特巴林射导弹未命中 美空袭格什姆岛回应",
+          "url": "https://www.zaochenbao.com/news/politics/202606/0373252.html",
+          "source": "联合早报",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
           "title": "录音显示美军袭击一艘伊朗相关油轮",
           "url": "https://flash.jin10.com/detail/20260603045432427800",
           "source": "金十数据",
@@ -160,6 +182,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
+        },
+        {
+          "title": "欧洲央行管委温施：伊朗和平协议不会影响欧洲央行加息的理由。",
+          "url": "https://flash.jin10.com/detail/20260603120325901800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "美军向一艘驶往伊朗油轮发射地狱火导弹",
+          "url": "https://www.zaochenbao.com/news/politics/202606/0373249.html",
+          "source": "联合早报",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "美国中央司令部：自4月13日开始对所有进出伊朗港口的海上交通实施封锁以来，美军已瘫痪了6艘有关商船，并迫使另外122艘商船改变航向。",
@@ -187,7 +231,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
@@ -200,6 +244,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时51分 ~ 07时55分]"
+        },
+        {
+          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡：你他妈疯了，要不是我你早进监狱了！",
+          "url": "https://wallstreetcn.com/articles/3773679",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时51分 ~ 13时01分]"
         },
         {
           "title": "白宫记协晚宴改期至7月 特朗普称计划出席",
@@ -224,18 +281,6 @@
           "time_info": "05时55分"
         },
         {
-          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡：你他妈疯了，要不是我你早进监狱了！",
-          "url": "https://wallstreetcn.com/articles/3773679",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时51分 ~ 07时55分]"
-        },
-        {
           "title": "港媒：特朗普亲自促中方帮忙结束俄乌战争",
           "url": "https://www.zaochenbao.com/news/hkMacao/202606/0273193.html",
           "source": "联合早报",
@@ -254,8 +299,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 07时55分]"
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 13时01分]"
+        },
+        {
+          "title": "特朗普否认美伊好几天没有对话",
+          "url": "https://www.zaochenbao.com/news/politics/202606/0373254.html",
+          "source": "联合早报",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "美国总统特朗普：用于支持非法移民或存储非法移民福利的银行账户将被关闭，资金最终将被扣押和没收，以便归还给纳税人。",
@@ -280,6 +336,17 @@
           "time_info": "02时51分"
         },
         {
+          "title": "美政府撤销反武器化基金 禁止审议特朗普税务协议仍有效",
+          "url": "https://www.zaochenbao.com/news/politics/202606/0373251.html",
+          "source": "联合早报",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
           "title": "美国总统特朗普：非法移民和外国诈骗者每年从美国纳税人那里窃取数十亿美元。作为我政府历史性努力的一部分，以结束欺诈和扭转大规模非法移民，我最近签署了一项强有力的新行政命令，由财政部主导，旨在阻止银行、信用卡和金融机构被用于促进人口走私、毒品贩运、非法移民以及策划这些活动的犯罪集团。",
           "url": "https://flash.jin10.com/detail/20260603022601524800",
           "source": "金十数据",
@@ -302,6 +369,17 @@
           "time_info": "05时55分"
         },
         {
+          "title": "高建生：特朗普的中国行昭示三大变化",
+          "url": "https://www.zaochenbao.com/news/opinion/202606/0373241.html",
+          "source": "联合早报",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
           "title": "特朗普：已接受在白宫记者晚宴发言的邀请",
           "url": "https://flash.jin10.com/detail/20260603020332024800",
           "source": "金十数据",
@@ -311,6 +389,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "特朗普称以黎同意互不攻击 美伊谈判正快速推进",
+          "url": "https://www.zaochenbao.com/news/politics/202606/0373237.html",
+          "source": "联合早报",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         }
       ]
     },
@@ -318,6 +407,30 @@
       "keyword_group": "美股",
       "match_count": 8,
       "titles": [
+        {
+          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 13时01分]"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
+          "url": "https://www.cls.cn/detail/2388968",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 13时01分]"
+        },
         {
           "title": "热门中概股美股盘前普涨，理想汽车涨超7%",
           "url": "https://www.36kr.com/newsflashes/3836034865411207",
@@ -335,28 +448,6 @@
           "source": "格隆汇",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 07时55分]"
-        },
-        {
-          "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
-          "url": "https://www.cls.cn/detail/2388968",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 07时55分]"
-        },
-        {
-          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
-          "url": "https://wallstreetcn.com/articles/3773650",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -411,6 +502,34 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek计划在首轮融资中募资约70亿美元",
+          "url": "https://www.36kr.com/newsflashes/3836944039228549",
+          "source": "36氪",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "据路透援引消息人士报道，DeepSeek计划在首轮融资中筹集约70亿美元，估值高达590亿美元。腾讯与宁德时代将成为DeepSeek最大的外部投资者；网易和京东也计划参投。",
+          "url": "https://flash.jin10.com/detail/20260603121634379800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -439,6 +558,23 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI举行“AI上岗”发布会：股票研究、投行路演都能干",
+          "url": "https://www.cls.cn/detail/2388950",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -447,11 +583,12 @@
           "url": "https://wallstreetcn.com/articles/3773688",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 07时55分]"
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 13时01分]"
         }
       ]
     }
