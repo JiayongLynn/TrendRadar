@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-04T14:51:42.978089+08:00",
-  "total_titles_processed": 322,
+  "generated_at": "2026-06-04T18:42:47.939187+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
           "url": "https://wallstreetcn.com/articles/3773781",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时55分 ~ 14时51分]"
+          "appearance_count": 5,
+          "time_info": "[03时55分 ~ 18时42分]"
         },
         {
           "title": "特朗普称美伊协议可能在本周末达成",
@@ -104,9 +105,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "AI“狂吞”存储芯片！美国九大行业联合上书 敦促特朗普政府扩产",
+          "url": "https://www.cls.cn/detail/2390381",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "内坦亚胡承认与特朗普存在“战术分歧”",
@@ -159,7 +171,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -170,7 +182,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         }
@@ -189,8 +201,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时31分 ~ 14时51分]"
+          "appearance_count": 4,
+          "time_info": "[06时31分 ~ 18时42分]"
         },
         {
           "title": "美股收盘：三大指数从历史高位回落 美伊紧张局势再度升级",
@@ -263,6 +275,18 @@
           "time_info": "03时55分"
         },
         {
+          "title": "小红书出手，发布“抓紧港美股开通”诱导贴、倒卖外资研报等乱象被集中整治",
+          "url": "https://www.cls.cn/detail/2390543",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 18时42分]"
+        },
+        {
           "title": "美股期指下跌 布油站上98美元 比特币跌破6.7万美元 | 今夜看点",
           "url": "https://www.cls.cn/detail/2389957",
           "source": "财联社热门",
@@ -318,23 +342,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
-        },
-        {
-          "title": "小红书出手，发布“抓紧港美股开通”诱导贴、倒卖外资研报等乱象被集中整治",
-          "url": "https://www.cls.cn/detail/2390543",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "马汉航空中国往返伊朗航线全面恢复运营",
@@ -343,9 +356,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗圣城军指挥官卡尼表示，黎巴嫩方面的最低要求是以色列恢复到战争前的边界。",
+          "url": "https://flash.jin10.com/detail/20260604182137336800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "伊朗军队称刚刚打击美军指挥舰",
@@ -363,11 +387,12 @@
           "url": "https://www.zaochenbao.com/news/politics/202606/0473355.html",
           "source": "联合早报",
           "ranks": [
-            4
+            4,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 18时42分]"
         },
         {
           "title": "据CNN：金钱赔偿问题成为了伊朗协议中的关键症结。",
@@ -461,18 +486,63 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "IBM与谷歌云推出全新谷歌云实践业务",
+          "url": "https://www.36kr.com/newsflashes/3838708785269255",
+          "source": "36氪",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
         {
           "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
           "url": "https://wallstreetcn.com/articles/3773814",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 18时42分]"
+        },
+        {
+          "title": "IBM(IBM.N)：该业务实践在谷歌云服务中代表数十亿美元的市场机会。",
+          "url": "https://flash.jin10.com/detail/20260604180402627800",
+          "source": "金十数据",
+          "ranks": [
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时51分"
+          "time_info": "18时42分"
+        },
+        {
+          "title": "IBM(IBM.N)：此次合作将扩展IBM Consulting Advantage人工智能驱动交付平台，为Gemini 企业版引入面向特定行业的智能代理。",
+          "url": "https://flash.jin10.com/detail/20260604180339647800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
+          "title": "IBM(IBM.N)与谷歌云宣布战略合作，通过结合人类专业知识与人工智能驱动的交付模式推动AI规模化落地。",
+          "url": "https://flash.jin10.com/detail/20260604180127001800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "博通首席执行官：预计第三季度非人工智能半导体收入约为45亿美元。谷歌合作关系仍然是非常重要的。",
