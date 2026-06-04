@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T06:31:51.401276+08:00",
-  "total_titles_processed": 142,
+  "generated_at": "2026-06-04T09:47:44.467045+08:00",
+  "total_titles_processed": 224,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -17,6 +17,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时55分 ~ 06时31分]"
+        },
+        {
+          "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
+          "url": "https://wallstreetcn.com/articles/3773742",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 09时47分]"
+        },
+        {
+          "title": "美股收盘：三大指数从历史高位回落 美伊紧张局势再度升级",
+          "url": "https://www.cls.cn/detail/2390139",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 09时47分]"
         },
         {
           "title": "美股跌幅扩大，道指下跌1%，标普500指数跌0.6%。",
@@ -36,20 +60,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
         {
-          "title": "美股收盘：三大指数从历史高位回落 美伊紧张局势再度升级",
-          "url": "https://www.cls.cn/detail/2390139",
-          "source": "财联社热门",
+          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
+          "url": "https://wallstreetcn.com/articles/3773769",
+          "source": "华尔街见闻",
           "ranks": [
+            6,
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时55分 ~ 09时47分]"
         },
         {
           "title": "特朗普言论提振有限，美股指涨跌互现，Marvell开盘涨近10%，油价涨幅收窄",
@@ -63,26 +88,16 @@
           "time_info": "03时55分"
         },
         {
-          "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
-          "url": "https://wallstreetcn.com/articles/3773742",
-          "source": "华尔街见闻",
+          "title": "美股期指下跌 布油站上98美元 比特币跌破6.7万美元 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2389957",
+          "source": "财联社热门",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
-          "url": "https://wallstreetcn.com/articles/3773769",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时55分 ~ 06时31分]"
+          "appearance_count": 3,
+          "time_info": "[03时55分 ~ 09时47分]"
         },
         {
           "title": "热门中概股美股盘前多数下跌，小鹏集团跌超3%",
@@ -119,22 +134,21 @@
           "time_info": "[03时55分 ~ 06时31分]"
         },
         {
-          "title": "美股期指下跌 布油站上98美元 比特币跌破6.7万美元 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2389957",
-          "source": "财联社热门",
+          "title": "美股异动丨CrowdStrike夜盘跌超10%，第二财季业绩指引未能“惊艳市场”",
+          "url": "https://www.gelonghui.com/news/5245751",
+          "source": "格隆汇",
           "ranks": [
-            10,
-            11
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时55分 ~ 06时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
@@ -144,8 +158,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时55分 ~ 06时31分]"
+          "appearance_count": 3,
+          "time_info": "[03时55分 ~ 09时47分]"
         },
         {
           "title": "特朗普称美伊协议可能在本周末达成",
@@ -154,9 +168,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "特朗普签AI行政令 鼓励顶尖AI模型发布前接受测试",
+          "url": "https://www.zaochenbao.com/news/politics/202606/0373302.html",
+          "source": "联合早报",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时55分 ~ 09时47分]"
         },
         {
           "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
@@ -164,17 +190,6 @@
           "source": "华尔街见闻",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时55分 ~ 06时31分]"
-        },
-        {
-          "title": "特朗普签AI行政令 鼓励顶尖AI模型发布前接受测试",
-          "url": "https://www.zaochenbao.com/news/politics/202606/0373302.html",
-          "source": "联合早报",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -198,7 +213,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
@@ -214,15 +229,48 @@
           "time_info": "03时55分"
         },
         {
+          "title": "内坦亚胡承认与特朗普存在“战术分歧”",
+          "url": "https://www.zaochenbao.com/news/politics/202606/0473313.html",
+          "source": "联合早报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "美伊局势追踪：特朗普称协议或在周末达成，美国会众议院要求结束动武！",
+          "url": "https://www.cls.cn/detail/2390202",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
           "title": "美众议院通过决议 限制特朗普对伊动武权力",
           "url": "https://flash.jin10.com/detail/20260604053252416800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "特朗普：本周末或可达成美伊协议",
+          "url": "https://www.zaochenbao.com/news/politics/202606/0473311.html",
+          "source": "联合早报",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "美国众议院通过一项决议，限制美国总统特朗普对伊朗的战争权力。",
@@ -231,7 +279,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         }
@@ -314,7 +362,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
@@ -352,11 +400,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时55分 ~ 06时31分]"
+          "appearance_count": 3,
+          "time_info": "[03时55分 ~ 09时47分]"
         }
       ]
     },
@@ -371,9 +420,26 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "达利欧称美债已越过临界点，美联储或将人为压低利率",
+          "url": "https://www.36kr.com/newsflashes/3838136523246081",
+          "source": "36氪",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         }
       ]
     }
