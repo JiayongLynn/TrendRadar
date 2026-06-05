@@ -1,61 +1,11 @@
 {
-  "generated_at": "2026-06-06T00:34:11.135223+08:00",
-  "total_titles_processed": 114,
+  "generated_at": "2026-06-06T03:02:16.620572+08:00",
+  "total_titles_processed": 142,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "热门中概股美股盘前多数下跌，百度跌超4%",
-          "url": "https://www.36kr.com/newsflashes/3840284182268417",
-          "source": "36氪",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "美股大型科技股盘前涨跌不一，英特尔跌超3%",
-          "url": "https://www.36kr.com/newsflashes/3840277452654853",
-          "source": "36氪",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
-          "url": "https://wallstreetcn.com/articles/3773949",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "培训机构CEO人大演讲鼓励炒美股 称考公是“混吃等死”",
-          "url": "https://www.zaochenbao.com/news/china/202606/0573411.html",
-          "source": "联合早报",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "据华尔街日报：美国总统特朗普表示，我要求情报主管普尔特解雇该部门的员工，国家情报总监办公室应“大幅缩减规模”，甚至可能予以撤销。",
@@ -76,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 03时02分]"
         },
         {
           "title": "中期选举压力使共和党人开始与特朗普唱反调",
@@ -87,14 +37,98 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 03时02分]"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普签署了关于国家安全领域人工智能建设的指令。",
+          "url": "https://flash.jin10.com/detail/20260606023014587800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时34分"
+          "time_info": "03时02分"
+        },
+        {
+          "title": "据Axios报道，美国总统特使威特科夫和特朗普女婿库什纳于周四前往田纳西州的国家实验室，与核专家举行会议。",
+          "url": "https://flash.jin10.com/detail/20260606022353185800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "特朗普：希望看到利率下调 但将把决策权交给沃什",
+          "url": "https://flash.jin10.com/detail/20260606022303993800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "热门中概股美股盘前多数下跌，百度跌超4%",
+          "url": "https://www.36kr.com/newsflashes/3840284182268417",
+          "source": "36氪",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 03时02分]"
+        },
+        {
+          "title": "美股大型科技股盘前涨跌不一，英特尔跌超3%",
+          "url": "https://www.36kr.com/newsflashes/3840277452654853",
+          "source": "36氪",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 03时02分]"
+        },
+        {
+          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
+          "url": "https://wallstreetcn.com/articles/3773949",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 03时02分]"
+        },
+        {
+          "title": "培训机构CEO人大演讲鼓励炒美股 称考公是“混吃等死”",
+          "url": "https://www.zaochenbao.com/news/china/202606/0573411.html",
+          "source": "联合早报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 03时02分]"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "据CNN：美国与伊朗潜在的协议取决于美国是否同意释放240亿美元被冻结的伊朗资产。",
@@ -128,6 +162,84 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "伊朗石油部表示，南帕斯两座受损炼油设施的清理工作已完成约60%。",
+          "url": "https://flash.jin10.com/detail/20260606020743099800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国证券交易委员会（SEC）文件显示，SpaceX已在当地时间2026年6月5日与谷歌签署云服务协议，以获取算力支持。",
+          "url": "https://flash.jin10.com/detail/20260606024743263800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "市场消息：SpaceX与谷歌(GOOG.O)达成云服务协议。合作协议涉及11万块英伟达GPU、CPU以及内存。",
+          "url": "https://flash.jin10.com/detail/20260606024718460800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "据英国金融时报：Meta Platforms(META.O)正在考虑在与谷歌(GOOG.O)达成一项重大交易后，进行大规模股权融资。Meta可能出售数百亿美元的新股，以为其人工智能基础设施融资。",
+          "url": "https://flash.jin10.com/detail/20260606021701992800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "非农大超预期，美债收益率全线拉升，纳指重挫3.2%，AI剧烈回调，WTI原油下跌3.3%",
+          "url": "https://wallstreetcn.com/articles/3773946",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "非农大超预期，美债收益率短线拉升，AI降温纳指开盘跌超1.2%，WTI原油跌1%，现货白银跌超2.5%",
+          "url": "https://wallstreetcn.com/articles/3773946",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
         }
       ]
     },
@@ -143,25 +255,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "非农大超预期，美债收益率短线拉升，AI降温纳指开盘跌超1.2%，WTI原油跌1%，现货白银跌超2.5%",
-          "url": "https://wallstreetcn.com/articles/3773946",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 03时02分]"
         }
       ]
     },
