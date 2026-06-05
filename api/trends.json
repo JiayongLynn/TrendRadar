@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T08:17:18.414035+08:00",
-  "total_titles_processed": 237,
+  "generated_at": "2026-06-05T13:25:06.081954+08:00",
+  "total_titles_processed": 333,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "美众议院首次通过决议 要求特朗普结束对伊朗战争",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         },
@@ -28,6 +28,73 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "泽连斯基提议与普京举行会晤 特朗普称黎以和平谈判取得一定进展 | 环球市场",
+          "url": "https://www.cls.cn/detail/2391265",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时17分 ~ 13时25分]"
+        },
+        {
+          "title": "普京拒绝欧洲斡旋 称特朗普提议可作为俄乌谈判基础",
+          "url": "https://www.zaochenbao.com/news/politics/202606/0573414.html",
+          "source": "联合早报",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
+        },
+        {
+          "title": "特朗普：美国无需协议就能取得伊朗浓缩铀",
+          "url": "https://www.zaochenbao.com/news/politics/202606/0573412.html",
+          "source": "联合早报",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
+        },
+        {
+          "title": "特朗普提议对中国等60个贸易伙伴加征新关税",
+          "url": "https://www.zaochenbao.com/news/politics/202606/0573408.html",
+          "source": "联合早报",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
+        },
+        {
+          "title": "众议院投票通过决议，要求特朗普结束伊朗战争",
+          "url": "https://www.zaochenbao.com/news/politics/202606/0573407.html",
+          "source": "联合早报",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
+        },
+        {
+          "title": "评论：特朗普，美国的“窃贼统帅”",
+          "url": "https://www.zaochenbao.com/news/opinion/202606/0573404.html",
+          "source": "联合早报",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
         },
         {
           "title": "美国总统特朗普宣布将于6月24日在华盛顿特区举行庆典，庆祝美国建国250周年。",
@@ -96,17 +163,6 @@
           "time_info": "04时15分"
         },
         {
-          "title": "泽连斯基提议与普京举行会晤 特朗普称黎以和平谈判取得一定进展 | 环球市场",
-          "url": "https://www.cls.cn/detail/2391265",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时17分"
-        },
-        {
           "title": "美国总统特朗普：将建设2座新煤电厂并出口煤炭。",
           "url": "https://flash.jin10.com/detail/20260605033201797800",
           "source": "金十数据",
@@ -146,7 +202,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         },
@@ -253,8 +309,22 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
+          "url": "https://wallstreetcn.com/articles/3773846",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时49分 ~ 13时25分]"
+        },
         {
           "title": "热门中概股美股盘前多数下跌，小鹏集团跌超3%",
           "url": "https://www.36kr.com/newsflashes/3838863373469956",
@@ -278,6 +348,18 @@
           "time_info": "[01时49分 ~ 06时26分]"
         },
         {
+          "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
+          "url": "https://www.cls.cn/detail/2391272",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时17分 ~ 13时25分]"
+        },
+        {
           "title": "美股大型科技股盘前涨跌不一，Arm跌超5%",
           "url": "https://www.36kr.com/newsflashes/3838861557106944",
           "source": "36氪",
@@ -289,30 +371,6 @@
           "time_info": "[01时49分 ~ 06时26分]"
         },
         {
-          "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
-          "url": "https://wallstreetcn.com/articles/3773846",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 08时17分]"
-        },
-        {
-          "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
-          "url": "https://www.cls.cn/detail/2391272",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时17分"
-        },
-        {
           "title": "美股收盘：道指飙升近900点创历史新高 博通引发芯片板块抛售拖累纳指",
           "url": "https://www.cls.cn/detail/2391243",
           "source": "财联社热门",
@@ -321,8 +379,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时26分 ~ 13时25分]"
+        },
+        {
+          "title": "培训机构CEO人大演讲鼓励炒美股 称考公是“混吃等死”",
+          "url": "https://www.zaochenbao.com/news/china/202606/0573411.html",
+          "source": "联合早报",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时26分 ~ 08时17分]"
+          "time_info": "[13时24分 ~ 13时25分]"
         },
         {
           "title": "道指收涨1.7%创美股涨跌不一，道指收涨1.7%创新高！博通大跌超12%新高 半导体板块表现分化",
@@ -331,7 +400,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         },
@@ -342,7 +411,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         }
@@ -350,7 +419,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "航运数据显示，伊朗5月份石油出口量降至每日30万桶以下，创至少六年来的新低。",
@@ -362,6 +431,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "黄金失色，德黑兰楼市狂飙80%！战争下的伊朗人正在“弃金投房”",
+          "url": "https://flash.jin10.com/detail/20260605131821011800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
+        },
+        {
+          "title": "伊朗说将同阿曼规范管理霍尔木兹海峡",
+          "url": "https://www.zaochenbao.com/news/politics/202606/0573416.html",
+          "source": "联合早报",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
+        },
+        {
+          "title": "哈马斯高官与伊朗外长通话 讨论地区局势",
+          "url": "https://www.zaochenbao.com/news/politics/202606/0573415.html",
+          "source": "联合早报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
         },
         {
           "title": "波士顿联储：伊朗战争对美国劳动力市场影响有限",
@@ -392,7 +494,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         },
@@ -442,7 +544,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         }
