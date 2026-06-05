@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T13:25:06.081954+08:00",
-  "total_titles_processed": 333,
+  "generated_at": "2026-06-05T18:06:08.330382+08:00",
+  "total_titles_processed": 431,
   "failed_sources": [],
   "trends": [
     {
@@ -46,11 +46,24 @@
           "url": "https://www.zaochenbao.com/news/politics/202606/0573414.html",
           "source": "联合早报",
           "ranks": [
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 18时06分]"
+        },
+        {
+          "title": "评论：特朗普，美国的“窃贼统帅”",
+          "url": "https://www.zaochenbao.com/news/opinion/202606/0573404.html",
+          "source": "联合早报",
+          "ranks": [
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 18时06分]"
         },
         {
           "title": "特朗普：美国无需协议就能取得伊朗浓缩铀",
@@ -80,17 +93,6 @@
           "source": "联合早报",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
-        },
-        {
-          "title": "评论：特朗普，美国的“窃贼统帅”",
-          "url": "https://www.zaochenbao.com/news/opinion/202606/0573404.html",
-          "source": "联合早报",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -419,7 +421,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "航运数据显示，伊朗5月份石油出口量降至每日30万桶以下，创至少六年来的新低。",
@@ -433,33 +435,35 @@
           "time_info": "01时49分"
         },
         {
-          "title": "黄金失色，德黑兰楼市狂飙80%！战争下的伊朗人正在“弃金投房”",
-          "url": "https://flash.jin10.com/detail/20260605131821011800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
-        },
-        {
           "title": "伊朗说将同阿曼规范管理霍尔木兹海峡",
           "url": "https://www.zaochenbao.com/news/politics/202606/0573416.html",
           "source": "联合早报",
           "ranks": [
-            10
+            10,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 18时06分]"
         },
         {
           "title": "哈马斯高官与伊朗外长通话 讨论地区局势",
           "url": "https://www.zaochenbao.com/news/politics/202606/0573415.html",
           "source": "联合早报",
           "ranks": [
-            11
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 18时06分]"
+        },
+        {
+          "title": "黄金失色，德黑兰楼市狂飙80%！战争下的伊朗人正在“弃金投房”",
+          "url": "https://flash.jin10.com/detail/20260605131821011800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -508,6 +512,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "沙特媒体：伊朗接受将部分核材料转移至第三国",
+          "url": "https://flash.jin10.com/detail/20260605171456666800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
         }
       ]
     },
@@ -547,6 +562,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
+          "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
+          "url": "https://wallstreetcn.com/articles/3773884",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
         }
       ]
     },
