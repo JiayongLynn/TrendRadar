@@ -1,910 +1,177 @@
 {
-  "generated_at": "2026-06-08T19:19:13.223993+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-06-09T00:11:01.993135+08:00",
+  "total_titles_processed": 109,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 52,
+      "keyword_group": "美股",
+      "match_count": 7,
       "titles": [
         {
-          "title": "【早报】A股将迎近千亿“红包”；伊朗向以色列发射导弹",
-          "url": "https://www.cls.cn/detail/2393027",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时18分 ~ 14时01分]"
-        },
-        {
-          "title": "伊朗总统：我方谈判团队成员绝非退让之人，因此必须有力捍卫我们人民的权利。",
-          "url": "https://flash.jin10.com/detail/20260608015132054800",
-          "source": "金十数据",
+          "title": "热门中概股美股盘前多数上涨，哔哩哔哩涨超5%",
+          "url": "https://www.36kr.com/newsflashes/3844534192687360",
+          "source": "36氪",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时12分"
-        },
-        {
-          "title": "以军正在拦截伊朗来袭导弹 多地拉响防空警报",
-          "url": "https://flash.jin10.com/detail/20260608033930754800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "英国外交大臣：伊朗和以色列必须立即表现克制，降级局势。",
-          "url": "https://flash.jin10.com/detail/20260608054918638800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "英国外交大臣：伊朗与以色列之间冲突的恢复对任何人都没有好处。",
-          "url": "https://flash.jin10.com/detail/20260608054819798800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "以色列军方：迄今为止，从伊朗发射的所有导弹均已被拦截。",
-          "url": "https://flash.jin10.com/detail/20260608033644265800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "据Walla网站记者Adamker报道，以色列据称正在寻求美国许可，以轰炸伊朗能源设施。",
-          "url": "https://flash.jin10.com/detail/20260608033418480800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "美国拟动用伊朗被冻结资产赔偿海湾国家损失 或成停火谈判“新刺激”",
-          "url": "https://www.cls.cn/detail/2392742",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 08时18分]"
-        },
-        {
-          "title": "伊朗议会议长：我们武装部队的手依然像往常一样自由，可以采取他们认为适当的任何行动。",
-          "url": "https://flash.jin10.com/detail/20260608001645294800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            22
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时12分]"
+          "time_info": "[00时10分 ~ 00时11分]"
         },
         {
-          "title": "伊朗向以色列发射多枚导弹 美伊临时停火以来首次",
-          "url": "https://www.zaochenbao.com/news/politics/202606/0873612.html",
-          "source": "联合早报",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时18分 ~ 14时01分]"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：他们既不遵守停火，也不相信对话。通过实施海上封锁和违反与黎巴嫩达成的协议，他们已经表明自己只听得懂强权的语言。",
-          "url": "https://flash.jin10.com/detail/20260608000704767800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时12分]"
-        },
-        {
-          "title": "伊朗首席谈判代表卡利巴夫：针对伊朗的海上封锁以及美国今日对以色列的“开绿灯”行为，使得美国及（以色列）政权在本地区的基地和资产成为合法打击目标。我们武装力量的手一如既往地随时准备出击。",
-          "url": "https://flash.jin10.com/detail/20260608000457853800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时12分]"
-        },
-        {
-          "title": "卡塔尔声明称，卡塔尔首相与伊朗外长阿拉格齐奇讨论了伊朗与美国之间的调解努力以及黎巴嫩的最新进展。",
-          "url": "https://flash.jin10.com/detail/20260608133427442800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时01分]"
-        },
-        {
-          "title": "伊朗多地响起爆炸声 以军称攻击伊朗境内目标",
-          "url": "https://www.zaochenbao.com/news/politics/202606/0873635.html",
-          "source": "联合早报",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 19时19分]"
-        },
-        {
-          "title": "卡塔尔声明称，卡塔尔首相与伊朗外长阿拉格齐进行了交谈。",
-          "url": "https://flash.jin10.com/detail/20260608133331270800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时01分]"
-        },
-        {
-          "title": "据伊朗国家媒体：伊朗马赫沙赫特特殊石化经济区正在撤离人员。",
-          "url": "https://flash.jin10.com/detail/20260608132854871800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时01分]"
-        },
-        {
-          "title": "分析师：不可轻视以色列对伊朗的打击 局势有再度升级苗头",
-          "url": "https://flash.jin10.com/detail/20260608131218341800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时01分]"
-        },
-        {
-          "title": "伊朗副外长：伊朗的资产既不是华盛顿的战利品，也不是其盟友的赔付基金。",
-          "url": "https://flash.jin10.com/detail/20260608013322801800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时12分"
-        },
-        {
-          "title": "据以色列第15频道：以色列总理内塔尼亚胡与国防部长今日因伊朗威胁召开会议。",
-          "url": "https://flash.jin10.com/detail/20260607234913179800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "伊朗副外长加里巴巴迪就美国将伊朗资产用于支付对地区盟友战争赔偿的报道表示：地区国家政府没有资格要求赔偿。",
-          "url": "https://flash.jin10.com/detail/20260608013300180800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时12分"
-        },
-        {
-          "title": "据以色列媒体援引安全消息人士：以色列将对伊朗作出回应。",
-          "url": "https://flash.jin10.com/detail/20260608033218572800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "伊朗最高领袖顾问莫赫森·雷扎伊表示，伊朗一再警告不会容忍违反停火的行为和对黎巴嫩的袭击；侵略者今晚已收到回应。",
-          "url": "https://flash.jin10.com/detail/20260608033021989800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗暂停霍梅尼机场航班，直至另行通知。",
-          "url": "https://flash.jin10.com/detail/20260608051739211800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "第三波弹道导弹从伊朗向以色列北部发射。",
-          "url": "https://flash.jin10.com/detail/20260608032800938800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "伊朗外交部：任何以色列针对伊朗或黎巴嫩的行动将遭到“毁灭性的回应”。",
-          "url": "https://flash.jin10.com/detail/20260608051234395800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "伊朗外交部：黎巴嫩的停火是四月达成的停火协议的重要组成部分。",
-          "url": "https://flash.jin10.com/detail/20260608051144890800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "伊朗革命卫队表示，以色列军队必须停止对黎巴嫩的攻击；如果以方扩大攻击范围或对伊朗的行动作出回应，将面临“更具毁灭性和更令人懊悔的打击”。",
-          "url": "https://flash.jin10.com/detail/20260608032039298800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "伊朗外交部：袭击发生在以色列对黎巴嫩的行动和多次违反停火协议之后。",
-          "url": "https://flash.jin10.com/detail/20260608051135375800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "以军称监测到伊朗导弹来袭 多地响起防空警报",
-          "url": "https://flash.jin10.com/detail/20260608031813233800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "中国驻伊朗使领馆今天（6月8日）提醒在伊中国公民加强安全防范和应急准备，及时向驻伊朗使领馆进行报备。",
-          "url": "https://flash.jin10.com/detail/20260608051131611800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "以色列外交部：在黎巴嫩南部的博福特城堡下隐藏着一个庞大的黎巴嫩真主党地下恐怖设施。该设施在伊朗的支持下建造，违反了黎巴嫩的主权，旨在威胁以色列平民。",
-          "url": "https://flash.jin10.com/detail/20260608185723649800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
-          "title": "以色列军方表示，他们监测到从伊朗向以色列发射的第二波导弹。",
-          "url": "https://flash.jin10.com/detail/20260608031645531800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "伊朗外交部：伊朗武装部队对以色列进行了防御性打击。",
-          "url": "https://flash.jin10.com/detail/20260608051037385800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "据越南新闻：越南驻以色列大使馆呼吁公民加强安全措施，因以色列与伊朗之间的敌对行动持续升级。",
-          "url": "https://flash.jin10.com/detail/20260608185707265800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
-          "title": "伊朗国足抵达墨西哥",
-          "url": "https://flash.jin10.com/detail/20260608010059886800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时12分"
-        },
-        {
-          "title": "据以色列第13频道援引一名高级官员的话报道，从伊朗向以色列领土开火意味着重启战争的宣示。",
-          "url": "https://flash.jin10.com/detail/20260608030612709800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "以色列政府领土活动协调处：在伊朗对以色列发动导弹袭击后，关闭进入加沙地带的过境点。",
-          "url": "https://flash.jin10.com/detail/20260608050757494800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "伊朗副外长：伊朗海外资产不是华盛顿战利品",
-          "url": "https://www.zaochenbao.com/news/politics/202606/0873651.html",
-          "source": "联合早报",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
-          "title": "伊朗外长密集通话探讨中东局势",
-          "url": "https://www.zaochenbao.com/news/politics/202606/0873626.html",
-          "source": "联合早报",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时01分"
-        },
-        {
-          "title": "以军再次监测到伊朗导弹来袭 耶路撒冷响起防空警报",
-          "url": "https://www.zaochenbao.com/news/politics/202606/0873650.html",
-          "source": "联合早报",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
-          "title": "伊朗革命卫队称“警告性”打击以色列空军基地",
-          "url": "https://flash.jin10.com/detail/20260608050026080800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "伊朗革命卫队称警告性打击以军基地 指责美以未履行停火承诺",
-          "url": "https://www.zaochenbao.com/news/politics/202606/0873625.html",
-          "source": "联合早报",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时01分"
-        },
-        {
-          "title": "伊朗议员雷扎伊：将对以色列对贝鲁特的攻击作出“痛苦”的回应。",
-          "url": "https://flash.jin10.com/detail/20260607224440094800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "以色列军方：监测到从伊朗向北部定居点发射的导弹。",
-          "url": "https://flash.jin10.com/detail/20260608030332453800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：伊朗亚兹德地区启动防空系统应对敌对目标。",
-          "url": "https://flash.jin10.com/detail/20260608185232841800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
-          "title": "以色列拉响导弹警报，伊朗发射了导弹。",
-          "url": "https://flash.jin10.com/detail/20260608030304837800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "伊朗议会国家安全委员会：没有人应该认为战争已经结束。",
-          "url": "https://flash.jin10.com/detail/20260607223931467800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "伊朗最高领袖顾问兼助理穆罕默德·莫赫贝尔：敌人在调解方身处伊朗期间对黎巴嫩进行轰炸，已是第三次烧毁谈判桌。",
-          "url": "https://flash.jin10.com/detail/20260608021831010800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "据以色列第12频道：一位美国安全消息人士表示，已做好防御准备，以应对伊朗可能发动的攻击。",
-          "url": "https://flash.jin10.com/detail/20260608021739259800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "陈国祥：伊朗战争难解 全球“三高”加剧",
-          "url": "https://www.zaochenbao.com/news/opinion/202606/0873617.html",
-          "source": "联合早报",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时01分"
-        },
-        {
-          "title": "国际原子能机构总干事格罗西：我们自去年以来未能访问伊朗的核设施。",
-          "url": "https://flash.jin10.com/detail/20260608184728229800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
-          "title": "国际原子能机构总干事格罗西：伊朗需要履行其承诺，停止非法活动。",
-          "url": "https://flash.jin10.com/detail/20260608184659500800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
-          "url": "https://wallstreetcn.com/articles/3774049",
+          "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
+          "url": "https://wallstreetcn.com/articles/3774056",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时00分 ~ 19时19分]"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
         },
         {
-          "title": "据阿拉伯卫星电视台：内塔尼亚胡与特朗普的通话持续了20分钟。",
-          "url": "https://flash.jin10.com/detail/20260608054713959800",
-          "source": "金十数据",
+          "title": "美股大型科技股盘前普涨，康宁涨超9%",
+          "url": "https://www.36kr.com/newsflashes/3844530011834884",
+          "source": "36氪",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
+        },
+        {
+          "title": "康宁美股盘前涨超9%",
+          "url": "https://www.36kr.com/newsflashes/3844516437494018",
+          "source": "36氪",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
+        },
+        {
+          "title": "中东炮火暂歇 美股期指回血 苹果WWDC接棒登场 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2393996",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
+        },
+        {
+          "title": "亿航智能宣布3000万美元股票回购计划，美股盘前涨超7%",
+          "url": "https://www.36kr.com/newsflashes/3844495750646017",
+          "source": "36氪",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
+        },
+        {
+          "title": "美股异动丨获纳入标普500指数，迈威尔科技大涨超11%，领涨光通信概念股",
+          "url": "https://www.gelonghui.com/news/5248233",
+          "source": "格隆汇",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "暴雨天气接受专访 特朗普被提问激怒中断访问离场",
+          "url": "https://www.zaochenbao.com/news/politics/202606/0873692.html",
+          "source": "联合早报",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
+        },
+        {
+          "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
+          "url": "https://wallstreetcn.com/articles/3774049",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
         },
         {
           "title": "伊朗“警告性”打击以色列，以色列称“将强力回应”，特朗普警告内塔尼亚胡“不要反击，美伊协议近在咫尺”",
           "url": "https://wallstreetcn.com/articles/3774055",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时00分 ~ 19时19分]"
-        },
-        {
-          "title": "以色列广播公司：特朗普政府的一个法律代表团抵达以色列，将与内塔尼亚胡、国防部长卡茨和外长萨阿尔会面。",
-          "url": "https://flash.jin10.com/detail/20260608012956597800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时12分"
-        },
-        {
-          "title": "据沙特媒体哈达斯：特朗普与内塔尼亚胡通话结束。",
-          "url": "https://flash.jin10.com/detail/20260608051817435800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "据AXIOS网站：美国总统特朗普已听取关于以伊局势升级的简报。",
-          "url": "https://flash.jin10.com/detail/20260608032901741800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "中东冲突愈演愈烈！不顾特朗普反对 以色列攻击伊朗境内目标",
-          "url": "https://www.cls.cn/detail/2393222",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
-          "title": "据Axios援引美国官员及两名知情人士：以色列在对贝鲁特南郊发动空袭前已通报特朗普政府。",
-          "url": "https://flash.jin10.com/detail/20260607231852307800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "特朗普称美伊达成协议前不会解冻伊朗资产",
-          "url": "https://flash.jin10.com/detail/20260607231712644800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "英媒：特朗普考虑购买查戈斯群岛 拟绕过英国直接与毛里求斯交易",
-          "url": "https://flash.jin10.com/detail/20260608010628619800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时12分"
-        },
-        {
-          "title": "特朗普称18亿美元“反武器化基金”是好主意 尽管遭遇共和党反弹",
-          "url": "https://flash.jin10.com/detail/20260607231507080800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "特朗普呼吁伊朗回到谈判桌 要求以色列别报复",
-          "url": "https://www.zaochenbao.com/news/politics/202606/0873624.html",
-          "source": "联合早报",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时01分"
-        },
-        {
-          "title": "据半岛电视台：特朗普和内塔尼亚胡正在进行电话交谈。",
-          "url": "https://flash.jin10.com/detail/20260608045243340800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-08）",
-          "url": "https://flash.jin10.com/detail/20260608184934874800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
-          "title": "特朗普：经济好转不应导致加息 美国存在债务问题、还有很多其他问题需要处理",
-          "url": "https://flash.jin10.com/detail/20260607220749081800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "美股黑色星期五调整的本质是什么？如何影响A股？",
-          "url": "https://wallstreetcn.com/articles/3774038",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 19时19分]"
-        },
-        {
-          "title": "如何看待美股黑色星期五？如何影响A股？",
-          "url": "https://www.cls.cn/detail/2392886",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 14时01分]"
-        },
-        {
-          "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2392910",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 14时01分]"
-        },
-        {
-          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
-          "url": "https://www.cls.cn/detail/2392638",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 08时18分]"
-        },
-        {
-          "title": "大行评级丨大摩：续予禾赛美股“增持”评级，看好新业务带来的上行空间",
-          "url": "https://www.gelonghui.com/news/5247470",
-          "source": "格隆汇",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时01分]"
-        },
-        {
-          "title": "美股盘前科技股多数反弹，韩股收跌超8%，油价飙升5%、黄金跌破4300",
-          "url": "https://wallstreetcn.com/articles/3774056",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
-          "title": "国泰海通：美股或迎来至少一两个月的波动期",
-          "url": "https://flash.jin10.com/detail/20260607222627146800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中外六大AI出战上海高考作文！《科创板日报》实测DeepSeek与谷歌Gemini夺魁",
-          "url": "https://www.cls.cn/detail/2392919",
-          "source": "财联社热门",
-          "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时01分]"
+          "time_info": "[00时10分 ~ 00时11分]"
+        },
+        {
+          "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
+          "url": "https://wallstreetcn.com/articles/3774115",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
+        },
+        {
+          "title": "美以伊三方博弈100天：特朗普管不住局势了？",
+          "url": "https://flash.jin10.com/detail/20260608233538805800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "keyword_group": "伊朗",
+      "match_count": 2,
       "titles": [
         {
-          "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
-          "url": "https://wallstreetcn.com/articles/3774034",
-          "source": "华尔街见闻",
+          "title": "欧盟制裁伊朗革命卫队海军及石油出口代表",
+          "url": "https://www.zaochenbao.com/news/politics/202606/0873683.html",
+          "source": "联合早报",
           "ranks": [
-            9,
-            10,
-            8
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 14时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
+        },
         {
-          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
-          "url": "https://wallstreetcn.com/articles/3774032",
-          "source": "华尔街见闻",
+          "title": "以军官员称 伊朗向以色列发射近30枚导弹",
+          "url": "https://www.zaochenbao.com/news/politics/202606/0873680.html",
+          "source": "联合早报",
           "ranks": [
-            6,
-            8
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 08时18分]"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
         }
       ]
     }
