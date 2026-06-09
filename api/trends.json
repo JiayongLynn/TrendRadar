@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T00:10:22.428594+08:00",
-  "total_titles_processed": 109,
+  "generated_at": "2026-06-10T03:25:29.878086+08:00",
+  "total_titles_processed": 135,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "热门中概股美股盘前多数上涨，蔚来涨超1%",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 03时25分]"
         },
         {
           "title": "美股大型科技股盘前多数上涨，英特尔涨超2%",
@@ -26,19 +26,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 03时25分]"
         },
         {
           "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
           "url": "https://wallstreetcn.com/articles/3774056",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 03时25分]"
+        },
+        {
+          "title": "美股跳水，纳指跌超3%，科技股回落，迈威尔科技大跌13%，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3774176",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时10分"
+          "time_info": "03时25分"
         },
         {
           "title": "美股指跳水，纳指跌超1%，科技股回落，迈威尔科技跌超8%，金银油齐跌",
@@ -59,8 +71,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 03时25分]"
         },
         {
           "title": "美股异动丨癌症药物制造商Nuvalent暴涨近39%创新高，获葛兰素史克以106亿美元收购",
@@ -70,14 +82,25 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 03时25分]"
+        },
+        {
+          "title": "美股三大股指盘中回升，道指率先转涨，标普500指数跌幅收窄至0.5%，纳指跌幅收窄至1.2%。",
+          "url": "https://flash.jin10.com/detail/20260610023402581800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时10分"
+          "time_info": "03时25分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "特朗普称美伊两三天内可达成协议 伊朗警告以方若再袭黎势必还击",
@@ -87,19 +110,164 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 03时25分]"
         },
         {
           "title": "特朗普警告：若美伊和谈破裂 霍尔木兹海峡或数月无法恢复通航",
           "url": "https://www.cls.cn/detail/2395258",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 03时25分]"
+        },
+        {
+          "title": "据伊朗半官方媒体Mehr援引伊朗议员称，针对特朗普的威胁，伊朗军队处于全面戒备状态。",
+          "url": "https://flash.jin10.com/detail/20260610025206405800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
+          "title": "37次“即将达成”！特朗普不断预告伊朗协议，却一次次落空",
+          "url": "https://wallstreetcn.com/articles/3774230",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
+          "title": "伊朗外长疑似回应特朗普 警告外国军事力量远离伊朗",
+          "url": "https://flash.jin10.com/detail/20260610021903833800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "伊朗媒体Fars News援引知情人士表示，伊朗尚未向美国提出新提案。",
+          "url": "https://flash.jin10.com/detail/20260610031535251800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
+          "title": "伊朗官员：武装部队已做好应对任何侵略的准备",
+          "url": "https://flash.jin10.com/detail/20260610030617049800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
+          "title": "伊朗外长重申霍尔木兹海峡不是国际水域",
+          "url": "https://flash.jin10.com/detail/20260610030549888800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
+          "title": "伊朗最高领袖：我们从未寻求战争，也不寻求战争，但我们绝不会放弃我们的合法权利。",
+          "url": "https://flash.jin10.com/detail/20260609233159062800",
+          "source": "金十数据",
+          "ranks": [
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "伊朗外交部长：武装部队已针对领空遭侵犯进入戒备状态。",
+          "url": "https://flash.jin10.com/detail/20260610022029907800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "谷歌为Anthropic数据中心提供350亿美元融资担保",
+          "url": "https://flash.jin10.com/detail/20260610024250153800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
+          "title": "谷歌(GOOG.O)为Anthropic350亿美元芯片交易提供兜底支持。在谷歌的协助下，Anthropic将在5个数据中心租赁芯片。",
+          "url": "https://flash.jin10.com/detail/20260610023250783800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：Anthropic最新的前沿模型Claude Fable 5现已在Google Cloud上全面开放。",
+          "url": "https://flash.jin10.com/detail/20260610023003307800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
+          "title": "谷歌(GOOG.O)Gemini：推出智能体风险监控功能。",
+          "url": "https://flash.jin10.com/detail/20260610020905007800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
         }
       ]
     },
@@ -115,25 +283,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗最高领袖：我们从未寻求战争，也不寻求战争，但我们绝不会放弃我们的合法权利。",
-          "url": "https://flash.jin10.com/detail/20260609233159062800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 03时25分]"
         }
       ]
     }
