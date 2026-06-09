@@ -1,830 +1,139 @@
 {
-  "generated_at": "2026-06-09T20:12:39.883301+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-06-10T00:10:22.428594+08:00",
+  "total_titles_processed": 109,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "暴雨天气接受专访 特朗普被提问激怒中断访问离场",
-          "url": "https://www.zaochenbao.com/news/politics/202606/0873692.html",
-          "source": "联合早报",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 07时20分]"
-        },
-        {
-          "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
-          "url": "https://wallstreetcn.com/articles/3774049",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 07时20分]"
-        },
-        {
-          "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
-          "url": "https://wallstreetcn.com/articles/3774115",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 16时37分]"
-        },
-        {
-          "title": "24小时惊险内幕：以色列与伊朗如何险些将特朗普拖回战争？",
-          "url": "https://flash.jin10.com/detail/20260609065211585800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 07时20分]"
-        },
-        {
-          "title": "伊朗“警告性”打击以色列，以色列称“将强力回应”，特朗普警告内塔尼亚胡“不要反击，美伊协议近在咫尺”",
-          "url": "https://wallstreetcn.com/articles/3774055",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 07时20分]"
-        },
-        {
-          "title": "美国总统特朗普：以色列不会与伊朗重启战争。",
-          "url": "https://flash.jin10.com/detail/20260609054903462800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时57分 ~ 07时20分]"
-        },
-        {
-          "title": "美国总统特朗普谈伊朗：我们正在进行谈判。",
-          "url": "https://flash.jin10.com/detail/20260609054818793800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时57分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普“积极介入斡旋”后，伊朗宣布对以打击“告一段落”",
-          "url": "https://wallstreetcn.com/articles/3774122",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时19分 ~ 20时12分]"
-        },
-        {
-          "title": "亲临纽约观看NBA总决赛 特朗普遭球迷满场嘘声",
-          "url": "https://www.zaochenbao.com/news/politics/202606/0973720.html",
-          "source": "联合早报",
-          "ranks": [
-            1,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时14分 ~ 20时12分]"
-        },
-        {
-          "title": "特朗普：未来两周将对伊朗“全面胜利” 油价将会暴跌！",
-          "url": "https://www.cls.cn/detail/2394559",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 20时12分]"
-        },
-        {
-          "title": "特朗普：两周内对伊朗宣布“全面胜利”",
-          "url": "https://www.zaochenbao.com/news/politics/202606/0973735.html",
-          "source": "联合早报",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 20时12分]"
-        },
-        {
-          "title": "法官裁定特朗普政府大幅抬高H1B签证费违法",
-          "url": "https://www.zaochenbao.com/news/politics/202606/0973713.html",
-          "source": "联合早报",
-          "ranks": [
-            8,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时14分 ~ 20时12分]"
-        },
-        {
-          "title": "特朗普警告内坦亚胡：勿再攻伊朗 否则就只能靠自己了",
-          "url": "https://www.zaochenbao.com/news/politics/202606/0973733.html",
-          "source": "联合早报",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 20时12分]"
-        },
-        {
-          "title": "特朗普正式提名前私人律师担任司法部长",
-          "url": "https://www.zaochenbao.com/news/politics/202606/0973732.html",
-          "source": "联合早报",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 20时12分]"
-        },
-        {
-          "title": "美以伊三方博弈100天：特朗普管不住局势了？",
-          "url": "https://flash.jin10.com/detail/20260608233538805800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
-        },
-        {
-          "title": "日媒：特朗普政府敦促中国恢复对日稀土供应",
-          "url": "https://www.zaochenbao.com/news/politics/202606/0973724.html",
-          "source": "联合早报",
-          "ranks": [
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 20时12分]"
-        },
-        {
-          "title": "以媒：特朗普施压内塔尼亚胡停止扩大对伊打击",
-          "url": "https://flash.jin10.com/detail/20260609022815601800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "美国总统特朗普：她是经由时任参议院多数党领袖哈里·里德以及前总统奥巴马之手安插进来的。还需要我多说什么吗？",
-          "url": "https://flash.jin10.com/detail/20260609022508667800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 6,
       "titles": [
         {
-          "title": "热门中概股美股盘前多数上涨，哔哩哔哩涨超5%",
-          "url": "https://www.36kr.com/newsflashes/3844534192687360",
-          "source": "36氪",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 07时20分]"
-        },
-        {
-          "title": "美股大型科技股盘前普涨，康宁涨超9%",
-          "url": "https://www.36kr.com/newsflashes/3844530011834884",
+          "title": "热门中概股美股盘前多数上涨，蔚来涨超1%",
+          "url": "https://www.36kr.com/newsflashes/3845939834817028",
           "source": "36氪",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 07时20分]"
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "美股大型科技股盘前多数上涨，英特尔涨超2%",
+          "url": "https://www.36kr.com/newsflashes/3845937414129926",
+          "source": "36氪",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
         },
         {
           "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
           "url": "https://wallstreetcn.com/articles/3774056",
           "source": "华尔街见闻",
           "ranks": [
-            1,
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时19分 ~ 20时12分]"
+          "appearance_count": 1,
+          "time_info": "00时10分"
         },
         {
-          "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
-          "url": "https://wallstreetcn.com/articles/3774056",
+          "title": "美股指跳水，纳指跌超1%，科技股回落，迈威尔科技跌超8%，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3774176",
           "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 05时57分]"
-        },
-        {
-          "title": "美股收盘：芯片股反弹费城指数升超5% 存储、光通信概念齐走强",
-          "url": "https://www.cls.cn/detail/2394207",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时19分 ~ 12时14分]"
-        },
-        {
-          "title": "康宁美股盘前涨超9%",
-          "url": "https://www.36kr.com/newsflashes/3844516437494018",
-          "source": "36氪",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 07时20分]"
-        },
-        {
-          "title": "美股冲高回落！芯片股反弹，英特尔涨超11%，美光科技涨超9%",
-          "url": "https://www.gelonghui.com/news/5248284",
-          "source": "格隆汇",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 07时20分]"
-        },
-        {
-          "title": "【早报】美股芯片、光通信股全线反弹，半导体指数大涨5.6%；油价冲高回落，金银探底企稳",
-          "url": "https://www.cls.cn/detail/2394225",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "中东炮火暂歇 美股期指回血 苹果WWDC接棒登场 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2393996",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 07时20分]"
-        },
-        {
-          "title": "亿航智能宣布3000万美元股票回购计划，美股盘前涨超7%",
-          "url": "https://www.36kr.com/newsflashes/3844495750646017",
-          "source": "36氪",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 07时20分]"
-        },
-        {
-          "title": "什么信号？美股70%熊市信号被触发，美银建议获利了结！",
-          "url": "https://www.cls.cn/detail/2394381",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
+          "time_info": "00时10分"
         },
         {
           "title": "熊市信号触发70%！美银建议获利了结，现在美股正如“2000年泡沫破灭前1个月”",
           "url": "https://wallstreetcn.com/articles/3774155",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时14分 ~ 20时12分]"
-        },
-        {
-          "title": "美股异动丨获纳入标普500指数，迈威尔科技大涨超11%，领涨光通信概念股",
-          "url": "https://www.gelonghui.com/news/5248233",
-          "source": "格隆汇",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 05时57分]"
-        },
-        {
-          "title": "美股异动丨癌症药物制造商Nuvalent盘前飙升39%，获葛兰素史克溢价四成收购",
-          "url": "https://www.gelonghui.com/news/5248515",
-          "source": "格隆汇",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "美股异动丨Applied Digital盘前涨超10% 签署52亿美元AI数据中心租赁协议",
-          "url": "https://www.gelonghui.com/news/5248508",
-          "source": "格隆汇",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "Applied Digital美股盘前涨超10%，此前该公司与美国超大规模云服务商签署了价值52亿美元的人工智能数据中心租赁协议。",
-          "url": "https://flash.jin10.com/detail/20260609160404117800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "高通(QCOM.O)美股盘后上涨近8%。",
-          "url": "https://flash.jin10.com/detail/20260609050509753800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "欧盟制裁伊朗革命卫队海军及石油出口代表",
-          "url": "https://www.zaochenbao.com/news/politics/202606/0873683.html",
-          "source": "联合早报",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 07时20分]"
-        },
-        {
-          "title": "以军官员称 伊朗向以色列发射近30枚导弹",
-          "url": "https://www.zaochenbao.com/news/politics/202606/0873680.html",
-          "source": "联合早报",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 07时20分]"
-        },
-        {
-          "title": "安全消息人士称，无人机袭击了位于伊拉克埃尔比勒以北的伊朗库尔德反对派营地。",
-          "url": "https://flash.jin10.com/detail/20260609031936052800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "据伊朗媒体：霍尔木兹甘省南部发生5级地震。",
-          "url": "https://flash.jin10.com/detail/20260609054358318800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时57分 ~ 07时20分]"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：（援引伊朗驻联合国代表）我们正通过巴基斯坦与美国交换意见，以达成最终文本。",
-          "url": "https://flash.jin10.com/detail/20260609053213808800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时57分 ~ 07时20分]"
-        },
-        {
-          "title": "美军向驶往伊朗油轮开火 24名印度船员安全",
-          "url": "https://www.zaochenbao.com/news/politics/202606/0973714.html",
-          "source": "联合早报",
-          "ranks": [
-            7,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时14分 ~ 20时12分]"
-        },
-        {
-          "title": "据伊朗媒体：机场官员称，德黑兰霍梅尼机场航班已恢复运营。",
-          "url": "https://flash.jin10.com/detail/20260609060442174800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 07时20分]"
-        },
-        {
-          "title": "伊朗驻联合国代表：希望美伊谈判在6月底前达成协议",
-          "url": "https://flash.jin10.com/detail/20260609060234733800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 07时20分]"
-        },
-        {
-          "title": "伊朗官员：伊朗不排斥推进谈判 但美必须拿出诚意",
-          "url": "https://flash.jin10.com/detail/20260609115245529800",
-          "source": "金十数据",
-          "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时14分"
+          "time_info": "00时10分"
         },
         {
-          "title": "伊朗南部发生5级地震",
-          "url": "https://www.zaochenbao.com/news/politics/202606/0973712.html",
-          "source": "联合早报",
+          "title": "美股异动丨癌症药物制造商Nuvalent暴涨近39%创新高，获葛兰素史克以106亿美元收购",
+          "url": "https://www.gelonghui.com/news/5249058",
+          "source": "格隆汇",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时14分"
+          "time_info": "00时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "特朗普称美伊两三天内可达成协议 伊朗警告以方若再袭黎势必还击",
+          "url": "https://www.zaochenbao.com/news/politics/202606/0973774.html",
+          "source": "联合早报",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
         },
         {
-          "title": "据CNN：伊朗官员表示，德黑兰与美国对话“没有问题”，但美方必须改变其行为。",
-          "url": "https://flash.jin10.com/detail/20260609030313384800",
-          "source": "金十数据",
+          "title": "特朗普警告：若美伊和谈破裂 霍尔木兹海峡或数月无法恢复通航",
+          "url": "https://www.cls.cn/detail/2395258",
+          "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "伊朗将在波斯湾至红海之间建新抵抗轴心安全带",
-          "url": "https://www.zaochenbao.com/news/politics/202606/0973706.html",
-          "source": "联合早报",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "伊朗驻联合国使团警告称，国际原子能机构理事会的决议可能为另一次袭击铺平道路。",
-          "url": "https://flash.jin10.com/detail/20260609192859902800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时12分"
-        },
-        {
-          "title": "据沙特阿拉伯阿拉比亚电视台：美国国务院表示，在达成协议之前，对伊朗实施的海上封锁将继续维持。在伊朗履行其承诺之前，伊朗被冻结资产不会被解冻或释放。",
-          "url": "https://flash.jin10.com/detail/20260609023214045800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "以色列伊朗两月来首次直接交火",
-          "url": "https://www.zaochenbao.com/news/politics/202606/0973697.html",
-          "source": "联合早报",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
+          "time_info": "00时10分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 1,
       "titles": [
         {
           "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
           "url": "https://wallstreetcn.com/articles/3774156",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时14分 ~ 20时12分]"
-        },
-        {
-          "title": "OpenAI自曝已秘密提交IPO申请",
-          "url": "https://flash.jin10.com/detail/20260609052258365800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时57分 ~ 07时20分]"
-        },
-        {
-          "title": "OpenAI：IPO可能需要一段时间，因为我们想做的一些事情，作为一家私营公司可能会更容易。",
-          "url": "https://flash.jin10.com/detail/20260609051732279800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时57分 ~ 07时20分]"
-        },
-        {
-          "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
-          "url": "https://www.cls.cn/detail/2394212",
-          "source": "财联社热门",
-          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时14分"
-        },
+          "time_info": "00时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "以总理确认暂停袭击伊朗 OpenAI递交上市申请文件 | 环球市场",
-          "url": "https://www.cls.cn/detail/2394236",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "OpenAI：尚未决定首次公开募股的时间。",
-          "url": "https://flash.jin10.com/detail/20260609051515095800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "OpenAI已提交IPO申请",
-          "url": "https://flash.jin10.com/detail/20260609051454671800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "OpenAI首席科学家：OpenAI致力追求的各项核心目标，均围绕着这一使命：确保通用人工智能造福全人类。人工智能应当增强人类的主体性，而非削弱人类在塑造未来中的作用与意义。",
-          "url": "https://flash.jin10.com/detail/20260609051127110800",
+          "title": "伊朗最高领袖：我们从未寻求战争，也不寻求战争，但我们绝不会放弃我们的合法权利。",
+          "url": "https://flash.jin10.com/detail/20260609233159062800",
           "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "Perplexity：无论Anthropic与OpenAI上市进展如何，公司均计划2028年IPO",
-          "url": "https://www.36kr.com/newsflashes/3845275469973766",
-          "source": "36氪",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "苹果软件主管克雷格·费德里吉：苹果最大的模型“AFM Cloud Pro”将运行在谷歌云基础设施上。",
-          "url": "https://flash.jin10.com/detail/20260609032235869800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "苹果软件主管克雷格·费德里吉：苹果与谷歌及英伟达合作，将其私有云计算方案引入谷歌云的基础设施中。",
-          "url": "https://flash.jin10.com/detail/20260609032144383800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
-          "url": "https://wallstreetcn.com/articles/3774134",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时14分 ~ 20时12分]"
-        },
-        {
-          "title": "苹果软件主管克雷格·费德里吉：苹果的私有云将使用三款由苹果自主研发的AI模型，这些模型是基于其与谷歌的合作开发的。",
-          "url": "https://flash.jin10.com/detail/20260609031803675800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "苹果软件主管克雷格·费德里吉：（谈苹果全新智能功能）我们的系统并非基于谷歌搜索。",
-          "url": "https://flash.jin10.com/detail/20260609031355429800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "苹果(AAPL.O)：无论基础设施托管在何处，苹果始终保持对Private Cloud Compute软件的完全控制权。苹果设备仅信任经由苹果加密认证的Private Cloud Compute软件。在Google Cloud上运行的Private Cloud Compute服务，将在整个夏季预览期间逐步落实全套保护措施。",
-          "url": "https://flash.jin10.com/detail/20260609051727017800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "突然飙涨799%！DeepSeek，传来大消息！",
-          "url": "https://flash.jin10.com/detail/20260609115637717800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "加息警报还没解除！金价稳住只是暂时的？",
-          "url": "https://flash.jin10.com/detail/20260609115109370800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊以交火“点到为止”！美债却遗憾未能“止血”……",
-          "url": "https://www.cls.cn/detail/2394275",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
+          "time_info": "00时10分"
         }
       ]
     }
