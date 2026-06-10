@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T16:57:02.227441+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-06-10T20:32:39.365075+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "伊朗媒体Fars News援引知情人士表示，伊朗尚未向美国提出新提案。",
@@ -120,20 +120,21 @@
           "time_info": "[12时25分 ~ 16时57分]"
         },
         {
-          "title": "德国航运公司赫伯罗特CEO：霍尔木兹海峡重新开放后，将重新思考长期服务海湾地区的运输方式，但很多做法会恢复到伊朗战争之前的状态。",
-          "url": "https://flash.jin10.com/detail/20260610163658402800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 16时57分]"
-        },
-        {
           "title": "美媒指伊朗向中东美军基地射弹 五枚被约旦拦截或击落",
           "url": "https://www.zaochenbao.com/news/politics/202606/1073822.html",
           "source": "联合早报",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时56分 ~ 20时32分]"
+        },
+        {
+          "title": "德国航运公司赫伯罗特CEO：霍尔木兹海峡重新开放后，将重新思考长期服务海湾地区的运输方式，但很多做法会恢复到伊朗战争之前的状态。",
+          "url": "https://flash.jin10.com/detail/20260610163658402800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
@@ -206,6 +207,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
+        },
+        {
+          "title": "美伊冲突升级：伊朗指控美军袭击储水设施 导致2万居民供水中断",
+          "url": "https://flash.jin10.com/detail/20260610202138982800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "伊朗官方媒体称，已确认锡里克（SIRIK）地区遭到了导弹袭击。",
@@ -384,6 +396,17 @@
           "time_info": "07时23分"
         },
         {
+          "title": "美国与其他国家的联合声明中还提及了伊朗在北美的威胁。",
+          "url": "https://flash.jin10.com/detail/20260610200523643800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "伊朗称过去24小时未在海峡发起进攻性空中行动",
           "url": "https://flash.jin10.com/detail/20260610044159022800",
           "source": "金十数据",
@@ -393,6 +416,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
+        },
+        {
+          "title": "美国与其他国家发表联合声明，谴责伊朗伊斯兰革命卫队在欧洲的致命阴谋及其他恶意行动。",
+          "url": "https://flash.jin10.com/detail/20260610200504730800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "据伊朗国家媒体：在美国对伊朗南部地区发动袭击后，目前局势已恢复平静。",
@@ -411,6 +445,236 @@
           "source": "金十数据",
           "ranks": [
             25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "美伊和谈又受扰？美军再对伊朗发动打击 特朗普称“行动非常强硬”",
+          "url": "https://www.cls.cn/detail/2395455",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 16时57分]"
+        },
+        {
+          "title": "据华尔街日报：特朗普政府要求人工智能测试机构停止发布公开报告，反映白宫正加强对人工智能模型的管控。",
+          "url": "https://flash.jin10.com/detail/20260610055143921800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
+          "title": "特朗普称美伊两三天内可达成协议 伊朗警告以方若再袭黎势必还击",
+          "url": "https://www.zaochenbao.com/news/politics/202606/0973774.html",
+          "source": "联合早报",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 07时23分]"
+        },
+        {
+          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
+          "url": "https://wallstreetcn.com/articles/3774257",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时25分 ~ 20时32分]"
+        },
+        {
+          "title": "特朗普警告：若美伊和谈破裂 霍尔木兹海峡或数月无法恢复通航",
+          "url": "https://www.cls.cn/detail/2395258",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 07时23分]"
+        },
+        {
+          "title": "美国再陷中东军事泥潭，特朗普难以脱身的伊朗困局",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1073803.html",
+          "source": "联合早报",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 16时57分]"
+        },
+        {
+          "title": "37次“即将达成”！特朗普不断预告伊朗协议，却一次次落空",
+          "url": "https://wallstreetcn.com/articles/3774230",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时25分 ~ 07时23分]"
+        },
+        {
+          "title": "美以伊冲突迷局：特朗普和内塔尼亚胡，究竟谁说了算？",
+          "url": "https://flash.jin10.com/detail/20260610120250560800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "据伊朗半官方媒体Mehr援引伊朗议员称，针对特朗普的威胁，伊朗军队处于全面戒备状态。",
+          "url": "https://flash.jin10.com/detail/20260610025206405800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
+          "title": "美军空袭伊朗防空系统，特朗普下令报复“阿帕奇”被击落：回应必须非常强硬",
+          "url": "https://flash.jin10.com/detail/20260610065218869800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "特朗普称对伊朗进行打击“非常重要” | 环球市场",
+          "url": "https://www.cls.cn/detail/2395421",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "据ABC新闻报道，特朗普在接受该媒体采访时表示：“美国对伊朗做出回应非常重要。他们击落了一架直升机，我们正在予以回应。这是对他们昨晚对我们直升机所做之事的回应，我相信回应应该会非常强硬、非常有力。”",
+          "url": "https://flash.jin10.com/detail/20260610053201143800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
+          "title": "据美联社预测：特朗普支持的马蒂·奥唐奈赢得内华达州第三国会选区共和党众议员提名。",
+          "url": "https://flash.jin10.com/detail/20260610115257372800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "福克斯：美伊谈判仍在继续 特朗普仍在继续施压",
+          "url": "https://flash.jin10.com/detail/20260610202044600800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "据福克斯新闻：美国总统特朗普将继续施以最大压力以达成协议。",
+          "url": "https://flash.jin10.com/detail/20260610201638518800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "分析师：特朗普重新挑起打击伊朗可能性的时机“特别” 或是在为后续的数据铺路？",
+          "url": "https://flash.jin10.com/detail/20260610201418665800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "据福克斯新闻：美国众议院议长约翰逊表示，他在白宫战情室与特朗普及高层官员进行了会面，随后美国军队发起了被描述为自卫的打击伊朗行动。 约翰逊也称此次行动“比例适当且有限”，目标是雷达、导弹和指挥控制设施。",
+          "url": "https://flash.jin10.com/detail/20260610062852689800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "伊朗外长疑似回应特朗普 警告外国军事力量远离伊朗",
+          "url": "https://flash.jin10.com/detail/20260610021903833800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
+          "title": "特朗普警告伊朗将为拖延“付出代价”，以色列或再次发动打击！",
+          "url": "https://flash.jin10.com/detail/20260610200142273800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "特朗普称对伊朗进行打击“非常重要”",
+          "url": "https://flash.jin10.com/detail/20260610055938102800",
+          "source": "金十数据",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -537,6 +801,17 @@
           "time_info": "00时10分"
         },
         {
+          "title": "“黑色星期五”只是前奏？高盛、巴克莱齐警告：美股急跌风险仍存！",
+          "url": "https://www.cls.cn/detail/2395711",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时56分 ~ 20时32分]"
+        },
+        {
           "title": "美股异动丨癌症药物制造商Nuvalent暴涨近39%创新高，获葛兰素史克以106亿美元收购",
           "url": "https://www.gelonghui.com/news/5249058",
           "source": "格隆汇",
@@ -546,17 +821,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时10分 ~ 05时55分]"
-        },
-        {
-          "title": "“黑色星期五”只是前奏？高盛、巴克莱齐警告：美股急跌风险仍存！",
-          "url": "https://www.cls.cn/detail/2395711",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 16时57分]"
         },
         {
           "title": "当半导体成“震中”！一文读懂：美股投资者当前在哪里避险？",
@@ -597,192 +861,6 @@
           "source": "金十数据",
           "ranks": [
             28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "美伊和谈又受扰？美军再对伊朗发动打击 特朗普称“行动非常强硬”",
-          "url": "https://www.cls.cn/detail/2395455",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时25分 ~ 16时57分]"
-        },
-        {
-          "title": "据华尔街日报：特朗普政府要求人工智能测试机构停止发布公开报告，反映白宫正加强对人工智能模型的管控。",
-          "url": "https://flash.jin10.com/detail/20260610055143921800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "特朗普称美伊两三天内可达成协议 伊朗警告以方若再袭黎势必还击",
-          "url": "https://www.zaochenbao.com/news/politics/202606/0973774.html",
-          "source": "联合早报",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 07时23分]"
-        },
-        {
-          "title": "特朗普警告：若美伊和谈破裂 霍尔木兹海峡或数月无法恢复通航",
-          "url": "https://www.cls.cn/detail/2395258",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 07时23分]"
-        },
-        {
-          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
-          "url": "https://wallstreetcn.com/articles/3774257",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时25分 ~ 16时57分]"
-        },
-        {
-          "title": "美国再陷中东军事泥潭，特朗普难以脱身的伊朗困局",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1073803.html",
-          "source": "联合早报",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时25分 ~ 16时57分]"
-        },
-        {
-          "title": "37次“即将达成”！特朗普不断预告伊朗协议，却一次次落空",
-          "url": "https://wallstreetcn.com/articles/3774230",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时25分 ~ 07时23分]"
-        },
-        {
-          "title": "美以伊冲突迷局：特朗普和内塔尼亚胡，究竟谁说了算？",
-          "url": "https://flash.jin10.com/detail/20260610120250560800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "据伊朗半官方媒体Mehr援引伊朗议员称，针对特朗普的威胁，伊朗军队处于全面戒备状态。",
-          "url": "https://flash.jin10.com/detail/20260610025206405800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
-        },
-        {
-          "title": "美军空袭伊朗防空系统，特朗普下令报复“阿帕奇”被击落：回应必须非常强硬",
-          "url": "https://flash.jin10.com/detail/20260610065218869800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "特朗普称对伊朗进行打击“非常重要” | 环球市场",
-          "url": "https://www.cls.cn/detail/2395421",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "据ABC新闻报道，特朗普在接受该媒体采访时表示：“美国对伊朗做出回应非常重要。他们击落了一架直升机，我们正在予以回应。这是对他们昨晚对我们直升机所做之事的回应，我相信回应应该会非常强硬、非常有力。”",
-          "url": "https://flash.jin10.com/detail/20260610053201143800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "据美联社预测：特朗普支持的马蒂·奥唐奈赢得内华达州第三国会选区共和党众议员提名。",
-          "url": "https://flash.jin10.com/detail/20260610115257372800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "据福克斯新闻：美国众议院议长约翰逊表示，他在白宫战情室与特朗普及高层官员进行了会面，随后美国军队发起了被描述为自卫的打击伊朗行动。 约翰逊也称此次行动“比例适当且有限”，目标是雷达、导弹和指挥控制设施。",
-          "url": "https://flash.jin10.com/detail/20260610062852689800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "伊朗外长疑似回应特朗普 警告外国军事力量远离伊朗",
-          "url": "https://flash.jin10.com/detail/20260610021903833800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
-        },
-        {
-          "title": "特朗普称对伊朗进行打击“非常重要”",
-          "url": "https://flash.jin10.com/detail/20260610055938102800",
-          "source": "金十数据",
-          "ranks": [
-            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -895,6 +973,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "早已提前看穿黄金暴跌剧本，3940目标价格不是梦！如何把握黄金送钱行情？金十研究员Steven正在直播，立即观看>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260610200601935800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         }
       ]
     }
