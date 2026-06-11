@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T13:59:23.678490+08:00",
-  "total_titles_processed": 341,
+  "generated_at": "2026-06-11T18:56:35.248405+08:00",
+  "total_titles_processed": 438,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "【早报】美军空袭伊朗；黄金、白银继续大跌",
@@ -48,7 +48,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -81,7 +81,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -114,7 +114,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -136,7 +136,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -150,6 +150,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时24分 ~ 13时59分]"
+        },
+        {
+          "title": "美军：已完成对伊朗的新一轮打击",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1173895.html",
+          "source": "联合早报",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 18时56分]"
+        },
+        {
+          "title": "伊朗革命卫队称“击中并摧毁”18个美军重要目标",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1173892.html",
+          "source": "联合早报",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 18时56分]"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗阿巴斯港机场和空军基地附近传出数次爆炸声。",
@@ -240,17 +264,6 @@
           "time_info": "08时24分"
         },
         {
-          "title": "美军：已完成对伊朗的新一轮打击",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1173895.html",
-          "source": "联合早报",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：格什姆岛和亨加姆岛的爆炸是由军事性质的炮弹击中造成的。",
           "url": "https://flash.jin10.com/detail/20260611054734879800",
           "source": "金十数据",
@@ -271,17 +284,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
-        },
-        {
-          "title": "伊朗革命卫队称“击中并摧毁”18个美军重要目标",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1173892.html",
-          "source": "联合早报",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时59分"
         },
         {
           "title": "外媒：以色列对伊朗发动打击",
@@ -348,6 +350,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "伊朗战争影响海湾地区供应 美国跃升印度最大天然气供应商",
+          "url": "https://flash.jin10.com/detail/20260611180732066800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "美媒：伊朗和美国官员通过卡塔尔渠道继续谈判",
@@ -430,7 +443,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普威胁打击伊朗电厂、桥梁，油价应声攀升，俄外交部：袭击民用设施“绝对不可接受”",
@@ -439,11 +452,12 @@
           "ranks": [
             7,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 13时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 18时56分]"
         },
         {
           "title": "特朗普称美“秘密”帮助200多艘商船通过霍尔木兹",
@@ -474,7 +488,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -512,6 +526,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时42分 ~ 06时12分]"
+        },
+        {
+          "title": "美国消费者价格指数飙至三年新高 特朗普：我喜欢通胀",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1173894.html",
+          "source": "联合早报",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 18时56分]"
         },
         {
           "title": "美国总统特朗普：我们每晚都在获取数百万桶石油。",
@@ -580,17 +606,6 @@
           "time_info": "00时41分"
         },
         {
-          "title": "美国消费者价格指数飙至三年新高 特朗普：我喜欢通胀",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1173894.html",
-          "source": "联合早报",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
           "title": "美国总统特朗普：（关于世界杯和签证）我们正在努力确保合适的人能够入境。",
           "url": "https://flash.jin10.com/detail/20260611000320342800",
           "source": "金十数据",
@@ -641,7 +656,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -655,6 +670,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "美墨加自由贸易协定将到期 特朗普：美国或不会续签",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1173912.html",
+          "source": "联合早报",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "美国总统特朗普称赞美国联邦住房金融局局长普尔特在房利美和房地美的工作表现。",
@@ -762,6 +788,18 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
+          "url": "https://wallstreetcn.com/articles/3774300",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时24分 ~ 18时56分]"
+        },
+        {
           "title": "热门中概股美股盘前跌多涨少，阿里巴巴跌超2%",
           "url": "https://www.36kr.com/newsflashes/3847348021777673",
           "source": "36氪",
@@ -784,18 +822,6 @@
           "time_info": "[00时41分 ~ 06时12分]"
         },
         {
-          "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
-          "url": "https://wallstreetcn.com/articles/3774300",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时24分 ~ 13时59分]"
-        },
-        {
           "title": "美股收盘：避险情绪升温芯片板块再现抛售潮 道指纳指跌近2%",
           "url": "https://www.cls.cn/detail/2396570",
           "source": "财联社热门",
@@ -809,6 +835,17 @@
           "time_info": "[06时12分 ~ 13时59分]"
         },
         {
+          "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
+          "url": "https://wallstreetcn.com/articles/3774357",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 18时56分]"
+        },
+        {
           "title": "美国通胀创三年新高，美股低开，科技股普跌，光通信股反弹，油价攀升",
           "url": "https://wallstreetcn.com/articles/3774300",
           "source": "华尔街见闻",
@@ -818,17 +855,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时41分 ~ 03时42分]"
-        },
-        {
-          "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
-          "url": "https://wallstreetcn.com/articles/3774357",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时59分"
         },
         {
           "title": "美股异动｜甲骨文盘后跌近8%，季度资本支出高于预期",
@@ -863,11 +889,12 @@
           "url": "https://www.cls.cn/detail/2396831",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 18时56分]"
         },
         {
           "title": "奥特曼称OpenAI预计一年内上市",
@@ -887,7 +914,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         }
@@ -930,11 +957,12 @@
           "url": "https://www.zaochenbao.com/news/politics/202606/1173893.html",
           "source": "联合早报",
           "ranks": [
-            13
+            13,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 18时56分]"
         }
       ]
     }
