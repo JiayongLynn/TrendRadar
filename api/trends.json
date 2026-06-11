@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-06-12T02:23:17.056202+08:00",
-  "total_titles_processed": 113,
+  "generated_at": "2026-06-12T05:28:03.512477+08:00",
+  "total_titles_processed": 138,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
+          "url": "https://wallstreetcn.com/articles/3774439",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 05时28分]"
+        },
+        {
+          "title": "分析：特朗普军事打击伊朗策略存在漏洞",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1173952.html",
+          "source": "联合早报",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 05时28分]"
+        },
         {
           "title": "据以色列第12频道：以色列方面对特朗普发布的帖文感到意外。以色列总理内塔尼亚胡是在内阁会议期间获悉这一消息的。",
           "url": "https://flash.jin10.com/detail/20260612021200533800",
@@ -22,17 +45,6 @@
           "title": "据《今日以色列》：伊朗方面回应特朗普称，“他已经38次声称协议已经达成。他的话应当像他过去的谎言一样被对待。”",
           "url": "https://flash.jin10.com/detail/20260612020605909800",
           "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
-          "url": "https://wallstreetcn.com/articles/3774439",
-          "source": "华尔街见闻",
           "ranks": [
             3
           ],
@@ -63,26 +75,115 @@
           "time_info": "02时23分"
         },
         {
-          "title": "分析：特朗普军事打击伊朗策略存在漏洞",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1173952.html",
-          "source": "联合早报",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
           "title": "不断强调“接近协议”，如今又开启“强硬打击”，特朗普能打破美伊“不战不和”僵局吗？",
           "url": "https://wallstreetcn.com/articles/3774371",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 05时28分]"
+        },
+        {
+          "title": "特朗普对华政策转向：视中国为平等的超级大国",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1173943.html",
+          "source": "联合早报",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 05时28分]"
+        },
+        {
+          "title": "特朗普称伊朗各方均已批准美伊协议",
+          "url": "https://flash.jin10.com/detail/20260612042328842800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 05时28分]"
+        },
+        {
+          "title": "特朗普拒设协议截止日期：设了你们又会说我没按期完成",
+          "url": "https://flash.jin10.com/detail/20260612042246303800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 05时28分]"
+        },
+        {
+          "title": "金十提示：美国总统特朗普结束白宫讲话。",
+          "url": "https://flash.jin10.com/detail/20260612042139765800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 05时28分]"
+        },
+        {
+          "title": "美国总统特朗普：考虑对肥料市场提供某种形式的帮助。",
+          "url": "https://flash.jin10.com/detail/20260612041838711800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 05时28分]"
+        },
+        {
+          "title": "以色列：特朗普承诺伊朗将限制导弹生产及停止地区支持",
+          "url": "https://flash.jin10.com/detail/20260612041456892800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 05时28分]"
+        },
+        {
+          "title": "美国总统特朗普：普尔特将短暂担任国家情报总监。",
+          "url": "https://flash.jin10.com/detail/20260612041158684800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 05时28分]"
+        },
+        {
+          "title": "美国总统特朗普：我们在这场对抗伊朗的战争中取得了军事胜利。",
+          "url": "https://flash.jin10.com/detail/20260612040934547800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 05时28分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗人有机会重建他们的国家，伊朗已被严重摧毁。",
+          "url": "https://flash.jin10.com/detail/20260612040929676800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 05时28分]"
         },
         {
           "title": "美国航空公司和邮轮运营商股票在特朗普取消对伊朗的打击后上涨，嘉年华公司上涨6.1%。挪威邮轮公司上涨5.9%，皇家加勒比海邮轮上涨5.3%，美国航空上涨6%，捷蓝航空上涨6.5%，联合航空上涨6.8%，达美航空上涨5.3%。",
@@ -107,17 +208,6 @@
           "time_info": "02时23分"
         },
         {
-          "title": "特朗普对华政策转向：视中国为平等的超级大国",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1173943.html",
-          "source": "联合早报",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
           "title": "特朗普：取消今晚对伊朗打击 将于近期公布协议签署时间和地点",
           "url": "https://flash.jin10.com/detail/20260612013533536800",
           "source": "金十数据",
@@ -131,24 +221,208 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "伊朗外交部：尚未就伊美协议达成最终结论",
+          "url": "https://flash.jin10.com/detail/20260612045546518800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 05时28分]"
+        },
+        {
+          "title": "伊朗外交部发言人：一旦我们达成结论，认为谅解备忘录的文本能够保障伊朗人民的利益，我们就会予以公布。",
+          "url": "https://flash.jin10.com/detail/20260612045132675800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 05时28分]"
+        },
+        {
+          "title": "伊朗外交部：海峡目前仍然关闭",
+          "url": "https://flash.jin10.com/detail/20260612044814664800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 05时28分]"
+        },
+        {
+          "title": "世界银行警告：伊朗战争冲击下 全球经济增速将降至疫情以来最低水平",
+          "url": "https://www.cls.cn/detail/2397642",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 05时28分]"
+        },
+        {
+          "title": "美军直升机被击落后，美国再次对伊朗发动打击",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1173945.html",
+          "source": "联合早报",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 05时28分]"
+        },
+        {
+          "title": "欧美等22国发联合声明 谴责伊朗雇犯罪集团在多国刺杀绑架异议者",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1173942.html",
+          "source": "联合早报",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 05时28分]"
+        },
+        {
+          "title": "美国发动新一轮攻势 伊朗外交部强烈谴责",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1173940.html",
+          "source": "联合早报",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 05时28分]"
+        },
+        {
+          "title": "约旦：击落20枚伊朗导弹",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1173939.html",
+          "source": "联合早报",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 05时28分]"
+        },
+        {
+          "title": "伊朗外交部发言人：如果伊朗打算在压力和威胁下放弃其原则立场，那我们在一年前就会这么做了。",
+          "url": "https://flash.jin10.com/detail/20260612043923940800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 05时28分]"
+        },
+        {
+          "title": "伊朗外交部发言人：有关协议的事宜均为猜测，尚未达成任何最终决定。",
+          "url": "https://flash.jin10.com/detail/20260612043835445800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 05时28分]"
+        },
+        {
+          "title": "伊朗外交部发言人：由于美国的行动，霍尔木兹海峡的局势变得不那么安全。",
+          "url": "https://flash.jin10.com/detail/20260612043722328800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 05时28分]"
+        },
+        {
+          "title": "伊朗外交部发言人：伊朗尚未就协议作出最终决定。",
+          "url": "https://flash.jin10.com/detail/20260612043654563800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 05时28分]"
+        },
+        {
+          "title": "伊朗外交部发言人： 谈判的形势从一开始对我们就是明确的，大部分文本已经敲定，但美国人不断改变自己的立场。 伊朗已经证明，在划定的红线问题上绝不容忍迁就。",
+          "url": "https://flash.jin10.com/detail/20260612042915962800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 05时28分]"
+        },
+        {
+          "title": "伊朗外交部发言人：卡塔尔和巴基斯坦作为调解方正在积极行动，但美国的行为影响了外交进程。",
+          "url": "https://flash.jin10.com/detail/20260612042811638800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 05时28分]"
+        },
+        {
+          "title": "据沙特阿拉比亚电视台报道，消息人士称，根据美国与伊朗之间的框架协议草案，各方将承诺立即停止进攻性军事行动。协议规定，在实施期间不得进行军事打击。违规行为应通过调解人协调机制解决。",
+          "url": "https://flash.jin10.com/detail/20260612041624500800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 05时28分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 7,
       "titles": [
         {
-          "title": "热门中概股美股盘前普跌，阿里巴巴跌超3%",
-          "url": "https://www.36kr.com/newsflashes/3848777761444869",
-          "source": "36氪",
+          "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
+          "url": "https://wallstreetcn.com/articles/3774300",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 05时28分]"
         },
         {
-          "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
-          "url": "https://wallstreetcn.com/articles/3774300",
+          "title": "特朗普威胁发动新袭击，美股高开，甲骨文跌12%，英特尔涨10%，油价走低，黄金重回4080美元",
+          "url": "https://wallstreetcn.com/articles/3774389",
           "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 05时28分]"
+        },
+        {
+          "title": "热门中概股美股盘前普跌，阿里巴巴跌超3%",
+          "url": "https://www.36kr.com/newsflashes/3848777761444869",
+          "source": "36氪",
           "ranks": [
             1
           ],
@@ -168,17 +442,6 @@
           "time_info": "02时23分"
         },
         {
-          "title": "特朗普威胁发动新袭击，美股高开，甲骨文跌12%，英特尔涨10%，油价走低，黄金重回4080美元",
-          "url": "https://wallstreetcn.com/articles/3774389",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
           "title": "美股异动｜台积电涨超2%，3纳米代工价或上调15%，产能拉满仍供不应求",
           "url": "https://www.gelonghui.com/news/5250668",
           "source": "格隆汇",
@@ -186,8 +449,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 05时28分]"
         },
         {
           "title": "特朗普威胁“猛烈打击”伊朗 美股、原油市场反应温和 | 今夜看点",
@@ -197,8 +460,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 05时28分]"
         },
         {
           "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
@@ -206,67 +469,6 @@
           "source": "华尔街见闻",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美军直升机被击落后，美国再次对伊朗发动打击",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1173945.html",
-          "source": "联合早报",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "世界银行警告：伊朗战争冲击下 全球经济增速将降至疫情以来最低水平",
-          "url": "https://www.cls.cn/detail/2397642",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "欧美等22国发联合声明 谴责伊朗雇犯罪集团在多国刺杀绑架异议者",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1173942.html",
-          "source": "联合早报",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "美国发动新一轮攻势 伊朗外交部强烈谴责",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1173940.html",
-          "source": "联合早报",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "约旦：击落20枚伊朗导弹",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1173939.html",
-          "source": "联合早报",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -283,11 +485,12 @@
           "url": "https://wallstreetcn.com/articles/3774400",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 05时28分]"
         }
       ]
     },
