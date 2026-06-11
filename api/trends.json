@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T05:28:03.512477+08:00",
-  "total_titles_processed": 138,
+  "generated_at": "2026-06-12T07:45:50.168191+08:00",
+  "total_titles_processed": 178,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
         {
           "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 05时28分]"
+          "appearance_count": 4,
+          "time_info": "[02时23分 ~ 07时45分]"
         },
         {
           "title": "分析：特朗普军事打击伊朗策略存在漏洞",
@@ -27,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 05时28分]"
+          "appearance_count": 4,
+          "time_info": "[02时23分 ~ 07时45分]"
         },
         {
           "title": "据以色列第12频道：以色列方面对特朗普发布的帖文感到意外。以色列总理内塔尼亚胡是在内阁会议期间获悉这一消息的。",
@@ -42,6 +43,30 @@
           "time_info": "02时23分"
         },
         {
+          "title": "特朗普欲“抹除”两次弹劾记录 专家指此程序仅有象征意义",
+          "url": "https://flash.jin10.com/detail/20260612070859759800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "不断强调“接近协议”，如今又开启“强硬打击”，特朗普能打破美伊“不战不和”僵局吗？",
+          "url": "https://wallstreetcn.com/articles/3774371",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时23分 ~ 07时45分]"
+        },
+        {
           "title": "据《今日以色列》：伊朗方面回应特朗普称，“他已经38次声称协议已经达成。他的话应当像他过去的谎言一样被对待。”",
           "url": "https://flash.jin10.com/detail/20260612020605909800",
           "source": "金十数据",
@@ -51,6 +76,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "据华尔街日报：特朗普与盟友正制定计划以“抹除”弹劾记录。",
+          "url": "https://flash.jin10.com/detail/20260612070155257800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         },
         {
           "title": "美国总统特朗普：提名Jay Clayton为下一任国家情报局局长。",
@@ -75,18 +111,6 @@
           "time_info": "02时23分"
         },
         {
-          "title": "不断强调“接近协议”，如今又开启“强硬打击”，特朗普能打破美伊“不战不和”僵局吗？",
-          "url": "https://wallstreetcn.com/articles/3774371",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 05时28分]"
-        },
-        {
           "title": "特朗普对华政策转向：视中国为平等的超级大国",
           "url": "https://www.zaochenbao.com/news/politics/202606/1173943.html",
           "source": "联合早报",
@@ -94,8 +118,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 05时28分]"
+          "appearance_count": 4,
+          "time_info": "[02时23分 ~ 07时45分]"
         },
         {
           "title": "特朗普称伊朗各方均已批准美伊协议",
@@ -186,6 +210,17 @@
           "time_info": "[05时27分 ~ 05时28分]"
         },
         {
+          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
+          "url": "https://wallstreetcn.com/articles/3774457",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
           "title": "美国航空公司和邮轮运营商股票在特朗普取消对伊朗的打击后上涨，嘉年华公司上涨6.1%。挪威邮轮公司上涨5.9%，皇家加勒比海邮轮上涨5.3%，美国航空上涨6%，捷蓝航空上涨6.5%，联合航空上涨6.8%，达美航空上涨5.3%。",
           "url": "https://flash.jin10.com/detail/20260612015041369800",
           "source": "金十数据",
@@ -197,6 +232,17 @@
           "time_info": "02时23分"
         },
         {
+          "title": "【早报】特朗普取消打击伊朗；黄金、白银大涨；世界杯开幕，墨西哥2比0战胜南非",
+          "url": "https://www.cls.cn/detail/2397775",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
           "title": "据纽约时报记者：特朗普总统刚刚告知我，与伊朗达成的协议已“基本上大功告成”。",
           "url": "https://flash.jin10.com/detail/20260612014906214800",
           "source": "金十数据",
@@ -206,6 +252,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "特朗普叫停对伊朗打击！称“未来几天”签和平协议，伊朗回应：还没结论！",
+          "url": "https://flash.jin10.com/detail/20260612064649190800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "金十提示：美国总统特朗普将此前取消打击伊朗的帖子置顶。",
+          "url": "https://flash.jin10.com/detail/20260612064451567800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         },
         {
           "title": "特朗普：取消今晚对伊朗打击 将于近期公布协议签署时间和地点",
@@ -222,7 +290,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 22,
       "titles": [
         {
           "title": "伊朗外交部：尚未就伊美协议达成最终结论",
@@ -263,11 +331,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 05时28分]"
+          "appearance_count": 4,
+          "time_info": "[02时23分 ~ 07时45分]"
         },
         {
           "title": "美军直升机被击落后，美国再次对伊朗发动打击",
@@ -277,8 +346,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 05时28分]"
+          "appearance_count": 4,
+          "time_info": "[02时23分 ~ 07时45分]"
         },
         {
           "title": "欧美等22国发联合声明 谴责伊朗雇犯罪集团在多国刺杀绑架异议者",
@@ -288,8 +357,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 05时28分]"
+          "appearance_count": 4,
+          "time_info": "[02时23分 ~ 07时45分]"
         },
         {
           "title": "美国发动新一轮攻势 伊朗外交部强烈谴责",
@@ -299,8 +368,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 05时28分]"
+          "appearance_count": 4,
+          "time_info": "[02时23分 ~ 07时45分]"
         },
         {
           "title": "约旦：击落20枚伊朗导弹",
@@ -310,8 +379,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 05时28分]"
+          "appearance_count": 4,
+          "time_info": "[02时23分 ~ 07时45分]"
         },
         {
           "title": "伊朗外交部发言人：如果伊朗打算在压力和威胁下放弃其原则立场，那我们在一年前就会这么做了。",
@@ -389,12 +458,89 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 05时28分]"
+        },
+        {
+          "title": "伊朗革命卫队：我们将继续监视霍尔木兹海峡，并将对任何试图通过的船只采取严厉措施。",
+          "url": "https://flash.jin10.com/detail/20260612065400194800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "据伊朗媒体：伊朗军方消息人士称，违规船只为一艘油轮，在伊朗革命卫队海军发出警告后，被迫遵守霍尔木兹海峡的“航行禁令”。",
+          "url": "https://flash.jin10.com/detail/20260612065131632800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "据伊朗媒体：军方消息人士称，锡里克地区的爆炸声与对抗试图通过霍尔木兹海峡的“违规船只”有关。",
+          "url": "https://flash.jin10.com/detail/20260612064850285800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "伊朗媒体：已故最高领袖葬礼推迟举行",
+          "url": "https://flash.jin10.com/detail/20260612063056623800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：伊朗部队阻止一艘未经协调的“违规油轮”进入霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260612060451925800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "据伊朗媒体：伊朗阿巴斯港传出两次爆炸声，来源不明。",
+          "url": "https://flash.jin10.com/detail/20260612055615032800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：截至目前，锡里克地区未发生任何炮弹击中事件或冲突。听到的声音来自海上，与霍尔木兹海峡有关。",
+          "url": "https://flash.jin10.com/detail/20260612054908025800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
@@ -431,6 +577,17 @@
           "time_info": "02时23分"
         },
         {
+          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
+          "url": "https://wallstreetcn.com/articles/3774389",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
           "title": "美股大型科技股盘前多数上涨，英特尔涨超4%",
           "url": "https://www.36kr.com/newsflashes/3848776149095428",
           "source": "36氪",
@@ -442,26 +599,50 @@
           "time_info": "02时23分"
         },
         {
+          "title": "美股收盘：美伊局势反转纳指升超2.5% 芯片股强反弹费城指数涨8%",
+          "url": "https://www.cls.cn/detail/2397755",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
           "title": "美股异动｜台积电涨超2%，3纳米代工价或上调15%，产能拉满仍供不应求",
           "url": "https://www.gelonghui.com/news/5250668",
           "source": "格隆汇",
           "ranks": [
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 05时28分]"
+          "appearance_count": 4,
+          "time_info": "[02时23分 ~ 07时45分]"
         },
         {
           "title": "特朗普威胁“猛烈打击”伊朗 美股、原油市场反应温和 | 今夜看点",
           "url": "https://www.cls.cn/detail/2397555",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 05时28分]"
+          "appearance_count": 4,
+          "time_info": "[02时23分 ~ 07时45分]"
+        },
+        {
+          "title": "美股大反攻！纳指涨2.54%，芯片股集体大涨，闪迪涨超14%，美光科技、ARM涨超11%",
+          "url": "https://www.gelonghui.com/news/5250709",
+          "source": "格隆汇",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         },
         {
           "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
@@ -486,11 +667,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 05时28分]"
+          "appearance_count": 4,
+          "time_info": "[02时23分 ~ 07时45分]"
         }
       ]
     },
