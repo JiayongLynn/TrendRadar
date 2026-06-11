@@ -1,949 +1,139 @@
 {
-  "generated_at": "2026-06-11T22:48:46.439367+08:00",
-  "total_titles_processed": 527,
+  "generated_at": "2026-06-12T02:23:17.056202+08:00",
+  "total_titles_processed": 113,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 44,
-      "titles": [
-        {
-          "title": "【早报】美军空袭伊朗；黄金、白银继续大跌",
-          "url": "https://www.cls.cn/detail/2396599",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时24分 ~ 13时59分]"
-        },
-        {
-          "title": "伊朗议会要员：战争将不会局限于本地区",
-          "url": "https://flash.jin10.com/detail/20260611033300818800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
-          "title": "据伊朗媒体：为回应美国对伊朗南部的袭击，伊朗军队使用无人机攻击了位于巴林的美国第五舰队。",
-          "url": "https://flash.jin10.com/detail/20260611081224970800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
-        },
-        {
-          "title": "伊朗革命卫队海军：我们警告任何在海湾和阿曼海停泊的船只，若靠近霍尔木兹海峡，将被视为与敌方合作。",
-          "url": "https://flash.jin10.com/detail/20260611134450932800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
-          "title": "美国夜间对伊朗境内多个目标发动新一轮空袭",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1173872.html",
-          "source": "联合早报",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
-        },
-        {
-          "title": "WTI原油周四小幅高开，美军正对伊朗进行打击。",
-          "url": "https://flash.jin10.com/detail/20260611060147877800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "据伊朗学生通讯社：伊朗在美国袭击后打击了美国在巴林的第五舰队 。",
-          "url": "https://flash.jin10.com/detail/20260611134339359800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
-          "title": "遭美国袭击 伊朗宣布关闭霍尔木兹海峡",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1173871.html",
-          "source": "联合早报",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
-        },
-        {
-          "title": "以色列总统：黎巴嫩应摆脱真主党和伊朗影响",
-          "url": "https://flash.jin10.com/detail/20260611001643537800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "“超级挤压”来袭！伊朗战争引爆金属市场，铜铝价格或数年居高不下",
-          "url": "https://flash.jin10.com/detail/20260611134228323800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
-          "title": "据伊朗电视台：伊朗南部布什尔省阿萨卢耶市拦截了一枚巡航导弹。",
-          "url": "https://flash.jin10.com/detail/20260611060019535800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "科威特民航局宣布，因伊朗袭击而暂停的航班已恢复。",
-          "url": "https://flash.jin10.com/detail/20260611133729543800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
-          "title": "美军直升机被击落后，美国再次对伊朗发动打击",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1173945.html",
-          "source": "联合早报",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
-          "title": "伊朗对所有船只关闭霍尔木兹海峡 国际原油价格持续走高 | 环球市场",
-          "url": "https://www.cls.cn/detail/2396606",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时24分 ~ 13时59分]"
-        },
-        {
-          "title": "美军：已完成对伊朗的新一轮打击",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1173895.html",
-          "source": "联合早报",
-          "ranks": [
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 18时56分]"
-        },
-        {
-          "title": "伊朗革命卫队称“击中并摧毁”18个美军重要目标",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1173892.html",
-          "source": "联合早报",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 18时56分]"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗阿巴斯港机场和空军基地附近传出数次爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260611055955640800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "伊朗局势骤然升级，科技股抛售加剧，纳指跌2%，盘后甲骨文跳水9%，黄金暴跌",
-          "url": "https://wallstreetcn.com/articles/3774300",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：伊朗与美国军队在海上发生冲突。",
-          "url": "https://flash.jin10.com/detail/20260611055843418800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "据AXIOS：一位美国官员表示，所有被袭击的目标都在伊朗南部，包括防空系统、雷达以及无人机指挥控制单元。",
-          "url": "https://flash.jin10.com/detail/20260611055354056800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "欧美等22国发联合声明 谴责伊朗雇犯罪集团在多国刺杀绑架异议者",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1173942.html",
-          "source": "联合早报",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
-          "title": "据伊朗Press TV：锡里克地区的一处地点遭到敌方炮弹袭击。",
-          "url": "https://flash.jin10.com/detail/20260611055149349800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：伊朗戈尔甘港传出数次爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260611055002376800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "美国发动新一轮攻势 伊朗外交部强烈谴责",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1173940.html",
-          "source": "联合早报",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
-          "title": "据以色列媒体：以色列防御系统正在为伊朗可能发射导弹的可能性做准备。",
-          "url": "https://flash.jin10.com/detail/20260611054902247800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "伊朗：美国中央司令部在许愿",
-          "url": "https://flash.jin10.com/detail/20260611075252803800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
-        },
-        {
-          "title": "约旦：击落20枚伊朗导弹",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1173939.html",
-          "source": "联合早报",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：格什姆岛和亨加姆岛的爆炸是由军事性质的炮弹击中造成的。",
-          "url": "https://flash.jin10.com/detail/20260611054734879800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "市场消息：伊朗南部布什尔市遭到袭击。",
-          "url": "https://flash.jin10.com/detail/20260611054334888800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "外媒：以色列对伊朗发动打击",
-          "url": "https://flash.jin10.com/detail/20260611054244484800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "据伊朗国家电视台：阿巴斯港传出爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260611054128793800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "美军确认对伊朗进行打击",
-          "url": "https://flash.jin10.com/detail/20260611053756348800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：伊朗阿萨卢耶地区防空系统启动。",
-          "url": "https://flash.jin10.com/detail/20260611053550716800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "据AXIOS：美国官员称，美国对伊朗的打击已经开始。",
-          "url": "https://flash.jin10.com/detail/20260611053510646800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：基什岛和格什姆岛没有发生爆炸，但当地听到的声响与海湾地区的冲突有关。",
-          "url": "https://flash.jin10.com/detail/20260611053422759800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "伊朗战争影响海湾地区供应 美国跃升印度最大天然气供应商",
-          "url": "https://flash.jin10.com/detail/20260611180732066800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
-          "title": "美媒：伊朗和美国官员通过卡塔尔渠道继续谈判",
-          "url": "https://flash.jin10.com/detail/20260611024149883800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
-          "title": "据半岛电视台：以色列目前处于戒备状态，以应对伊朗报复行动带来的战事重燃可能。",
-          "url": "https://flash.jin10.com/detail/20260611053007249800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：伊朗革命卫队已完成第一阶段的导弹和无人机攻势。",
-          "url": "https://flash.jin10.com/detail/20260611074439681800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
-        },
-        {
-          "title": "据AXIOS：一名地区消息人士透露，伊朗与美国官员过去两天在多哈与卡塔尔调停方分别举行了平行会谈。 卡塔尔方面曾尝试安排三方会议，就剩余分歧直接展开谈判，但遭伊朗方面拒绝。",
-          "url": "https://flash.jin10.com/detail/20260611023644540800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：伊朗米纳卜地区传出爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260611052909351800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "美国中央司令部：伊朗声称在霍尔木兹海峡袭击了一艘美国军舰，此为不实信息。",
-          "url": "https://flash.jin10.com/detail/20260611074330973800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：伊朗锡里克地区传出爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260611052436048800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "炸哈尔克岛就能逼伊朗签约？前智库研究员掏出分级施压方案",
-          "url": "https://flash.jin10.com/detail/20260611215015368800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 11,
       "titles": [
         {
-          "title": "特朗普威胁打击伊朗电厂、桥梁，油价应声攀升，俄外交部：袭击民用设施“绝对不可接受”",
-          "url": "https://wallstreetcn.com/articles/3774340",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 18时56分]"
-        },
-        {
-          "title": "加拿大美加贸易事务部长勒布朗：对美国总统特朗普不会在7月1日续签美墨加协定（USMCA）并不感到意外。",
-          "url": "https://flash.jin10.com/detail/20260611221354944800",
+          "title": "据以色列第12频道：以色列方面对特朗普发布的帖文感到意外。以色列总理内塔尼亚胡是在内阁会议期间获悉这一消息的。",
+          "url": "https://flash.jin10.com/detail/20260612021200533800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时48分"
+          "time_info": "02时23分"
         },
         {
-          "title": "特朗普称美“秘密”帮助200多艘商船通过霍尔木兹",
-          "url": "https://flash.jin10.com/detail/20260611032832011800",
+          "title": "据《今日以色列》：伊朗方面回应特朗普称，“他已经38次声称协议已经达成。他的话应当像他过去的谎言一样被对待。”",
+          "url": "https://flash.jin10.com/detail/20260612020605909800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
-          "title": "“我喜欢通胀”！特朗普语出惊人：我们每晚从伊朗运出数百万桶石油",
-          "url": "https://flash.jin10.com/detail/20260611081005478800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
-        },
-        {
-          "title": "美国5月CPI爆了，特朗普语出惊人：我爱通胀！",
-          "url": "https://www.cls.cn/detail/2396641",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时59分"
+          "time_info": "02时23分"
         },
         {
           "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
           "url": "https://wallstreetcn.com/articles/3774439",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时48分"
+          "time_info": "02时23分"
         },
         {
-          "title": "特朗普指伊朗拖延谈判须“付出代价” 考虑发动新袭击",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1173869.html",
-          "source": "联合早报",
+          "title": "美国总统特朗普：提名Jay Clayton为下一任国家情报局局长。",
+          "url": "https://flash.jin10.com/detail/20260612020357172800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时24分"
+          "time_info": "02时23分"
         },
         {
-          "title": "伊朗回应特朗普威胁：将更强烈反击美方",
-          "url": "https://flash.jin10.com/detail/20260611220945573800",
+          "title": "特朗普称协议接近完成，遭以伊双方降温",
+          "url": "https://flash.jin10.com/detail/20260612020327867800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时48分"
+          "time_info": "02时23分"
         },
         {
-          "title": "特朗普：伊朗在谈判中拖太久 必须付出代价",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1073857.html",
+          "title": "分析：特朗普军事打击伊朗策略存在漏洞",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1173952.html",
           "source": "联合早报",
           "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 08时24分]"
-        },
-        {
-          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
-          "url": "https://wallstreetcn.com/articles/3774257",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 06时12分]"
-        },
-        {
-          "title": "美国消费者价格指数飙至三年新高 特朗普：我喜欢通胀",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1173894.html",
-          "source": "联合早报",
-          "ranks": [
-            12,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 18时56分]"
-        },
-        {
-          "title": "美国总统特朗普：我们每晚都在获取数百万桶石油。",
-          "url": "https://flash.jin10.com/detail/20260611000943209800",
-          "source": "金十数据",
-          "ranks": [
-            7
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "特朗普对华政策转向：视中国为平等的超级大国",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1173943.html",
-          "source": "联合早报",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
-          "title": "特朗普签署了一项规模700亿美元的法案，为美国移民与海关执法局（ICE）及边境巡逻队提供资金。",
-          "url": "https://flash.jin10.com/detail/20260611000913401800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "美国总统特朗普：（关于伊朗）我们已经获取了数百万桶石油。",
-          "url": "https://flash.jin10.com/detail/20260611000813070800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "02时23分"
         },
         {
           "title": "不断强调“接近协议”，如今又开启“强硬打击”，特朗普能打破美伊“不战不和”僵局吗？",
           "url": "https://wallstreetcn.com/articles/3774371",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时48分"
+          "time_info": "02时23分"
         },
         {
-          "title": "美国总统特朗普：伊朗的情况看起来不像委内瑞拉行动那样顺利。",
-          "url": "https://flash.jin10.com/detail/20260611000708885800",
+          "title": "美国航空公司和邮轮运营商股票在特朗普取消对伊朗的打击后上涨，嘉年华公司上涨6.1%。挪威邮轮公司上涨5.9%，皇家加勒比海邮轮上涨5.3%，美国航空上涨6%，捷蓝航空上涨6.5%，联合航空上涨6.8%，达美航空上涨5.3%。",
+          "url": "https://flash.jin10.com/detail/20260612015041369800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "据纽约时报记者：特朗普总统刚刚告知我，与伊朗达成的协议已“基本上大功告成”。",
+          "url": "https://flash.jin10.com/detail/20260612014906214800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "02时23分"
         },
         {
-          "title": "据NBC新闻：美国总统特朗普本周料将会见国防工业主管，敦促防务企业提高产量。",
-          "url": "https://flash.jin10.com/detail/20260611030404550800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
-          "title": "美国总统特朗普：我们击沉了22艘伊朗船只。",
-          "url": "https://flash.jin10.com/detail/20260611000412580800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "美国总统特朗普：（关于世界杯和签证）我们正在努力确保合适的人能够入境。",
-          "url": "https://flash.jin10.com/detail/20260611000320342800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "据Politico：特朗普将不会出席美国“世界杯”揭幕赛。",
-          "url": "https://flash.jin10.com/detail/20260611054524776800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "特朗普重申房利美和房地美的估值可能达到1万亿美元。",
-          "url": "https://flash.jin10.com/detail/20260611000058747800",
-          "source": "金十数据",
+          "title": "特朗普对华政策转向：视中国为平等的超级大国",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1173943.html",
+          "source": "联合早报",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "02时23分"
         },
         {
-          "title": "美国总统特朗普：（关于国家情报总监提名）我们正在面试五位候选人。",
-          "url": "https://flash.jin10.com/detail/20260611000022410800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "特朗普：伊朗人要求我停止 轰炸很快就会停止",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1173890.html",
-          "source": "联合早报",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
-          "title": "美国总统特朗普：（关于房利美，房地美）有权出售它。",
-          "url": "https://flash.jin10.com/detail/20260611000015571800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "美墨加自由贸易协定将到期 特朗普：美国或不会续签",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1173912.html",
-          "source": "联合早报",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
-          "title": "美国总统特朗普称赞美国联邦住房金融局局长普尔特在房利美和房地美的工作表现。",
-          "url": "https://flash.jin10.com/detail/20260610235953398800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "美国总统特朗普：（关于美墨加协定）我们在与他们沟通，将拭目以待。",
-          "url": "https://flash.jin10.com/detail/20260610235945857800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "特朗普：美国将恢复对伊朗的\"猛烈\"打击 伊朗要做的就是开始签署协议",
-          "url": "https://flash.jin10.com/detail/20260610235940180800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "美国总统特朗普：美国不需要墨西哥或加拿大的任何东西。墨西哥和加拿大必须更好地对待我们。",
-          "url": "https://flash.jin10.com/detail/20260610235841897800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "美国总统特朗普：（关于美墨加协定）不打算续签。",
-          "url": "https://flash.jin10.com/detail/20260610235636632800",
+          "title": "特朗普：取消今晚对伊朗打击 将于近期公布协议签署时间和地点",
+          "url": "https://flash.jin10.com/detail/20260612013533536800",
           "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "特朗普政府声明称，甲骨文(ORCL.N)获得了美国政府合同，将为政府提供人力资源软件。",
-          "url": "https://flash.jin10.com/detail/20260611023557060800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
-          "title": "美国总统特朗普赞扬了土耳其总统埃尔多安。",
-          "url": "https://flash.jin10.com/detail/20260610235631744800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "美国总统特朗普：将与人工智能领域领袖讨论回馈社会问题。我认为这些公司的负责人会回馈公众。公众将因人工智能行动而变得非常富有。",
-          "url": "https://flash.jin10.com/detail/20260610235615102800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "美国总统特朗普：很快将与12位顶级人工智能公司高管举行会议。",
-          "url": "https://flash.jin10.com/detail/20260610235531014800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "02时23分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
-          "url": "https://wallstreetcn.com/articles/3774300",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时24分 ~ 22时48分]"
-        },
-        {
-          "title": "热门中概股美股盘前跌多涨少，阿里巴巴跌超2%",
-          "url": "https://www.36kr.com/newsflashes/3847348021777673",
-          "source": "36氪",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 06时12分]"
-        },
-        {
-          "title": "美股大型科技股盘前多数下跌，英伟达跌超1%",
-          "url": "https://www.36kr.com/newsflashes/3847346608461060",
-          "source": "36氪",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 06时12分]"
-        },
-        {
-          "title": "美股收盘：避险情绪升温芯片板块再现抛售潮 道指纳指跌近2%",
-          "url": "https://www.cls.cn/detail/2396570",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时12分 ~ 13时59分]"
-        },
         {
           "title": "热门中概股美股盘前普跌，阿里巴巴跌超3%",
           "url": "https://www.36kr.com/newsflashes/3848777761444869",
@@ -951,20 +141,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时48分"
+          "time_info": "02时23分"
         },
         {
-          "title": "美股异动｜台积电涨超2%，3纳米代工价或上调15%，产能拉满仍供不应求",
-          "url": "https://www.gelonghui.com/news/5250668",
-          "source": "格隆汇",
+          "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
+          "url": "https://wallstreetcn.com/articles/3774300",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时48分"
+          "time_info": "02时23分"
         },
         {
           "title": "美股大型科技股盘前多数上涨，英特尔涨超4%",
@@ -973,206 +163,148 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时48分"
+          "time_info": "02时23分"
         },
         {
-          "title": "交火暂歇，特朗普威胁发动新袭击，美股高开，油价走低，黄金重回4080美元",
+          "title": "特朗普威胁发动新袭击，美股高开，甲骨文跌12%，英特尔涨10%，油价走低，黄金重回4080美元",
           "url": "https://wallstreetcn.com/articles/3774389",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时48分"
+          "time_info": "02时23分"
         },
         {
-          "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
-          "url": "https://wallstreetcn.com/articles/3774357",
-          "source": "华尔街见闻",
+          "title": "美股异动｜台积电涨超2%，3纳米代工价或上调15%，产能拉满仍供不应求",
+          "url": "https://www.gelonghui.com/news/5250668",
+          "source": "格隆汇",
           "ranks": [
-            7,
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时59分 ~ 22时48分]"
-        },
-        {
-          "title": "美国通胀创三年新高，美股低开，科技股普跌，光通信股反弹，油价攀升",
-          "url": "https://wallstreetcn.com/articles/3774300",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 03时42分]"
+          "appearance_count": 1,
+          "time_info": "02时23分"
         },
         {
           "title": "特朗普威胁“猛烈打击”伊朗 美股、原油市场反应温和 | 今夜看点",
           "url": "https://www.cls.cn/detail/2397555",
           "source": "财联社热门",
           "ranks": [
-            6
+            8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时48分"
+          "time_info": "02时23分"
         },
         {
-          "title": "美股异动｜甲骨文盘后跌近8%，季度资本支出高于预期",
-          "url": "https://www.gelonghui.com/news/5249901",
-          "source": "格隆汇",
+          "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
+          "url": "https://wallstreetcn.com/articles/3774357",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时24分"
-        },
-        {
-          "title": "美股大跌！纳指跌近2%，道指下挫逾950点，高通跌超6%，超微电脑跌28%",
-          "url": "https://www.gelonghui.com/news/5249900",
-          "source": "格隆汇",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
-        },
-        {
-          "title": "美股高开高走，纳斯达克100指数涨幅扩大至1.5%。道指现涨0.9%，标普500指数涨0.8%。光伏板块涨逾7%，3倍做多韩国ETF(KORU.N)涨17.4%。",
-          "url": "https://flash.jin10.com/detail/20260611215623778800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
-          "title": "金十图示：2026年06月11日（周四）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260611214905160800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
+          "time_info": "02时23分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "keyword_group": "伊朗",
+      "match_count": 5,
       "titles": [
         {
-          "title": "“Token价格战”烧到美国？OpenAI被曝考虑大幅降价",
-          "url": "https://www.cls.cn/detail/2396831",
+          "title": "美军直升机被击落后，美国再次对伊朗发动打击",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1173945.html",
+          "source": "联合早报",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "世界银行警告：伊朗战争冲击下 全球经济增速将降至疫情以来最低水平",
+          "url": "https://www.cls.cn/detail/2397642",
           "source": "财联社热门",
           "ranks": [
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 18时56分]"
-        },
-        {
-          "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
-          "url": "https://wallstreetcn.com/articles/3774400",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
-          "title": "奥特曼称OpenAI预计一年内上市",
-          "url": "https://www.36kr.com/newsflashes/3848001589957895",
-          "source": "36氪",
-          "ranks": [
-            11
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时24分"
+          "time_info": "02时23分"
         },
         {
-          "title": "OpenAI称中国关联账户试图煽动美国反数据中心情绪",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1173884.html",
+          "title": "欧美等22国发联合声明 谴责伊朗雇犯罪集团在多国刺杀绑架异议者",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1173942.html",
+          "source": "联合早报",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "美国发动新一轮攻势 伊朗外交部强烈谴责",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1173940.html",
+          "source": "联合早报",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "约旦：击落20枚伊朗导弹",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1173939.html",
           "source": "联合早报",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时59分"
+          "time_info": "02时23分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌推出DiffusionGemma开源模型",
-          "url": "https://www.36kr.com/newsflashes/3848013541659905",
-          "source": "36氪",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：推出DiffusionGemma。",
-          "url": "https://flash.jin10.com/detail/20260611000644965800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "由于谷歌方面的担忧，Crusoe在怀俄明州人工智能项目中被边缘化。谷歌正与剩余合作伙伴商谈使用怀俄明州数据中心事宜。",
-          "url": "https://flash.jin10.com/detail/20260611220222334800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "美伊新一轮袭击致国际油价大涨 金价大跌",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1173893.html",
-          "source": "联合早报",
+          "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
+          "url": "https://wallstreetcn.com/articles/3774400",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            24
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 18时56分]"
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美债收益率在特朗普取消对伊朗的打击后下跌，美国10年期国债收益率日内下跌4.7个基点，报4.493%，美国2年期国债收益率日内下跌2.7个基点，报4.1%。",
+          "url": "https://flash.jin10.com/detail/20260612013749573800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         }
       ]
     }
