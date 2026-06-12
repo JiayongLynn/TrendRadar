@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T07:45:50.168191+08:00",
-  "total_titles_processed": 178,
+  "generated_at": "2026-06-12T12:51:12.903222+08:00",
+  "total_titles_processed": 260,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时23分 ~ 07时45分]"
+          "appearance_count": 5,
+          "time_info": "[02时23分 ~ 12时51分]"
         },
         {
           "title": "分析：特朗普军事打击伊朗策略存在漏洞",
@@ -49,7 +49,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -84,7 +84,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -100,6 +100,17 @@
           "time_info": "02时23分"
         },
         {
+          "title": "美伊局势再陷“迷雾”：特朗普称有望周末签署协议，伊朗“光速否认”！",
+          "url": "https://www.cls.cn/detail/2397803",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
           "title": "特朗普称协议接近完成，遭以伊双方降温",
           "url": "https://flash.jin10.com/detail/20260612020327867800",
           "source": "金十数据",
@@ -109,6 +120,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
+          "url": "https://wallstreetcn.com/articles/3774457",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 12时51分]"
+        },
+        {
+          "title": "【早报】特朗普取消打击伊朗；黄金、白银大涨；世界杯开幕，墨西哥2比0战胜南非",
+          "url": "https://www.cls.cn/detail/2397775",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 12时51分]"
         },
         {
           "title": "特朗普对华政策转向：视中国为平等的超级大国",
@@ -210,17 +245,6 @@
           "time_info": "[05时27分 ~ 05时28分]"
         },
         {
-          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
-          "url": "https://wallstreetcn.com/articles/3774457",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
-        },
-        {
           "title": "美国航空公司和邮轮运营商股票在特朗普取消对伊朗的打击后上涨，嘉年华公司上涨6.1%。挪威邮轮公司上涨5.9%，皇家加勒比海邮轮上涨5.3%，美国航空上涨6%，捷蓝航空上涨6.5%，联合航空上涨6.8%，达美航空上涨5.3%。",
           "url": "https://flash.jin10.com/detail/20260612015041369800",
           "source": "金十数据",
@@ -230,17 +254,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
-        },
-        {
-          "title": "【早报】特朗普取消打击伊朗；黄金、白银大涨；世界杯开幕，墨西哥2比0战胜南非",
-          "url": "https://www.cls.cn/detail/2397775",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
         },
         {
           "title": "据纽约时报记者：特朗普总统刚刚告知我，与伊朗达成的协议已“基本上大功告成”。",
@@ -260,9 +273,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "特朗普称有望周末签署美伊协议 伊朗称尚未达成最终结论 | 环球市场",
+          "url": "https://www.cls.cn/detail/2397778",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         },
         {
           "title": "金十提示：美国总统特朗普将此前取消打击伊朗的帖子置顶。",
@@ -271,9 +295,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "国家广场现疑似反特朗普数字 美公园警察展开调查",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1273974.html",
+          "source": "联合早报",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         },
         {
           "title": "特朗普：取消今晚对伊朗打击 将于近期公布协议签署时间和地点",
@@ -285,12 +320,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "特朗普撤回打伊言论 称协议或周末在欧洲签署",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1273963.html",
+          "source": "联合早报",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "伊朗外交部：尚未就伊美协议达成最终结论",
@@ -332,11 +378,12 @@
           "ranks": [
             13,
             10,
-            11
+            11,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时23分 ~ 07时45分]"
+          "appearance_count": 5,
+          "time_info": "[02时23分 ~ 12时51分]"
         },
         {
           "title": "美军直升机被击落后，美国再次对伊朗发动打击",
@@ -466,7 +513,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -477,9 +524,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "伊朗战争推高通胀压力，欧洲央行近三年来首次加息！",
+          "url": "https://wallstreetcn.com/articles/3774438",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         },
         {
           "title": "据伊朗媒体：军方消息人士称，锡里克地区的爆炸声与对抗试图通过霍尔木兹海峡的“违规船只”有关。",
@@ -488,7 +546,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -499,9 +557,42 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "伊朗已故最高领袖哈梅内伊葬礼推迟举行",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1273977.html",
+          "source": "联合早报",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
+          "title": "伊朗外交部批美袭商船是“武装抢劫”和“国家海盗”",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1273975.html",
+          "source": "联合早报",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
+          "title": "伊朗称协议尚未定案 批美方阻碍谈判进程",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1273973.html",
+          "source": "联合早报",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         },
         {
           "title": "据伊朗法尔斯通讯社：伊朗部队阻止一艘未经协调的“违规油轮”进入霍尔木兹海峡。",
@@ -510,9 +601,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "伊朗阿巴斯港和锡里克地区传爆炸声",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1273972.html",
+          "source": "联合早报",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         },
         {
           "title": "据伊朗媒体：伊朗阿巴斯港传出两次爆炸声，来源不明。",
@@ -521,7 +623,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -532,7 +634,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         }
@@ -566,6 +668,30 @@
           "time_info": "[02时23分 ~ 05时28分]"
         },
         {
+          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
+          "url": "https://wallstreetcn.com/articles/3774389",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 12时51分]"
+        },
+        {
+          "title": "美股收盘：美伊局势反转纳指升超2.5% 芯片股强反弹费城指数涨8%",
+          "url": "https://www.cls.cn/detail/2397755",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 12时51分]"
+        },
+        {
           "title": "热门中概股美股盘前普跌，阿里巴巴跌超3%",
           "url": "https://www.36kr.com/newsflashes/3848777761444869",
           "source": "36氪",
@@ -577,17 +703,6 @@
           "time_info": "02时23分"
         },
         {
-          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
-          "url": "https://wallstreetcn.com/articles/3774389",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
-        },
-        {
           "title": "美股大型科技股盘前多数上涨，英特尔涨超4%",
           "url": "https://www.36kr.com/newsflashes/3848776149095428",
           "source": "36氪",
@@ -597,17 +712,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
-        },
-        {
-          "title": "美股收盘：美伊局势反转纳指升超2.5% 芯片股强反弹费城指数涨8%",
-          "url": "https://www.cls.cn/detail/2397755",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
         },
         {
           "title": "美股异动｜台积电涨超2%，3纳米代工价或上调15%，产能拉满仍供不应求",
@@ -640,7 +744,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -659,7 +763,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
@@ -671,8 +775,47 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时23分 ~ 07时45分]"
+          "appearance_count": 5,
+          "time_info": "[02时23分 ~ 12时51分]"
+        },
+        {
+          "title": "高盛：SpaceX、OpenAI等超级IPO不会终结AI牛市",
+          "url": "https://www.cls.cn/detail/2397603",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "澳新银行：将年末黄金价格预测从每盎司5600美元下调至5200美元，以反映近期价格变动。",
+          "url": "https://flash.jin10.com/detail/20260612121550951800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
+          "title": "金价4000关口守住了，但离反转还差几步？",
+          "url": "https://flash.jin10.com/detail/20260612120209747800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         }
       ]
     },
