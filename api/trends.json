@@ -1,8 +1,102 @@
 {
-  "generated_at": "2026-06-13T00:51:37.437083+08:00",
-  "total_titles_processed": 94,
+  "generated_at": "2026-06-13T03:13:52.612689+08:00",
+  "total_titles_processed": 120,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "伊朗",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "真主党：根据伊朗官员向我们传达的信息，以色列将依据该协议从黎巴嫩领土撤军。黎巴嫩也被纳入伊朗与美国停火协议之中。",
+          "url": "https://flash.jin10.com/detail/20260613024716162800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "美国中央司令部：美国军队持续对伊朗实施严格封锁。自4月13日以来，美国中央司令部已引导139艘服从指令的商业船只改变航线，并使9艘不遵守命令的船只失去航行能力。",
+          "url": "https://flash.jin10.com/detail/20260613023056612800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "美官员：伊朗承诺永久放弃核武器，但美方需建立核查机制",
+          "url": "https://flash.jin10.com/detail/20260613022602060800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "报道称阿联酋同意为伊朗解冻数十亿美元资金",
+          "url": "https://flash.jin10.com/detail/20260613022138398800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗外长阿拉格齐将出席今晚的《特别新闻对话》节目，具体时间未知。",
+          "url": "https://flash.jin10.com/detail/20260613021802157800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "据路透：消息人士称，阿联酋已同意为伊朗解冻数十亿美元资金。",
+          "url": "https://flash.jin10.com/detail/20260613021007048800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "伊朗外交部：伊方正在审议谅解备忘录草案",
+          "url": "https://flash.jin10.com/detail/20260613020830003800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "以防长暗示未来以色列或再动武阻止伊朗拥核",
+          "url": "https://flash.jin10.com/detail/20260613020537749800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 4,
@@ -15,8 +109,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 03时13分]"
         },
         {
           "title": "美股异动丨ARM拉升大涨近10%，美银预计到2030年服务器CPU市场规模料激增4倍",
@@ -26,8 +120,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 03时13分]"
         },
         {
           "title": "SpaceX开盘狂飙29%，美股指转跌，太空概念股跳水，布油跌幅收窄",
@@ -37,8 +131,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 03时13分]"
         },
         {
           "title": "美股异动丨英特尔拉升涨超5%，美银预计到2030年服务器CPU市场规模料激增4倍",
@@ -48,8 +142,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 03时13分]"
         }
       ]
     },
@@ -65,8 +159,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 03时13分]"
         },
         {
           "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
@@ -76,8 +170,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 03时13分]"
         },
         {
           "title": "美国总统特朗普在社交平台上发布了伊朗外长阿拉格齐关于美伊协议的推文截图。",
