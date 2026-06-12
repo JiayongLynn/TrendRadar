@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T17:06:29.672569+08:00",
-  "total_titles_processed": 325,
+  "generated_at": "2026-06-12T21:34:45.357408+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时23分 ~ 07时45分]"
+        },
+        {
+          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
+          "url": "https://wallstreetcn.com/articles/3774457",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时45分 ~ 21时34分]"
         },
         {
           "title": "美伊局势再陷“迷雾”：特朗普称有望周末签署协议，伊朗“光速否认”！",
@@ -77,18 +89,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时23分 ~ 07时45分]"
-        },
-        {
-          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
-          "url": "https://wallstreetcn.com/articles/3774457",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时45分 ~ 17时06分]"
         },
         {
           "title": "据《今日以色列》：伊朗方面回应特朗普称，“他已经38次声称协议已经达成。他的话应当像他过去的谎言一样被对待。”",
@@ -156,6 +156,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时23分 ~ 07时45分]"
+        },
+        {
+          "title": "华尔街日报：特朗普正制定计划 推翻弹劾案",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1273995.html",
+          "source": "联合早报",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时06分 ~ 21时34分]"
         },
         {
           "title": "特朗普称伊朗各方均已批准美伊协议",
@@ -246,17 +258,6 @@
           "time_info": "[05时27分 ~ 05时28分]"
         },
         {
-          "title": "华尔街日报：特朗普正制定计划 推翻弹劾案",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1273995.html",
-          "source": "联合早报",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时06分"
-        },
-        {
           "title": "美国航空公司和邮轮运营商股票在特朗普取消对伊朗的打击后上涨，嘉年华公司上涨6.1%。挪威邮轮公司上涨5.9%，皇家加勒比海邮轮上涨5.3%，美国航空上涨6%，捷蓝航空上涨6.5%，联合航空上涨6.8%，达美航空上涨5.3%。",
           "url": "https://flash.jin10.com/detail/20260612015041369800",
           "source": "金十数据",
@@ -274,7 +275,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
         },
@@ -285,7 +286,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
         },
@@ -370,7 +371,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "伊朗外交部：尚未就伊美协议达成最终结论",
@@ -464,6 +465,18 @@
           "time_info": "[02时23分 ~ 07时45分]"
         },
         {
+          "title": "伊朗战争推高通胀压力，欧洲央行近三年来首次加息！",
+          "url": "https://wallstreetcn.com/articles/3774438",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时51分 ~ 21时34分]"
+        },
+        {
           "title": "伊朗外交部发言人：如果伊朗打算在压力和威胁下放弃其原则立场，那我们在一年前就会这么做了。",
           "url": "https://flash.jin10.com/detail/20260612043923940800",
           "source": "金十数据",
@@ -484,18 +497,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 05时28分]"
-        },
-        {
-          "title": "伊朗战争推高通胀压力，欧洲央行近三年来首次加息！",
-          "url": "https://wallstreetcn.com/articles/3774438",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 17时06分]"
         },
         {
           "title": "伊朗外交部发言人：由于美国的行动，霍尔木兹海峡的局势变得不那么安全。",
@@ -604,9 +605,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
+        },
+        {
+          "title": "油价下挫5%！伊朗公布伊美谅解备忘录新细节，霍尔木兹海峡或30天内重开",
+          "url": "https://wallstreetcn.com/articles/3774522",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "伊朗媒体：已故最高领袖葬礼推迟举行",
@@ -664,6 +676,17 @@
           "time_info": "12时51分"
         },
         {
+          "title": "以色列紧急插手美伊协议：不许解冻伊朗资产！",
+          "url": "https://flash.jin10.com/detail/20260612205220801800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "据伊朗媒体：伊朗阿巴斯港传出两次爆炸声，来源不明。",
           "url": "https://flash.jin10.com/detail/20260612055615032800",
           "source": "金十数据",
@@ -673,6 +696,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "伊朗否认周日将在日内瓦签署协议的说法",
+          "url": "https://flash.jin10.com/detail/20260612204930458800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：截至目前，锡里克地区未发生任何炮弹击中事件或冲突。听到的声音来自海上，与霍尔木兹海峡有关。",
@@ -689,8 +723,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
+          "url": "https://wallstreetcn.com/articles/3774389",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时45分 ~ 21时34分]"
+        },
         {
           "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
           "url": "https://wallstreetcn.com/articles/3774300",
@@ -701,18 +747,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时23分 ~ 05时28分]"
-        },
-        {
-          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
-          "url": "https://wallstreetcn.com/articles/3774389",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时45分 ~ 17时06分]"
         },
         {
           "title": "特朗普威胁发动新袭击，美股高开，甲骨文跌12%，英特尔涨10%，油价走低，黄金重回4080美元",
@@ -785,6 +819,17 @@
           "time_info": "[02时23分 ~ 07时45分]"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-06-12）",
+          "url": "https://flash.jin10.com/detail/20260612211904759800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "美股大反攻！纳指涨2.54%，芯片股集体大涨，闪迪涨超14%，美光科技、ARM涨超11%",
           "url": "https://www.gelonghui.com/news/5250709",
           "source": "格隆汇",
@@ -810,7 +855,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
@@ -835,6 +880,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
+        },
+        {
+          "title": "OpenAI被逼入价格战？企业都学聪明了：中国模型“极致性价比”！",
+          "url": "https://www.cls.cn/detail/2398139",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         }
       ]
     },
