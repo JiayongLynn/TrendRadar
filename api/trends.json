@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T20:05:34.025495+08:00",
-  "total_titles_processed": 330,
+  "generated_at": "2026-06-14T23:12:19.154976+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 46,
       "titles": [
         {
           "title": "巴基斯坦总理称预计美伊协议将在24小时内敲定，伊朗火速否认",
@@ -40,9 +40,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时05分 ~ 23时12分]"
         },
         {
           "title": "伊朗媒体总编：伊核协议噩梦在伊朗民众中引发合理担忧",
@@ -64,9 +64,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时05分"
+        },
+        {
+          "title": "美媒：伊朗炸隧道布地雷 加强保护高浓缩铀",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1474155.html",
+          "source": "联合早报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "据伊朗媒体报道，民众举行示威，要求议会议长卡利巴夫和外长阿拉格齐辞职，以表达对该协议的反对。",
@@ -88,7 +99,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时05分"
         },
@@ -225,6 +236,17 @@
           "time_info": "00时22分"
         },
         {
+          "title": "美国国防部长赫格塞思：伊朗必须强烈敦促黎巴嫩真主党停止攻击以色列。",
+          "url": "https://flash.jin10.com/detail/20260614224604794800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "据伊朗法尔斯通讯社：伊朗外交部发言人表示，地区内外国基地和军事存在必须结束。",
           "url": "https://flash.jin10.com/detail/20260613234657838800",
           "source": "金十数据",
@@ -258,6 +280,28 @@
           "time_info": "17时53分"
         },
         {
+          "title": "消息：伊朗尚未就谅解备忘录作出最终决定",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1474151.html",
+          "source": "联合早报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：如果伊朗希望此事得到解决，就必须控制黎巴嫩真主党。",
+          "url": "https://flash.jin10.com/detail/20260614224503180800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "伊朗外交部：未来一两天内暂无出访计划",
           "url": "https://flash.jin10.com/detail/20260613230649930800",
           "source": "金十数据",
@@ -280,6 +324,17 @@
           "time_info": "13时59分"
         },
         {
+          "title": "美国国防部长赫格塞思：我不认为以色列对贝鲁特南部郊区的打击会妨碍与伊朗达成协议。",
+          "url": "https://flash.jin10.com/detail/20260614224456104800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "据第12频道援引以色列官员：与伊朗达成的任何潜在协议都将危及我们的安全利益和安排。",
           "url": "https://flash.jin10.com/detail/20260614022005527800",
           "source": "金十数据",
@@ -289,6 +344,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：我们正按计划与伊朗签署协议，问题不在于我们是否会签署，而在于何时签署。",
+          "url": "https://flash.jin10.com/detail/20260614224440388800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "伊朗否认未来几天将访问巴基斯坦或日内瓦",
@@ -302,13 +368,24 @@
           "time_info": "00时22分"
         },
         {
+          "title": "美国国防部长赫格塞思： 伊朗核材料将被销毁。",
+          "url": "https://flash.jin10.com/detail/20260614224155092800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "伊朗谈判团队顾问披露拟议谅解备忘录细节",
           "url": "https://flash.jin10.com/detail/20260614190653737800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时05分"
         },
@@ -322,6 +399,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：文件显示，伊朗永远都不会拥有、寻求、购买核武器。",
+          "url": "https://flash.jin10.com/detail/20260614224111744800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：美国有望在（当地时间）周日签署伊朗核协议。",
+          "url": "https://flash.jin10.com/detail/20260614223509479800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "据沙特媒体哈达斯（alhadath）援引消息人士报道，伊朗的干预导致以黎停火机会受阻。",
@@ -374,7 +473,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时05分"
         },
@@ -388,6 +487,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：接近谈判的消息人士称，伊朗正在通过卡塔尔团队向美国传达其希望的条款，目前尚未达成任何最终协议。",
+          "url": "https://flash.jin10.com/detail/20260614221134543800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：接近谈判的消息人士称，在以色列空袭黎巴嫩贝鲁特南郊之前，伊朗正通过卡塔尔调解人向美国传达信息。",
+          "url": "https://flash.jin10.com/detail/20260614221053716800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "美国中央司令部：在伊朗海军封锁行动中，美军已迫使141艘船只改变航线，并使其中9艘瘫痪。另外已允许42艘人道主义援助船只通过。",
@@ -415,7 +536,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放",
@@ -428,8 +549,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时16分 ~ 20时05分]"
+          "appearance_count": 6,
+          "time_info": "[08时16分 ~ 23时12分]"
         },
         {
           "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
@@ -438,11 +559,12 @@
           "ranks": [
             6,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时59分 ~ 20时05分]"
+          "appearance_count": 4,
+          "time_info": "[13时59分 ~ 23时12分]"
         },
         {
           "title": "以色列官员：以色列总理内塔尼亚胡与美国总统特朗普关系良好，盟友之间难免会出现分歧，这些分歧能够被克服。",
@@ -454,6 +576,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
+        },
+        {
+          "title": "特朗普：“非常接近”达成美伊协议 将给黎巴嫩带来和平",
+          "url": "https://flash.jin10.com/detail/20260614225441637800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "特朗普称美军击毙委内瑞拉黑帮头目",
@@ -478,6 +611,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时13分 ~ 08时17分]"
+        },
+        {
+          "title": "特朗普紧急发声：贝鲁特袭击本不应发生，各方应保持克制",
+          "url": "https://flash.jin10.com/detail/20260614224735119800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "特朗普将赴法国出席七国集团峰会 会晤中东伙伴",
@@ -632,7 +776,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时05分"
         },
@@ -764,7 +908,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时05分"
         }
@@ -882,8 +1026,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时59分 ~ 20时05分]"
+          "appearance_count": 4,
+          "time_info": "[13时59分 ~ 23时12分]"
         },
         {
           "title": "美国政府封杀Anthropic最新模型 州检察长联手调查OpenAI",
@@ -909,9 +1053,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时05分 ~ 23时12分]"
         }
       ]
     }
