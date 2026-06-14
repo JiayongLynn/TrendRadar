@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T05:22:23.780445+08:00",
-  "total_titles_processed": 138,
+  "generated_at": "2026-06-15T07:18:02.632602+08:00",
+  "total_titles_processed": 172,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 42,
       "titles": [
         {
           "title": "美被曝同意伊朗稀释浓缩铀库存",
@@ -15,8 +15,41 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 05时22分]"
+          "appearance_count": 5,
+          "time_info": "[01时27分 ~ 07时18分]"
+        },
+        {
+          "title": "伊朗国家安全委员会：将于6月19日签署谅解备忘录。",
+          "url": "https://flash.jin10.com/detail/20260615065623718800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 07时18分]"
+        },
+        {
+          "title": "伊朗国家安全委员会：已完成伊朗与美国之间的谅解备忘录的文本。",
+          "url": "https://flash.jin10.com/detail/20260615065605876800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 07时18分]"
+        },
+        {
+          "title": "伊朗称所获成果远大于承诺",
+          "url": "https://flash.jin10.com/detail/20260615065312259800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 07时18分]"
         },
         {
           "title": "伊朗最高领袖顾问警告将打击以色列",
@@ -25,9 +58,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "美媒：伊朗炸隧道布地雷 加强保护高浓缩铀",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1474155.html",
+          "source": "联合早报",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时27分 ~ 07时18分]"
+        },
+        {
+          "title": "消息：伊朗尚未就谅解备忘录作出最终决定",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1474151.html",
+          "source": "联合早报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时27分 ~ 07时18分]"
         },
         {
           "title": "伊朗总统：伊朗最高国家安全委员会已决定推进谈判",
@@ -66,26 +121,15 @@
           "time_info": "[03时48分 ~ 05时22分]"
         },
         {
-          "title": "美媒：伊朗炸隧道布地雷 加强保护高浓缩铀",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1474155.html",
-          "source": "联合早报",
+          "title": "英法德意领导人联合声明：我们准备与美国、伊朗和国际原子能机构合作。",
+          "url": "https://flash.jin10.com/detail/20260615064930501800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 05时22分]"
-        },
-        {
-          "title": "消息：伊朗尚未就谅解备忘录作出最终决定",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1474151.html",
-          "source": "联合早报",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 05时22分]"
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 07时18分]"
         },
         {
           "title": "据伊朗梅赫尔通讯社：伊朗民航局表示，我们没有发布任何新的航行通知以限制国内航班。",
@@ -112,13 +156,134 @@
           "time_info": "[03时48分 ~ 05时22分]"
         },
         {
+          "title": "英法德意领导人联合声明：伊朗绝不能获得核武器。我们准备在伊朗在其核计划上采取明确、可核实的措施后，解除相关制裁。",
+          "url": "https://flash.jin10.com/detail/20260615064816539800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 07时18分]"
+        },
+        {
+          "title": "伊朗迈赫尔通讯社发布了伊美14点谅解备忘录的详细信息。",
+          "url": "https://flash.jin10.com/detail/20260615063830241800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 07时18分]"
+        },
+        {
+          "title": "伊朗副外长：伊朗不报复以色列袭击贝鲁特南郊的条件之一是以色列撤出黎巴嫩南部。",
+          "url": "https://flash.jin10.com/detail/20260615063645314800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 07时18分]"
+        },
+        {
+          "title": "英国首相斯塔默：（关于美伊协议）我们随时准备支持即将开始的技术谈判。英国始终坚定的长期立场是，伊朗绝不能拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260615063440585800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 07时18分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社援引消息人士称，霍尔木兹海峡将在周五签署谅解备忘录后重新开放。",
+          "url": "https://flash.jin10.com/detail/20260615063412912800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 07时18分]"
+        },
+        {
+          "title": "美国副总统万斯：伊朗向美国保证不会对以色列采取报复措施。",
+          "url": "https://flash.jin10.com/detail/20260615062841823800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 07时18分]"
+        },
+        {
+          "title": "伊朗最高联合军事指挥部：伊朗人民在最高领袖的指挥下向美国证明了“没有其他选择，唯有接受失败”。",
+          "url": "https://flash.jin10.com/detail/20260615062806018800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 07时18分]"
+        },
+        {
+          "title": "伊朗副外长：60天的谈判将讨论四个议题",
+          "url": "https://flash.jin10.com/detail/20260615062222534800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 07时18分]"
+        },
+        {
+          "title": "伊朗副外长：调解方仍将参与即将举行的谈判。",
+          "url": "https://flash.jin10.com/detail/20260615061950475800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 07时18分]"
+        },
+        {
+          "title": "伊朗副外长：将在60天的谈判中讨论核问题。",
+          "url": "https://flash.jin10.com/detail/20260615061933947800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 07时18分]"
+        },
+        {
+          "title": "卡塔尔首相兼外交大臣：我们欢迎美国与伊朗达成的谅解备忘录。",
+          "url": "https://flash.jin10.com/detail/20260615061529622800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 07时18分]"
+        },
+        {
           "title": "伊朗足球队抵达美国洛杉矶，备战周一与新西兰的世界杯比赛。",
           "url": "https://flash.jin10.com/detail/20260615041610447800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
         },
@@ -151,7 +316,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
         },
@@ -184,7 +349,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
         },
@@ -195,7 +360,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
         },
@@ -228,7 +393,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
         },
@@ -250,7 +415,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
         },
@@ -272,7 +437,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
         },
@@ -313,7 +478,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
@@ -323,8 +488,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 05时22分]"
+          "appearance_count": 5,
+          "time_info": "[01时27分 ~ 07时18分]"
         },
         {
           "title": "据以色列媒体N12：特朗普告知内塔尼亚胡与伊朗签署协议的最新进展，协议最早可能于当地时间周日晚上就会达成。",
@@ -333,7 +498,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
         },
@@ -355,7 +520,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
         },
@@ -366,9 +531,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放",
+          "url": "https://www.cls.cn/detail/2399150",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时27分 ~ 07时18分]"
         },
         {
           "title": "据CNN：在伊朗谈判和黎巴嫩停火紧张局势加剧之际，内塔尼亚胡正寻求在下周末七国集团峰会后与特朗普举行紧急会谈。卡塔尔谈判代表仍留在德黑兰，与美国协调，以保持谈判顺利进行。",
@@ -377,7 +554,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
         },
@@ -394,16 +571,15 @@
           "time_info": "[03时48分 ~ 05时22分]"
         },
         {
-          "title": "特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放",
-          "url": "https://www.cls.cn/detail/2399150",
-          "source": "财联社热门",
+          "title": "特朗普：霍尔木兹海峡将于周五签署协议后开放",
+          "url": "https://flash.jin10.com/detail/20260615063410144800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            8
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 05时22分]"
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 07时18分]"
         },
         {
           "title": "一名以色列高级官员对第12频道表示，特朗普的表态是“一记响亮的耳光”，“限制已经升级，期望我们不在黎巴嫩任何地方进行打击，这与战略盟友的定位不符。”",
@@ -423,7 +599,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
         },
@@ -445,7 +621,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
         },
@@ -478,7 +654,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
         },
@@ -595,8 +771,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 05时22分]"
+          "appearance_count": 5,
+          "time_info": "[01时27分 ~ 07时18分]"
         }
       ]
     },
@@ -612,8 +788,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 05时22分]"
+          "appearance_count": 5,
+          "time_info": "[01时27分 ~ 07时18分]"
         }
       ]
     }
