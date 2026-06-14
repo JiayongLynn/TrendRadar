@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T17:53:14.657267+08:00",
-  "total_titles_processed": 286,
+  "generated_at": "2026-06-14T20:05:34.025495+08:00",
+  "total_titles_processed": 330,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "巴基斯坦总理称预计美伊协议将在24小时内敲定，伊朗火速否认",
@@ -34,6 +34,17 @@
           "time_info": "[06时13分 ~ 08时17分]"
         },
         {
+          "title": "美被曝同意伊朗稀释浓缩铀库存",
+          "url": "https://wallstreetcn.com/articles/3774614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
+        },
+        {
           "title": "伊朗媒体总编：伊核协议噩梦在伊朗民众中引发合理担忧",
           "url": "https://flash.jin10.com/detail/20260614033233451800",
           "source": "金十数据",
@@ -45,6 +56,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时22分 ~ 08时17分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：巴基斯坦外长与土耳其外长进行了通话，双方讨论了美伊和平谈判。",
+          "url": "https://flash.jin10.com/detail/20260614193130672800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
         },
         {
           "title": "据伊朗媒体报道，民众举行示威，要求议会议长卡利巴夫和外长阿拉格齐辞职，以表达对该协议的反对。",
@@ -60,6 +82,30 @@
           "time_info": "[04时22分 ~ 08时17分]"
         },
         {
+          "title": "伊朗官员称以色列政权为“疯狗”，必须加以控制",
+          "url": "https://flash.jin10.com/detail/20260614192959541800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
+        },
+        {
+          "title": "录音揭示伊朗革命卫队警告船只勿通行霍尔木兹海峡",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1474128.html",
+          "source": "联合早报",
+          "ranks": [
+            3,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 20时05分]"
+        },
+        {
           "title": "据以色列《今日报》：以色列无需与伊朗签署任何协议，并保留“自卫”权利，但任何军事行动都需与美国协调。",
           "url": "https://flash.jin10.com/detail/20260614013731541800",
           "source": "金十数据",
@@ -70,18 +116,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 04时22分]"
-        },
-        {
-          "title": "录音揭示伊朗革命卫队警告船只勿通行霍尔木兹海峡",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1474128.html",
-          "source": "联合早报",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 17时53分]"
         },
         {
           "title": "据伊朗法尔斯通讯社：伊朗外交部发言人表示，伊朗将必须对在霍尔木兹海峡提供的服务收取费用。",
@@ -132,6 +166,19 @@
           "time_info": "[00时22分 ~ 06时13分]"
         },
         {
+          "title": "美伊将签署和平协议 伊朗强硬派指责协议不符合国家利益",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1474124.html",
+          "source": "联合早报",
+          "ranks": [
+            7,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 20时05分]"
+        },
+        {
           "title": "据伊朗学生通讯社：埃及外长与美国驻西亚特使通电话，讨论了有关德黑兰与华盛顿谈判的最新进展。",
           "url": "https://flash.jin10.com/detail/20260614041211441800",
           "source": "金十数据",
@@ -154,18 +201,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时13分 ~ 08时17分]"
-        },
-        {
-          "title": "美伊将签署和平协议 伊朗强硬派指责协议不符合国家利益",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1474124.html",
-          "source": "联合早报",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 17时53分]"
         },
         {
           "title": "美伊均称数日内可签署 和平协议或更利伊朗",
@@ -218,7 +253,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -265,6 +300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "伊朗谈判团队顾问披露拟议谅解备忘录细节",
+          "url": "https://flash.jin10.com/detail/20260614190653737800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
         },
         {
           "title": "伊朗外交部：伊美潜在谅解仅为继续对话 非最终协议",
@@ -322,6 +368,17 @@
           "time_info": "00时22分"
         },
         {
+          "title": "美被曝同意伊朗稀释高浓缩铀库存，解冻伊朗250亿美元资产",
+          "url": "https://flash.jin10.com/detail/20260614182219346800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
+        },
+        {
           "title": "美国高级政府官员：我们相信与伊朗达成了一项非常强有力的协议，今天巴基斯坦的声明证实了这一点。",
           "url": "https://flash.jin10.com/detail/20260613223935034800",
           "source": "金十数据",
@@ -358,7 +415,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放",
@@ -367,11 +424,25 @@
           "ranks": [
             7,
             3,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时16分 ~ 17时53分]"
+          "appearance_count": 5,
+          "time_info": "[08时16分 ~ 20时05分]"
+        },
+        {
+          "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
+          "url": "https://wallstreetcn.com/articles/3774599",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 20时05分]"
         },
         {
           "title": "以色列官员：以色列总理内塔尼亚胡与美国总统特朗普关系良好，盟友之间难免会出现分歧，这些分歧能够被克服。",
@@ -380,7 +451,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -409,16 +480,30 @@
           "time_info": "[06时13分 ~ 08时17分]"
         },
         {
-          "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
-          "url": "https://wallstreetcn.com/articles/3774599",
-          "source": "华尔街见闻",
+          "title": "特朗普将赴法国出席七国集团峰会 会晤中东伙伴",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1474127.html",
+          "source": "联合早报",
           "ranks": [
-            6,
-            5
+            4,
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 17时53分]"
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 20时05分]"
+        },
+        {
+          "title": "特朗普名字已从肯尼迪中心外墙上移除",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1474126.html",
+          "source": "联合早报",
+          "ranks": [
+            5,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 20时05分]"
         },
         {
           "title": "特朗普将在G7峰会期间会晤中东伙伴",
@@ -433,18 +518,6 @@
           "time_info": "[00时22分 ~ 02时18分]"
         },
         {
-          "title": "特朗普将赴法国出席七国集团峰会 会晤中东伙伴",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1474127.html",
-          "source": "联合早报",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 17时53分]"
-        },
-        {
           "title": "美国总统特朗普：将任命詹姆斯·麦克唐纳为纽约南区联邦检察官。",
           "url": "https://flash.jin10.com/detail/20260614025927509800",
           "source": "金十数据",
@@ -456,18 +529,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时22分 ~ 08时17分]"
-        },
-        {
-          "title": "特朗普名字已从肯尼迪中心外墙上移除",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1474126.html",
-          "source": "联合早报",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 17时53分]"
         },
         {
           "title": "美媒：特朗普政府限制外国获取和使用Anthropic最先进AI模型",
@@ -505,6 +566,19 @@
           "time_info": "[08时16分 ~ 13时59分]"
         },
         {
+          "title": "与特朗普通话 斯塔默：英国支持任何和平协议的实施",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1474125.html",
+          "source": "联合早报",
+          "ranks": [
+            6,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 20时05分]"
+        },
+        {
           "title": "亚马逊CEO向美官员汇报后 特朗普政府收紧Anthropic模型使用限制",
           "url": "https://flash.jin10.com/detail/20260614010232105800",
           "source": "金十数据",
@@ -515,18 +589,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 04时22分]"
-        },
-        {
-          "title": "与特朗普通话 斯塔默：英国支持任何和平协议的实施",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1474125.html",
-          "source": "联合早报",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 17时53分]"
         },
         {
           "title": "唐宁街10号（英国首相府）：英国首相斯塔默表示支持美国总统特朗普结束与伊朗冲突的努力。",
@@ -541,6 +603,18 @@
           "time_info": "[02时18分 ~ 04时22分]"
         },
         {
+          "title": "白宫草坪举办格斗比赛 庆特朗普80岁生日",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1474135.html",
+          "source": "联合早报",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时53分 ~ 20时05分]"
+        },
+        {
           "title": "美法院驳回上诉 肯尼迪中心拆除特朗普名字",
           "url": "https://www.zaochenbao.com/news/politics/202606/1474099.html",
           "source": "联合早报",
@@ -550,6 +624,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时16分 ~ 08时17分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-14）",
+          "url": "https://flash.jin10.com/detail/20260614192509763800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
         },
         {
           "title": "法国总统府：马克龙将于周三在凡尔赛宫设晚宴招待美国总统特朗普。",
@@ -594,17 +679,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
-        },
-        {
-          "title": "白宫草坪举办格斗比赛 庆特朗普80岁生日",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1474135.html",
-          "source": "联合早报",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时53分"
         },
         {
           "title": "美国总统特朗普就伊朗问题表示：我们与伊朗的关系比前任政府时期更加不同、更加良好。",
@@ -682,6 +756,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "据路透社/益普索民调：美国总统特朗普在美国乡村地区选民中的支持率降至50%，为其总统任内最低水平，较2025年2月的60%有所下降。",
+          "url": "https://flash.jin10.com/detail/20260614180317033800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
         }
       ]
     },
@@ -696,11 +781,12 @@
           "ranks": [
             1,
             2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 17时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 20时05分]"
         },
         {
           "title": "美股三大指数小幅收涨！SpaceX上市首日收涨19%，ARM涨超11%",
@@ -792,11 +878,12 @@
           "url": "https://www.cls.cn/detail/2399163",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 17时53分]"
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 20时05分]"
         },
         {
           "title": "美国政府封杀Anthropic最新模型 州检察长联手调查OpenAI",
@@ -808,6 +895,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时16分 ~ 08时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
+          "url": "https://wallstreetcn.com/articles/3774610",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
         }
       ]
     }
