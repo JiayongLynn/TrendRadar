@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-06-16T05:17:00.081251+08:00",
-  "total_titles_processed": 123,
+  "generated_at": "2026-06-16T07:53:50.983350+08:00",
+  "total_titles_processed": 166,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "美副总统：霍尔木兹海峡将“长期开放、免费通行”，伊朗：将收取航运服务费，核谈判和解除制裁将在60天内开始",
+          "url": "https://wallstreetcn.com/articles/3774714",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时59分 ~ 07时53分]"
+        },
         {
           "title": "谅解备忘录开始“生效” 伊媒称已有伊朗船只突破美国封锁",
           "url": "https://flash.jin10.com/detail/20260616045135556800",
@@ -19,6 +32,18 @@
           "time_info": "[05时16分 ~ 05时17分]"
         },
         {
+          "title": "报道：伊朗将允许霍尔木兹海峡自由过境60天",
+          "url": "https://wallstreetcn.com/articles/3774682",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时59分 ~ 07时53分]"
+        },
+        {
           "title": "惠誉评级：（关于美国与伊朗的潜在协议）认为伊朗的核计划及核能力仍将是其与美国和以色列关系中的紧张根源。",
           "url": "https://flash.jin10.com/detail/20260616013923750800",
           "source": "金十数据",
@@ -28,30 +53,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
-        },
-        {
-          "title": "报道：伊朗将允许霍尔木兹海峡自由过境60天",
-          "url": "https://wallstreetcn.com/articles/3774682",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 05时17分]"
-        },
-        {
-          "title": "美副总统：霍尔木兹海峡将“长期开放、免费通行”，伊朗：将收取航运服务费，核谈判和解除制裁将在60天内开始",
-          "url": "https://wallstreetcn.com/articles/3774714",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 05时17分]"
         },
         {
           "title": "惠誉评级：（关于美国与伊朗的潜在协议）即使协议签署，海湾地区的中期前景仍然具有不确定性。",
@@ -107,6 +108,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 05时17分]"
+        },
+        {
+          "title": "据NBC新闻：美国副总统万斯表示，根据谅解备忘录，核检查员绝对将会重返伊朗。协议的核心内容之一就是国际原子能机构和美国将协助伊朗销毁高浓铀库存。",
+          "url": "https://flash.jin10.com/detail/20260616064450467800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "据悉中情局局长认为伊朗不会同意美国所要求的核措施",
+          "url": "https://flash.jin10.com/detail/20260616063840691800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "据AXIOS网站：消息人士称，美国中央情报局局长对伊朗协议持怀疑态度，认为伊朗并不愿意在最终协议中做出美国所要求的核妥协。",
+          "url": "https://flash.jin10.com/detail/20260616062552119800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "美国官员：我们将以开放的心态与伊朗展开谈判，并认识到谈判的复杂性。",
@@ -186,6 +220,17 @@
           "time_info": "01时59分"
         },
         {
+          "title": "经济学家：若伊朗协议得以落实，美国通胀最严重的时期可能已经过去",
+          "url": "https://flash.jin10.com/detail/20260616054906195800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
           "title": "美国官员：我们将在接下来的几天和几周内努力工作，以确保与伊朗的谈判成功。",
           "url": "https://flash.jin10.com/detail/20260616010420357800",
           "source": "金十数据",
@@ -195,12 +240,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "伊媒：伊朗格什姆岛以南等地传出爆炸声",
+          "url": "https://flash.jin10.com/detail/20260616053507789800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "美国现货石化产品价格回落，因伊朗溢价逐步取消",
+          "url": "https://flash.jin10.com/detail/20260616053024813800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：在霍尔木兹海峡的格什姆岛南部听到三声爆炸声。爆炸可能与交通管理有关。",
+          "url": "https://flash.jin10.com/detail/20260616051853848800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "美伊达成协议，美股高开，半导体股普涨，石油股普跌，油价重挫5%",
@@ -214,6 +292,28 @@
           "time_info": "[01时59分 ~ 05时17分]"
         },
         {
+          "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
+          "url": "https://wallstreetcn.com/articles/3774633",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "美股收盘：纳指暴涨近800点 马斯克日赚巴菲特全部身家",
+          "url": "https://www.cls.cn/detail/2400615",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
           "title": "美伊达成停战协议 美股期指集体上涨 SpaceX续涨逾6% | 今夜看点",
           "url": "https://www.cls.cn/detail/2400410",
           "source": "财联社热门",
@@ -222,8 +322,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 05时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时59分 ~ 07时53分]"
         },
         {
           "title": "金十图示：2026年06月15日（周一）美股热门股票行情一览（美股收盘）",
@@ -259,6 +359,17 @@
           "time_info": "[05时16分 ~ 05时17分]"
         },
         {
+          "title": "【早报】纳指暴涨3%，美股芯片股狂飙；黄金、白银大涨；西班牙爆冷，0比0战平佛得角",
+          "url": "https://www.cls.cn/detail/2400629",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
           "title": "金十图示：2026年06月15日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260616010221454800",
           "source": "金十数据",
@@ -284,18 +395,31 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
           "url": "https://wallstreetcn.com/articles/3774634",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 05时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时59分 ~ 07时53分]"
+        },
+        {
+          "title": "特朗普：将允许伊朗进行低水平铀浓缩",
+          "url": "https://www.cls.cn/detail/2400213",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时59分 ~ 07时53分]"
         },
         {
           "title": "特朗普批评内塔尼亚胡干扰美伊谈判进程，外交部回应",
@@ -309,38 +433,50 @@
           "time_info": "[01时59分 ~ 05时17分]"
         },
         {
-          "title": "特朗普：将允许伊朗进行低水平铀浓缩",
-          "url": "https://www.cls.cn/detail/2400213",
-          "source": "财联社热门",
+          "title": "美国总统特朗普：伊朗已同意永远不拥有核武器！此外，美国向伊朗支付3亿美元的消息是假新闻，是由民主党人散布的。",
+          "url": "https://flash.jin10.com/detail/20260616071859347800",
+          "source": "金十数据",
           "ranks": [
-            5,
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 05时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "美伊达成初步协议 特朗普称商船开始驶出海峡",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1674243.html",
+          "source": "联合早报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "特朗普：7月4日举行历来最盛大的“特朗普集会”",
           "url": "https://www.zaochenbao.com/news/politics/202606/1574229.html",
           "source": "联合早报",
           "ranks": [
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 05时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时59分 ~ 07时53分]"
         },
         {
           "title": "克宫：特朗普告诉普京 愿协助结束俄乌战争",
           "url": "https://www.zaochenbao.com/news/politics/202606/1574228.html",
           "source": "联合早报",
           "ranks": [
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 05时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时59分 ~ 07时53分]"
         },
         {
           "title": "美加州州长称特朗普指示司法部对其展开调查",
@@ -352,6 +488,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 05时17分]"
+        },
+        {
+          "title": "美国交通部：特朗普政府结束对2024年CrowdStrike故障的调查。",
+          "url": "https://flash.jin10.com/detail/20260616061855394800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         }
       ]
     },
@@ -369,6 +516,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场太乐观了？华尔街老将警告：油价、美债和通胀的滞后冲击才刚开始",
+          "url": "https://wallstreetcn.com/articles/3774702",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         }
       ]
     },
