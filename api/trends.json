@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T13:15:07.840403+08:00",
-  "total_titles_processed": 257,
+  "generated_at": "2026-06-15T20:35:30.512239+08:00",
+  "total_titles_processed": 345,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 47,
+      "match_count": 53,
       "titles": [
         {
           "title": "美被曝同意伊朗稀释浓缩铀库存",
@@ -52,6 +52,17 @@
           "time_info": "[07时17分 ~ 07时18分]"
         },
         {
+          "title": "伊朗外交部发言人巴加埃：德黑兰将与阿曼及其他国家协调，采取措施确保霍尔木兹海峡的安全通行；此举将针对特定时间，并与美国自身的承诺相对应。",
+          "url": "https://flash.jin10.com/detail/20260615201646145800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "伊朗最高领袖顾问警告将打击以色列",
           "url": "https://flash.jin10.com/detail/20260615043618848800",
           "source": "金十数据",
@@ -72,6 +83,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时27分 ~ 07时18分]"
+        },
+        {
+          "title": "报道：伊朗将允许霍尔木兹海峡自由过境60天",
+          "url": "https://wallstreetcn.com/articles/3774682",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "消息：伊朗尚未就谅解备忘录作出最终决定",
@@ -409,6 +431,17 @@
           "time_info": "05时22分"
         },
         {
+          "title": "伊朗外交部发言人巴加埃：美国将承诺允许伊朗动用其被冻结的资金，但美国不会向德黑兰提供任何资金。",
+          "url": "https://flash.jin10.com/detail/20260615201254267800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "据以色列《耶路撒冷邮报》：伊朗暂停对以色列的回应，旨在给协议留出机会。",
           "url": "https://flash.jin10.com/detail/20260615035808287800",
           "source": "金十数据",
@@ -418,6 +451,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "伊朗：美伊信任鸿沟根深蒂固 签署协议前将开展地区访问",
+          "url": "https://flash.jin10.com/detail/20260615201232018800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "伊朗最高联合军事指挥部：'随时准备开火，瞄准敌人心脏'。",
@@ -451,6 +495,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "伊朗外交部：伊美协议细节将很快公布",
+          "url": "https://flash.jin10.com/detail/20260615201218195800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "据AXIOS网站记者报道，伊朗官员尚未确认今天将签署协议。",
@@ -497,6 +552,17 @@
           "time_info": "05时22分"
         },
         {
+          "title": "伊朗称美将无条件释放120亿美元 美官员予以否认",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1574206.html",
+          "source": "联合早报",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "伊朗议会国家安全委员会主席：在以色列对贝鲁特南郊的袭击后，'强有力的回应即将到来'。",
           "url": "https://flash.jin10.com/detail/20260615001736327800",
           "source": "金十数据",
@@ -533,7 +599,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
@@ -551,11 +617,12 @@
           "url": "https://wallstreetcn.com/articles/3774634",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 13时15分]"
+          "appearance_count": 3,
+          "time_info": "[13时14分 ~ 20时35分]"
         },
         {
           "title": "据以色列媒体N12：特朗普告知内塔尼亚胡与伊朗签署协议的最新进展，协议最早可能于当地时间周日晚上就会达成。",
@@ -591,6 +658,17 @@
           "time_info": "05时22分"
         },
         {
+          "title": "特朗普批评内塔尼亚胡干扰美伊谈判进程，外交部回应",
+          "url": "https://www.cls.cn/detail/2400017",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "市场消息：以色列总理内塔尼亚胡与美国总统特朗普进行电话会谈。",
           "url": "https://flash.jin10.com/detail/20260615043539835800",
           "source": "金十数据",
@@ -623,6 +701,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "特朗普：将允许伊朗进行低水平铀浓缩",
+          "url": "https://www.cls.cn/detail/2400213",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "普京与特朗普通话 讨论伊朗局势和乌克兰危机",
@@ -802,6 +891,17 @@
           "time_info": "01时27分"
         },
         {
+          "title": "特朗普：法国应取消数码税 否则将面临100%葡萄酒关税",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1574205.html",
+          "source": "联合早报",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "俄罗斯总统助理乌沙科夫：美国总统特朗普对俄罗斯总统普京表示，结束乌克兰战争至关重要，并表示他准备提供帮助。",
           "url": "https://flash.jin10.com/detail/20260615002209716800",
           "source": "金十数据",
@@ -901,6 +1001,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时27分 ~ 07时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美伊达成协议，美股盘前半导体股普涨，SpaceX涨超6%，美债收益率全线下行，油价重挫4%",
+          "url": "https://wallstreetcn.com/articles/3774633",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         }
       ]
     },
