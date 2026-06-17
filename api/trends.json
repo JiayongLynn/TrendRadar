@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-18T04:26:09.507888+08:00",
-  "total_titles_processed": 135,
+  "generated_at": "2026-06-18T06:56:07.751741+08:00",
+  "total_titles_processed": 168,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "美国官员：上周日美国副总统万斯和伊朗议会议长卡利巴夫签署了美伊电子谅解备忘录，并由美国总统特朗普见证。",
+          "url": "https://flash.jin10.com/detail/20260618061907048800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
         {
           "title": "美国总统特朗普：没有人故意袭击伊朗的学校。",
           "url": "https://flash.jin10.com/detail/20260618005347898800",
@@ -52,18 +63,6 @@
           "time_info": "01时14分"
         },
         {
-          "title": "特朗普：谅解备忘录不是最终协议 若不满意会重新开火",
-          "url": "https://www.cls.cn/detail/2402714",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 04时26分]"
-        },
-        {
           "title": "特朗普：谅解备忘录非最终版本 若不满意就恢复轰炸",
           "url": "https://www.zaochenbao.com/news/politics/202606/1774394.html",
           "source": "联合早报",
@@ -71,8 +70,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 04时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 06时56分]"
         },
         {
           "title": "韩总统李在明请求特朗普牵头 和平解决朝鲜问题",
@@ -82,8 +81,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 04时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 06时56分]"
         },
         {
           "title": "人物：80岁的特朗普到底还健康吗？",
@@ -91,6 +90,18 @@
           "source": "联合早报",
           "ranks": [
             29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 06时56分]"
+        },
+        {
+          "title": "特朗普：谅解备忘录不是最终协议 若不满意会重新开火",
+          "url": "https://www.cls.cn/detail/2402714",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -235,7 +246,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -315,13 +326,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "美官员称特朗普亲自提前签署美伊谅解备忘录",
+          "url": "https://flash.jin10.com/detail/20260618054900264800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "伊朗称谅解备忘录以两种语言签署 具有同等效力",
+          "url": "https://flash.jin10.com/detail/20260618061444962800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "伊朗外交部发言人：根据协议内容，60天的期限从今天开始。",
+          "url": "https://flash.jin10.com/detail/20260618061417675800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "伊朗外交部发言人：如果以色列继续对黎巴嫩的攻击，将被视为违反承诺。",
+          "url": "https://flash.jin10.com/detail/20260618060811711800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
         {
           "title": "美伊协议核心条款曝光：伊朗石油出口即刻解禁，核项目维持现状，海峡快速重启仍存变数",
           "url": "https://wallstreetcn.com/articles/3774848",
@@ -330,8 +385,52 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 04时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 06时56分]"
+        },
+        {
+          "title": "伊朗外交部发言人：霍尔木兹海峡的问题由伊朗和阿曼负责。",
+          "url": "https://flash.jin10.com/detail/20260618060622357800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "伊朗外交部发言人：将立即开始谈判，以建立执行该协议的机制。",
+          "url": "https://flash.jin10.com/detail/20260618060604762800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "伊朗外交部发言人：美国承诺在伊朗获取其冻结资金方面消除一切障碍。",
+          "url": "https://flash.jin10.com/detail/20260618060534616800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "伊朗外交部发言人：伊朗的石油制裁应被解除，伊朗应立即开始为期60天的石油出口。",
+          "url": "https://flash.jin10.com/detail/20260618055954537800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社：美国承诺在谅解备忘录实施过程中向伊朗提供其被冻结资金的使用权。双方将在谈判期间商定资产解冻机制。",
@@ -340,9 +439,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "伊朗外交部发言人：在60天内，另一方不应向中东地区增派军队或发布新制裁。",
+          "url": "https://flash.jin10.com/detail/20260618055808434800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "伊朗外交部发言人：以承诺换承诺。",
+          "url": "https://flash.jin10.com/detail/20260618055659518800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社：备忘录签署后至制裁解除前，美国承诺发放伊朗石油、石化产品及衍生物出口以及所有相关服务的豁免许可。",
@@ -351,9 +472,42 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "伊朗外交部发言人：波斯文文件与英文文件相似，并已由另一方签署。",
+          "url": "https://flash.jin10.com/detail/20260618055546138800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "伊朗外交部发言人：我们可以选择稀释浓缩铀。",
+          "url": "https://flash.jin10.com/detail/20260618055340262800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "伊朗外交部发言人：将收取船舶服务费用。",
+          "url": "https://flash.jin10.com/detail/20260618055254728800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社：（霍尔木兹海峡）免费通行仅适用于60天的期限。",
@@ -362,9 +516,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "伊朗外交部发言人：伊朗核材料不会被运送出境。",
+          "url": "https://flash.jin10.com/detail/20260618055250777800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社：商船通行将立即启动，并在30天内恢复正常运营，同时需考虑排雷和消除技术障碍的需要。",
@@ -373,9 +538,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "伊朗外交部发言人：伊朗的导弹仅用于发射，而非谈判。",
+          "url": "https://flash.jin10.com/detail/20260618055136536800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社：该（3000亿美元资金）计划的执行机制将在60天内作为最终协议的一部分进行敲定。",
@@ -384,9 +560,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "伊朗外交部发言人：我们的导弹不喜欢被人讨论（指导弹问题不容谈判）。",
+          "url": "https://flash.jin10.com/detail/20260618055134502800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社：美国承诺与地区伙伴合作，制定一项双方同意的伊朗经济重建计划，并提供至少3000亿美元资金。",
@@ -395,7 +582,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -406,7 +593,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         }
@@ -414,7 +601,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
@@ -424,8 +611,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 04时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 06时56分]"
         },
         {
           "title": "市场静待沃什首秀，美股指走高，半导体股多数上涨，SpaceX跌幅扩大至4%，油价涨1%",
@@ -448,8 +635,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 04时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 06时56分]"
+        },
+        {
+          "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
+          "url": "https://wallstreetcn.com/articles/3774887",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "美股股指期货小幅上涨，纳指期货涨近0.5%，此前美伊签署电子备忘录。",
+          "url": "https://flash.jin10.com/detail/20260618060137337800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "美股异动丨西部数据涨超6%，领涨存储概念股",
@@ -485,11 +694,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 04时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 06时56分]"
         }
       ]
     }
