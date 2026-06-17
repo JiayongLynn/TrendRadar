@@ -1,624 +1,403 @@
 {
-  "generated_at": "2026-06-17T21:53:49.138331+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-06-18T01:14:21.584693+08:00",
+  "total_titles_processed": 93,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "伊朗战争永久性地改变了全球经济，中国是最大赢家？",
-          "url": "https://www.zaochenbao.com/news/china/202606/1774357.html",
-          "source": "联合早报",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时00分 ~ 13时01分]"
-        },
-        {
-          "title": "海事情报公司称伊朗近两月来首次出口原油",
-          "url": "https://flash.jin10.com/detail/20260617071526827800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：无论是否达成协议，伊朗都不会获得核武器。",
-          "url": "https://flash.jin10.com/detail/20260617004233095800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "德国总理默茨：美国军方的优势并未给伊朗留下选择的余地。",
-          "url": "https://flash.jin10.com/detail/20260617004153780800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "美伊协议核心条款曝光：伊朗石油出口即刻解禁，核项目维持现状，海峡快速重启仍存变数",
-          "url": "https://wallstreetcn.com/articles/3774848",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时00分 ~ 21时53分]"
-        },
-        {
-          "title": "完赛后须立即离开美国 伊朗主帅：我们是最受压迫球队",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1674313.html",
-          "source": "联合早报",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 07时41分]"
-        },
-        {
-          "title": "真主党：若以色列不撤军 伊朗不会签和平协议",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1774340.html",
-          "source": "联合早报",
-          "ranks": [
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时00分 ~ 17时59分]"
-        },
-        {
-          "title": "伊朗联合党国际事务副总书记塔拉吉：伊朗面对敌人不仅不会退让，还将严肃地追寻人民的正当诉求。",
-          "url": "https://flash.jin10.com/detail/20260617123653210800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时00分 ~ 13时01分]"
-        },
-        {
-          "title": "伊朗联合党国际事务副总书记塔拉吉：我们的官员们绝不会在谈判中放弃领袖所秉持的原则，未来也不会。",
-          "url": "https://flash.jin10.com/detail/20260617123645879800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时00分 ~ 13时01分]"
-        },
-        {
-          "title": "七国集团：伊朗永远不会获得核武器。",
-          "url": "https://flash.jin10.com/detail/20260617121647319800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时00分 ~ 13时01分]"
-        },
-        {
-          "title": "德国总理默茨：（谈及伊朗）我们愿意参与，我有信心该协议会奏效，伊朗会接受这些条件，因为这是它不得不做的。",
-          "url": "https://flash.jin10.com/detail/20260617004144303800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "北约秘书长吕特：伊朗协议提升了所有人的安全。",
-          "url": "https://flash.jin10.com/detail/20260617173024130800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时59分"
-        },
-        {
-          "title": "美方回应“伊朗队被勒令连夜离境”",
-          "url": "https://www.cls.cn/detail/2402204",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时59分"
-        },
-        {
-          "title": "美国高级官员：伊朗只有在遵守所有达成的协议条款，包括不干扰霍尔木兹海峡的自由航行和不获取核武器的情况下，才能出售石油。",
-          "url": "https://flash.jin10.com/detail/20260617002407982800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "美国高级官员：伊朗可在本周协议签署后立即出售石油和燃料。",
-          "url": "https://flash.jin10.com/detail/20260617002247015800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：消息人士还指出，根据双方达成的共识，该谅解备忘录的文本将在周五签署后公布。",
-          "url": "https://flash.jin10.com/detail/20260617172010683800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时59分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：消息人士强调，彭博社报道中涉及第一条及霍尔木兹海峡相关内容的部分存在具体失实之处，遗漏了关键条款。",
-          "url": "https://flash.jin10.com/detail/20260617171943837800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时59分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：消息人士称，彭博社报道的所谓伊美谅解备忘录文本“不准确”。",
-          "url": "https://flash.jin10.com/detail/20260617171910437800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
-          "url": "https://wallstreetcn.com/articles/3774774",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时41分 ~ 21时53分]"
-        },
-        {
-          "title": "美股收盘：资金轮动道指创新高 芯片股回调、工业板块走强",
-          "url": "https://www.cls.cn/detail/2401731",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时41分 ~ 13时01分]"
-        },
-        {
-          "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
-          "url": "https://wallstreetcn.com/articles/3774633",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 05时13分]"
-        },
-        {
-          "title": "美股异动丨光通信概念股集体调整，Lumentum跌超7%",
-          "url": "https://www.gelonghui.com/news/5253154",
-          "source": "格隆汇",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 05时13分]"
-        },
-        {
-          "title": "美股三大指数集体高开，SpaceX涨近6%迈向“四连涨”",
-          "url": "https://www.gelonghui.com/news/5253910",
-          "source": "格隆汇",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "【早报】油价大跌；美股芯片股集体下挫，道指创新高；法国队取得开门红",
-          "url": "https://www.cls.cn/detail/2401752",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时41分 ~ 13时01分]"
-        },
-        {
-          "title": "美股指涨跌互现，SpaceX大涨17%，总市值逼近3万亿美元，存储概念股走高",
-          "url": "https://wallstreetcn.com/articles/3774774",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 05时13分]"
-        },
-        {
-          "title": "美股期指横盘整理 SpaceX盘前再度大涨 市值逼近亚马逊 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2401513",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 07时41分]"
-        },
-        {
-          "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
-          "url": "https://wallstreetcn.com/articles/3774852",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "美股开盘，道指小幅高开，标普500指数涨0.12%，纳指涨0.43%。SpaceX(SPCX.O)涨3.6%，涨势延续至第四个交易日。半导体概念股走强，阿斯麦(ASML.O)涨5%、迈威尔科技(MRVL.O)涨5%、博通(AVGO.O)涨2.4%、英特尔(INTC.O)涨4.1%。",
-          "url": "https://flash.jin10.com/detail/20260617213040246800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "美股融资已达历史极限！大摩警告：一场去杠杆风暴正在酝酿",
-          "url": "https://wallstreetcn.com/articles/3774752",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "金十图示：2026年06月16日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260617040526431800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "金十图示：2026年06月16日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260617040524359800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一，SpaceX高位回落收涨近5%",
-          "url": "https://flash.jin10.com/detail/20260617040157823800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 27,
       "titles": [
         {
-          "title": "美国总统特朗普：我昨晚赢得了很多重要的选举。谢谢大家！",
-          "url": "https://flash.jin10.com/detail/20260617124331362800",
+          "title": "美国总统特朗普：没有人故意袭击伊朗的学校。",
+          "url": "https://flash.jin10.com/detail/20260618005347898800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "美国总统特朗普：关于美国对伊朗学校的袭击事件正在调查中。",
+          "url": "https://flash.jin10.com/detail/20260618005335864800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时00分 ~ 13时01分]"
-        },
-        {
-          "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
-          "url": "https://wallstreetcn.com/articles/3774815",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时00分 ~ 21时53分]"
-        },
-        {
-          "title": "特朗普政府再次推动转移教育部职能",
-          "url": "https://flash.jin10.com/detail/20260617072322613800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "01时14分"
         },
         {
-          "title": "特朗普：谅解备忘录非最终版本 若不满意就恢复轰炸",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1774394.html",
-          "source": "联合早报",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "德国总理默茨：我告诉美国总统特朗普，这是一个表明军事力量可以促成外交解决的例子，这可以作为乌克兰问题的范例。",
-          "url": "https://flash.jin10.com/detail/20260617004222610800",
+          "title": "据AXIOS网站：美国总统特朗普与人工智能企业首席执行官在七国集团会议上讨论全球人工智能规则。",
+          "url": "https://flash.jin10.com/detail/20260618005222154800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "01时14分"
         },
         {
-          "title": "人物：80岁的特朗普到底还健康吗？",
-          "url": "https://www.zaochenbao.com/news/Chronicles/202606/1774354.html",
-          "source": "联合早报",
+          "title": "美国总统特朗普：伊朗“重建将面临艰难挑战”。",
+          "url": "https://flash.jin10.com/detail/20260618005146222800",
+          "source": "金十数据",
           "ranks": [
-            5,
-            21,
-            28
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时00分 ~ 21时53分]"
+          "appearance_count": 1,
+          "time_info": "01时14分"
         },
         {
-          "title": "特朗普和伊朗谈判的核心：核问题如何解决？",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1774350.html",
-          "source": "联合早报",
+          "title": "美国总统特朗普：如果人们想要投资伊朗，他们确实有石油。",
+          "url": "https://flash.jin10.com/detail/20260618005131462800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            23,
-            30
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时00分 ~ 21时53分]"
+          "appearance_count": 1,
+          "time_info": "01时14分"
         },
         {
-          "title": "特朗普批评以色列打击真主党 称正在杀害平民",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1774339.html",
-          "source": "联合早报",
-          "ranks": [
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时00分 ~ 17时59分]"
-        },
-        {
-          "title": "特朗普白宫宴会厅造价7.7亿元 一半来自纳税人",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1774338.html",
-          "source": "联合早报",
-          "ranks": [
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时00分 ~ 17时59分]"
-        },
-        {
-          "title": "韩总统李在明请求特朗普牵头 和平解决朝鲜问题",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1774367.html",
-          "source": "联合早报",
-          "ranks": [
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时59分 ~ 21时53分]"
-        },
-        {
-          "title": "德国总理默茨：（就针对俄罗斯的新制裁）我看到特朗普表现出合作的态度，我有一定的乐观情绪，认为欧洲和美国会尽一切努力结束这场战争。",
-          "url": "https://flash.jin10.com/detail/20260617003857512800",
+          "title": "美国总统特朗普：贝鲁特遭以色列袭击是没有必要的。",
+          "url": "https://flash.jin10.com/detail/20260618004959705800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "01时14分"
         },
         {
-          "title": "同样是石油大国！特朗普政府公布下一个目标：利比亚",
-          "url": "https://flash.jin10.com/detail/20260617172728336800",
-          "source": "金十数据",
+          "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
+          "url": "https://wallstreetcn.com/articles/3774815",
+          "source": "华尔街见闻",
           "ranks": [
-            15
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
+          "time_info": "01时14分"
+        },
         {
-          "title": "路透：美国暂缓将DeepSeek等百家中企列入黑名单",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1774334.html",
-          "source": "联合早报",
+          "title": "美国总统特朗普：（关于黎巴嫩和平）我们将与以色列合作，完成这项工作。",
+          "url": "https://flash.jin10.com/detail/20260618004953411800",
+          "source": "金十数据",
           "ranks": [
-            25
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时00分 ~ 13时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
         {
-          "title": "针对英国监管机构关于搜索业务的新规，谷歌(GOOG.O)表示将与英国竞争与市场管理局（CMA）开展建设性合作，以确保“能够为用户维持高质量的搜索体验”。",
-          "url": "https://flash.jin10.com/detail/20260617173014863800",
+          "title": "美国总统特朗普：由于伊朗协议，对以色列拥有筹码。",
+          "url": "https://flash.jin10.com/detail/20260618004948191800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "美国总统特朗普：我们的储备在大约四周内就会用完。",
+          "url": "https://flash.jin10.com/detail/20260618004856411800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
+          "time_info": "01时14分"
+        },
         {
-          "title": "SpaceX期权首个交易日碾压纪录 ChatGPT市场份额跌破50% | 环球市场",
-          "url": "https://www.cls.cn/detail/2401773",
+          "title": "美国总统特朗普：如果不把钱还给伊朗，这对美元不利。",
+          "url": "https://flash.jin10.com/detail/20260618004711972800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "特朗普：谅解备忘录不是最终协议 若不满意会重新开火",
+          "url": "https://www.cls.cn/detail/2402714",
           "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "特朗普：谅解备忘录非最终版本 若不满意就恢复轰炸",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1774394.html",
+          "source": "联合早报",
           "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时00分 ~ 13时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "分析师：金价仍有望反弹至每盎司5000美元",
-          "url": "https://flash.jin10.com/detail/20260617212718485800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
+          "time_info": "01时14分"
+        },
         {
-          "title": "美债期权交易员对美联储利率路径看法分化，聚焦沃什发布会基调",
-          "url": "https://flash.jin10.com/detail/20260617064209134800",
+          "title": "美国总统特朗普：在我任内，美元变得非常强劲。",
+          "url": "https://flash.jin10.com/detail/20260618004505659800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
+          "time_info": "01时14分"
+        },
         {
-          "title": "美元指数16日下跌",
-          "url": "https://flash.jin10.com/detail/20260617040255849800",
+          "title": "美国总统特朗普：（关于冻结的伊朗资金）这是他们的钱。在某个时刻，我想我们会把伊朗的钱还给他们。",
+          "url": "https://flash.jin10.com/detail/20260618004427209800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "美国总统特朗普：如果伊朗不听话，我们会再次出手，这轻而易举。",
+          "url": "https://flash.jin10.com/detail/20260618004344246800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "美国总统特朗普：只有伊朗把事情做对了，才会提供3000亿美元的基金。伊朗重建将需要15到20年。",
+          "url": "https://flash.jin10.com/detail/20260618004320210800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "特朗普称“不想成为另一个胡佛” 达成协议是为避免经济崩盘",
+          "url": "https://flash.jin10.com/detail/20260618004229586800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "美国总统特朗普：只有伊朗把事情做对了，美国才会解除对其石油制裁。",
+          "url": "https://flash.jin10.com/detail/20260618004219706800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "美国总统特朗普：欧洲在移民和能源问题上表现不佳。",
+          "url": "https://flash.jin10.com/detail/20260618004148543800",
           "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时13分"
+          "time_info": "01时14分"
+        },
+        {
+          "title": "美国总统特朗普：期待与法国总统马克龙的特别晚宴。",
+          "url": "https://flash.jin10.com/detail/20260618004109785800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "韩总统李在明请求特朗普牵头 和平解决朝鲜问题",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1774367.html",
+          "source": "联合早报",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "特朗普：美伊谅解备忘录可能在18日或19日签署",
+          "url": "https://flash.jin10.com/detail/20260618004059691800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "美国总统特朗普：认为以色列会对伊朗协议感到满意。",
+          "url": "https://flash.jin10.com/detail/20260618004009079800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "美国总统特朗普：墨西哥总统辛鲍姆是一位好女人，但是个胆小的女人。",
+          "url": "https://flash.jin10.com/detail/20260618003852540800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "美国总统特朗普：毒品贩子正在控制墨西哥。",
+          "url": "https://flash.jin10.com/detail/20260618003751386800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "人物：80岁的特朗普到底还健康吗？",
+          "url": "https://www.zaochenbao.com/news/Chronicles/202606/1774354.html",
+          "source": "联合早报",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
+          "url": "https://wallstreetcn.com/articles/3774774",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "市场静待沃什首秀，美股指走高，半导体股多数上涨，SpaceX跌幅扩大至4%，油价涨1%",
+          "url": "https://wallstreetcn.com/articles/3774887",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
+          "url": "https://wallstreetcn.com/articles/3774852",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "美股异动丨西部数据涨超6%，领涨存储概念股",
+          "url": "https://www.gelonghui.com/news/5253945",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据AXIOS网站：OpenAI创始人奥尔特曼与谷歌旗下Deepmind首席执行官哈萨比斯出席了人工智能会议。",
+          "url": "https://flash.jin10.com/detail/20260618005603439800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "台积电产能告急！三星代工需求火热：谷歌、英伟达、AMD都来了…",
+          "url": "https://www.cls.cn/detail/2402553",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美伊协议核心条款曝光：伊朗石油出口即刻解禁，核项目维持现状，海峡快速重启仍存变数",
+          "url": "https://wallstreetcn.com/articles/3774848",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
         }
       ]
     }
