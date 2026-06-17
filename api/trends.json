@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T17:59:22.737985+08:00",
-  "total_titles_processed": 322,
+  "generated_at": "2026-06-17T21:53:49.138331+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
@@ -52,6 +52,19 @@
           "time_info": "01时12分"
         },
         {
+          "title": "美伊协议核心条款曝光：伊朗石油出口即刻解禁，核项目维持现状，海峡快速重启仍存变数",
+          "url": "https://wallstreetcn.com/articles/3774848",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时00分 ~ 21时53分]"
+        },
+        {
           "title": "完赛后须立即离开美国 伊朗主帅：我们是最受压迫球队",
           "url": "https://www.zaochenbao.com/news/politics/202606/1674313.html",
           "source": "联合早报",
@@ -61,18 +74,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时12分 ~ 07时41分]"
-        },
-        {
-          "title": "美伊协议核心条款曝光：伊朗石油出口即刻解禁，核项目维持现状，海峡快速重启仍存变数",
-          "url": "https://wallstreetcn.com/articles/3774848",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时00分 ~ 17时59分]"
         },
         {
           "title": "真主党：若以色列不撤军 伊朗不会签和平协议",
@@ -137,7 +138,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         },
@@ -148,7 +149,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         },
@@ -181,7 +182,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         },
@@ -192,7 +193,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         },
@@ -203,7 +204,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         }
@@ -211,7 +212,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
@@ -221,8 +222,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时41分 ~ 17时59分]"
+          "appearance_count": 5,
+          "time_info": "[07时41分 ~ 21时53分]"
         },
         {
           "title": "美股收盘：资金轮动道指创新高 芯片股回调、工业板块走强",
@@ -259,6 +260,17 @@
           "time_info": "[01时12分 ~ 05时13分]"
         },
         {
+          "title": "美股三大指数集体高开，SpaceX涨近6%迈向“四连涨”",
+          "url": "https://www.gelonghui.com/news/5253910",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "【早报】油价大跌；美股芯片股集体下挫，道指创新高；法国队取得开门红",
           "url": "https://www.cls.cn/detail/2401752",
           "source": "财联社热门",
@@ -293,6 +305,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时12分 ~ 07时41分]"
+        },
+        {
+          "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
+          "url": "https://wallstreetcn.com/articles/3774852",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
+          "title": "美股开盘，道指小幅高开，标普500指数涨0.12%，纳指涨0.43%。SpaceX(SPCX.O)涨3.6%，涨势延续至第四个交易日。半导体概念股走强，阿斯麦(ASML.O)涨5%、迈威尔科技(MRVL.O)涨5%、博通(AVGO.O)涨2.4%、英特尔(INTC.O)涨4.1%。",
+          "url": "https://flash.jin10.com/detail/20260617213040246800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         },
         {
           "title": "美股融资已达历史极限！大摩警告：一场去杠杆风暴正在酝酿",
@@ -342,7 +376,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美国总统特朗普：我昨晚赢得了很多重要的选举。谢谢大家！",
@@ -356,6 +390,18 @@
           "time_info": "[13时00分 ~ 13时01分]"
         },
         {
+          "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
+          "url": "https://wallstreetcn.com/articles/3774815",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时00分 ~ 21时53分]"
+        },
+        {
           "title": "特朗普政府再次推动转移教育部职能",
           "url": "https://flash.jin10.com/detail/20260617072322613800",
           "source": "金十数据",
@@ -365,6 +411,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
+        },
+        {
+          "title": "特朗普：谅解备忘录非最终版本 若不满意就恢复轰炸",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1774394.html",
+          "source": "联合早报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         },
         {
           "title": "德国总理默茨：我告诉美国总统特朗普，这是一个表明军事力量可以促成外交解决的例子，这可以作为乌克兰问题的范例。",
@@ -383,22 +440,12 @@
           "source": "联合早报",
           "ranks": [
             5,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时00分 ~ 17时59分]"
-        },
-        {
-          "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
-          "url": "https://wallstreetcn.com/articles/3774815",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时00分 ~ 17时59分]"
+          "appearance_count": 4,
+          "time_info": "[13时00分 ~ 21时53分]"
         },
         {
           "title": "特朗普和伊朗谈判的核心：核问题如何解决？",
@@ -406,11 +453,12 @@
           "source": "联合早报",
           "ranks": [
             9,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时00分 ~ 17时59分]"
+          "appearance_count": 4,
+          "time_info": "[13时00分 ~ 21时53分]"
         },
         {
           "title": "特朗普批评以色列打击真主党 称正在杀害平民",
@@ -437,6 +485,18 @@
           "time_info": "[13时00分 ~ 17时59分]"
         },
         {
+          "title": "韩总统李在明请求特朗普牵头 和平解决朝鲜问题",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1774367.html",
+          "source": "联合早报",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时59分 ~ 21时53分]"
+        },
+        {
           "title": "德国总理默茨：（就针对俄罗斯的新制裁）我看到特朗普表现出合作的态度，我有一定的乐观情绪，认为欧洲和美国会尽一切努力结束这场战争。",
           "url": "https://flash.jin10.com/detail/20260617003857512800",
           "source": "金十数据",
@@ -448,24 +508,13 @@
           "time_info": "01时12分"
         },
         {
-          "title": "韩总统李在明请求特朗普牵头 和平解决朝鲜问题",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1774367.html",
-          "source": "联合早报",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时59分"
-        },
-        {
           "title": "同样是石油大国！特朗普政府公布下一个目标：利比亚",
           "url": "https://flash.jin10.com/detail/20260617172728336800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         }
@@ -499,7 +548,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         }
@@ -519,6 +568,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时00分 ~ 13时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "分析师：金价仍有望反弹至每盎司5000美元",
+          "url": "https://flash.jin10.com/detail/20260617212718485800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         }
       ]
     },
