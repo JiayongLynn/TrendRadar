@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T01:14:21.584693+08:00",
-  "total_titles_processed": 93,
+  "generated_at": "2026-06-18T04:26:09.507888+08:00",
+  "total_titles_processed": 135,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "美国总统特朗普：没有人故意袭击伊朗的学校。",
@@ -50,6 +50,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "特朗普：谅解备忘录不是最终协议 若不满意会重新开火",
+          "url": "https://www.cls.cn/detail/2402714",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 04时26分]"
+        },
+        {
+          "title": "特朗普：谅解备忘录非最终版本 若不满意就恢复轰炸",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1774394.html",
+          "source": "联合早报",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 04时26分]"
+        },
+        {
+          "title": "韩总统李在明请求特朗普牵头 和平解决朝鲜问题",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1774367.html",
+          "source": "联合早报",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 04时26分]"
+        },
+        {
+          "title": "人物：80岁的特朗普到底还健康吗？",
+          "url": "https://www.zaochenbao.com/news/Chronicles/202606/1774354.html",
+          "source": "联合早报",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 04时26分]"
         },
         {
           "title": "美国总统特朗普：如果人们想要投资伊朗，他们确实有石油。",
@@ -129,28 +174,6 @@
           "time_info": "01时14分"
         },
         {
-          "title": "特朗普：谅解备忘录不是最终协议 若不满意会重新开火",
-          "url": "https://www.cls.cn/detail/2402714",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "特朗普：谅解备忘录非最终版本 若不满意就恢复轰炸",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1774394.html",
-          "source": "联合早报",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
           "title": "美国总统特朗普：在我任内，美元变得非常强劲。",
           "url": "https://flash.jin10.com/detail/20260618004505659800",
           "source": "金十数据",
@@ -206,6 +229,17 @@
           "time_info": "01时14分"
         },
         {
+          "title": "沃什未透露是否与特朗普进行过沟通",
+          "url": "https://flash.jin10.com/detail/20260618032756315800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
           "title": "美国总统特朗普：只有伊朗把事情做对了，美国才会解除对其石油制裁。",
           "url": "https://flash.jin10.com/detail/20260618004219706800",
           "source": "金十数据",
@@ -231,17 +265,6 @@
           "title": "美国总统特朗普：期待与法国总统马克龙的特别晚宴。",
           "url": "https://flash.jin10.com/detail/20260618004109785800",
           "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "韩总统李在明请求特朗普牵头 和平解决朝鲜问题",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1774367.html",
-          "source": "联合早报",
           "ranks": [
             20
           ],
@@ -292,17 +315,100 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 8,
+      "titles": [
         {
-          "title": "人物：80岁的特朗普到底还健康吗？",
-          "url": "https://www.zaochenbao.com/news/Chronicles/202606/1774354.html",
-          "source": "联合早报",
+          "title": "美伊协议核心条款曝光：伊朗石油出口即刻解禁，核项目维持现状，海峡快速重启仍存变数",
+          "url": "https://wallstreetcn.com/articles/3774848",
+          "source": "华尔街见闻",
           "ranks": [
-            29
+            8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 04时26分]"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社：美国承诺在谅解备忘录实施过程中向伊朗提供其被冻结资金的使用权。双方将在谈判期间商定资产解冻机制。",
+          "url": "https://flash.jin10.com/detail/20260618032848433800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时14分"
+          "time_info": "04时26分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社：备忘录签署后至制裁解除前，美国承诺发放伊朗石油、石化产品及衍生物出口以及所有相关服务的豁免许可。",
+          "url": "https://flash.jin10.com/detail/20260618032733439800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社：（霍尔木兹海峡）免费通行仅适用于60天的期限。",
+          "url": "https://flash.jin10.com/detail/20260618032547653800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社：商船通行将立即启动，并在30天内恢复正常运营，同时需考虑排雷和消除技术障碍的需要。",
+          "url": "https://flash.jin10.com/detail/20260618032515818800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社：该（3000亿美元资金）计划的执行机制将在60天内作为最终协议的一部分进行敲定。",
+          "url": "https://flash.jin10.com/detail/20260618032440378800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社：美国承诺与地区伙伴合作，制定一项双方同意的伊朗经济重建计划，并提供至少3000亿美元资金。",
+          "url": "https://flash.jin10.com/detail/20260618032355540800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社：备忘录签署后，伊朗将尽最大努力采取措施，确保阿拉伯湾与阿曼湾之间商业船舶的安全通行。",
+          "url": "https://flash.jin10.com/detail/20260618032333377800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         }
       ]
     },
@@ -318,30 +424,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 04时26分]"
         },
         {
           "title": "市场静待沃什首秀，美股指走高，半导体股多数上涨，SpaceX跌幅扩大至4%，油价涨1%",
           "url": "https://wallstreetcn.com/articles/3774887",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 04时26分]"
         },
         {
           "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
           "url": "https://wallstreetcn.com/articles/3774852",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 04时26分]"
         },
         {
           "title": "美股异动丨西部数据涨超6%，领涨存储概念股",
@@ -376,28 +484,12 @@
           "url": "https://www.cls.cn/detail/2402553",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美伊协议核心条款曝光：伊朗石油出口即刻解禁，核项目维持现状，海峡快速重启仍存变数",
-          "url": "https://wallstreetcn.com/articles/3774848",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 04时26分]"
         }
       ]
     }
