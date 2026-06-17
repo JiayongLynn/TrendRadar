@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T13:01:13.102350+08:00",
-  "total_titles_processed": 246,
+  "generated_at": "2026-06-17T17:59:22.737985+08:00",
+  "total_titles_processed": 322,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗战争永久性地改变了全球经济，中国是最大赢家？",
@@ -63,6 +63,30 @@
           "time_info": "[01时12分 ~ 07时41分]"
         },
         {
+          "title": "美伊协议核心条款曝光：伊朗石油出口即刻解禁，核项目维持现状，海峡快速重启仍存变数",
+          "url": "https://wallstreetcn.com/articles/3774848",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时00分 ~ 17时59分]"
+        },
+        {
+          "title": "真主党：若以色列不撤军 伊朗不会签和平协议",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1774340.html",
+          "source": "联合早报",
+          "ranks": [
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时00分 ~ 17时59分]"
+        },
+        {
           "title": "伊朗联合党国际事务副总书记塔拉吉：伊朗面对敌人不仅不会退让，还将严肃地追寻人民的正当诉求。",
           "url": "https://flash.jin10.com/detail/20260617123653210800",
           "source": "金十数据",
@@ -85,33 +109,11 @@
           "time_info": "[13时00分 ~ 13时01分]"
         },
         {
-          "title": "美伊协议核心条款曝光：伊朗石油出口即刻解禁，核项目维持现状，海峡快速重启仍存变数",
-          "url": "https://wallstreetcn.com/articles/3774848",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时00分 ~ 13时01分]"
-        },
-        {
           "title": "七国集团：伊朗永远不会获得核武器。",
           "url": "https://flash.jin10.com/detail/20260617121647319800",
           "source": "金十数据",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时00分 ~ 13时01分]"
-        },
-        {
-          "title": "真主党：若以色列不撤军 伊朗不会签和平协议",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1774340.html",
-          "source": "联合早报",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -127,6 +129,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "北约秘书长吕特：伊朗协议提升了所有人的安全。",
+          "url": "https://flash.jin10.com/detail/20260617173024130800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "美方回应“伊朗队被勒令连夜离境”",
+          "url": "https://www.cls.cn/detail/2402204",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         },
         {
           "title": "美国高级官员：伊朗只有在遵守所有达成的协议条款，包括不干扰霍尔木兹海峡的自由航行和不获取核武器的情况下，才能出售石油。",
@@ -149,6 +173,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：消息人士还指出，根据双方达成的共识，该谅解备忘录的文本将在周五签署后公布。",
+          "url": "https://flash.jin10.com/detail/20260617172010683800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：消息人士强调，彭博社报道中涉及第一条及霍尔木兹海峡相关内容的部分存在具体失实之处，遗漏了关键条款。",
+          "url": "https://flash.jin10.com/detail/20260617171943837800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：消息人士称，彭博社报道的所谓伊美谅解备忘录文本“不准确”。",
+          "url": "https://flash.jin10.com/detail/20260617171910437800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         }
       ]
     },
@@ -164,8 +221,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时41分 ~ 13时01分]"
+          "appearance_count": 4,
+          "time_info": "[07时41分 ~ 17时59分]"
         },
         {
           "title": "美股收盘：资金轮动道指创新高 芯片股回调、工业板块走强",
@@ -285,7 +342,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美国总统特朗普：我昨晚赢得了很多重要的选举。谢谢大家！",
@@ -293,17 +350,6 @@
           "source": "金十数据",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时00分 ~ 13时01分]"
-        },
-        {
-          "title": "人物：80岁的特朗普到底还健康吗？",
-          "url": "https://www.zaochenbao.com/news/Chronicles/202606/1774354.html",
-          "source": "联合早报",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -332,6 +378,18 @@
           "time_info": "01时12分"
         },
         {
+          "title": "人物：80岁的特朗普到底还健康吗？",
+          "url": "https://www.zaochenbao.com/news/Chronicles/202606/1774354.html",
+          "source": "联合早报",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时00分 ~ 17时59分]"
+        },
+        {
           "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
           "url": "https://wallstreetcn.com/articles/3774815",
           "source": "华尔街见闻",
@@ -339,41 +397,44 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时00分 ~ 13时01分]"
+          "appearance_count": 3,
+          "time_info": "[13时00分 ~ 17时59分]"
         },
         {
           "title": "特朗普和伊朗谈判的核心：核问题如何解决？",
           "url": "https://www.zaochenbao.com/news/politics/202606/1774350.html",
           "source": "联合早报",
           "ranks": [
-            9
+            9,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时00分 ~ 13时01分]"
+          "appearance_count": 3,
+          "time_info": "[13时00分 ~ 17时59分]"
         },
         {
           "title": "特朗普批评以色列打击真主党 称正在杀害平民",
           "url": "https://www.zaochenbao.com/news/politics/202606/1774339.html",
           "source": "联合早报",
           "ranks": [
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时00分 ~ 13时01分]"
+          "appearance_count": 3,
+          "time_info": "[13时00分 ~ 17时59分]"
         },
         {
           "title": "特朗普白宫宴会厅造价7.7亿元 一半来自纳税人",
           "url": "https://www.zaochenbao.com/news/politics/202606/1774338.html",
           "source": "联合早报",
           "ranks": [
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时00分 ~ 13时01分]"
+          "appearance_count": 3,
+          "time_info": "[13时00分 ~ 17时59分]"
         },
         {
           "title": "德国总理默茨：（就针对俄罗斯的新制裁）我看到特朗普表现出合作的态度，我有一定的乐观情绪，认为欧洲和美国会尽一切努力结束这场战争。",
@@ -385,6 +446,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "韩总统李在明请求特朗普牵头 和平解决朝鲜问题",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1774367.html",
+          "source": "联合早报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "同样是石油大国！特朗普政府公布下一个目标：利比亚",
+          "url": "https://flash.jin10.com/detail/20260617172728336800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         }
       ]
     },
@@ -402,6 +485,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时00分 ~ 13时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "针对英国监管机构关于搜索业务的新规，谷歌(GOOG.O)表示将与英国竞争与市场管理局（CMA）开展建设性合作，以确保“能够为用户维持高质量的搜索体验”。",
+          "url": "https://flash.jin10.com/detail/20260617173014863800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         }
       ]
     },
