@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T14:03:23.213202+08:00",
-  "total_titles_processed": 298,
+  "generated_at": "2026-06-18T19:13:42.573855+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "美国官员：上周日美国副总统万斯和伊朗议会议长卡利巴夫签署了美伊电子谅解备忘录，并由美国总统特朗普见证。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
+        },
+        {
+          "title": "美伊协议“推手”曝光？特朗普坦言：我不想看到经济灾难、不想当胡佛！",
+          "url": "https://www.cls.cn/detail/2403312",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "美国总统特朗普：没有人故意袭击伊朗的学校。",
@@ -63,6 +74,19 @@
           "time_info": "01时14分"
         },
         {
+          "title": "特朗普：美联储按兵不动也还行，加息难以置信但可能发生，相信沃什",
+          "url": "https://wallstreetcn.com/articles/3774946",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时22分 ~ 19时13分]"
+        },
+        {
           "title": "特朗普：谅解备忘录非最终版本 若不满意就恢复轰炸",
           "url": "https://www.zaochenbao.com/news/politics/202606/1774394.html",
           "source": "联合早报",
@@ -98,16 +122,16 @@
           "time_info": "[01时14分 ~ 08时22分]"
         },
         {
-          "title": "特朗普：美联储按兵不动也还行，加息难以置信但可能发生，相信沃什",
-          "url": "https://wallstreetcn.com/articles/3774946",
+          "title": "为美伊协议辩护，特朗普称“不想看到经济灾难”，不想做“导致1929年崩盘的胡佛”",
+          "url": "https://wallstreetcn.com/articles/3774952",
           "source": "华尔街见闻",
           "ranks": [
-            8,
+            10,
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时22分 ~ 14时03分]"
+          "time_info": "[14时03分 ~ 19时13分]"
         },
         {
           "title": "特朗普：谅解备忘录不是最终协议 若不满意会重新开火",
@@ -139,7 +163,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -172,7 +196,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -221,17 +245,6 @@
           "time_info": "01时14分"
         },
         {
-          "title": "为美伊协议辩护，特朗普称“不想看到经济灾难”，不想做“导致1929年崩盘的胡佛”",
-          "url": "https://wallstreetcn.com/articles/3774952",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
           "title": "美国总统特朗普：如果不把钱还给伊朗，这对美元不利。",
           "url": "https://flash.jin10.com/detail/20260618004711972800",
           "source": "金十数据",
@@ -249,7 +262,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -304,7 +317,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -408,6 +421,17 @@
           "time_info": "01时14分"
         },
         {
+          "title": "G7峰会：欧洲领导人为何又对特朗普以礼相待",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1874457.html",
+          "source": "联合早报",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
           "title": "美国总统特朗普：墨西哥总统辛鲍姆是一位好女人，但是个胆小的女人。",
           "url": "https://flash.jin10.com/detail/20260618003852540800",
           "source": "金十数据",
@@ -450,12 +474,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
+        },
+        {
+          "title": "莫迪会见特朗普 称美印贸易谈判取得进展",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1874451.html",
+          "source": "联合早报",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "德国国防部长：我们需要一个许可性环境，即获得伊朗和阿曼的同意，以及议会授权，之后才能参与任何扫雷任务。",
@@ -464,7 +499,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -478,6 +513,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
+        },
+        {
+          "title": "外媒：伊朗战事以来首艘LNG船通过霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260618184320657800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "王毅与伊朗外长通电话 吁妥善处理霍尔木兹通航问题",
@@ -575,7 +621,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -586,7 +632,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -608,7 +654,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -699,6 +745,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
+        },
+        {
+          "title": "美国与伊朗正式签署协议 包含哪些内容？",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1874459.html",
+          "source": "联合早报",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社：（霍尔木兹海峡）免费通行仅适用于60天的期限。",
@@ -795,7 +852,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         }
@@ -803,7 +860,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
@@ -814,8 +871,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时56分 ~ 14时03分]"
+          "appearance_count": 4,
+          "time_info": "[06时56分 ~ 19时13分]"
         },
         {
           "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
@@ -874,6 +931,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时14分 ~ 04时26分]"
+        },
+        {
+          "title": "风险偏好重燃，美股盘前半导体股大涨，英特尔涨近9%，日元创近两年新低，黄金向上触及4300美元",
+          "url": "https://wallstreetcn.com/articles/3774963",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "美股股指期货小幅上涨，纳指期货涨近0.5%，此前美伊签署电子备忘录。",
@@ -949,11 +1017,12 @@
           "url": "https://wallstreetcn.com/articles/3774939",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时03分 ~ 19时13分]"
         }
       ]
     },
@@ -968,7 +1037,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         }
