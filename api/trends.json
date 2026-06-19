@@ -1,12 +1,57 @@
 {
-  "generated_at": "2026-06-19T07:53:00.743916+08:00",
-  "total_titles_processed": 184,
+  "generated_at": "2026-06-19T13:10:00.641716+08:00",
+  "total_titles_processed": 247,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "伊朗据称因以军持续袭击黎推迟赴瑞士谈判，万斯指责以色列：醒醒认清现实，不可能通过杀戮解决所有国家安全问题",
+          "url": "https://wallstreetcn.com/articles/3775058",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
+          "title": "白宫称因后勤问题 万斯推迟赴瑞士与伊朗谈判",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1974517.html",
+          "source": "联合早报",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
+          "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
+          "url": "https://www.cls.cn/detail/2404187",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时52分 ~ 13时10分]"
+        },
+        {
+          "title": "伊朗推迟赴瑞士行程！黎巴嫩问题成变数 万斯指责以色列对美缺乏信任",
+          "url": "https://www.cls.cn/detail/2404208",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
+        },
         {
           "title": "美国副总统万斯：伊朗已作出具体的核承诺。",
           "url": "https://flash.jin10.com/detail/20260618235047815800",
@@ -41,15 +86,48 @@
           "time_info": "[00时10分 ~ 07时53分]"
         },
         {
-          "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
-          "url": "https://www.cls.cn/detail/2404187",
-          "source": "财联社热门",
+          "title": "伊朗：霍尔木兹海峡60天内免费通行",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1974510.html",
+          "source": "联合早报",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时52分 ~ 07时53分]"
+          "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
+          "title": "伊朗最高领袖称持不同意见 但批准伊美谅解备忘录",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1974507.html",
+          "source": "联合早报",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
+          "title": "英媒：伊朗货船撤离马来西亚 六艘已启程返航霍尔木兹",
+          "url": "https://flash.jin10.com/detail/20260619121227585800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
+          "title": "黎巴嫩媒体：伊朗代表团暂停前往日内瓦与美谈判行程",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1974497.html",
+          "source": "联合早报",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
         },
         {
           "title": "美国五角大楼披露，马斯克旗下的Grok AI被用于协调针对伊朗全境超过2000枚弹药的部署行动。",
@@ -176,7 +254,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "为美伊协议辩护，特朗普称“不想看到经济灾难”，不想做“导致1929年崩盘的胡佛”",
@@ -307,6 +385,17 @@
           "time_info": "[00时10分 ~ 05时27分]"
         },
         {
+          "title": "特朗普：美国期待中东“所有战线全面停火”",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1974508.html",
+          "source": "联合早报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
           "title": "特朗普否认伊朗战争暴露其权力受限",
           "url": "https://flash.jin10.com/detail/20260619070914763800",
           "source": "金十数据",
@@ -343,7 +432,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
@@ -352,11 +441,24 @@
           "ranks": [
             6,
             4,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 07时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 13时10分]"
+        },
+        {
+          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
+          "url": "https://www.cls.cn/detail/2404196",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时52分 ~ 13时10分]"
         },
         {
           "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
@@ -382,15 +484,15 @@
           "time_info": "[00时10分 ~ 05时27分]"
         },
         {
-          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
-          "url": "https://www.cls.cn/detail/2404196",
-          "source": "财联社热门",
+          "title": "美股三大指数集体收涨，纳指大涨近2%！英特尔、美光科技等多只芯片股创历史新高",
+          "url": "https://www.gelonghui.com/news/5255035",
+          "source": "格隆汇",
           "ranks": [
-            4
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时52分 ~ 07时53分]"
+          "time_info": "[13时09分 ~ 13时10分]"
         },
         {
           "title": "美股异动｜SpaceX连续两日回调，拖累太空概念股普跌",
@@ -401,8 +503,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 07时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 13时10分]"
         },
         {
           "title": "美股异动丨Energy Fuels一度大涨超18%，获美国政府约7.25亿美元有条件贷款",
@@ -413,8 +515,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 07时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 13时10分]"
         },
         {
           "title": "中美股市今日休市 金银油交易提前结束",
@@ -475,7 +577,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "什么！ChatGPT也要刷脸实名认证了？",
@@ -487,13 +589,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时52分 ~ 07时53分]"
+        },
+        {
+          "title": "OpenAI被查、Anthropic被限，AI炒作漏算了什么？",
+          "url": "https://flash.jin10.com/detail/20260619120705478800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美联储失去平衡通胀和衰退能力，美元与美债维持高位风险抬升",
+          "url": "https://flash.jin10.com/detail/20260619114259658800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
+        },
         {
           "title": "沃什“首秀”美联储放鹰，三大美股指转跌，美元拉升，美债黄金跳水",
           "url": "https://wallstreetcn.com/articles/3774939",
@@ -509,7 +633,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
@@ -519,8 +643,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时52分 ~ 13时10分]"
+        },
+        {
+          "title": "美元指数升至一年多新高 美国电力监管下场推动数据中心入网 | 环球市场",
+          "url": "https://www.cls.cn/detail/2404205",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时52分 ~ 07时53分]"
+          "time_info": "[13时09分 ~ 13时10分]"
         }
       ]
     }
