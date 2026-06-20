@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T07:07:26.143363+08:00",
-  "total_titles_processed": 140,
+  "generated_at": "2026-06-20T12:22:47.314089+08:00",
+  "total_titles_processed": 195,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
         {
           "title": "美国总统特朗普透露，卡塔尔赠予的空军一号专机已经搭载了星链通信网络。",
@@ -75,6 +75,17 @@
           "time_info": "[03时58分 ~ 07时07分]"
         },
         {
+          "title": "美媒：特朗普特使正前往瑞士与伊朗谈判",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2074576.html",
+          "source": "联合早报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
           "title": "美国总统特朗普：我的民调数据非常好。我能以25个百分点的优势击败他们推出的任何候选人。",
           "url": "https://flash.jin10.com/detail/20260620030507766800",
           "source": "金十数据",
@@ -85,6 +96,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时58分 ~ 07时07分]"
+        },
+        {
+          "title": "特朗普释放重启朝美对话信号 美方重申无核化仍是核心目标",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1974555.html",
+          "source": "联合早报",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 12时22分]"
+        },
+        {
+          "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
+          "url": "https://wallstreetcn.com/articles/3775098",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         },
         {
           "title": "美国总统特朗普：（谈及七国集团）他们本应保留八国集团。如果那样的话，俄乌之间可能就不会发生战争了，但奥巴马不想让普京留在那里。以前是八国集团。如果当初保留下来，会好得多。",
@@ -109,17 +143,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时58分 ~ 07时07分]"
-        },
-        {
-          "title": "特朗普释放重启朝美对话信号 美方重申无核化仍是核心目标",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1974555.html",
-          "source": "联合早报",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 07时07分]"
         },
         {
           "title": "美国总统特朗普：我结束了8场战争，与伊朗的战争是最艰难的。",
@@ -232,6 +255,17 @@
           "time_info": "[05时18分 ~ 07时07分]"
         },
         {
+          "title": "特朗普称今年将再赴中国",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2074571.html",
+          "source": "联合早报",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
           "title": "特朗普：“我是老大”的言论只是在开玩笑 没想到传遍全世界",
           "url": "https://flash.jin10.com/detail/20260620024147988800",
           "source": "金十数据",
@@ -318,34 +352,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时58分"
+        },
+        {
+          "title": "特朗普称梅洛尼求合照 意大利外长取消访美",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2074561.html",
+          "source": "联合早报",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "美国白宫：特朗普总统做成了一件六个月前大多数专家认为不可能的事，我们已经取得了胜利。",
+          "url": "https://flash.jin10.com/detail/20260620091217880800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 17,
       "titles": [
         {
           "title": "伊朗推迟赴瑞士行程！黎巴嫩问题成变数 万斯指责以色列对美缺乏信任",
           "url": "https://www.cls.cn/detail/2404208",
           "source": "财联社热门",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 07时07分]"
-        },
-        {
-          "title": "伊朗据称因以军持续袭击黎推迟赴瑞士谈判，万斯指责以色列：醒醒认清现实，不可能通过杀戮解决所有国家安全问题",
-          "url": "https://wallstreetcn.com/articles/3775058",
-          "source": "华尔街见闻",
-          "ranks": [
+            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 07时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 12时22分]"
         },
         {
           "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
@@ -353,7 +399,19 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            3
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 12时22分]"
+        },
+        {
+          "title": "伊朗据称因以军持续袭击黎推迟赴瑞士谈判，万斯指责以色列：醒醒认清现实，不可能通过杀戮解决所有国家安全问题",
+          "url": "https://wallstreetcn.com/articles/3775058",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -375,22 +433,24 @@
           "url": "https://www.zaochenbao.com/news/politics/202606/1974554.html",
           "source": "联合早报",
           "ranks": [
-            7
+            7,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 07时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 12时22分]"
         },
         {
           "title": "分析：伊朗把握中东地缘优势 美国难挽谈判劣势",
           "url": "https://www.zaochenbao.com/news/politics/202606/1974553.html",
           "source": "联合早报",
           "ranks": [
-            8
+            8,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 07时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 12时22分]"
         },
         {
           "title": "霍尔木兹海峡已重开，但伊朗收费吗、找得到油轮吗？",
@@ -405,6 +465,17 @@
           "time_info": "[01时24分 ~ 07时07分]"
         },
         {
+          "title": "伊朗本周已运出2000万桶石油",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2074574.html",
+          "source": "联合早报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
           "title": "伊朗最高领袖：对伊美谅解备忘录原则上有不同意见，但基于伊总统所作承诺并明确承担相关责任，予以许可",
           "url": "https://wallstreetcn.com/articles/3775052",
           "source": "华尔街见闻",
@@ -414,6 +485,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "伊朗总统高级顾问：美国必须非常谨慎，以免和平协议沦为以色列固有恶意行为的牺牲品。",
+          "url": "https://flash.jin10.com/detail/20260620112802434800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         },
         {
           "title": "市场消息：美国向盟友发布了一系列谈话要点，旨在将伊朗协议包装成一项政治胜利，尽管美国仅仅确保了霍尔木兹海峡的重新开放。",
@@ -427,6 +509,17 @@
           "time_info": "01时24分"
         },
         {
+          "title": "伊朗：不信任美国 正在做两手准备",
+          "url": "https://flash.jin10.com/detail/20260620110937117800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
           "title": "伊朗外长：美国应对任何违反谅解备忘录条款的行为负责",
           "url": "https://flash.jin10.com/detail/20260619234334423800",
           "source": "金十数据",
@@ -438,6 +531,17 @@
           "time_info": "01时24分"
         },
         {
+          "title": "市场消息：伊朗告知调停方，黎巴嫩停火对德黑兰而言是一个至关重要的问题。",
+          "url": "https://flash.jin10.com/detail/20260620100238653800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
           "title": "伊朗外长向巴基斯坦外长表示，美国应对结束包括黎巴嫩在内的所有战线的战争以及任何违反谅解备忘录的行为负责。",
           "url": "https://flash.jin10.com/detail/20260619233208612800",
           "source": "金十数据",
@@ -447,12 +551,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "美媒：美卡拟联手解冻伊朗百亿资金 人道主义采购成破冰首步",
+          "url": "https://flash.jin10.com/detail/20260620090611743800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "伊朗足协：将向国际足联投诉美国",
+          "url": "https://flash.jin10.com/detail/20260620090330280800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股三大指数集体收涨，纳指大涨近2%！英特尔、美光科技等多只芯片股创历史新高",
@@ -462,19 +588,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 07时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 12时22分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
           "url": "https://www.cls.cn/detail/2404196",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 07时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 12时22分]"
         },
         {
           "title": "美股异动｜SpaceX连续两日回调，拖累太空概念股普跌",
@@ -484,8 +611,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 07时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 12时22分]"
+        },
+        {
+          "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2404523",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         }
       ]
     },
@@ -501,8 +639,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 07时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 12时22分]"
         },
         {
           "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
@@ -555,11 +693,12 @@
           "url": "https://wallstreetcn.com/articles/3775075",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 12时22分]"
         }
       ]
     }
