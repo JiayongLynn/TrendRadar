@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T08:17:11.235508+08:00",
-  "total_titles_processed": 161,
+  "generated_at": "2026-06-21T14:11:24.182573+08:00",
+  "total_titles_processed": 230,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 40,
       "titles": [
         {
           "title": "伊朗推迟赴瑞士行程！黎巴嫩问题成变数 万斯指责以色列对美缺乏信任",
@@ -43,15 +43,48 @@
           "time_info": "[00时26分 ~ 08时17分]"
         },
         {
+          "title": "伊朗石油部长Paknejad：协议达成后，伊朗石油工业将成为全球范围内提供投资机会、技术和金融合作的最大平台。",
+          "url": "https://flash.jin10.com/detail/20260621131701531800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
+        },
+        {
+          "title": "美伊谈判在即，伊朗军方宣布关闭霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3775118",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
+        },
+        {
           "title": "以黎停火后又互攻 伊朗再封霍尔木兹海峡",
           "url": "https://www.zaochenbao.com/news/politics/202606/2174617.html",
           "source": "联合早报",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
+        },
+        {
+          "title": "德黑兰将美伊协议包装成胜利，而伊朗民众想要的是柴米油盐",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2174644.html",
+          "source": "联合早报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗最高领袖顾问表示，如果协议仍停留在纸面上，中东地区的能源流动将继续处于中断状态。",
@@ -71,7 +104,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         },
@@ -136,15 +169,49 @@
           "time_info": "[02时19分 ~ 04时21分]"
         },
         {
+          "title": "霍尔木兹海峡又封了？伊朗、美国说法不一 瑞士小镇上演外交风云",
+          "url": "https://www.cls.cn/detail/2404688",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时17分 ~ 14时11分]"
+        },
+        {
           "title": "伊朗拟在霍尔木兹海峡征“保险费”引航运业忧虑",
           "url": "https://www.zaochenbao.com/news/politics/202606/2174614.html",
           "source": "联合早报",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
+        },
+        {
+          "title": "【早报】伊朗谈判代表团已抵达瑞士；荷兰5-1战胜瑞典",
+          "url": "https://www.cls.cn/detail/2404706",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
+        },
+        {
+          "title": "以财长：巴勒斯坦国比伊朗更危险",
+          "url": "https://flash.jin10.com/detail/20260621122647022800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
         },
         {
           "title": "据沙特媒体哈达斯：伊朗代表团前往瑞士，成员包括伊朗中央银行行长和副石油部长。",
@@ -180,6 +247,17 @@
           "time_info": "02时19分"
         },
         {
+          "title": "美国欲以解冻百亿资产为筹码 施压伊朗接受联合国核核查",
+          "url": "https://flash.jin10.com/detail/20260621121122711800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
+        },
+        {
           "title": "伊朗伊斯兰革命卫队海军政治事务官员：任何协议的真正保障来自于我们的实力。",
           "url": "https://flash.jin10.com/detail/20260621023826104800",
           "source": "金十数据",
@@ -213,15 +291,15 @@
           "time_info": "04时21分"
         },
         {
-          "title": "霍尔木兹海峡又封了？伊朗、美国说法不一 瑞士小镇上演外交风云",
-          "url": "https://www.cls.cn/detail/2404688",
-          "source": "财联社热门",
+          "title": "据CNN：一名伊朗官员表示，结束黎巴嫩冲突是伊朗代表团此次议程中最重要的事项。",
+          "url": "https://flash.jin10.com/detail/20260621114725805800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时17分"
+          "time_info": "14时11分"
         },
         {
           "title": "市场消息：伊朗革命卫队海军在霍尔木兹海峡附近发布无线电广播：鉴于以色列在黎巴嫩的行动以及美国违反相关承诺，霍尔木兹海峡现已关闭航行。所有船只被命令远离该海域，以确保自身安全。",
@@ -268,6 +346,17 @@
           "time_info": "02时19分"
         },
         {
+          "title": "美国中央司令部：伊朗未控制和关闭霍尔木兹海峡",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2174631.html",
+          "source": "联合早报",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
+        },
+        {
           "title": "美军称暂未观察到伊朗关闭霍尔木兹海峡",
           "url": "https://flash.jin10.com/detail/20260620221348834800",
           "source": "金十数据",
@@ -288,6 +377,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "以色列侨民事务部长Amichai Chikli：叙利亚和土耳其对以色列的威胁远比伊朗更令人担忧。",
+          "url": "https://flash.jin10.com/detail/20260621105013148800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
         },
         {
           "title": "伊朗革命卫队：警告船只不要接近霍尔木兹海峡，否则其安全将面临风险。",
@@ -359,7 +459,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普为新专机揭幕 称“飞行白宫”飞更快更远",
@@ -481,6 +581,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行",
+          "url": "https://www.cls.cn/detail/2404722",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
+        },
+        {
           "title": "分析：特朗普对经济风险的担忧削弱了美国谈判筹码",
           "url": "https://flash.jin10.com/detail/20260621004843090800",
           "source": "金十数据",
@@ -490,6 +601,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "特朗普警告：若谈判无果 美国将对霍尔木兹海峡征通行费",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2174630.html",
+          "source": "联合早报",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
         }
       ]
     },
@@ -503,11 +625,12 @@
           "source": "格隆汇",
           "ranks": [
             1,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 08时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 14时11分]"
         },
         {
           "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
@@ -527,11 +650,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 08时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 14时11分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -556,6 +680,34 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时26分 ~ 08时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
+          "url": "https://wallstreetcn.com/articles/3775117",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
+        },
+        {
+          "title": "OpenAI被查、Anthropic被限，AI炒作漏算了什么？",
+          "url": "https://flash.jin10.com/detail/20260621120212050800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
         }
       ]
     },
