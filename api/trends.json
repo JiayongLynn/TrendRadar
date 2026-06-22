@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T07:24:05.489097+08:00",
-  "total_titles_processed": 188,
+  "generated_at": "2026-06-22T13:17:27.395432+08:00",
+  "total_titles_processed": 278,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "美伊谈判在即，伊朗军方宣布关闭霍尔木兹海峡",
@@ -86,6 +86,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时02分 ~ 07时24分]"
+        },
+        {
+          "title": "【早报】美油大幅高开，伊朗代表团离开谈判地点；多只科技牛股本周解禁；比利时0-0平伊朗、西班牙获首胜",
+          "url": "https://www.cls.cn/detail/2405023",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "据伊朗法尔斯通讯社：伊朗最高领袖顾问表示，伊朗不会放弃在霍尔木兹海峡所获得的能力。",
@@ -237,6 +248,17 @@
           "time_info": "01时49分"
         },
         {
+          "title": "伊朗外交部：伊美达成协议文件",
+          "url": "https://www.cls.cn/detail/2405179",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
           "title": "据伊朗法尔斯通讯社援引伊朗谈判团队一名知情人士称，四方会谈在瑞士的第一轮已经结束。",
           "url": "https://flash.jin10.com/detail/20260621230724788800",
           "source": "金十数据",
@@ -279,6 +301,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "伊朗外交部：伊美谈判就解冻伊朗资产等取得良好进展",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2274699.html",
+          "source": "联合早报",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "伊朗：伊朗石油制裁豁免草案将很快出台",
@@ -427,7 +460,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行",
@@ -474,6 +507,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时23分 ~ 07时24分]"
+        },
+        {
+          "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
+          "url": "https://wallstreetcn.com/articles/3775145",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "美国总统特朗普：在为北约花费数万亿美元之后，意大利及其总理连考虑介入伊朗及其核威胁的念头都不曾有。数十年来，我们保卫他们，但一旦受到考验，他们却不在我们和世界其他国家最需要的时候挺身而出。令人失望！",
@@ -566,6 +610,28 @@
           "time_info": "01时49分"
         },
         {
+          "title": "美伊和平又生变数？特朗普威胁言论激怒伊朗 谈判陷入暂停",
+          "url": "https://www.cls.cn/detail/2405074",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "获特朗普力挺 哥伦比亚极右翼总统候选人第二轮投票胜出",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2274696.html",
+          "source": "联合早报",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
           "title": "伊朗代表团因抗议特朗普言论而离开谈判会场",
           "url": "https://flash.jin10.com/detail/20260622003140203800",
           "source": "金十数据",
@@ -630,6 +696,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "特朗普发出威胁言论后 伊朗代表团暂停谈判",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2274682.html",
+          "source": "联合早报",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         }
       ]
     },
@@ -658,6 +735,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时23分 ~ 07时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "大行评级丨招银国际：AI投入对龙头科技公司盈利影响可控，看好微软、谷歌、亚马逊等",
+          "url": "https://www.gelonghui.com/news/5255168",
+          "source": "格隆汇",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         }
       ]
     },
