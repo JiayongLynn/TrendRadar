@@ -1,34 +1,12 @@
 {
-  "generated_at": "2026-06-23T07:30:32.819497+08:00",
-  "total_titles_processed": 158,
+  "generated_at": "2026-06-23T12:12:25.220765+08:00",
+  "total_titles_processed": 243,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
-        {
-          "title": "美国暂时解除对伊朗石油制裁 直至8月21日",
-          "url": "https://www.zaochenbao.com/news/politics/202606/2274752.html",
-          "source": "联合早报",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 07时30分]"
-        },
-        {
-          "title": "美伊谈判进展“令人鼓舞” 伊朗同意恢复核设施检查",
-          "url": "https://www.zaochenbao.com/news/politics/202606/2274751.html",
-          "source": "联合早报",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 07时30分]"
-        },
         {
           "title": "伊朗谈判团队称伊美谈判达成5项要点",
           "url": "https://wallstreetcn.com/articles/3775177",
@@ -39,8 +17,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 07时30分]"
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 12时12分]"
+        },
+        {
+          "title": "美国暂时解除对伊朗石油制裁 直至8月21日",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2274752.html",
+          "source": "联合早报",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 12时12分]"
+        },
+        {
+          "title": "美伊谈判进展“令人鼓舞” 伊朗同意恢复核设施检查",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2274751.html",
+          "source": "联合早报",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 12时12分]"
         },
         {
           "title": "伊朗反驳万斯关于国际原子能机构进入伊朗的说法",
@@ -104,7 +106,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
         },
@@ -126,7 +128,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
         },
@@ -159,9 +161,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
+        },
+        {
+          "title": "美国将放宽对伊朗能源相关交易限制 SpaceX连续三个交易日下跌 | 环球市场",
+          "url": "https://www.cls.cn/detail/2406208",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         },
         {
           "title": "伊朗塔斯尼姆通讯社援引知情人士：动用冻结资金购买粮食的说法并不属实。",
@@ -181,7 +194,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
         },
@@ -192,7 +205,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
         },
@@ -208,13 +221,24 @@
           "time_info": "01时45分"
         },
         {
+          "title": "美国称伊朗同意恢复核设施检查 伊朗予以否认",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2374758.html",
+          "source": "联合早报",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
           "title": "阿曼外长：今晚在马斯喀特欢迎了伊朗议会议长卡利巴夫和外长阿拉格齐。双方就近期伊朗与美国的谅解备忘录进行了建设性讨论，特别是霍尔木兹海峡的相关内容。",
           "url": "https://flash.jin10.com/detail/20260623050922347800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
         }
@@ -222,7 +246,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
@@ -291,6 +315,28 @@
           "time_info": "05时09分"
         },
         {
+          "title": "特朗普政府加码量子战略！设定2028年科研级量子计算机突破目标",
+          "url": "https://www.cls.cn/detail/2406197",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "特朗普下令加快研发强大量子电脑 设2028年实现目标",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2374772.html",
+          "source": "联合早报",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
           "title": "美国总统特朗普签署量子领域行政令。",
           "url": "https://flash.jin10.com/detail/20260623043421047800",
           "source": "金十数据",
@@ -319,7 +365,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
         },
@@ -377,6 +423,70 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "特朗普民调不断下滑 美国中期选举存变数",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2374756.html",
+          "source": "联合早报",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
+          "url": "https://www.cls.cn/detail/2406186",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 12时12分]"
+        },
+        {
+          "title": "美伊达成协议文件，美股盘初涨跌互现，半导体股普涨，油价跌超2%",
+          "url": "https://wallstreetcn.com/articles/3775156",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 05时09分]"
+        },
+        {
+          "title": "美股即将大幅回调20%！资深策略师“捕捉”到六大预警信号",
+          "url": "https://www.cls.cn/detail/2406236",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "美股期指小幅上涨 美光科技盘前涨超4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2405983",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 12时12分]"
         }
       ]
     },
@@ -420,42 +530,86 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
       "titles": [
         {
-          "title": "美伊达成协议文件，美股盘初涨跌互现，半导体股普涨，油价跌超2%",
-          "url": "https://wallstreetcn.com/articles/3775156",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 05时09分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
-          "url": "https://www.cls.cn/detail/2406186",
+          "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
+          "url": "https://www.cls.cn/detail/2406155",
           "source": "财联社热门",
           "ranks": [
-            3
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时30分"
+          "time_info": "12时12分"
         },
         {
-          "title": "美股期指小幅上涨 美光科技盘前涨超4% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2405983",
-          "source": "财联社热门",
+          "title": "市场消息：谷歌DeepMind与A24宣布达成研究合作关系。",
+          "url": "https://flash.jin10.com/detail/20260623010954351800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 07时30分]"
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【早报】SpaceX三日暴跌23%；油价下挫、金价收涨；梅西梅开二度，加冕世界杯历史射手王",
+          "url": "https://www.cls.cn/detail/2406212",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "港股异动丨黄金股延续跌势，紫金黄金国际跌近6%，国际金价跌破关键支撑",
+          "url": "https://www.gelonghui.com/news/5255968",
+          "source": "格隆汇",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
+          "url": "https://wallstreetcn.com/articles/3775156",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 12时12分]"
+        },
+        {
+          "title": "城堡证券：沃什提升了美联储公信力，或稳住长端美债利率",
+          "url": "https://flash.jin10.com/detail/20260623112954865800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         }
       ]
     },
@@ -474,40 +628,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时45分 ~ 07时30分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "市场消息：谷歌DeepMind与A24宣布达成研究合作关系。",
-          "url": "https://flash.jin10.com/detail/20260623010954351800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
-          "url": "https://wallstreetcn.com/articles/3775156",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时30分"
         }
       ]
     },
