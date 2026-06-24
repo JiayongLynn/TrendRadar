@@ -1,22 +1,33 @@
 {
-  "generated_at": "2026-06-24T16:29:22.043630+08:00",
-  "total_titles_processed": 303,
+  "generated_at": "2026-06-24T19:52:05.416858+08:00",
+  "total_titles_processed": 368,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
-          "title": "特朗普称将调查未降低油价的石油公司",
-          "url": "https://www.zaochenbao.com/news/politics/202606/2474871.html",
-          "source": "联合早报",
+          "title": "特朗普：伊朗已告知美国 未在霍尔木兹海峡收取通行费",
+          "url": "https://flash.jin10.com/detail/20260624194202151800",
+          "source": "金十数据",
           "ranks": [
-            3
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
+        },
+        {
+          "title": "美国总统特朗普：我们将释放一些完全由我们控制的资金，用于支持我们的农民和牧场主，购买玉米、小麦、大豆等。",
+          "url": "https://flash.jin10.com/detail/20260624194146267800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
         },
         {
           "title": "路透社/益普索民调显示，美国总统特朗普支持率跌至34%，与他第二个任期内的最低水平持平。",
@@ -28,6 +39,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        },
+        {
+          "title": "特朗普称将调查未降低油价的石油公司",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2474871.html",
+          "source": "联合早报",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 19时52分]"
         },
         {
           "title": "特朗普称国际原子能机构核查人员将适时访问伊朗",
@@ -46,11 +69,34 @@
           "source": "联合早报",
           "ranks": [
             10,
-            23
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时15分 ~ 19时52分]"
+        },
+        {
+          "title": "美国总统特朗普：此外，美国并未向伊朗提供任何资金，也未释放他们的资金。",
+          "url": "https://flash.jin10.com/detail/20260624193848853800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时15分 ~ 16时29分]"
+          "time_info": "[19时51分 ~ 19时52分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗已通知美国，没有在霍尔木兹海峡收取通行费。",
+          "url": "https://flash.jin10.com/detail/20260624193827030800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
         },
         {
           "title": "被问及卡车司机面临着因AI而失去工作的高风险，美国总统特朗普表示：他们不会失业。现在找工作并不难。我们的就业数据处于历史最高水平。",
@@ -92,7 +138,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -213,6 +259,17 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "韩股“V型反弹”，美股盘前半导体股上扬、美光涨3%，美元触及七个月高位，黄金跌超1.3%",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 19时52分]"
+        },
+        {
           "title": "美股收盘：AI投资热潮遭重新审视 芯片股重挫拖累纳指跌超2%",
           "url": "https://www.cls.cn/detail/2407361",
           "source": "财联社热门",
@@ -248,17 +305,6 @@
           "time_info": "12时15分"
         },
         {
-          "title": "韩股“V型反弹”，美股盘前半导体股上扬、美光涨3%，美元触及七个月高位，黄金跌超1.3%",
-          "url": "https://wallstreetcn.com/articles/3775351",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
           "title": "美股异动丨嘉年华邮轮跌超10%，第三季度调整后盈利指引低于预期",
           "url": "https://www.gelonghui.com/news/5256659",
           "source": "格隆汇",
@@ -288,7 +334,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -307,7 +353,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "伊朗议长说中东安全由中东国家决定",
@@ -316,7 +362,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -365,6 +411,17 @@
           "time_info": "[02时08分 ~ 07时14分]"
         },
         {
+          "title": "伊朗央行行长：随着美国豁免措施的实施以及获取境外资产渠道的改善，我将拥有更大的回旋余地来“大幅增加外汇供应”。",
+          "url": "https://flash.jin10.com/detail/20260624191731914800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
+        },
+        {
           "title": "伊朗总统：伊美谅解备忘录不涉及导弹问题",
           "url": "https://flash.jin10.com/detail/20260624011029676800",
           "source": "金十数据",
@@ -393,6 +450,17 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时15分 ~ 19时52分]"
+        },
+        {
           "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
           "url": "https://wallstreetcn.com/articles/3775156",
           "source": "华尔街见闻",
@@ -402,17 +470,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时08分 ~ 07时14分]"
-        },
-        {
-          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3775262",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 16时29分]"
         },
         {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐升，金银下挫",
@@ -488,11 +545,12 @@
           "url": "https://wallstreetcn.com/articles/3775315",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时15分"
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 19时52分]"
         }
       ]
     },
