@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T19:52:05.416858+08:00",
-  "total_titles_processed": 368,
+  "generated_at": "2026-06-24T22:48:57.670060+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普：伊朗已告知美国 未在霍尔木兹海峡收取通行费",
@@ -30,6 +30,30 @@
           "time_info": "[19时51分 ~ 19时52分]"
         },
         {
+          "title": "以色列总理内塔尼亚胡：我没有向特朗普请求攻击伊朗的许可，我只是向他通报了此事。",
+          "url": "https://flash.jin10.com/detail/20260624224205944800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "特朗普称将调查未降低油价的石油公司",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2474871.html",
+          "source": "联合早报",
+          "ranks": [
+            3,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 22时48分]"
+        },
+        {
           "title": "路透社/益普索民调显示，美国总统特朗普支持率跌至34%，与他第二个任期内的最低水平持平。",
           "url": "https://flash.jin10.com/detail/20260624014333064800",
           "source": "金十数据",
@@ -41,18 +65,6 @@
           "time_info": "02时08分"
         },
         {
-          "title": "特朗普称将调查未降低油价的石油公司",
-          "url": "https://www.zaochenbao.com/news/politics/202606/2474871.html",
-          "source": "联合早报",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 19时52分]"
-        },
-        {
           "title": "特朗普称国际原子能机构核查人员将适时访问伊朗",
           "url": "https://flash.jin10.com/detail/20260624014248941800",
           "source": "金十数据",
@@ -62,6 +74,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        },
+        {
+          "title": "美国民主党参议员沃伦：（就特朗普取消住房法案签署仪式一事作出回应）特朗普明确表示他并不担心开支的增加。",
+          "url": "https://flash.jin10.com/detail/20260624223823241800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "特朗普：伊朗解冻资金将进入美国控制托管账户",
@@ -108,6 +131,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        },
+        {
+          "title": "美参院通过决议 要特朗普召回海外作战美军",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2474893.html",
+          "source": "联合早报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "特朗普谈伊朗协议：任何批评这笔交易的人都必须接受教育，即使是我的朋友。",
@@ -256,7 +290,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "韩股“V型反弹”，美股盘前半导体股上扬、美光涨3%，美元触及七个月高位，黄金跌超1.3%",
@@ -305,6 +339,17 @@
           "time_info": "12时15分"
         },
         {
+          "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "美股异动丨嘉年华邮轮跌超10%，第三季度调整后盈利指引低于预期",
           "url": "https://www.gelonghui.com/news/5256659",
           "source": "格隆汇",
@@ -326,6 +371,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时15分 ~ 16时29分]"
+        },
+        {
+          "title": "美股异动丨哔哩哔哩拉升涨超5%，计划斥资3亿美元回购股票",
+          "url": "https://www.gelonghui.com/news/5257403",
+          "source": "格隆汇",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
+          "url": "https://www.cls.cn/detail/2408279",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "美股半导体股盘前普涨，美光科技(MU.O)、高通(QCOM.O)涨超3%，英特尔(INTC.O)、迈威尔科技(MRVL.O)涨约2%，AMD(AMD.O)涨1.5%。",
@@ -353,7 +420,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "伊朗议长说中东安全由中东国家决定",
@@ -389,6 +456,17 @@
           "time_info": "02时08分"
         },
         {
+          "title": "埃及总理表示，由于伊朗战争，预计第二季度至第三季度的旅游业将受到影响。",
+          "url": "https://flash.jin10.com/detail/20260624223844755800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "美国暂时豁免石油制裁 伊朗否认同意恢复核检查",
           "url": "https://www.zaochenbao.com/news/politics/202606/2374825.html",
           "source": "联合早报",
@@ -420,6 +498,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时51分 ~ 19时52分]"
+        },
+        {
+          "title": "国际海事组织披露霍尔木兹撤离方案：伊朗、美国和阿曼将协作导航",
+          "url": "https://flash.jin10.com/detail/20260624223815944800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "伊朗总统：伊美谅解备忘录不涉及导弹问题",
@@ -454,11 +543,12 @@
           "url": "https://wallstreetcn.com/articles/3775262",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时15分 ~ 19时52分]"
+          "appearance_count": 5,
+          "time_info": "[12时15分 ~ 22时48分]"
         },
         {
           "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
