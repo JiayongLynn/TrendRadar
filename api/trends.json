@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T05:40:34.662961+08:00",
-  "total_titles_processed": 147,
+  "generated_at": "2026-06-25T07:14:21.306824+08:00",
+  "total_titles_processed": 189,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普：不接受美伊协议包含任何涉及航运的费用",
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
         },
@@ -70,8 +70,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 05时40分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 07时14分]"
         },
         {
           "title": "特朗普称将调查未降低油价的石油公司",
@@ -81,8 +81,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 05时40分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 07时14分]"
         },
         {
           "title": "鲁比奥：要么伊朗履行承诺，要么特朗普采取行动",
@@ -113,7 +113,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
         },
@@ -124,7 +124,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
         },
@@ -135,7 +135,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
         },
@@ -157,7 +157,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
         },
@@ -168,9 +168,31 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        },
+        {
+          "title": "特朗普评价英国潜在新首相伯纳姆：不太了解 只听说是“极端自由派”",
+          "url": "https://flash.jin10.com/detail/20260625051721074800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "特朗普回应拒签住房法案：比任何人都懂房地产 降息才是关键",
+          "url": "https://flash.jin10.com/detail/20260625051323883800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         }
       ]
     },
@@ -314,7 +336,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
@@ -326,6 +348,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时11分 ~ 05时40分]"
+        },
+        {
+          "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
+          "url": "https://www.cls.cn/detail/2408510",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "金十图示：2026年06月24日（周三）美股热门股票行情一览（美股盘中）",
@@ -347,8 +380,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 05时40分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 07时14分]"
         },
         {
           "title": "美股异动｜亚马逊涨3.5%，Prime Day首日线上消费额超预期",
@@ -362,6 +395,17 @@
           "time_info": "[01时11分 ~ 05时40分]"
         },
         {
+          "title": "美股异动｜美光盘后大涨近14%，第三财季营收远超预期、指引炸裂，HBM供需紧张局面预计将持续至2027后",
+          "url": "https://www.gelonghui.com/news/5257461",
+          "source": "格隆汇",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
           "title": "金十图示：2026年06月24日（周三）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260625003209642800",
           "source": "金十数据",
@@ -373,15 +417,54 @@
           "time_info": "01时11分"
         },
         {
+          "title": "美股三大指数收盘涨跌不一，纳指跌0.4%，芯片股继续回调，中概指数跌1.77%",
+          "url": "https://www.gelonghui.com/news/5257460",
+          "source": "格隆汇",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
           "title": "高通(QCOM.O)美股盘后涨超14%，高通CFO称目标在2027财年实现AI数据中心业务收入50亿美元。",
           "url": "https://flash.jin10.com/detail/20260625044531459800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 07时14分]"
+        },
+        {
+          "title": "科技股承压，美股指涨跌互现，美债美元齐涨，黄金暴跌，美光盘后暴涨12%",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         }
       ]
     },
@@ -399,23 +482,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3775262",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 05时40分]"
         }
       ]
     }
