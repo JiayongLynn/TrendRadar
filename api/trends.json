@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T01:20:50.217200+08:00",
-  "total_titles_processed": 90,
+  "generated_at": "2026-06-26T04:14:46.083620+08:00",
+  "total_titles_processed": 118,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 04时14分]"
         },
         {
           "title": "美股异动丨拜耳大涨近19%，美最高法院在Roundup除草剂致癌诉讼中作出有利公司裁决",
@@ -26,8 +26,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 04时14分]"
         },
         {
           "title": "金十图示：2026年06月25日（周四）热门中概股行情一览（美股盘中）",
@@ -44,7 +44,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "意大利总理梅洛尼：我们从未参与伊朗冲突。",
@@ -67,6 +67,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "伊朗警告船舶勿使用未经授权的海峡航线",
+          "url": "https://flash.jin10.com/detail/20260626030730178800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         }
       ]
     },
