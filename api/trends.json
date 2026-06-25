@@ -1,12 +1,56 @@
 {
-  "generated_at": "2026-06-25T07:14:21.306824+08:00",
-  "total_titles_processed": 189,
+  "generated_at": "2026-06-25T12:15:02.375739+08:00",
+  "total_titles_processed": 268,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "美国总统特朗普：委内瑞拉发生的两次重大地震造成了惨重的死亡人数。",
+          "url": "https://flash.jin10.com/detail/20260625114726660800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
+        },
+        {
+          "title": "美国总统特朗普：（关于委内瑞拉）初步报告不容乐观。",
+          "url": "https://flash.jin10.com/detail/20260625114603653800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
+        },
+        {
+          "title": "美国总统特朗普：（关于委内瑞拉）我已指示我们政府的所有机构做好迅速行动的准备。",
+          "url": "https://flash.jin10.com/detail/20260625114551039800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
+        },
+        {
+          "title": "美国总统特朗普：美国随时准备、愿意并能够帮助委内瑞拉。",
+          "url": "https://flash.jin10.com/detail/20260625114545317800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
+        },
         {
           "title": "特朗普：不接受美伊协议包含任何涉及航运的费用",
           "url": "https://flash.jin10.com/detail/20260625050017014800",
@@ -83,6 +127,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时11分 ~ 07时14分]"
+        },
+        {
+          "title": "特朗普会见吕特 称对北约盟友感到失望",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2574917.html",
+          "source": "联合早报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
+        },
+        {
+          "title": "特朗普：伊朗若在霍尔木兹海峡收费就终止谈判",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2574903.html",
+          "source": "联合早报",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
         },
         {
           "title": "鲁比奥：要么伊朗履行承诺，要么特朗普采取行动",
@@ -179,7 +245,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -190,7 +256,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         }
@@ -198,8 +264,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "革命卫队：未经伊朗协调宣布的霍尔木兹海峡新航线不可接受且具危险",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2574924.html",
+          "source": "联合早报",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
+        },
         {
           "title": "巴西石油监管机构ANP负责人表示，在美国与伊朗达成初步协议后，国内燃料价格正逐渐回落。",
           "url": "https://flash.jin10.com/detail/20260625003756663800",
@@ -210,6 +287,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "贝森特：伊朗谈判纳入美元结算要求，经济增长有望年内重返3%",
+          "url": "https://wallstreetcn.com/articles/3775417",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
+        },
+        {
+          "title": "海峡石油流量回升仍较脆弱，伊朗管制执念催生更多不确定性",
+          "url": "https://flash.jin10.com/detail/20260625113346361800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
         },
         {
           "title": "美国参战飞行员：伊朗无人机摆出“水母阵型”，像外星科技",
@@ -336,7 +435,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
@@ -354,11 +453,35 @@
           "url": "https://www.cls.cn/detail/2408510",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时14分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时14分 ~ 12时15分]"
+        },
+        {
+          "title": "【早报】美股芯片股盘后逆袭，美光、高通大涨16%；多资产集体跳水！黄金跌破4000美元、原油暴跌、比特币下探59000美元",
+          "url": "https://www.cls.cn/detail/2408547",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
+        },
+        {
+          "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
+          "url": "https://www.cls.cn/detail/2408279",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 12时15分]"
         },
         {
           "title": "金十图示：2026年06月24日（周三）美股热门股票行情一览（美股盘中）",
@@ -370,18 +493,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
-        },
-        {
-          "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
-          "url": "https://www.cls.cn/detail/2408279",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 07时14分]"
         },
         {
           "title": "美股异动｜亚马逊涨3.5%，Prime Day首日线上消费额超预期",
@@ -401,7 +512,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -423,7 +534,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -462,7 +573,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         }
@@ -482,6 +593,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
+          "url": "https://www.cls.cn/detail/2408544",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
         }
       ]
     }
