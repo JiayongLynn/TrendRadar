@@ -1,33 +1,57 @@
 {
-  "generated_at": "2026-06-26T04:14:46.083620+08:00",
-  "total_titles_processed": 118,
+  "generated_at": "2026-06-26T06:27:07.168480+08:00",
+  "total_titles_processed": 150,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股异动丨量子运算研究再遭学界质疑，微软跌超3%，创去年4月以来新低",
           "url": "https://www.gelonghui.com/news/5258199",
           "source": "格隆汇",
           "ranks": [
-            4
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 06时27分]"
+        },
+        {
+          "title": "美股科技股走势分化 美光科技收涨超15% 苹果大跌6%领跌“科技七巨头”",
+          "url": "https://www.gelonghui.com/news/5258221",
+          "source": "格隆汇",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时20分 ~ 04时14分]"
+          "time_info": "[06时26分 ~ 06时27分]"
         },
         {
           "title": "美股异动丨拜耳大涨近19%，美最高法院在Roundup除草剂致癌诉讼中作出有利公司裁决",
           "url": "https://www.gelonghui.com/news/5258191",
           "source": "格隆汇",
           "ranks": [
-            12
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 06时27分]"
+        },
+        {
+          "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
+          "url": "https://www.cls.cn/detail/2409639",
+          "source": "财联社热门",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时20分 ~ 04时14分]"
+          "time_info": "[06时26分 ~ 06时27分]"
         },
         {
           "title": "金十图示：2026年06月25日（周四）热门中概股行情一览（美股盘中）",
@@ -39,6 +63,106 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "特朗普政府周三通知国会，将向土耳其出售价值7亿美元的喷气发动机。",
+          "url": "https://flash.jin10.com/detail/20260626055515833800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 06时27分]"
+        },
+        {
+          "title": "据AXIOS网站：美国众议院议长约翰逊表示，将在与特朗普会晤后将住房法案提交给白宫。",
+          "url": "https://flash.jin10.com/detail/20260626052048013800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 06时27分]"
+        },
+        {
+          "title": "特朗普拟提名FCC总法律顾问掌管美国司法部反垄断局",
+          "url": "https://flash.jin10.com/detail/20260626043110139800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 06时27分]"
+        },
+        {
+          "title": "市场消息：特朗普拟任命电信法律专家亚当·坎德布（Adam Candeub）担任司法部反垄断局局长。",
+          "url": "https://flash.jin10.com/detail/20260626041609697800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 06时27分]"
+        },
+        {
+          "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
+          "url": "https://www.cls.cn/detail/2408936",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "SpaceX股价回落敲响警钟 OpenAI或等到明年再IPO",
+          "url": "https://flash.jin10.com/detail/20260626044755013800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 06时27分]"
+        },
+        {
+          "title": "据纽约时报：OpenAI倾向于等到明年再进行IPO。",
+          "url": "https://flash.jin10.com/detail/20260626043517228800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 06时27分]"
+        },
+        {
+          "title": "据The Information：特朗普政府要求OpenAI出于安全考虑分批发布新模型。",
+          "url": "https://flash.jin10.com/detail/20260626041922109800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 06时27分]"
         }
       ]
     },
@@ -75,26 +199,26 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
+      "keyword_group": "美元",
       "match_count": 1,
       "titles": [
         {
-          "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
-          "url": "https://www.cls.cn/detail/2408936",
-          "source": "财联社热门",
+          "title": "美元指数25日下跌",
+          "url": "https://flash.jin10.com/detail/20260626045241323800",
+          "source": "金十数据",
           "ranks": [
-            8
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 06时27分]"
         }
       ]
     }
