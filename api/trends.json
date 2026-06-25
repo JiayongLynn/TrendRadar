@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T19:46:24.163941+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-06-25T22:48:50.040362+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "美国总统特朗普：委内瑞拉发生的两次重大地震造成了惨重的死亡人数。",
@@ -129,6 +129,19 @@
           "time_info": "[01时11分 ~ 07时14分]"
         },
         {
+          "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
+          "url": "https://www.cls.cn/detail/2408936",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 22时48分]"
+        },
+        {
           "title": "特朗普会见吕特 称对北约盟友感到失望",
           "url": "https://www.zaochenbao.com/news/politics/202606/2574917.html",
           "source": "联合早报",
@@ -139,18 +152,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时14分 ~ 16时29分]"
-        },
-        {
-          "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
-          "url": "https://www.cls.cn/detail/2408936",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 19时46分]"
         },
         {
           "title": "特朗普：伊朗若在霍尔木兹海峡收费就终止谈判",
@@ -175,13 +176,24 @@
           "time_info": "01时11分"
         },
         {
+          "title": "市场消息：美国最高法院裁定支持特朗普政府终止对叙利亚和海地移民驱逐保护的提议。",
+          "url": "https://flash.jin10.com/detail/20260625222639632800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "美国国务卿鲁比奥：特朗普对意大利及其他国家在伊朗问题上的做法非常不满。",
           "url": "https://flash.jin10.com/detail/20260625193300124800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -214,7 +226,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -442,7 +454,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -464,7 +476,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -486,7 +498,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -519,7 +531,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -530,7 +542,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -541,7 +553,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         }
@@ -549,7 +561,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
@@ -609,6 +621,17 @@
           "time_info": "01时11分"
         },
         {
+          "title": "美股异动丨航空股延续涨势，Frontier涨超9%，油价下跌缓解航司成本压力",
+          "url": "https://www.gelonghui.com/news/5258179",
+          "source": "格隆汇",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "美股异动｜亚马逊涨3.5%，Prime Day首日线上消费额超预期",
           "url": "https://www.gelonghui.com/news/5257418",
           "source": "格隆汇",
@@ -662,6 +685,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "美股异动丨生命科学公司Bio-Techne大涨近20%，获默克以约113亿美元溢价收购",
+          "url": "https://www.gelonghui.com/news/5258173",
+          "source": "格隆汇",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "高通供应商Arm(ARM.O)美股盘前上涨6%，因高通上调了长期数据中心和非手机业务的收入目标。",
@@ -757,6 +791,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时14分 ~ 12时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY短线走低十余点，报101.38。非美货币短线上扬。",
+          "url": "https://flash.jin10.com/detail/20260625220528496800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         }
       ]
     }
