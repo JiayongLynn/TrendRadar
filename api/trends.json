@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T16:29:13.708190+08:00",
-  "total_titles_processed": 336,
+  "generated_at": "2026-06-25T19:46:24.163941+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "美国总统特朗普：委内瑞拉发生的两次重大地震造成了惨重的死亡人数。",
@@ -141,6 +141,18 @@
           "time_info": "[12时14分 ~ 16时29分]"
         },
         {
+          "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
+          "url": "https://www.cls.cn/detail/2408936",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 19时46分]"
+        },
+        {
           "title": "特朗普：伊朗若在霍尔木兹海峡收费就终止谈判",
           "url": "https://www.zaochenbao.com/news/politics/202606/2574903.html",
           "source": "联合早报",
@@ -163,15 +175,15 @@
           "time_info": "01时11分"
         },
         {
-          "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
-          "url": "https://www.cls.cn/detail/2408936",
-          "source": "财联社热门",
+          "title": "美国国务卿鲁比奥：特朗普对意大利及其他国家在伊朗问题上的做法非常不满。",
+          "url": "https://flash.jin10.com/detail/20260625193300124800",
+          "source": "金十数据",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时29分"
+          "time_info": "19时46分"
         },
         {
           "title": "据CBS：特朗普拟推动将15%乙醇汽油混合燃料政策永久化。",
@@ -194,6 +206,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：如果与伊朗的谈判未能取得成果，特朗普还有多种选择。",
+          "url": "https://flash.jin10.com/detail/20260625192633798800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
         },
         {
           "title": "美国总统特朗普：在与北约秘书长吕特的沟通中几近取得了进展。",
@@ -246,7 +269,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -287,7 +310,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 21,
       "titles": [
         {
           "title": "巴西石油监管机构ANP负责人表示，在美国与伊朗达成初步协议后，国内燃料价格正逐渐回落。",
@@ -306,11 +329,12 @@
           "source": "联合早报",
           "ranks": [
             1,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时14分 ~ 16时29分]"
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 19时46分]"
         },
         {
           "title": "贝森特：伊朗谈判纳入美元结算要求，经济增长有望年内重返3%",
@@ -412,6 +436,17 @@
           "time_info": "03时58分"
         },
         {
+          "title": "美国国务卿鲁比奥：伊朗政权仍由激进的神职人员主导。",
+          "url": "https://flash.jin10.com/detail/20260625192657725800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        },
+        {
           "title": "鲁比奥重申，伊朗不能对霍尔木兹过境收取费用",
           "url": "https://flash.jin10.com/detail/20260625001726784800",
           "source": "金十数据",
@@ -423,6 +458,17 @@
           "time_info": "01时11分"
         },
         {
+          "title": "美国国务卿鲁比奥：未与海湾国家讨论过伊朗重建基金事宜。",
+          "url": "https://flash.jin10.com/detail/20260625192618250800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        },
+        {
           "title": "市场消息：美国国务卿鲁比奥表示，美国技术团队将于本月30日重返与伊朗的谈判。",
           "url": "https://flash.jin10.com/detail/20260625001449688800",
           "source": "金十数据",
@@ -432,6 +478,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：不清楚卡塔尔持有的伊朗资金是否已被转移。",
+          "url": "https://flash.jin10.com/detail/20260625192514060800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
         },
         {
           "title": "美国国务卿鲁比奥：技术团队目前正在敲定与伊朗达成协议的细节。",
@@ -454,6 +511,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：（对伊朗支持代理人的问题）伊朗备忘录涉及“干预他国”问题。",
+          "url": "https://flash.jin10.com/detail/20260625192241297800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：我们关注的是行动，而非伊朗的言辞。",
+          "url": "https://flash.jin10.com/detail/20260625192203174800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        },
+        {
+          "title": "伊朗外交部长：伊朗方面和阿曼外长讨论了最新进展。",
+          "url": "https://flash.jin10.com/detail/20260625192155986800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
         }
       ]
     },
@@ -569,7 +659,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -580,7 +670,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -619,7 +709,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         }
