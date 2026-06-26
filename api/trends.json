@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-26T20:19:45.962940+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2026-06-26T23:29:28.230963+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗副外长：任何通过海峡的框架必须与伊朗协调，否则将导致指定航线的暂停。",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗和阿曼海关负责人提议成立联合委员会以落实海关协议。",
+          "url": "https://flash.jin10.com/detail/20260626231748648800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "意大利总理梅洛尼：我们从未参与伊朗冲突。",
@@ -59,11 +70,12 @@
           "url": "https://wallstreetcn.com/articles/3775543",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 20时19分]"
+          "appearance_count": 3,
+          "time_info": "[17时43分 ~ 23时29分]"
         },
         {
           "title": "伊朗袭击货船，霍尔木兹海峡航运再次中断",
@@ -177,13 +189,24 @@
           "time_info": "08时18分"
         },
         {
+          "title": "伊朗重申国家安全与合法自卫权不容谈判",
+          "url": "https://flash.jin10.com/detail/20260626221711513800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "据伊朗国家电视台报道，三艘试图“未经授权”通过霍尔木兹海峡的外国油轮在伊朗革命卫队海军的警告后已被迫掉头。",
           "url": "https://flash.jin10.com/detail/20260626190116439800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         }
@@ -203,6 +226,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时18分"
+        },
+        {
+          "title": "国际刑事法院三名女法官起诉特朗普和美国政府",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2675024.html",
+          "source": "联合早报",
+          "ranks": [
+            15,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时43分 ~ 23时29分]"
         },
         {
           "title": "特朗普政府周三通知国会，将向土耳其出售价值7亿美元的喷气发动机。",
@@ -225,18 +261,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 06时27分]"
-        },
-        {
-          "title": "国际刑事法院三名女法官起诉特朗普和美国政府",
-          "url": "https://www.zaochenbao.com/news/politics/202606/2675024.html",
-          "source": "联合早报",
-          "ranks": [
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 20时19分]"
         },
         {
           "title": "特朗普：伊朗将成为美国的“新市场”",
@@ -345,7 +369,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         }
@@ -353,7 +377,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股异动丨量子运算研究再遭学界质疑，微软跌超3%，创去年4月以来新低",
@@ -405,13 +429,24 @@
           "time_info": "[08时18分 ~ 13时16分]"
         },
         {
+          "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "科技股拖累全球股市，美股盘前半导体股普跌，美光跌近6%，金银走高，油价跌近4%",
           "url": "https://wallstreetcn.com/articles/3775571",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         },
@@ -450,6 +485,28 @@
           "time_info": "08时18分"
         },
         {
+          "title": "美股异动丨礼来大涨超6%创历史新高，白血病新药Jaypirca获欧盟CHMP推荐批准",
+          "url": "https://www.gelonghui.com/news/5259144",
+          "source": "格隆汇",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2410602",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "金十图示：2026年06月25日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260626004054108800",
           "source": "金十数据",
@@ -464,7 +521,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "SpaceX股价回落敲响警钟 OpenAI或等到明年再IPO",
@@ -500,6 +557,17 @@
           "time_info": "[06时26分 ~ 06时27分]"
         },
         {
+          "title": "据悉OpenAI考虑最早于2027年进行IPO",
+          "url": "https://flash.jin10.com/detail/20260626225903271800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "被SpaceX大跌吓退了？OpenAI据传考虑推迟IPO计划 力争万亿美元估值",
           "url": "https://www.cls.cn/detail/2409706",
           "source": "财联社热门",
@@ -514,7 +582,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "全速扩容！DeepSeek“招兵买马”扩编一倍",
@@ -538,12 +606,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时43分 ~ 20时19分]"
+        },
+        {
+          "title": "智谱AI模型低成本高性能 或能再创DeepSeek时刻",
+          "url": "https://www.zaochenbao.com/news/china/202606/2675046.html",
+          "source": "联合早报",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美元指数25日下跌",
@@ -555,6 +634,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 06时27分]"
+        },
+        {
+          "title": "美元指数DXY短线上扬20点，最新报101.29。",
+          "url": "https://flash.jin10.com/detail/20260626225851367800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         }
       ]
     }
