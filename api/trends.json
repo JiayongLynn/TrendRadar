@@ -1,41 +1,52 @@
 {
-  "generated_at": "2026-06-27T01:59:04.049044+08:00",
-  "total_titles_processed": 92,
+  "generated_at": "2026-06-27T04:04:25.515768+08:00",
+  "total_titles_processed": 118,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 2,
+      "keyword_group": "特朗普",
+      "match_count": 3,
       "titles": [
         {
-          "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
-          "url": "https://wallstreetcn.com/articles/3775571",
-          "source": "华尔街见闻",
+          "title": "国际刑事法院三名女法官起诉特朗普和美国政府",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2675024.html",
+          "source": "联合早报",
           "ranks": [
-            1
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 01时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 04时04分]"
         },
         {
-          "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2410602",
-          "source": "财联社热门",
+          "title": "据以色列i24News：黎巴嫩总统奥恩感谢美国总统特朗普为促成黎巴嫩与以色列的谈判所做出的努力，最终促成了今晚协议的签署。",
+          "url": "https://flash.jin10.com/detail/20260627031556237800",
+          "source": "金十数据",
           "ranks": [
-            11
+            15
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 01时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "美国总统特朗普结束讲话。",
+          "url": "https://flash.jin10.com/detail/20260627024622659800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "伊朗否认伊美就霍尔木兹海峡问题建立沟通热线",
@@ -58,6 +69,73 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时58分 ~ 01时59分]"
+        },
+        {
+          "title": "美国财长贝森特：我们不得不进入伊朗，因为他们如果想拥有核武器，两周内就会成功。",
+          "url": "https://flash.jin10.com/detail/20260627030538720800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "市场消息：OpenAI开启GPT-5.6系列有限预览版测试。",
+          "url": "https://flash.jin10.com/detail/20260627010721618800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
+        },
+        {
+          "title": "市场消息：苹果(AAPL.O)公司负责Vision Pro和智能眼镜业务的负责人将离职加入OpenAI。",
+          "url": "https://flash.jin10.com/detail/20260627032342952800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 04时04分]"
+        },
+        {
+          "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2410602",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 04时04分]"
         }
       ]
     },
@@ -73,42 +151,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 01时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "市场消息：OpenAI开启GPT-5.6系列有限预览版测试。",
-          "url": "https://flash.jin10.com/detail/20260627010721618800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 01时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国际刑事法院三名女法官起诉特朗普和美国政府",
-          "url": "https://www.zaochenbao.com/news/politics/202606/2675024.html",
-          "source": "联合早报",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 01时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 04时04分]"
         }
       ]
     }
