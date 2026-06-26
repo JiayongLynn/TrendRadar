@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-06-26T17:43:21.678556+08:00",
-  "total_titles_processed": 359,
-  "failed_sources": [],
+  "generated_at": "2026-06-26T20:19:45.962940+08:00",
+  "total_titles_processed": 418,
+  "failed_sources": [
+    "36kr"
+  ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "伊朗副外长：任何通过海峡的框架必须与伊朗协调，否则将导致指定航线的暂停。",
@@ -14,7 +16,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         },
@@ -36,7 +38,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         },
@@ -51,6 +53,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时16分 ~ 17时43分]"
+        },
+        {
+          "title": "霍尔木兹海峡再起波澜：伊朗被曝谋求一年400亿“买路钱”，船只遇袭后疏散行动暂停",
+          "url": "https://wallstreetcn.com/articles/3775543",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 20时19分]"
+        },
+        {
+          "title": "伊朗袭击货船，霍尔木兹海峡航运再次中断",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2675014.html",
+          "source": "联合早报",
+          "ranks": [
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 20时19分]"
         },
         {
           "title": "国际原子能机构总干事格罗西：伊朗可以选择降低核材料浓度或将其运输出境，但必须同意这样做。",
@@ -84,17 +109,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
-        },
-        {
-          "title": "霍尔木兹海峡再起波澜：伊朗被曝谋求一年400亿“买路钱”，船只遇袭后疏散行动暂停",
-          "url": "https://wallstreetcn.com/articles/3775543",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时43分"
         },
         {
           "title": "伊朗：驶离指定航线的船舶将不享有安全保障",
@@ -152,17 +166,6 @@
           "time_info": "04时14分"
         },
         {
-          "title": "伊朗袭击货船，霍尔木兹海峡航运再次中断",
-          "url": "https://www.zaochenbao.com/news/politics/202606/2675014.html",
-          "source": "联合早报",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
           "title": "伊朗攻击货船、考验美伊停火协议：不走我们指定的路，不可接受且极其危险",
           "url": "https://flash.jin10.com/detail/20260626065429633800",
           "source": "金十数据",
@@ -172,12 +175,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时18分"
+        },
+        {
+          "title": "据伊朗国家电视台报道，三艘试图“未经授权”通过霍尔木兹海峡的外国油轮在伊朗革命卫队海军的警告后已被迫掉头。",
+          "url": "https://flash.jin10.com/detail/20260626190116439800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普称将用伊朗的钱买美国农产品",
@@ -211,6 +225,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 06时27分]"
+        },
+        {
+          "title": "国际刑事法院三名女法官起诉特朗普和美国政府",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2675024.html",
+          "source": "联合早报",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 20时19分]"
+        },
+        {
+          "title": "特朗普：伊朗将成为美国的“新市场”",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2675023.html",
+          "source": "联合早报",
+          "ranks": [
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 20时19分]"
         },
         {
           "title": "特朗普拟提名FCC总法律顾问掌管美国司法部反垄断局",
@@ -257,17 +295,6 @@
           "time_info": "08时18分"
         },
         {
-          "title": "国际刑事法院三名女法官起诉特朗普和美国政府",
-          "url": "https://www.zaochenbao.com/news/politics/202606/2675024.html",
-          "source": "联合早报",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
           "title": "美国总统特朗普：将宣布110亿美元的农民救助。",
           "url": "https://flash.jin10.com/detail/20260626072103294800",
           "source": "金十数据",
@@ -277,17 +304,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时18分"
-        },
-        {
-          "title": "特朗普：伊朗将成为美国的“新市场”",
-          "url": "https://www.zaochenbao.com/news/politics/202606/2675023.html",
-          "source": "联合早报",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时43分"
         },
         {
           "title": "美国总统特朗普：将签署一项允许全年销售E15汽油（含有15%乙醇的汽油）的法案。",
@@ -321,12 +337,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时18分"
+        },
+        {
+          "title": "特朗普据悉悄然续签行政令，巩固对伊拉克石油收入的控制权",
+          "url": "https://flash.jin10.com/detail/20260626190559441800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股异动丨量子运算研究再遭学界质疑，微软跌超3%，创去年4月以来新低",
@@ -378,6 +405,17 @@
           "time_info": "[08时18分 ~ 13时16分]"
         },
         {
+          "title": "科技股拖累全球股市，美股盘前半导体股普跌，美光跌近6%，金银走高，油价跌近4%",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
           "title": "美股异动丨拜耳大涨近19%，美最高法院在Roundup除草剂致癌诉讼中作出有利公司裁决",
           "url": "https://www.gelonghui.com/news/5258191",
           "source": "格隆汇",
@@ -396,7 +434,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         },
@@ -468,7 +506,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         }
@@ -494,11 +532,12 @@
           "url": "https://www.zaochenbao.com/news/china/202606/2675028.html",
           "source": "联合早报",
           "ranks": [
-            11
+            11,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 20时19分]"
         }
       ]
     },
