@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-27T12:59:41.294945+08:00",
-  "total_titles_processed": 216,
+  "generated_at": "2026-06-27T15:56:40.772296+08:00",
+  "total_titles_processed": 250,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "消息人士称伊朗南部港口城市码头传出爆炸声",
@@ -62,8 +62,30 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时16分 ~ 12时59分]"
+          "appearance_count": 4,
+          "time_info": "[08时16分 ~ 15时56分]"
+        },
+        {
+          "title": "伊朗方面表示，美军空袭其南部海岸多处目标，违反停战备忘录；伊朗武装力量已对与美国军方有关联的目标实施了防御性打击。伊朗警告海湾南岸国家，禁止允许其领土被用于对伊朗的攻击。",
+          "url": "https://flash.jin10.com/detail/20260627150838212800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
+        {
+          "title": "伊朗称美军袭击未造成损失 锡里克港运营正常",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2775097.html",
+          "source": "联合早报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
         },
         {
           "title": "IMF首席经济学家古兰沙：由于各国释放了战略储备且炼油厂调整了生产，伊朗相关冲突并未导致油价进一步飙升。",
@@ -121,6 +143,18 @@
           "time_info": "[06时20分 ~ 08时17分]"
         },
         {
+          "title": "伊朗革命卫队称打击区内美军据点 回应美军新一轮袭击",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2775080.html",
+          "source": "联合早报",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 15时56分]"
+        },
+        {
           "title": "伊朗否认伊美就霍尔木兹海峡问题建立沟通热线",
           "url": "https://flash.jin10.com/detail/20260627012538570800",
           "source": "金十数据",
@@ -143,26 +177,27 @@
           "time_info": "[01时58分 ~ 01时59分]"
         },
         {
-          "title": "伊朗革命卫队称打击区内美军据点 回应美军新一轮袭击",
-          "url": "https://www.zaochenbao.com/news/politics/202606/2775080.html",
-          "source": "联合早报",
+          "title": "伊朗迈赫通讯社援引当地官员的话称，美国的攻击并未对西里克港造成损害。",
+          "url": "https://flash.jin10.com/detail/20260627104211270800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 15时56分]"
+        },
+        {
+          "title": "巴基斯坦、伊朗两国外长通话讨论地区形势",
+          "url": "https://flash.jin10.com/detail/20260627142447191800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "伊朗迈赫通讯社援引当地官员的话称，美国的攻击并未对西里克港造成损害。",
-          "url": "https://flash.jin10.com/detail/20260627104211270800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
+          "time_info": "15时56分"
         },
         {
           "title": "霍尔木兹海峡货船遇袭后 美军报复打击伊朗",
@@ -171,7 +206,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -182,7 +217,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -204,7 +239,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         }
@@ -212,7 +247,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
@@ -235,8 +270,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时20分 ~ 12时59分]"
+          "appearance_count": 6,
+          "time_info": "[06时20分 ~ 15时56分]"
         },
         {
           "title": "半导体拖累美股，标普、纳指五连跌，美光跌6%，金银走高，原油一度跌4%",
@@ -246,8 +281,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时16分 ~ 12时59分]"
+          "appearance_count": 4,
+          "time_info": "[08时16分 ~ 15时56分]"
+        },
+        {
+          "title": "美股三大指数小幅收跌，芯片股下挫！西部数据大跌13%，闪迪跌超10%",
+          "url": "https://www.gelonghui.com/news/5259196",
+          "source": "格隆汇",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 15时56分]"
         },
         {
           "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
@@ -262,17 +309,6 @@
           "time_info": "[01时58分 ~ 08时17分]"
         },
         {
-          "title": "美股三大指数小幅收跌，芯片股下挫！西部数据大跌13%，闪迪跌超10%",
-          "url": "https://www.gelonghui.com/news/5259196",
-          "source": "格隆汇",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
           "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
           "url": "https://www.cls.cn/detail/2410784",
           "source": "财联社热门",
@@ -281,8 +317,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时16分 ~ 12时59分]"
+          "appearance_count": 4,
+          "time_info": "[08时16分 ~ 15时56分]"
+        },
+        {
+          "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
+          "url": "https://wallstreetcn.com/articles/3775664",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
         },
         {
           "title": "MAG7“信仰”松动：科技巨头技术面剧烈分化，美股资金加速涌向估值洼地",
@@ -291,7 +338,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         }
@@ -299,7 +346,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "国际刑事法院三名女法官起诉特朗普和美国政府",
@@ -321,8 +368,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时16分 ~ 12时59分]"
+          "appearance_count": 4,
+          "time_info": "[08时16分 ~ 15时56分]"
+        },
+        {
+          "title": "伊朗高级官员：特朗普不遵守谈判和停火原则",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2775093.html",
+          "source": "联合早报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
         },
         {
           "title": "据以色列i24News：黎巴嫩总统奥恩感谢美国总统特朗普为促成黎巴嫩与以色列的谈判所做出的努力，最终促成了今晚协议的签署。",
@@ -342,7 +400,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -381,7 +439,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
