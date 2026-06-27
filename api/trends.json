@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-27T08:17:14.360844+08:00",
-  "total_titles_processed": 159,
+  "generated_at": "2026-06-27T12:59:41.294945+08:00",
+  "total_titles_processed": 216,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "消息人士称伊朗南部港口城市码头传出爆炸声",
@@ -52,6 +52,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时20分 ~ 08时17分]"
+        },
+        {
+          "title": "美伊签协议后美军首次开火，称空袭伊朗回应商船在霍尔木兹遭袭，伊方称挫败美袭击、将严厉回应",
+          "url": "https://wallstreetcn.com/articles/3775654",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时16分 ~ 12时59分]"
         },
         {
           "title": "IMF首席经济学家古兰沙：由于各国释放了战略储备且炼油厂调整了生产，伊朗相关冲突并未导致油价进一步飙升。",
@@ -109,17 +121,6 @@
           "time_info": "[06时20分 ~ 08时17分]"
         },
         {
-          "title": "美伊签协议后美军首次开火，称空袭伊朗回应商船在霍尔木兹遭袭，伊方称挫败美袭击、将严厉回应",
-          "url": "https://wallstreetcn.com/articles/3775654",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时16分 ~ 08时17分]"
-        },
-        {
           "title": "伊朗否认伊美就霍尔木兹海峡问题建立沟通热线",
           "url": "https://flash.jin10.com/detail/20260627012538570800",
           "source": "金十数据",
@@ -142,6 +143,50 @@
           "time_info": "[01时58分 ~ 01时59分]"
         },
         {
+          "title": "伊朗革命卫队称打击区内美军据点 回应美军新一轮袭击",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2775080.html",
+          "source": "联合早报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "伊朗迈赫通讯社援引当地官员的话称，美国的攻击并未对西里克港造成损害。",
+          "url": "https://flash.jin10.com/detail/20260627104211270800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "霍尔木兹海峡货船遇袭后 美军报复打击伊朗",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2775078.html",
+          "source": "联合早报",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "一周热榜精选：黄金4000关口能否顺利守住？原油打回伊朗冲突前原形",
+          "url": "https://flash.jin10.com/detail/20260627095343701800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
           "title": "美国财长贝森特：我们不得不进入伊朗，因为他们如果想拥有核武器，两周内就会成功。",
           "url": "https://flash.jin10.com/detail/20260627030538720800",
           "source": "金十数据",
@@ -151,12 +196,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
+        },
+        {
+          "title": "美副总统威胁：若伊朗诉诸暴力，将遭武力回击",
+          "url": "https://flash.jin10.com/detail/20260627090443331800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
@@ -170,6 +226,19 @@
           "time_info": "[01时58分 ~ 06时21分]"
         },
         {
+          "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
+          "url": "https://www.cls.cn/detail/2410765",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时20分 ~ 12时59分]"
+        },
+        {
           "title": "半导体拖累美股，标普、纳指五连跌，美光跌6%，金银走高，原油一度跌4%",
           "url": "https://wallstreetcn.com/articles/3775571",
           "source": "华尔街见闻",
@@ -177,8 +246,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时16分 ~ 08时17分]"
+          "appearance_count": 3,
+          "time_info": "[08时16分 ~ 12时59分]"
         },
         {
           "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
@@ -193,33 +262,44 @@
           "time_info": "[01时58分 ~ 08时17分]"
         },
         {
-          "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
-          "url": "https://www.cls.cn/detail/2410765",
-          "source": "财联社热门",
+          "title": "美股三大指数小幅收跌，芯片股下挫！西部数据大跌13%，闪迪跌超10%",
+          "url": "https://www.gelonghui.com/news/5259196",
+          "source": "格隆汇",
           "ranks": [
-            9,
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时20分 ~ 08时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
           "url": "https://www.cls.cn/detail/2410784",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时16分 ~ 08时17分]"
+          "appearance_count": 3,
+          "time_info": "[08时16分 ~ 12时59分]"
+        },
+        {
+          "title": "MAG7“信仰”松动：科技巨头技术面剧烈分化，美股资金加速涌向估值洼地",
+          "url": "https://wallstreetcn.com/articles/3775625",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "国际刑事法院三名女法官起诉特朗普和美国政府",
@@ -237,11 +317,12 @@
           "url": "https://www.cls.cn/detail/2410771",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时16分 ~ 08时17分]"
+          "appearance_count": 3,
+          "time_info": "[08时16分 ~ 12时59分]"
         },
         {
           "title": "据以色列i24News：黎巴嫩总统奥恩感谢美国总统特朗普为促成黎巴嫩与以色列的谈判所做出的努力，最终促成了今晚协议的签署。",
@@ -253,6 +334,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
+        },
+        {
+          "title": "伊朗高级官员：特朗普不遵守谈判和停火原则",
+          "url": "https://flash.jin10.com/detail/20260627092527227800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "美国总统特朗普结束讲话。",
@@ -269,7 +361,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "市场消息：OpenAI开启GPT-5.6系列有限预览版测试。",
@@ -281,6 +373,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时58分 ~ 01时59分]"
+        },
+        {
+          "title": "内存涨价反噬终端需求！苹果涨价+OpenAI IPO推迟引爆亚洲芯片股崩盘",
+          "url": "https://wallstreetcn.com/articles/3775589",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "市场消息：苹果(AAPL.O)公司负责Vision Pro和智能眼镜业务的负责人将离职加入OpenAI。",
