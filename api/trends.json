@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-27T15:56:40.772296+08:00",
-  "total_titles_processed": 250,
+  "generated_at": "2026-06-27T18:18:50.355611+08:00",
+  "total_titles_processed": 286,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 27,
       "titles": [
         {
           "title": "消息人士称伊朗南部港口城市码头传出爆炸声",
@@ -62,8 +62,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时16分 ~ 15时56分]"
+          "appearance_count": 5,
+          "time_info": "[08时16分 ~ 18时18分]"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社：阿曼与埃及外长通话，讨论了双边关系、地区局势及霍尔木兹海峡的航行安全。",
+          "url": "https://flash.jin10.com/detail/20260627175952001800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "伊朗方面表示，美军空袭其南部海岸多处目标，违反停战备忘录；伊朗武装力量已对与美国军方有关联的目标实施了防御性打击。伊朗警告海湾南岸国家，禁止允许其领土被用于对伊朗的攻击。",
@@ -72,18 +83,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时56分"
-        },
-        {
-          "title": "伊朗称美军袭击未造成损失 锡里克港运营正常",
-          "url": "https://www.zaochenbao.com/news/politics/202606/2775097.html",
-          "source": "联合早报",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
         },
@@ -97,6 +97,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时20分 ~ 08时17分]"
+        },
+        {
+          "title": "伊朗称美军袭击未造成损失 锡里克港运营正常",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2775097.html",
+          "source": "联合早报",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 18时18分]"
         },
         {
           "title": "美国军方：美军将继续保持驻留并保持警惕，以确保伊朗协议的各项条款均得到遵守与执行，并全面有效。",
@@ -148,11 +160,12 @@
           "source": "联合早报",
           "ranks": [
             8,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 15时56分]"
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 18时18分]"
         },
         {
           "title": "伊朗否认伊美就霍尔木兹海峡问题建立沟通热线",
@@ -189,13 +202,24 @@
           "time_info": "[12时59分 ~ 15时56分]"
         },
         {
+          "title": "伊朗约三成民众将参加已故最高领袖葬礼",
+          "url": "https://flash.jin10.com/detail/20260627173141273800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "巴基斯坦、伊朗两国外长通话讨论地区形势",
           "url": "https://flash.jin10.com/detail/20260627142447191800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
         },
@@ -211,6 +235,28 @@
           "time_info": "12时59分"
         },
         {
+          "title": "巴林外交部：今天凌晨的伊朗袭击严重侵犯了主权，我们保留反击的权利。",
+          "url": "https://flash.jin10.com/detail/20260627165539822800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "据巴林国家通讯社：巴林谴责伊朗周六对其领土发动的无人机袭击。伊朗在各方推动缓和局势之际继续发动袭击，应为此承担破坏和平努力的责任。",
+          "url": "https://flash.jin10.com/detail/20260627165503432800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "一周热榜精选：黄金4000关口能否顺利守住？原油打回伊朗冲突前原形",
           "url": "https://flash.jin10.com/detail/20260627095343701800",
           "source": "金十数据",
@@ -222,6 +268,17 @@
           "time_info": "12时59分"
         },
         {
+          "title": "安全部门消息人士称，一架爆炸性无人机袭击了伊拉克埃尔比勒北部一个伊朗库尔德反对派组织的营地。",
+          "url": "https://flash.jin10.com/detail/20260627162615820800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "美国财长贝森特：我们不得不进入伊朗，因为他们如果想拥有核武器，两周内就会成功。",
           "url": "https://flash.jin10.com/detail/20260627030538720800",
           "source": "金十数据",
@@ -231,6 +288,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
+        },
+        {
+          "title": "伊朗议会国家安全委员会主席：任何违反伊朗霍尔木兹海峡航运指令的行为都将遭到果断应对。",
+          "url": "https://flash.jin10.com/detail/20260627162213580800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "美副总统威胁：若伊朗诉诸暴力，将遭武力回击",
@@ -250,6 +318,19 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
+          "url": "https://www.cls.cn/detail/2410765",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时20分 ~ 18时18分]"
+        },
+        {
           "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
           "url": "https://wallstreetcn.com/articles/3775571",
           "source": "华尔街见闻",
@@ -261,19 +342,6 @@
           "time_info": "[01时58分 ~ 06时21分]"
         },
         {
-          "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
-          "url": "https://www.cls.cn/detail/2410765",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时20分 ~ 15时56分]"
-        },
-        {
           "title": "半导体拖累美股，标普、纳指五连跌，美光跌6%，金银走高，原油一度跌4%",
           "url": "https://wallstreetcn.com/articles/3775571",
           "source": "华尔街见闻",
@@ -281,8 +349,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时16分 ~ 15时56分]"
+          "appearance_count": 5,
+          "time_info": "[08时16分 ~ 18时18分]"
         },
         {
           "title": "美股三大指数小幅收跌，芯片股下挫！西部数据大跌13%，闪迪跌超10%",
@@ -290,11 +358,24 @@
           "source": "格隆汇",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 15时56分]"
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 18时18分]"
+        },
+        {
+          "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
+          "url": "https://www.cls.cn/detail/2410784",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时16分 ~ 18时18分]"
         },
         {
           "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
@@ -309,27 +390,16 @@
           "time_info": "[01时58分 ~ 08时17分]"
         },
         {
-          "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
-          "url": "https://www.cls.cn/detail/2410784",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时16分 ~ 15时56分]"
-        },
-        {
           "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
           "url": "https://wallstreetcn.com/articles/3775664",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 18时18分]"
         },
         {
           "title": "MAG7“信仰”松动：科技巨头技术面剧烈分化，美股资金加速涌向估值洼地",
@@ -339,15 +409,27 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 18时18分]"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
+          "url": "https://www.cls.cn/detail/2410771",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时16分 ~ 18时18分]"
+        },
         {
           "title": "国际刑事法院三名女法官起诉特朗普和美国政府",
           "url": "https://www.zaochenbao.com/news/politics/202606/2675024.html",
@@ -360,27 +442,27 @@
           "time_info": "[01时58分 ~ 06时21分]"
         },
         {
-          "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
-          "url": "https://www.cls.cn/detail/2410771",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时16分 ~ 15时56分]"
-        },
-        {
           "title": "伊朗高级官员：特朗普不遵守谈判和停火原则",
           "url": "https://www.zaochenbao.com/news/politics/202606/2775093.html",
           "source": "联合早报",
           "ranks": [
-            8
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 18时18分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-27）",
+          "url": "https://flash.jin10.com/detail/20260627172958574800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时56分"
+          "time_info": "18时18分"
         },
         {
           "title": "据以色列i24News：黎巴嫩总统奥恩感谢美国总统特朗普为促成黎巴嫩与以色列的谈判所做出的努力，最终促成了今晚协议的签署。",
@@ -419,7 +501,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "市场消息：OpenAI开启GPT-5.6系列有限预览版测试。",
@@ -442,6 +524,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
+        },
+        {
+          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
+          "url": "https://wallstreetcn.com/articles/3775650",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "市场消息：苹果(AAPL.O)公司负责Vision Pro和智能眼镜业务的负责人将离职加入OpenAI。",
