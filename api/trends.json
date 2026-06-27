@@ -1,14 +1,26 @@
 {
-  "generated_at": "2026-06-27T20:13:50.125276+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-27T22:50:05.257268+08:00",
+  "total_titles_processed": 340,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "美伊签协议后美军首次开火，称空袭伊朗回应商船在霍尔木兹遭袭，伊方称挫败美袭击、将严厉回应",
+          "url": "https://wallstreetcn.com/articles/3775654",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时16分 ~ 22时50分]"
+        },
         {
           "title": "消息人士称伊朗南部港口城市码头传出爆炸声",
           "url": "https://flash.jin10.com/detail/20260627045710710800",
@@ -30,18 +42,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时20分 ~ 08时17分]"
-        },
-        {
-          "title": "美伊签协议后美军首次开火，称空袭伊朗回应商船在霍尔木兹遭袭，伊方称挫败美袭击、将严厉回应",
-          "url": "https://wallstreetcn.com/articles/3775654",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时16分 ~ 20时13分]"
         },
         {
           "title": "美国中央司令部：美国对伊朗发动打击，以回应其袭击商船的行为",
@@ -66,15 +66,18 @@
           "time_info": "[06时20分 ~ 08时17分]"
         },
         {
-          "title": "据伊朗国家电视台：伊朗关于霍尔木兹海峡的通行指令仍在执行中。所有船只进出海峡必须与革命卫队海军进行联络和协调。",
-          "url": "https://flash.jin10.com/detail/20260627192753647800",
-          "source": "金十数据",
+          "title": "伊朗称美军袭击未造成损失 锡里克港运营正常",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2775097.html",
+          "source": "联合早报",
           "ranks": [
-            3
+            4,
+            11,
+            16,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时13分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时56分 ~ 22时50分]"
         },
         {
           "title": "伊朗方面表示，美军空袭其南部海岸多处目标，违反停战备忘录；伊朗武装力量已对与美国军方有关联的目标实施了防御性打击。伊朗警告海湾南岸国家，禁止允许其领土被用于对伊朗的攻击。",
@@ -86,6 +89,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
+        },
+        {
+          "title": "据伊朗国家电视台：伊朗关于霍尔木兹海峡的通行指令仍在执行中。所有船只进出海峡必须与革命卫队海军进行联络和协调。",
+          "url": "https://flash.jin10.com/detail/20260627192753647800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时13分 ~ 22时50分]"
         },
         {
           "title": "IMF首席经济学家古兰沙：由于各国释放了战略储备且炼油厂调整了生产，伊朗相关冲突并未导致油价进一步飙升。",
@@ -109,19 +124,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时18分 ~ 20时13分]"
-        },
-        {
-          "title": "伊朗称美军袭击未造成损失 锡里克港运营正常",
-          "url": "https://www.zaochenbao.com/news/politics/202606/2775097.html",
-          "source": "联合早报",
-          "ranks": [
-            4,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时56分 ~ 20时13分]"
         },
         {
           "title": "伊朗革命卫队称打击区内美军据点 回应美军新一轮袭击",
@@ -182,6 +184,18 @@
           "time_info": "[06时20分 ~ 08时17分]"
         },
         {
+          "title": "据伊朗国家电视台报道，在未经授权的船只遭到警告射击后，更多船舶正寻求伊朗方面的许可，以通过霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260627190304740800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时13分 ~ 22时50分]"
+        },
+        {
           "title": "伊朗约三成民众将参加已故最高领袖葬礼",
           "url": "https://flash.jin10.com/detail/20260627173141273800",
           "source": "金十数据",
@@ -228,15 +242,15 @@
           "time_info": "[12时59分 ~ 15时56分]"
         },
         {
-          "title": "据伊朗国家电视台报道，在未经授权的船只遭到警告射击后，更多船舶正寻求伊朗方面的许可，以通过霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260627190304740800",
+          "title": "沙特外交部谴责伊朗对巴林的攻击，认为这是对国际法的侵犯。",
+          "url": "https://flash.jin10.com/detail/20260627213451585800",
           "source": "金十数据",
           "ranks": [
-            6
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 22时50分]"
         },
         {
           "title": "巴基斯坦、伊朗两国外长通话讨论地区形势",
@@ -256,7 +270,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
         },
@@ -289,7 +303,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
         },
@@ -311,7 +325,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
         },
@@ -333,7 +347,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
         },
@@ -384,110 +398,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
-          "url": "https://www.cls.cn/detail/2410765",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时20分 ~ 20时13分]"
-        },
-        {
-          "title": "半导体拖累美股，标普、纳指五连跌，美光跌6%，金银走高，原油一度跌4%",
-          "url": "https://wallstreetcn.com/articles/3775571",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时16分 ~ 20时13分]"
-        },
-        {
-          "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
-          "url": "https://wallstreetcn.com/articles/3775571",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 06时21分]"
-        },
-        {
-          "title": "美股三大指数小幅收跌，芯片股下挫！西部数据大跌13%，闪迪跌超10%",
-          "url": "https://www.gelonghui.com/news/5259196",
-          "source": "格隆汇",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 20时13分]"
-        },
-        {
-          "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
-          "url": "https://www.cls.cn/detail/2410784",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时16分 ~ 20时13分]"
-        },
-        {
-          "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2410602",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时58分 ~ 08时17分]"
-        },
-        {
-          "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
-          "url": "https://wallstreetcn.com/articles/3775664",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时56分 ~ 20时13分]"
-        },
-        {
-          "title": "MAG7“信仰”松动：科技巨头技术面剧烈分化，美股资金加速涌向估值洼地",
-          "url": "https://wallstreetcn.com/articles/3775625",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 18时18分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
@@ -495,22 +407,35 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时16分 ~ 20时13分]"
+          "appearance_count": 8,
+          "time_info": "[08时16分 ~ 22时50分]"
+        },
+        {
+          "title": "特朗普推限量版“爱国者护照” 肖像首登美国旅行证件内页",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2775118.html",
+          "source": "联合早报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 22时50分]"
         },
         {
           "title": "美国务卿鲁比奥：正推动特朗普明年初访问印度事宜",
           "url": "https://flash.jin10.com/detail/20260627191008880800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时13分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时13分 ~ 22时50分]"
         },
         {
           "title": "国际刑事法院三名女法官起诉特朗普和美国政府",
@@ -584,19 +509,133 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
+          "url": "https://www.cls.cn/detail/2410765",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时20分 ~ 22时50分]"
+        },
+        {
+          "title": "半导体拖累美股，标普、纳指五连跌，美光跌6%，金银走高，原油一度跌4%",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时16分 ~ 22时50分]"
+        },
+        {
+          "title": "美股三大指数小幅收跌，芯片股下挫！西部数据大跌13%，闪迪跌超10%",
+          "url": "https://www.gelonghui.com/news/5259196",
+          "source": "格隆汇",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时59分 ~ 22时50分]"
+        },
+        {
+          "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
+          "url": "https://www.cls.cn/detail/2410784",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时16分 ~ 22时50分]"
+        },
+        {
+          "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时58分 ~ 06时21分]"
+        },
+        {
+          "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
+          "url": "https://wallstreetcn.com/articles/3775664",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时56分 ~ 22时50分]"
+        },
+        {
+          "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2410602",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时58分 ~ 08时17分]"
+        },
+        {
+          "title": "MAG7“信仰”松动：科技巨头技术面剧烈分化，美股资金加速涌向估值洼地",
+          "url": "https://wallstreetcn.com/articles/3775625",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 18时18分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
           "url": "https://wallstreetcn.com/articles/3775650",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时18分 ~ 22时50分]"
+        },
+        {
+          "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
+          "url": "https://wallstreetcn.com/articles/3775663",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时18分 ~ 20时13分]"
+          "time_info": "[22时49分 ~ 22时50分]"
         },
         {
           "title": "市场消息：OpenAI开启GPT-5.6系列有限预览版测试。",
@@ -635,7 +674,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "智谱AI模型低成本高性能 或能再创DeepSeek时刻",
@@ -648,6 +687,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时58分 ~ 08时17分]"
+        },
+        {
+          "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
+          "url": "https://wallstreetcn.com/articles/3775676",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 22时50分]"
         }
       ]
     }
