@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-28T08:10:54.645814+08:00",
-  "total_titles_processed": 163,
+  "generated_at": "2026-06-28T13:24:25.029209+08:00",
+  "total_titles_processed": 222,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 29,
       "titles": [
         {
           "title": "美伊签协议后美军首次开火，称空袭伊朗回应商船在霍尔木兹遭袭，伊方称挫败美袭击、将严厉回应",
@@ -76,15 +76,37 @@
           "time_info": "[06时11分 ~ 08时10分]"
         },
         {
-          "title": "美再打击伊朗设施伊方反击 双方剑拔弩张停火安排摇摇欲坠",
-          "url": "https://www.zaochenbao.com/news/politics/202606/2875127.html",
-          "source": "联合早报",
+          "title": "伊朗谴责美袭击伊朗南部",
+          "url": "https://flash.jin10.com/detail/20260628125508699800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时10分"
+          "time_info": "13时24分"
+        },
+        {
+          "title": "声明显示，伊朗外交部谴责美国对南伊朗的空袭，称其违反了临时停火协议。",
+          "url": "https://flash.jin10.com/detail/20260628123649121800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "伊朗外长访问伊拉克",
+          "url": "https://flash.jin10.com/detail/20260628123156183800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们正在打破伊朗的外交轴心。我们已达成一项框架协议，使我们能够结束与黎巴嫩的冲突。",
@@ -97,6 +119,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时12分 ~ 04时15分]"
+        },
+        {
+          "title": "美再打击伊朗设施伊方反击 双方剑拔弩张停火安排摇摇欲坠",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2875127.html",
+          "source": "联合早报",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 13时24分]"
         },
         {
           "title": "据CNN：美国官员称，当伊朗声称对中东的美军目标发动袭击时，美国“探测到几架无人机”，但这些无人机并未击中目标。",
@@ -143,6 +177,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 08时10分]"
+        },
+        {
+          "title": "袭击美国中东军事基地 伊朗：美国将经历“地狱般”考验",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2875147.html",
+          "source": "联合早报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "巴林外交部：巴林谴责伊朗再次袭击。",
+          "url": "https://flash.jin10.com/detail/20260628120949856800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "伊朗锡里克地区传出爆炸声 美军称再对伊实施打击",
+          "url": "https://www.cls.cn/detail/2410985",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "伊朗6月通胀率同比升至88.6%",
@@ -220,12 +287,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "据路透社：美国官员表示，伊朗局势仍在演变中。目前在该地区没有报告美国人员伤亡或对美国地点造成重大影响或损害。伊朗向包括巴林和科威特在内的邻国发射了多枚导弹和无人机。",
+          "url": "https://flash.jin10.com/detail/20260628095136295800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "消息称4枚飞行物击中伊朗伦格港附近地区",
+          "url": "https://flash.jin10.com/detail/20260628093146729800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "一油轮遭袭 美国再次对伊朗发动打击",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2875129.html",
+          "source": "联合早报",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "内坦亚胡称框架协议是历史成就 对伊朗和真主党造成打击",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2875128.html",
+          "source": "联合早报",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普推限量版“爱国者护照” 肖像首登美国旅行证件内页",
@@ -238,6 +349,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时14分 ~ 08时10分]"
+        },
+        {
+          "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
+          "url": "https://wallstreetcn.com/articles/3775683",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "特朗普提名兰斯·施罗耶出任美移民与海关执法局局长",
@@ -274,6 +396,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时15分 ~ 08时10分]"
+        },
+        {
+          "title": "特朗普驳斥哈格曼新书为“假新闻”，重申选举胜利叙事",
+          "url": "https://flash.jin10.com/detail/20260628122518438800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
@@ -342,6 +475,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 08时10分]"
+        },
+        {
+          "title": "黎总统与特朗普通话 盼美促以方从黎南撤军",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2875143.html",
+          "source": "联合早报",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         }
       ]
     },
@@ -350,28 +494,16 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
-          "url": "https://wallstreetcn.com/articles/3775664",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 08时10分]"
-        },
-        {
           "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
           "url": "https://www.cls.cn/detail/2410784",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 08时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 13时24分]"
         },
         {
           "title": "美股三大指数小幅收跌，芯片股下挫！西部数据大跌13%，闪迪跌超10%",
@@ -381,8 +513,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 08时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 13时24分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
@@ -391,6 +523,19 @@
           "ranks": [
             4,
             5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 13时24分]"
+        },
+        {
+          "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
+          "url": "https://wallstreetcn.com/articles/3775664",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -411,7 +556,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
@@ -438,12 +583,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时14分 ~ 08时10分]"
+        },
+        {
+          "title": "海外研究员眼中的中国AI：智谱是“中国Palantir”，MiniMax对标Character AI，豆包是“中国ChatGPT”",
+          "url": "https://wallstreetcn.com/articles/3775673",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
@@ -452,11 +608,40 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 08时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 13时24分]"
+        },
+        {
+          "title": "DeepSeek更新V4版AI模型 推理速度最高提升85%",
+          "url": "https://www.zaochenbao.com/news/china/202606/2875140.html",
+          "source": "联合早报",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据英国金融时报：谷歌限制Meta对Gemini的使用，因AI需求挤压算力容量。",
+          "url": "https://flash.jin10.com/detail/20260628120732763800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         }
       ]
     },
@@ -469,11 +654,12 @@
           "url": "https://wallstreetcn.com/articles/3775680",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 13时24分]"
         }
       ]
     }
