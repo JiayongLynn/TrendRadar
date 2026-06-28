@@ -1,13 +1,96 @@
 {
-  "generated_at": "2026-06-29T02:12:18.640968+08:00",
-  "total_titles_processed": 118,
+  "generated_at": "2026-06-29T04:20:08.208528+08:00",
+  "total_titles_processed": 136,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
+          "url": "https://wallstreetcn.com/articles/3775683",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 04时20分]"
+        },
+        {
+          "title": "美伊互袭波及科威特巴林 特朗普再威胁摧毁伊朗",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2875191.html",
+          "source": "联合早报",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 04时20分]"
+        },
+        {
+          "title": "特朗普谈判爱拉锯 分析称恐成“不成交的艺术”",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2875189.html",
+          "source": "联合早报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 04时20分]"
+        },
+        {
+          "title": "特朗普孙女“开箱”白宫私人区 网民质疑滥用特权",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2875183.html",
+          "source": "联合早报",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 04时20分]"
+        },
+        {
+          "title": "美国总统特朗普：我们决心在华盛顿建设世界上最伟大的高尔夫球场之一，并向公众开放。",
+          "url": "https://flash.jin10.com/detail/20260629024615359800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时19分 ~ 04时20分]"
+        },
+        {
+          "title": "美国总统特朗普称，林肯纪念堂倒影池在遭受严重损坏后现已全面投入使用。",
+          "url": "https://flash.jin10.com/detail/20260629024517840800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时19分 ~ 04时20分]"
+        },
+        {
+          "title": "美国众议院议长约翰逊：将于周一把住房法案提交给美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20260628220938422800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "伊朗锡里克地区传出爆炸声 美军称再对伊实施打击",
@@ -17,19 +100,31 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 04时20分]"
+        },
+        {
+          "title": "伊朗官员称伊朗未参加周日的谈判",
+          "url": "https://flash.jin10.com/detail/20260629033956153800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时12分]"
+          "time_info": "[04时19分 ~ 04时20分]"
         },
         {
           "title": "伊朗外长与伊拉克总理举行会谈",
           "url": "https://flash.jin10.com/detail/20260629014334485800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时12分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时12分 ~ 04时20分]"
         },
         {
           "title": "伊朗敦促美国为以色列“无条件”撤出黎巴嫩设定时间表",
@@ -64,8 +159,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 04时20分]"
         },
         {
           "title": "美常驻联合国代表：伊朗要么选择负责任，要么选择毁灭",
@@ -73,67 +168,6 @@
           "source": "金十数据",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
-          "url": "https://wallstreetcn.com/articles/3775683",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时12分]"
-        },
-        {
-          "title": "美伊互袭波及科威特巴林 特朗普再威胁摧毁伊朗",
-          "url": "https://www.zaochenbao.com/news/politics/202606/2875191.html",
-          "source": "联合早报",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时12分]"
-        },
-        {
-          "title": "特朗普谈判爱拉锯 分析称恐成“不成交的艺术”",
-          "url": "https://www.zaochenbao.com/news/politics/202606/2875189.html",
-          "source": "联合早报",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时12分]"
-        },
-        {
-          "title": "特朗普孙女“开箱”白宫私人区 网民质疑滥用特权",
-          "url": "https://www.zaochenbao.com/news/politics/202606/2875183.html",
-          "source": "联合早报",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时12分]"
-        },
-        {
-          "title": "美国众议院议长约翰逊：将于周一把住房法案提交给美国总统特朗普。",
-          "url": "https://flash.jin10.com/detail/20260628220938422800",
-          "source": "金十数据",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -154,8 +188,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 04时20分]"
         }
       ]
     },
@@ -171,8 +205,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 04时20分]"
         }
       ]
     },
@@ -185,11 +219,12 @@
           "url": "https://wallstreetcn.com/articles/3775701",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 04时20分]"
         }
       ]
     }
