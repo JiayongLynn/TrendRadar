@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-28T13:24:25.029209+08:00",
-  "total_titles_processed": 222,
+  "generated_at": "2026-06-28T17:24:36.368210+08:00",
+  "total_titles_processed": 292,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 38,
       "titles": [
         {
           "title": "美伊签协议后美军首次开火，称空袭伊朗回应商船在霍尔木兹遭袭，伊方称挫败美袭击、将严厉回应",
@@ -82,7 +82,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -93,7 +93,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -104,7 +104,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -179,15 +179,28 @@
           "time_info": "[06时11分 ~ 08时10分]"
         },
         {
+          "title": "伊朗锡里克地区传出爆炸声 美军称再对伊实施打击",
+          "url": "https://www.cls.cn/detail/2410985",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 17时24分]"
+        },
+        {
           "title": "袭击美国中东军事基地 伊朗：美国将经历“地狱般”考验",
           "url": "https://www.zaochenbao.com/news/politics/202606/2875147.html",
           "source": "联合早报",
           "ranks": [
-            7
+            7,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 17时24分]"
         },
         {
           "title": "巴林外交部：巴林谴责伊朗再次袭击。",
@@ -196,20 +209,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
         {
-          "title": "伊朗锡里克地区传出爆炸声 美军称再对伊实施打击",
-          "url": "https://www.cls.cn/detail/2410985",
-          "source": "财联社热门",
+          "title": "伊朗外长：30天内海峡将由伊朗全面监督管理 任何干预将延迟重开",
+          "url": "https://flash.jin10.com/detail/20260628164949906800",
+          "source": "金十数据",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时24分"
+          "time_info": "17时24分"
         },
         {
           "title": "伊朗6月通胀率同比升至88.6%",
@@ -234,6 +247,28 @@
           "time_info": "02时12分"
         },
         {
+          "title": "伊朗外长阿拉格齐：德黑兰欢迎与伊拉克等海湾阿拉伯国家就海湾安全问题进行谈判的框架。",
+          "url": "https://flash.jin10.com/detail/20260628164210683800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：以色列从黎巴嫩撤军并停止对黎空袭，是伊朗与美国临时协议中的规定。",
+          "url": "https://flash.jin10.com/detail/20260628163929882800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "市场消息：伊朗在霍尔木兹海峡袭击了一艘油轮。造成损坏，但没有人员伤亡。",
           "url": "https://flash.jin10.com/detail/20260628002350692800",
           "source": "金十数据",
@@ -245,6 +280,17 @@
           "time_info": "02时12分"
         },
         {
+          "title": "伊朗外长阿拉格齐：将霍尔木兹海峡海上交通恢复至战前水平的责任完全在于德黑兰方面。任何其他方的介入都只会使航运恢复正常的进程复杂化。",
+          "url": "https://flash.jin10.com/detail/20260628163845945800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：通过与美国签署协议，黎巴嫩政府实际上是在告诉伊朗和黎巴嫩真主党离开黎巴嫩，把事务交给黎巴嫩自己处理。",
           "url": "https://flash.jin10.com/detail/20260628022511273800",
           "source": "金十数据",
@@ -254,6 +300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：我们与伊拉克的关系非常紧密。",
+          "url": "https://flash.jin10.com/detail/20260628163540352800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "沙特外交部谴责伊朗对巴林的攻击，认为这是对国际法的侵犯。",
@@ -289,15 +346,59 @@
           "time_info": "04时15分"
         },
         {
+          "title": "伊朗外长阿拉格齐：与伊拉克外长进行了非常好的会谈。",
+          "url": "https://flash.jin10.com/detail/20260628163437826800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：德黑兰将继续扩大与巴格达新政府的双边关系。",
+          "url": "https://flash.jin10.com/detail/20260628163358154800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "伊拉克外长与伊朗外长会晤 强调开放海峡和解除海上封锁的重要性",
+          "url": "https://flash.jin10.com/detail/20260628162750803800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "据路透社：美国官员表示，伊朗局势仍在演变中。目前在该地区没有报告美国人员伤亡或对美国地点造成重大影响或损害。伊朗向包括巴林和科威特在内的邻国发射了多枚导弹和无人机。",
           "url": "https://flash.jin10.com/detail/20260628095136295800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        },
+        {
+          "title": "巴林称拦截并摧毁伊朗导弹和无人机",
+          "url": "https://flash.jin10.com/detail/20260628160446106800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "消息称4枚飞行物击中伊朗伦格港附近地区",
@@ -306,7 +407,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -317,7 +418,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -328,7 +429,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         }
@@ -357,9 +458,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 17时24分]"
         },
         {
           "title": "特朗普提名兰斯·施罗耶出任美移民与海关执法局局长",
@@ -404,7 +505,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -466,6 +567,18 @@
           "time_info": "[06时11分 ~ 08时10分]"
         },
         {
+          "title": "黎总统与特朗普通话 盼美促以方从黎南撤军",
+          "url": "https://www.zaochenbao.com/news/politics/202606/2875143.html",
+          "source": "联合早报",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 17时24分]"
+        },
+        {
           "title": "机构：特朗普施压美联储降息导致通胀高于2%的情景不太可能发生",
           "url": "https://flash.jin10.com/detail/20260628041744920800",
           "source": "金十数据",
@@ -475,17 +588,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 08时10分]"
-        },
-        {
-          "title": "黎总统与特朗普通话 盼美促以方从黎南撤军",
-          "url": "https://www.zaochenbao.com/news/politics/202606/2875143.html",
-          "source": "联合早报",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
         }
       ]
     },
@@ -502,19 +604,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 13时24分]"
-        },
-        {
-          "title": "美股三大指数小幅收跌，芯片股下挫！西部数据大跌13%，闪迪跌超10%",
-          "url": "https://www.gelonghui.com/news/5259196",
-          "source": "格隆汇",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 13时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 17时24分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
@@ -523,6 +614,17 @@
           "ranks": [
             4,
             5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 17时24分]"
+        },
+        {
+          "title": "美股三大指数小幅收跌，芯片股下挫！西部数据大跌13%，闪迪跌超10%",
+          "url": "https://www.gelonghui.com/news/5259196",
+          "source": "格隆汇",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -551,6 +653,48 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时14分 ~ 06时11分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
+          "url": "https://wallstreetcn.com/articles/3775676",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 13时24分]"
+        },
+        {
+          "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
+          "url": "https://www.cls.cn/detail/2411046",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "DeepSeek更新V4版AI模型 推理速度最高提升85%",
+          "url": "https://www.zaochenbao.com/news/china/202606/2875140.html",
+          "source": "联合早报",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         }
       ]
     },
@@ -591,38 +735,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
-          "url": "https://wallstreetcn.com/articles/3775676",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3,
-            2
-          ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 13时24分]"
-        },
-        {
-          "title": "DeepSeek更新V4版AI模型 推理速度最高提升85%",
-          "url": "https://www.zaochenbao.com/news/china/202606/2875140.html",
-          "source": "联合早报",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "13时24分"
         }
@@ -639,7 +752,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         }
@@ -658,8 +771,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时10分 ~ 13时24分]"
+          "appearance_count": 3,
+          "time_info": "[08时10分 ~ 17时24分]"
         }
       ]
     }
