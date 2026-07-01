@@ -1,773 +1,163 @@
 {
-  "generated_at": "2026-07-01T21:38:06.084817+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-07-02T00:32:39.862040+08:00",
+  "total_titles_processed": 95,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 23,
+      "keyword_group": "美股",
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美股异动丨比特币反弹突破6万美元，Strategy大涨超8%，Coinbase涨超7%",
+          "url": "https://www.gelonghui.com/news/5261547",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "美股异动丨沃尔玛大跌超5%，创去年11月以来新低",
+          "url": "https://www.gelonghui.com/news/5261546",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "市场聚焦沃什讲话，美股三大股指集体低开，存储芯片股下跌，闪迪下跌8.6%，黄金站上4070",
+          "url": "https://wallstreetcn.com/articles/3775932",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "美股异动丨“卖AI算力”新计划曝光！Meta大涨超8%",
+          "url": "https://www.gelonghui.com/news/5261544",
+          "source": "格隆汇",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "美股异动丨Meta跨界抢食AI算力市场，Nebius跌超16%、CoreWeave跌逾11%",
+          "url": "https://www.gelonghui.com/news/5261542",
+          "source": "格隆汇",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国总统特朗普：美光科技(MU.O)宣布向“特朗普账户”投资2.5亿美元。",
+          "url": "https://flash.jin10.com/detail/20260702002047001800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
         {
           "title": "共和党首次召开中期选举大会 特朗普拟演讲动员支持者投票",
           "url": "https://www.zaochenbao.com/news/politics/202607/0175426.html",
           "source": "联合早报",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时37分 ~ 21时38分]"
-        },
-        {
-          "title": "特朗普927页超10亿美元“吸金”财务报告：世界杯门票、和解费尽数收入囊中",
-          "url": "https://flash.jin10.com/detail/20260701054713686800",
-          "source": "金十数据",
-          "ranks": [
-            5
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时20分"
+          "time_info": "00时32分"
         },
         {
           "title": "特朗普申报去年加密货币收入逾14亿美元",
           "url": "https://www.zaochenbao.com/news/politics/202607/0175406.html",
           "source": "联合早报",
           "ranks": [
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时04分 ~ 21时38分]"
-        },
-        {
-          "title": "美伊谈判前途未卜：特朗普称周二将在多哈谈，伊朗否认计划会谈，以防长称以伊明天就可能重开战火",
-          "url": "https://wallstreetcn.com/articles/3775765",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 04时09分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：承认与特朗普之间有时会存在一些分歧。",
-          "url": "https://flash.jin10.com/detail/20260701032453750800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时08分 ~ 04时09分]"
-        },
-        {
-          "title": "美国副总统万斯：美国总统特朗普愿意使用军事打击手段，但前提是必须服务于明确的战略目标。",
-          "url": "https://flash.jin10.com/detail/20260701032438487800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时08分 ~ 04时09分]"
-        },
-        {
-          "title": "美国总统特朗普：中期选举大会预计将于9月9日至10日进行。",
-          "url": "https://flash.jin10.com/detail/20260701054226191800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "美国总统特朗普：共和党将在美国德克萨斯州达拉斯举行中期大会。",
-          "url": "https://flash.jin10.com/detail/20260701054029812800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "美国总统特朗普：共和党在美国最高法院得到了非常公平的对待。",
-          "url": "https://flash.jin10.com/detail/20260701005045498800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "美国内政部长：美国总统特朗普实际上阻止了第三次世界大战的发生。",
-          "url": "https://flash.jin10.com/detail/20260701052059560800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "美国总统特朗普：最高法院裁定扩大总统对联邦行政机构的控制权，将更多行政权力重新赋予总统；尽管“出生公民权”案败诉，但将推动国会立法予以纠正。",
-          "url": "https://flash.jin10.com/detail/20260701005020256800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "特朗普赚钱模式被指“史无前例”：一年狂赚22亿美元，引发权力与商业边界争议",
-          "url": "https://flash.jin10.com/detail/20260701132359856800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "美媒：特朗普听取恢复对伊动武选项 但其坚持外交手段",
-          "url": "https://flash.jin10.com/detail/20260701075510323800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时16分"
-        },
-        {
-          "title": "特朗普政府料不延长《美墨加协定》 启动10年终止倒计时",
-          "url": "https://www.zaochenbao.com/news/politics/202607/0175380.html",
-          "source": "联合早报",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "美国总统特朗普2025年度的财务报告称，其至少买入10万零1美元以上的Palantir(PLTR.N)股票。",
-          "url": "https://flash.jin10.com/detail/20260701050003787800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "美国总统特朗普2025年度的财务报告称，其至少持有500万美元的苹果(AAPL.O)公司股票。",
-          "url": "https://flash.jin10.com/detail/20260701045910278800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "美国总统特朗普2025年度的财务报告称，其从与多家媒体公司的和解协议中获得超过8000万美元收入。",
-          "url": "https://flash.jin10.com/detail/20260701045751619800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "美国总统特朗普：国会应立即着手推动终止出生公民权。",
-          "url": "https://flash.jin10.com/detail/20260701002604133800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "美国总统特朗普：我们完全可以通过国会立法解决这一问题，我也会予以支持。",
-          "url": "https://flash.jin10.com/detail/20260701002549692800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "美国总统特朗普2025年度的财务报告称，其从“迷因币”相关的授权或收益分成获得6.35亿美元收入。",
-          "url": "https://flash.jin10.com/detail/20260701045159164800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "美国总统特朗普：出生公民权对我们的国家不利。",
-          "url": "https://flash.jin10.com/detail/20260701002525969800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "美国总统特朗普：最高法院维持了出生公民权，这对我们国家来说非常遗憾。",
-          "url": "https://flash.jin10.com/detail/20260701002426770800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普提交2025年度财务披露报告，披露其通过加密货币获得数亿美元收入。",
-          "url": "https://flash.jin10.com/detail/20260701044849105800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
+          "time_info": "00时32分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 3,
       "titles": [
         {
-          "title": "美伊谈判未定 伊朗：未与美方安排任何会谈",
-          "url": "https://www.zaochenbao.com/news/politics/202606/3075367.html",
-          "source": "联合早报",
-          "ranks": [
-            1,
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时10分 ~ 13时48分]"
-        },
-        {
-          "title": "美国伊朗将在多哈会见调解人 伊朗誓言回击",
-          "url": "https://www.zaochenbao.com/news/politics/202606/3075365.html",
-          "source": "联合早报",
-          "ranks": [
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 08时16分]"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：（伊朗）石油按布伦特价格及国际市场价出售。",
-          "url": "https://flash.jin10.com/detail/20260701035800025800",
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗航空公司恢复“德黑兰—孟买—德黑兰”航线的运营，此前该航线已暂停5个月。",
+          "url": "https://flash.jin10.com/detail/20260702002249112800",
           "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时08分 ~ 04时09分]"
-        },
-        {
-          "title": "伊朗战争重塑中国石化贸易格局 助中企扩大出口",
-          "url": "https://www.zaochenbao.com/news/china/202607/0175392.html",
-          "source": "联合早报",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "据Axios：伊朗议会议长卡利巴夫表示，美国内部也存在分歧，鲁比奥走一条路线，而万斯走另一条路线。",
-          "url": "https://flash.jin10.com/detail/20260701034432878800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时08分 ~ 04时09分]"
-        },
-        {
-          "title": "美国能源部长赖特：伊朗迄今完全没有展现出合作态度。霍尔木兹海峡石油运输能够持续通行，是由于美国军方的保障。",
-          "url": "https://flash.jin10.com/detail/20260701034230765800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时08分 ~ 04时09分]"
-        },
-        {
-          "title": "伊朗议会委员会主席：美国干涉地区事务时代已结束",
-          "url": "https://www.zaochenbao.com/news/politics/202607/0175405.html",
-          "source": "联合早报",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时04分 ~ 18时05分]"
-        },
-        {
-          "title": "美国副总统万斯：伊朗一方面公开否认和平谈判正在进行，但另一方面，美伊之间关于协议的技术性讨论仍在持续。这种做法是伊朗在谈判与话语上的一种“策略性手法”。",
-          "url": "https://flash.jin10.com/detail/20260701032915175800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时08分 ~ 04时09分]"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：将向中央银行提供120亿美元资金，用于其在全球范围内以任何价格、任何货币采购所需商品。这一安排是可行的，相关流程正在推进中。",
-          "url": "https://flash.jin10.com/detail/20260701032847648800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时08分 ~ 04时09分]"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：（若出现）第三次强加于伊朗的战争将被视为对国家的全面侵略。",
-          "url": "https://flash.jin10.com/detail/20260701032838370800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时08分 ~ 04时09分]"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：（被问及资金是否仅限用于向美国农民购买粮食时）绝对不是。",
-          "url": "https://flash.jin10.com/detail/20260701032725618800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时08分 ~ 04时09分]"
-        },
-        {
-          "title": "伊朗高官：伊美在卡塔尔举行间接会谈，聚焦两大问题",
-          "url": "https://flash.jin10.com/detail/20260701172719637800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时04分 ~ 18时05分]"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：如果美国试图剥夺伊朗出售石油的权利，那么“没有人会从石油中受益”。",
-          "url": "https://flash.jin10.com/detail/20260701032333102800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时08分 ~ 04时09分]"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：霍尔木兹海峡的价值在于通行量日益增加，而不是减少。不应让霍尔木兹海峡被“反向利用”或变成对自身不利的工具。",
-          "url": "https://flash.jin10.com/detail/20260701032311132800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时08分 ~ 04时09分]"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：对伊朗的石油制裁已经解除。伊朗目前以较之前高出约20%的溢价出售原油。",
-          "url": "https://flash.jin10.com/detail/20260701032222463800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时08分 ~ 04时09分]"
-        },
-        {
-          "title": "据路透社：伊朗高级官员表示，（当地时间）周二晚上在多哈开始的与美国的间接谈判仍在继续。与美国的间接谈判集中于释放德黑兰的资金和霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260701172150861800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时04分 ~ 18时05分]"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：必须逐步提升霍尔木兹海峡的繁荣与通行能力。我认为应对美国和以色列实施限制措施，海峡通行量仍需增加。",
-          "url": "https://flash.jin10.com/detail/20260701032035526800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时08分 ~ 04时09分]"
-        },
-        {
-          "title": "伊朗外交部发言人：最终协议谈判须以五项条款落实为前提，黎巴嫩停火仍脆弱。",
-          "url": "https://flash.jin10.com/detail/20260701005528456800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "伊朗外交部发言人：明天的会议将主要讨论被冻结资金的解冻问题以及黎巴嫩停火问题。<br/>",
-          "url": "https://flash.jin10.com/detail/20260701004154828800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "消息：阿曼提议与伊朗向霍尔木兹海峡船只收费",
-          "url": "https://www.zaochenbao.com/news/politics/202607/0175378.html",
-          "source": "联合早报",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "贝森特：除中国外 鲜有国家购买伊朗石油",
-          "url": "https://www.zaochenbao.com/news/china/202607/0175377.html",
-          "source": "联合早报",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "伊朗媒体：针对网络流传的石油部长穆赫辛·帕克内贾德辞职传闻，伊朗石油部知情人士回应称，该消息不属实，予以否认。",
-          "url": "https://flash.jin10.com/detail/20260701002030579800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "人工智能领域“权力更迭”：美股三大芯片股市值Q2增加约2万亿美元",
-          "url": "https://www.cls.cn/detail/2413957",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时04分 ~ 21时38分]"
-        },
-        {
-          "title": "美股二季度太亮眼，连华尔街多头都在防大幅回撤",
-          "url": "https://flash.jin10.com/detail/20260701173713822800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时04分 ~ 18时05分]"
-        },
-        {
-          "title": "【早报】多只A股公司业绩大增；美股存储概念半年涨超3倍；黄金、原油收跌；法国、挪威晋级世界杯16强",
-          "url": "https://www.cls.cn/detail/2413612",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时16分 ~ 13时48分]"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 闪迪涨超10%",
-          "url": "https://flash.jin10.com/detail/20260701040044702800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时08分 ~ 04时09分]"
-        },
-        {
-          "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
-          "url": "https://www.cls.cn/detail/2413598",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时16分 ~ 13时48分]"
-        },
-        {
-          "title": "美股三大指数集体收涨，道指创新高！AMD涨超7%，SpaceX涨超4%",
-          "url": "https://www.gelonghui.com/news/5260974",
-          "source": "格隆汇",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时16分"
-        },
-        {
-          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3775893",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时48分 ~ 21时38分]"
-        },
-        {
-          "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2413394",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 08时16分]"
-        },
-        {
-          "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
-          "url": "https://wallstreetcn.com/articles/3775797",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 04时09分]"
-        },
-        {
-          "title": "市场等待沃什讲话与非农数据，美股盘前存储芯片股走低，康宁跌超4%，黄金再跌1%",
-          "url": "https://wallstreetcn.com/articles/3775932",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时37分 ~ 21时38分]"
-        },
-        {
-          "title": "金十图示：2026年06月30日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260701003659797800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "金十图示：2026年06月30日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260701003646868800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "芝商所：将于7月27日推出覆盖50多只美股的单股期货产品。",
-          "url": "https://flash.jin10.com/detail/20260701044747249800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
-          "url": "https://wallstreetcn.com/articles/3775727",
-          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 06时20分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
         },
         {
-          "title": "谷歌(GOOG.O)：发布适用于macOS的Gemini Spark，并扩展了应用程序集成。",
-          "url": "https://flash.jin10.com/detail/20260701050716207800",
+          "title": "美国副总统万斯：技术谈判代表正在就伊朗问题展开讨论。",
+          "url": "https://flash.jin10.com/detail/20260702000930829800",
           "source": "金十数据",
           "ranks": [
-            14
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时20分"
+          "time_info": "00时32分"
+        },
+        {
+          "title": "美国副总统万斯：如果伊朗试图重建核计划，美国有应对方案。",
+          "url": "https://flash.jin10.com/detail/20260701235319689800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
           "url": "https://wallstreetcn.com/articles/3775797",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时16分 ~ 21时38分]"
-        },
-        {
-          "title": "美国国债收益率在美联储主席沃什发言时回落，10年期美债收益率最新上涨5.91个基点，报4.481%。",
-          "url": "https://flash.jin10.com/detail/20260701212242025800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时37分 ~ 21时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数30日上涨",
-          "url": "https://flash.jin10.com/detail/20260701040422983800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时08分 ~ 04时09分]"
-        },
-        {
-          "title": "现货黄金短线拉升20美元，向上触及4040美元/盎司，日内涨0.83%。纽约期金站上4050美元/盎司，日内涨0.28%。美元指数DXY短线走低近10点，报101.45。",
-          "url": "https://flash.jin10.com/detail/20260701212358203800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时37分 ~ 21时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek宣布高峰时段AI收费价格上调一倍",
-          "url": "https://www.zaochenbao.com/news/china/202606/3075346.html",
-          "source": "联合早报",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 06时20分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
         }
       ]
     }
