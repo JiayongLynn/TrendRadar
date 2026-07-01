@@ -1,35 +1,25 @@
 {
-  "generated_at": "2026-07-02T00:32:39.862040+08:00",
-  "total_titles_processed": 95,
+  "generated_at": "2026-07-02T03:04:21.533124+08:00",
+  "total_titles_processed": 123,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股异动丨比特币反弹突破6万美元，Strategy大涨超8%，Coinbase涨超7%",
           "url": "https://www.gelonghui.com/news/5261547",
           "source": "格隆汇",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "美股异动丨沃尔玛大跌超5%，创去年11月以来新低",
-          "url": "https://www.gelonghui.com/news/5261546",
-          "source": "格隆汇",
-          "ranks": [
+            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 03时04分]"
         },
         {
           "title": "市场聚焦沃什讲话，美股三大股指集体低开，存储芯片股下跌，闪迪下跌8.6%，黄金站上4070",
@@ -39,26 +29,101 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 03时04分]"
+        },
+        {
+          "title": "美股异动丨沃尔玛大跌超5%，创去年11月以来新低",
+          "url": "https://www.gelonghui.com/news/5261546",
+          "source": "格隆汇",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 03时04分]"
         },
         {
           "title": "美股异动丨“卖AI算力”新计划曝光！Meta大涨超8%",
           "url": "https://www.gelonghui.com/news/5261544",
           "source": "格隆汇",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 03时04分]"
+        },
+        {
+          "title": "Meta投下“深水炸弹”！美股存储、光通信集体暴跌",
+          "url": "https://www.gelonghui.com/news/5261548",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "03时04分"
         },
         {
           "title": "美股异动丨Meta跨界抢食AI算力市场，Nebius跌超16%、CoreWeave跌逾11%",
           "url": "https://www.gelonghui.com/news/5261542",
           "source": "格隆汇",
           "ranks": [
-            6
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 03时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗航空公司恢复“德黑兰—孟买—德黑兰”航线的运营，此前该航线已暂停5个月。",
+          "url": "https://flash.jin10.com/detail/20260702002249112800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "美国副总统万斯：技术谈判代表正在就伊朗问题展开讨论。",
+          "url": "https://flash.jin10.com/detail/20260702000930829800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "伊朗称美方违反谅解备忘录承诺 将建立监督机制审查违规行为",
+          "url": "https://flash.jin10.com/detail/20260702014758632800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "美国副总统万斯：如果伊朗试图重建核计划，美国有应对方案。",
+          "url": "https://flash.jin10.com/detail/20260701235319689800",
+          "source": "金十数据",
+          "ranks": [
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -89,8 +154,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 03时04分]"
         },
         {
           "title": "特朗普申报去年加密货币收入逾14亿美元",
@@ -100,47 +165,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗航空公司恢复“德黑兰—孟买—德黑兰”航线的运营，此前该航线已暂停5个月。",
-          "url": "https://flash.jin10.com/detail/20260702002249112800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "美国副总统万斯：技术谈判代表正在就伊朗问题展开讨论。",
-          "url": "https://flash.jin10.com/detail/20260702000930829800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "美国副总统万斯：如果伊朗试图重建核计划，美国有应对方案。",
-          "url": "https://flash.jin10.com/detail/20260701235319689800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 03时04分]"
         }
       ]
     },
@@ -156,8 +182,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 03时04分]"
         }
       ]
     }
