@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-02T19:40:58.526215+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2026-07-02T22:22:34.658761+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美国总统特朗普：美光科技(MU.O)宣布向“特朗普账户”投资2.5亿美元。",
@@ -65,6 +65,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时17分 ~ 19时40分]"
+        },
+        {
+          "title": "特朗普政府拟修改核辐射监管条例 加快核电发展",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0275515.html",
+          "source": "联合早报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "据纽约时报：美国副总统万斯为特朗普在伊朗相关的战争与谈判立场进行辩护，称美国正在以军事力量作为和平谈判中的重要筹码。他同时表示，特朗普对军方提出的要求明显高于历任前总统。",
@@ -213,7 +224,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股收盘：软硬件轮动费城指数暴跌6% 三大指数集体收低",
@@ -302,6 +313,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时32分 ~ 07时23分]"
+        },
+        {
+          "title": "非农打击加息预期，美股指走高，黄金股领涨，科技股小幅反弹，金银涨幅扩大",
+          "url": "https://wallstreetcn.com/articles/3776024",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "美股三大指数集体收跌 费城半导体指数大跌超6%",
@@ -482,7 +504,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌在欧盟法院就41亿欧元安卓罚款案的诉讼中败诉",
@@ -494,6 +516,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
+        },
+        {
+          "title": "针对欧盟41亿欧元反垄断罚款 谷歌上诉失败",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0275516.html",
+          "source": "联合早报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "谷歌：欧盟法院的判决未能承认维持安卓系统市场开放所需的投资。",
@@ -584,6 +617,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股异动丨金银价格大幅反弹，黄金白银股走强，科尔黛伦矿业涨近8%",
+          "url": "https://www.gelonghui.com/news/5262358",
+          "source": "格隆汇",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         }
       ]
     },
