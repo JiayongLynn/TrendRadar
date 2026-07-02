@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-02T12:11:58.348303+08:00",
-  "total_titles_processed": 260,
+  "generated_at": "2026-07-02T16:17:59.796402+08:00",
+  "total_titles_processed": 321,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "美国总统特朗普：美光科技(MU.O)宣布向“特朗普账户”投资2.5亿美元。",
@@ -66,6 +66,17 @@
           "time_info": "05时43分"
         },
         {
+          "title": "特朗普：美国不会让中国接管巴拿马运河",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0275480.html",
+          "source": "联合早报",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
           "title": "美国总统特朗普：油价在下跌。",
           "url": "https://flash.jin10.com/detail/20260702042858373800",
           "source": "金十数据",
@@ -99,6 +110,17 @@
           "time_info": "05时43分"
         },
         {
+          "title": "特朗普首乘卡塔尔赠送的新“空军一号”",
+          "url": "https://flash.jin10.com/detail/20260702153817085800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
           "title": "美国总统特朗普：西班牙是北约成员，但并不是一个表现很好的成员。他们的表现并不太友好，但他们会学会怎么做的。",
           "url": "https://flash.jin10.com/detail/20260702041008414800",
           "source": "金十数据",
@@ -127,7 +149,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -138,7 +160,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -149,7 +171,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -171,7 +193,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -182,7 +204,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         }
@@ -192,6 +214,19 @@
       "keyword_group": "美股",
       "match_count": 11,
       "titles": [
+        {
+          "title": "美股收盘：软硬件轮动费城指数暴跌6% 三大指数集体收低",
+          "url": "https://www.cls.cn/detail/2414790",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时23分 ~ 16时17分]"
+        },
         {
           "title": "美股异动丨比特币反弹突破6万美元，Strategy大涨超8%，Coinbase涨超7%",
           "url": "https://www.gelonghui.com/news/5261547",
@@ -241,18 +276,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 03时04分]"
-        },
-        {
-          "title": "美股收盘：软硬件轮动费城指数暴跌6% 三大指数集体收低",
-          "url": "https://www.cls.cn/detail/2414790",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时23分 ~ 12时11分]"
         },
         {
           "title": "Meta投下“深水炸弹”！美股存储、光通信集体暴跌",
@@ -327,7 +350,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗航空公司恢复“德黑兰—孟买—德黑兰”航线的运营，此前该航线已暂停5个月。",
@@ -377,6 +400,18 @@
           "time_info": "[05时43分 ~ 07时23分]"
         },
         {
+          "title": "评论：为什么说中国是伊朗战争的赢家",
+          "url": "https://www.zaochenbao.com/news/opinion/202607/0275456.html",
+          "source": "联合早报",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 16时17分]"
+        },
+        {
           "title": "美国副总统万斯：技术谈判代表正在就伊朗问题展开讨论。",
           "url": "https://flash.jin10.com/detail/20260702000930829800",
           "source": "金十数据",
@@ -386,6 +421,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "瑞银集团：近期美国与伊朗签署谅解备忘录及霍尔木兹海峡石油流动的增加促使我们下调近期油价预测。",
+          "url": "https://flash.jin10.com/detail/20260702154215899800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "伊朗议会议长：不允许核查人员进入受损核设施",
@@ -399,15 +445,15 @@
           "time_info": "07时23分"
         },
         {
-          "title": "评论：为什么说中国是伊朗战争的赢家",
-          "url": "https://www.zaochenbao.com/news/opinion/202607/0275456.html",
-          "source": "联合早报",
+          "title": "报道称，伊朗哈塔姆·安比亚中央司令部警告美以两国不要犯下错误判断。",
+          "url": "https://flash.jin10.com/detail/20260702153827931800",
+          "source": "金十数据",
           "ranks": [
-            22
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时11分"
+          "time_info": "16时17分"
         },
         {
           "title": "伊朗称美方违反谅解备忘录承诺 将建立监督机制审查违规行为",
@@ -434,6 +480,56 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "谷歌在欧盟法院就41亿欧元安卓罚款案的诉讼中败诉",
+          "url": "https://flash.jin10.com/detail/20260702155207864800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "谷歌：欧盟法院的判决未能承认维持安卓系统市场开放所需的投资。",
+          "url": "https://flash.jin10.com/detail/20260702154804069800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "Meta据悉布局AI云业务 拟对外出售算力 挑战亚马逊、微软和谷歌",
+          "url": "https://www.cls.cn/detail/2414683",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
+          "title": "市场消息：Alphabet旗下谷歌败诉，未能推翻创纪录的41亿欧元反垄断罚款判决。",
+          "url": "https://flash.jin10.com/detail/20260702153536154800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
@@ -442,11 +538,12 @@
           "url": "https://wallstreetcn.com/articles/3775976",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 16时17分]"
         },
         {
           "title": "消息人士：软银就以OpenAI股权为抵押的贷款谈判重启，并作出更多让步",
@@ -473,23 +570,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Meta据悉布局AI云业务 拟对外出售算力 挑战亚马逊、微软和谷歌",
-          "url": "https://www.cls.cn/detail/2414683",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -500,7 +580,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         }
