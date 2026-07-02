@@ -1,149 +1,13 @@
 {
-  "generated_at": "2026-07-02T07:23:27.554740+08:00",
-  "total_titles_processed": 175,
+  "generated_at": "2026-07-02T12:11:58.348303+08:00",
+  "total_titles_processed": 260,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "美股异动丨比特币反弹突破6万美元，Strategy大涨超8%，Coinbase涨超7%",
-          "url": "https://www.gelonghui.com/news/5261547",
-          "source": "格隆汇",
-          "ranks": [
-            1,
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 07时23分]"
-        },
-        {
-          "title": "美股异动丨沃尔玛大跌超5%，创去年11月以来新低",
-          "url": "https://www.gelonghui.com/news/5261546",
-          "source": "格隆汇",
-          "ranks": [
-            2,
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 07时23分]"
-        },
-        {
-          "title": "美股异动丨“卖AI算力”新计划曝光！Meta大涨超8%",
-          "url": "https://www.gelonghui.com/news/5261544",
-          "source": "格隆汇",
-          "ranks": [
-            4,
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 07时23分]"
-        },
-        {
-          "title": "市场聚焦沃什讲话，美股三大股指集体低开，存储芯片股下跌，闪迪下跌8.6%，黄金站上4070",
-          "url": "https://wallstreetcn.com/articles/3775932",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 03时04分]"
-        },
-        {
-          "title": "Meta投下“深水炸弹”！美股存储、光通信集体暴跌",
-          "url": "https://www.gelonghui.com/news/5261548",
-          "source": "格隆汇",
-          "ranks": [
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时04分 ~ 07时23分]"
-        },
-        {
-          "title": "美股收盘：软硬件轮动费城指数暴跌6% 三大指数集体收低",
-          "url": "https://www.cls.cn/detail/2414790",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "美股异动丨Meta跨界抢食AI算力市场，Nebius跌超16%、CoreWeave跌逾11%",
-          "url": "https://www.gelonghui.com/news/5261542",
-          "source": "格隆汇",
-          "ranks": [
-            6,
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 07时23分]"
-        },
-        {
-          "title": "美股三大指数集体收跌 费城半导体指数大跌超6%",
-          "url": "https://www.gelonghui.com/news/5261579",
-          "source": "格隆汇",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "金十图示：2026年07月01日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260702040547223800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "金十图示：2026年07月01日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260702040533844800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "美股收盘：金龙指数涨近3% 美光、闪迪跌10%",
-          "url": "https://flash.jin10.com/detail/20260702040235507800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "美国总统特朗普：美光科技(MU.O)宣布向“特朗普账户”投资2.5亿美元。",
@@ -257,6 +121,39 @@
           "time_info": "05时43分"
         },
         {
+          "title": "特朗普的中东新困局：告别了战场，却走不出谈判桌？",
+          "url": "https://flash.jin10.com/detail/20260702112133116800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
+          "title": "谁将从美国哈萨克斯坦矿业交易中获利？特朗普的儿子们",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0275458.html",
+          "source": "联合早报",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
+          "title": "最高法院扩大特朗普解雇官员的权力",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0275455.html",
+          "source": "联合早报",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
           "title": "市场消息：苹果(AAPL.O)正与特朗普政府就芯片采购事宜进行谈判。",
           "url": "https://flash.jin10.com/detail/20260702035645327800",
           "source": "金十数据",
@@ -266,12 +163,171 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "特朗普回应赚数十亿美元：靠股市上涨，自己“不管投资”",
+          "url": "https://flash.jin10.com/detail/20260702110853685800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
+          "title": "罗四鸰：“原子弹悖论”：Anthropic对抗特朗普",
+          "url": "https://www.zaochenbao.com/news/opinion/202607/0275448.html",
+          "source": "联合早报",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "美股异动丨比特币反弹突破6万美元，Strategy大涨超8%，Coinbase涨超7%",
+          "url": "https://www.gelonghui.com/news/5261547",
+          "source": "格隆汇",
+          "ranks": [
+            1,
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 07时23分]"
+        },
+        {
+          "title": "美股异动丨沃尔玛大跌超5%，创去年11月以来新低",
+          "url": "https://www.gelonghui.com/news/5261546",
+          "source": "格隆汇",
+          "ranks": [
+            2,
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 07时23分]"
+        },
+        {
+          "title": "美股异动丨“卖AI算力”新计划曝光！Meta大涨超8%",
+          "url": "https://www.gelonghui.com/news/5261544",
+          "source": "格隆汇",
+          "ranks": [
+            4,
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 07时23分]"
+        },
+        {
+          "title": "市场聚焦沃什讲话，美股三大股指集体低开，存储芯片股下跌，闪迪下跌8.6%，黄金站上4070",
+          "url": "https://wallstreetcn.com/articles/3775932",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 03时04分]"
+        },
+        {
+          "title": "美股收盘：软硬件轮动费城指数暴跌6% 三大指数集体收低",
+          "url": "https://www.cls.cn/detail/2414790",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 12时11分]"
+        },
+        {
+          "title": "Meta投下“深水炸弹”！美股存储、光通信集体暴跌",
+          "url": "https://www.gelonghui.com/news/5261548",
+          "source": "格隆汇",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时04分 ~ 07时23分]"
+        },
+        {
+          "title": "美股异动丨Meta跨界抢食AI算力市场，Nebius跌超16%、CoreWeave跌逾11%",
+          "url": "https://www.gelonghui.com/news/5261542",
+          "source": "格隆汇",
+          "ranks": [
+            6,
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 07时23分]"
+        },
+        {
+          "title": "美股三大指数集体收跌 费城半导体指数大跌超6%",
+          "url": "https://www.gelonghui.com/news/5261579",
+          "source": "格隆汇",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "金十图示：2026年07月01日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260702040547223800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "金十图示：2026年07月01日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260702040533844800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "美股收盘：金龙指数涨近3% 美光、闪迪跌10%",
+          "url": "https://flash.jin10.com/detail/20260702040235507800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗航空公司恢复“德黑兰—孟买—德黑兰”航线的运营，此前该航线已暂停5个月。",
@@ -338,9 +394,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "评论：为什么说中国是伊朗战争的赢家",
+          "url": "https://www.zaochenbao.com/news/opinion/202607/0275456.html",
+          "source": "联合早报",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         },
         {
           "title": "伊朗称美方违反谅解备忘录承诺 将建立监督机制审查违规行为",
@@ -368,8 +435,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "甲骨文的AI焦虑：建了数千亿数据中心，但就怕OpenAI付不起账单",
+          "url": "https://wallstreetcn.com/articles/3775976",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
         {
           "title": "消息人士：软银就以OpenAI股权为抵押的贷款谈判重启，并作出更多让步",
           "url": "https://flash.jin10.com/detail/20260702041739954800",
@@ -391,6 +469,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Meta据悉布局AI云业务 拟对外出售算力 挑战亚马逊、微软和谷歌",
+          "url": "https://www.cls.cn/detail/2414683",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股异动丨美联储不急于加息！金价升至4114美元，黄金股走强，招金黄金等多股涨停",
+          "url": "https://www.gelonghui.com/news/5261665",
+          "source": "格隆汇",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         }
       ]
     },
