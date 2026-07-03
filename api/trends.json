@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-03T08:15:11.403387+08:00",
-  "total_titles_processed": 215,
+  "generated_at": "2026-07-03T12:51:10.369506+08:00",
+  "total_titles_processed": 296,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普政府拟修改核辐射监管条例 加快核电发展",
@@ -88,6 +88,39 @@
           "time_info": "06时14分"
         },
         {
+          "title": "报告：特勤局错过102条枪手通讯险酿特朗普遇刺",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0375553.html",
+          "source": "联合早报",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 12时51分]"
+        },
+        {
+          "title": "特朗普谈非农“爆冷”：沃什必须做他该干的事，但FED理事会有点敌对！",
+          "url": "https://www.cls.cn/detail/2416012",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 12时51分]"
+        },
+        {
+          "title": "特朗普：台湾几乎拿走100%晶片业务 美将拥有60%产能",
+          "url": "https://www.zaochenbao.com/news/taiwan/202607/0375551.html",
+          "source": "联合早报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 12时51分]"
+        },
+        {
           "title": "美法院裁定特朗普政府不得无听证长期拘押移民",
           "url": "https://flash.jin10.com/detail/20260703074708279800",
           "source": "金十数据",
@@ -108,6 +141,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时14分 ~ 08时15分]"
+        },
+        {
+          "title": "特朗普重塑外交准则：以AI实力重新定义盟友",
+          "url": "https://flash.jin10.com/detail/20260703121136992800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 12时51分]"
+        },
+        {
+          "title": "美官员：特朗普希望结束俄乌战争的“无谓杀戮”",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0375545.html",
+          "source": "联合早报",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 12时51分]"
         },
         {
           "title": "特朗普暗示沃什在美联储的工作不好开展 继续尝试赶走“刺头”",
@@ -377,7 +433,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股异动丨Rivian大涨超15%创接近半年新高，上调全年交付量指引",
@@ -399,8 +455,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时14分 ~ 08时15分]"
+          "appearance_count": 4,
+          "time_info": "[08时14分 ~ 12时51分]"
+        },
+        {
+          "title": "美股收盘：芯片股续跌闪迪重挫14% 苹果涨5%领道指刷新高",
+          "url": "https://www.cls.cn/detail/2415948",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时14分 ~ 12时51分]"
         },
         {
           "title": "上美股份(02145.HK)授出合共18.23万份限制性股票单位",
@@ -435,17 +503,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 04时25分]"
-        },
-        {
-          "title": "美股收盘：芯片股续跌闪迪重挫14% 苹果涨5%领道指刷新高",
-          "url": "https://www.cls.cn/detail/2415948",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时14分 ~ 08时15分]"
         },
         {
           "title": "金十图示：2026年07月02日（周四）美股热门股票行情一览（美股盘中）",
@@ -492,6 +549,18 @@
           "time_info": "[04时24分 ~ 04时25分]"
         },
         {
+          "title": "7月3日投资避雷针：美股存储、半导体板块大跌 闪迪跌超14%",
+          "url": "https://www.cls.cn/detail/2415987",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 12时51分]"
+        },
+        {
           "title": "美股三大股指走势分化，纳指跌超1%，标普500指数跌0.28%，道指涨0.64%。",
           "url": "https://flash.jin10.com/detail/20260703002510414800",
           "source": "金十数据",
@@ -506,7 +575,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "伊朗已故最高领袖哈梅内伊葬礼周末举行 中俄等国政要出席",
@@ -514,11 +583,12 @@
           "source": "联合早报",
           "ranks": [
             2,
-            6
+            6,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 08时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 12时51分]"
         },
         {
           "title": "据以色列 i24News：以色列安全官员回应《纽约时报》相关报道时表示，“如果以色列想清除任何人，就一定做得到。”（此前报道称，美国官员在美伊谈判期间曾担忧以色列可能对伊朗谈判关键人物采取暗杀行动。）",
@@ -530,6 +600,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 04时25分]"
+        },
+        {
+          "title": "美媒曝猛料！美国曾秘密提醒伊朗：以色列要暗杀你们的谈判代表",
+          "url": "https://flash.jin10.com/detail/20260703122811638800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 12时51分]"
+        },
+        {
+          "title": "消息：美国认为以色列曾密谋杀害伊朗谈判代表",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0375546.html",
+          "source": "联合早报",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 12时51分]"
         },
         {
           "title": "美官员曾担忧以色列暗杀伊朗谈判代表",
@@ -598,6 +691,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "弱非农推升金价，但资金确认还差一步？",
+          "url": "https://flash.jin10.com/detail/20260703115449576800",
+          "source": "金十数据",
+          "ranks": [
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 12时51分]"
         }
       ]
     }
