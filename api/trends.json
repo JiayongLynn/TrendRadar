@@ -1,14 +1,26 @@
 {
-  "generated_at": "2026-07-03T06:14:54.514819+08:00",
-  "total_titles_processed": 176,
+  "generated_at": "2026-07-03T08:15:11.403387+08:00",
+  "total_titles_processed": 215,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "特朗普政府拟修改核辐射监管条例 加快核电发展",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0275515.html",
+          "source": "联合早报",
+          "ranks": [
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 08时15分]"
+        },
         {
           "title": "美国财政部：财政部与国税局将接受大型上市公司股票捐赠，为“特朗普账户”儿童金融账户计划提供支持。",
           "url": "https://flash.jin10.com/detail/20260703023131471800",
@@ -27,7 +39,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
@@ -38,7 +50,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
@@ -49,7 +61,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
@@ -60,7 +72,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
@@ -71,20 +83,64 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
         {
-          "title": "特朗普政府拟修改核辐射监管条例 加快核电发展",
-          "url": "https://www.zaochenbao.com/news/politics/202607/0275515.html",
-          "source": "联合早报",
+          "title": "美法院裁定特朗普政府不得无听证长期拘押移民",
+          "url": "https://flash.jin10.com/detail/20260703074708279800",
+          "source": "金十数据",
           "ranks": [
-            16
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 06时14分]"
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
+        },
+        {
+          "title": "从库克到鲍威尔再到亚特兰大联储，特朗普再度推进美联储人事重塑",
+          "url": "https://flash.jin10.com/detail/20260703074343318800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
+        },
+        {
+          "title": "特朗普暗示沃什在美联储的工作不好开展 继续尝试赶走“刺头”",
+          "url": "https://flash.jin10.com/detail/20260703070405676800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
+        },
+        {
+          "title": "“解放日”关税掀市场巨震，特朗普账户却在疯狂扫货科技股",
+          "url": "https://flash.jin10.com/detail/20260703065821847800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
+        },
+        {
+          "title": "特朗普回应获得巨额收益：不知情",
+          "url": "https://flash.jin10.com/detail/20260703065333579800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
         },
         {
           "title": "美国总统特朗普：马斯克对我在电动汽车强制令上的决定“并不高兴”。",
@@ -93,7 +149,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
@@ -104,7 +160,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
@@ -115,7 +171,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
@@ -126,7 +182,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
@@ -137,7 +193,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
@@ -148,7 +204,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
@@ -170,7 +226,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
@@ -181,7 +237,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
@@ -203,7 +259,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
@@ -214,7 +270,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
@@ -225,7 +281,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
@@ -236,7 +292,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
@@ -247,7 +303,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
@@ -258,7 +314,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
@@ -269,7 +325,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
@@ -280,7 +336,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
@@ -291,7 +347,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
@@ -313,7 +369,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         }
@@ -321,18 +377,42 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股异动丨Rivian大涨超15%创接近半年新高，上调全年交付量指引",
           "url": "https://www.gelonghui.com/news/5262377",
           "source": "格隆汇",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 06时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 08时15分]"
+        },
+        {
+          "title": "【早报】美股存储、半导体板块连日大跌；一批A股公司中报业绩预计大增；油价微升、黄金走强；西班牙晋级世界杯16强",
+          "url": "https://www.cls.cn/detail/2415963",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
+        },
+        {
+          "title": "上美股份(02145.HK)授出合共18.23万份限制性股票单位",
+          "url": "https://www.gelonghui.com/news/5262370",
+          "source": "格隆汇",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 08时15分]"
         },
         {
           "title": "金十图示：2026年07月02日（周四）美股热门股票行情一览（美股收盘）",
@@ -357,6 +437,17 @@
           "time_info": "[04时24分 ~ 04时25分]"
         },
         {
+          "title": "美股收盘：芯片股续跌闪迪重挫14% 苹果涨5%领道指刷新高",
+          "url": "https://www.cls.cn/detail/2415948",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
+        },
+        {
           "title": "金十图示：2026年07月02日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260703003147514800",
           "source": "金十数据",
@@ -377,17 +468,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
-        },
-        {
-          "title": "上美股份(02145.HK)授出合共18.23万份限制性股票单位",
-          "url": "https://www.gelonghui.com/news/5262370",
-          "source": "格隆汇",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 06时14分]"
         },
         {
           "title": "美股异动丨AeroVironment续涨超16%，获美国防部5亿美元合同",
@@ -433,11 +513,12 @@
           "url": "https://www.zaochenbao.com/news/politics/202607/0275529.html",
           "source": "联合早报",
           "ranks": [
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 06时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 08时15分]"
         },
         {
           "title": "据以色列 i24News：以色列安全官员回应《纽约时报》相关报道时表示，“如果以色列想清除任何人，就一定做得到。”（此前报道称，美国官员在美伊谈判期间曾担忧以色列可能对伊朗谈判关键人物采取暗杀行动。）",
@@ -494,11 +575,12 @@
           "url": "https://www.zaochenbao.com/news/politics/202607/0275516.html",
           "source": "联合早报",
           "ranks": [
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 06时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 08时15分]"
         }
       ]
     },
@@ -513,7 +595,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         }
