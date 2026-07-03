@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T00:42:24.158696+08:00",
-  "total_titles_processed": 93,
+  "generated_at": "2026-07-04T02:19:15.256095+08:00",
+  "total_titles_processed": 118,
   "failed_sources": [
     "36kr"
   ],
@@ -17,8 +17,41 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时19分]"
+        },
+        {
+          "title": "特朗普及盟友拟重塑美联储 撤换库克与鲍威尔",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0375597.html",
+          "source": "联合早报",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时19分]"
+        },
+        {
+          "title": "特朗普去年股票交易最高达24亿元 政策宣布前后频繁买卖引关注",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0375596.html",
+          "source": "联合早报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时19分]"
+        },
+        {
+          "title": "特朗普重返白宫一年实现巨额财富增长",
+          "url": "https://www.zaochenbao.com/news/Chronicles/202607/0375580.html",
+          "source": "联合早报",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时19分]"
         },
         {
           "title": "哥伦比亚总统佩特罗：特朗普此前并不知道我被列入美国财政部海外资产控制办公室（OFAC）制裁名单，特朗普表示将对此采取行动。",
@@ -37,28 +70,6 @@
           "source": "华尔街见闻",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "特朗普及盟友拟重塑美联储 撤换库克与鲍威尔",
-          "url": "https://www.zaochenbao.com/news/politics/202607/0375597.html",
-          "source": "联合早报",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "特朗普去年股票交易最高达24亿元 政策宣布前后频繁买卖引关注",
-          "url": "https://www.zaochenbao.com/news/politics/202607/0375596.html",
-          "source": "联合早报",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -107,24 +118,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
-        },
-        {
-          "title": "特朗普重返白宫一年实现巨额财富增长",
-          "url": "https://www.zaochenbao.com/news/Chronicles/202607/0375580.html",
-          "source": "联合早报",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
+          "url": "https://flash.jin10.com/detail/20260704021129048800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 02时19分]"
+        },
         {
           "title": "据伊朗学生通讯社：伊朗和巴基斯坦双方在伊朗前最高领袖哈梅内伊的葬礼后举行会谈。",
           "url": "https://flash.jin10.com/detail/20260703235631921800",
@@ -155,8 +166,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时19分]"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗国防部副部长表示，伊朗和巴基斯坦可以成为该地区新安全安排的基石。",
+          "url": "https://flash.jin10.com/detail/20260704004754888800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 02时19分]"
         },
         {
           "title": "以总理办公室否认计划暗杀伊朗谈判代表",
@@ -183,19 +205,37 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时19分]"
         },
         {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
           "url": "https://wallstreetcn.com/articles/3776091",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "摩根大通维持对黄金的长期看涨展望，并预计金价将在2027年进一步回升。",
+          "url": "https://flash.jin10.com/detail/20260704012107426800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 02时19分]"
         }
       ]
     }
