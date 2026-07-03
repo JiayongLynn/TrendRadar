@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T04:20:20.252209+08:00",
-  "total_titles_processed": 143,
+  "generated_at": "2026-07-04T06:12:02.801069+08:00",
+  "total_titles_processed": 146,
   "failed_sources": [
     "36kr"
   ],
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 06时12分]"
         },
         {
           "title": "特朗普及盟友拟重塑美联储 撤换库克与鲍威尔",
@@ -28,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 06时12分]"
         },
         {
           "title": "特朗普去年股票交易最高达24亿元 政策宣布前后频繁买卖引关注",
@@ -39,8 +39,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 06时12分]"
         },
         {
           "title": "特朗普重返白宫一年实现巨额财富增长",
@@ -50,19 +50,31 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 06时12分]"
         },
         {
           "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
           "url": "https://wallstreetcn.com/articles/3776099",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 06时12分]"
+        },
+        {
+          "title": "美国总统特朗普：赦免6名因“修车被起诉”人士。",
+          "url": "https://flash.jin10.com/detail/20260704032701636800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 06时12分]"
         },
         {
           "title": "哥伦比亚总统佩特罗：特朗普此前并不知道我被列入美国财政部海外资产控制办公室（OFAC）制裁名单，特朗普表示将对此采取行动。",
@@ -74,17 +86,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
-        },
-        {
-          "title": "美国总统特朗普：赦免6名因“修车被起诉”人士。",
-          "url": "https://flash.jin10.com/detail/20260704032701636800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时20分"
         },
         {
           "title": "哥伦比亚总统佩特罗：与美国总统特朗普进行了友好交谈。",
@@ -137,6 +138,29 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
+          "url": "https://flash.jin10.com/detail/20260704021129048800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时18分 ~ 06时12分]"
+        },
+        {
+          "title": "霍尔木兹海峡无公海通道 伊朗拟“换个名头”收过路费",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0375600.html",
+          "source": "联合早报",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 06时12分]"
+        },
+        {
           "title": "据伊朗学生通讯社：伊朗和巴基斯坦双方在伊朗前最高领袖哈梅内伊的葬礼后举行会谈。",
           "url": "https://flash.jin10.com/detail/20260703235631921800",
           "source": "金十数据",
@@ -159,27 +183,15 @@
           "time_info": "00时42分"
         },
         {
-          "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
-          "url": "https://flash.jin10.com/detail/20260704021129048800",
+          "title": "伊朗议会议长卡利巴夫：美国必须“接受贸易领域的既定现实”。",
+          "url": "https://flash.jin10.com/detail/20260704030253296800",
           "source": "金十数据",
           "ranks": [
-            1,
-            25
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时18分 ~ 04时20分]"
-        },
-        {
-          "title": "霍尔木兹海峡无公海通道 伊朗拟“换个名头”收过路费",
-          "url": "https://www.zaochenbao.com/news/politics/202607/0375600.html",
-          "source": "联合早报",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 04时20分]"
+          "time_info": "[04时20分 ~ 06时12分]"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗国防部副部长表示，伊朗和巴基斯坦可以成为该地区新安全安排的基石。",
@@ -202,17 +214,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：美国必须“接受贸易领域的既定现实”。",
-          "url": "https://flash.jin10.com/detail/20260704030253296800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时20分"
         }
       ]
     },
@@ -229,8 +230,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 06时12分]"
         },
         {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
