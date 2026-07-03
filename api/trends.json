@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-03T12:51:10.369506+08:00",
-  "total_titles_processed": 296,
+  "generated_at": "2026-07-03T16:17:00.529515+08:00",
+  "total_titles_processed": 355,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普政府拟修改核辐射监管条例 加快核电发展",
@@ -88,37 +88,63 @@
           "time_info": "06时14分"
         },
         {
-          "title": "报告：特勤局错过102条枪手通讯险酿特朗普遇刺",
-          "url": "https://www.zaochenbao.com/news/politics/202607/0375553.html",
-          "source": "联合早报",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 12时51分]"
-        },
-        {
           "title": "特朗普谈非农“爆冷”：沃什必须做他该干的事，但FED理事会有点敌对！",
           "url": "https://www.cls.cn/detail/2416012",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 12时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 16时17分]"
+        },
+        {
+          "title": "报告：特勤局错过102条枪手通讯险酿特朗普遇刺",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0375553.html",
+          "source": "联合早报",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 16时17分]"
         },
         {
           "title": "特朗普：台湾几乎拿走100%晶片业务 美将拥有60%产能",
           "url": "https://www.zaochenbao.com/news/taiwan/202607/0375551.html",
           "source": "联合早报",
           "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 16时17分]"
+        },
+        {
+          "title": "美官员：特朗普希望结束俄乌战争的“无谓杀戮”",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0375545.html",
+          "source": "联合早报",
+          "ranks": [
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 16时17分]"
+        },
+        {
+          "title": "拜登之子讽刺特朗普乃“史上最会停战总统”",
+          "url": "https://flash.jin10.com/detail/20260703154708989800",
+          "source": "金十数据",
+          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时50分 ~ 12时51分]"
+          "time_info": "[16时16分 ~ 16时17分]"
         },
         {
           "title": "美法院裁定特朗普政府不得无听证长期拘押移民",
@@ -130,6 +156,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时14分 ~ 08时15分]"
+        },
+        {
+          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
+          "url": "https://wallstreetcn.com/articles/3776099",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 16时17分]"
         },
         {
           "title": "从库克到鲍威尔再到亚特兰大联储，特朗普再度推进美联储人事重塑",
@@ -149,17 +186,6 @@
           "ranks": [
             11,
             16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 12时51分]"
-        },
-        {
-          "title": "美官员：特朗普希望结束俄乌战争的“无谓杀戮”",
-          "url": "https://www.zaochenbao.com/news/politics/202607/0375545.html",
-          "source": "联合早报",
-          "ranks": [
-            14
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -433,8 +459,32 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "【早报】美股存储、半导体板块连日大跌；一批A股公司中报业绩预计大增；油价微升、黄金走强；西班牙晋级世界杯16强",
+          "url": "https://www.cls.cn/detail/2415963",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时14分 ~ 16时17分]"
+        },
+        {
+          "title": "美股收盘：芯片股续跌闪迪重挫14% 苹果涨5%领道指刷新高",
+          "url": "https://www.cls.cn/detail/2415948",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时14分 ~ 16时17分]"
+        },
         {
           "title": "美股异动丨Rivian大涨超15%创接近半年新高，上调全年交付量指引",
           "url": "https://www.gelonghui.com/news/5262377",
@@ -446,29 +496,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时57分 ~ 08时15分]"
-        },
-        {
-          "title": "【早报】美股存储、半导体板块连日大跌；一批A股公司中报业绩预计大增；油价微升、黄金走强；西班牙晋级世界杯16强",
-          "url": "https://www.cls.cn/detail/2415963",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时14分 ~ 12时51分]"
-        },
-        {
-          "title": "美股收盘：芯片股续跌闪迪重挫14% 苹果涨5%领道指刷新高",
-          "url": "https://www.cls.cn/detail/2415948",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时14分 ~ 12时51分]"
         },
         {
           "title": "上美股份(02145.HK)授出合共18.23万份限制性股票单位",
@@ -538,6 +565,18 @@
           "time_info": "[00时57分 ~ 06时14分]"
         },
         {
+          "title": "7月3日投资避雷针：美股存储、半导体板块大跌 闪迪跌超14%",
+          "url": "https://www.cls.cn/detail/2415987",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 16时17分]"
+        },
+        {
           "title": "美股收盘：芯片股重挫 闪迪大跌14%",
           "url": "https://flash.jin10.com/detail/20260703040150384800",
           "source": "金十数据",
@@ -549,16 +588,15 @@
           "time_info": "[04时24分 ~ 04时25分]"
         },
         {
-          "title": "7月3日投资避雷针：美股存储、半导体板块大跌 闪迪跌超14%",
-          "url": "https://www.cls.cn/detail/2415987",
-          "source": "财联社热门",
+          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
+          "url": "https://wallstreetcn.com/articles/3776105",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            12
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时50分 ~ 12时51分]"
+          "time_info": "[16时16分 ~ 16时17分]"
         },
         {
           "title": "美股三大股指走势分化，纳指跌超1%，标普500指数跌0.28%，道指涨0.64%。",
@@ -575,7 +613,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "伊朗已故最高领袖哈梅内伊葬礼周末举行 中俄等国政要出席",
@@ -618,11 +656,23 @@
           "url": "https://www.zaochenbao.com/news/politics/202607/0375546.html",
           "source": "联合早报",
           "ranks": [
-            13
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 16时17分]"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊拉克总统抵达德黑兰。",
+          "url": "https://flash.jin10.com/detail/20260703153909043800",
+          "source": "金十数据",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时50分 ~ 12时51分]"
+          "time_info": "[16时16分 ~ 16时17分]"
         },
         {
           "title": "美官员曾担忧以色列暗杀伊朗谈判代表",
