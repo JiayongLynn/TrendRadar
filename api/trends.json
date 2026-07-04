@@ -1,13 +1,236 @@
 {
-  "generated_at": "2026-07-04T20:12:29.978678+08:00",
-  "total_titles_processed": 293,
+  "generated_at": "2026-07-04T22:43:31.342826+08:00",
+  "total_titles_processed": 324,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
+      "keyword_group": "伊朗",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
+          "url": "https://flash.jin10.com/detail/20260704021129048800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时18分 ~ 06时12分]"
+        },
+        {
+          "title": "霍尔木兹海峡无公海通道 伊朗拟“换个名头”收过路费",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0375600.html",
+          "source": "联合早报",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 06时12分]"
+        },
+        {
+          "title": "伊朗为哈梅内伊举行六天公众告别仪式",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0475647.html",
+          "source": "联合早报",
+          "ranks": [
+            2,
+            9,
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时53分 ~ 22时43分]"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗和巴基斯坦双方在伊朗前最高领袖哈梅内伊的葬礼后举行会谈。",
+          "url": "https://flash.jin10.com/detail/20260703235631921800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "伊朗驻华大使：将在霍尔木兹海峡收费安排中给予中国特殊待遇",
+          "url": "https://www.zaochenbao.com/news/china/202607/0475671.html",
+          "source": "联合早报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "全国人大常委会副委员长何维代表中方出席伊朗已故最高领袖哈梅内伊葬礼",
+          "url": "https://flash.jin10.com/detail/20260703235528345800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "伊朗外交部长阿拉格齐在伊朗首都德黑兰分别会晤黎巴嫩真主党及哈马斯代表。",
+          "url": "https://flash.jin10.com/detail/20260704220954516800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "伊朗议长：伊朗已为中国船只通过霍尔木兹提供便利",
+          "url": "https://www.zaochenbao.com/news/china/202607/0475632.html",
+          "source": "联合早报",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 15时54分]"
+        },
+        {
+          "title": "伊朗官员警告他国勿在霍尔木兹海峡采取军事行动",
+          "url": "https://flash.jin10.com/detail/20260704144842898800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时53分 ~ 18时20分]"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：美国必须“接受贸易领域的既定现实”。",
+          "url": "https://flash.jin10.com/detail/20260704030253296800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 06时12分]"
+        },
+        {
+          "title": "上千万伊朗人参与哈梅内伊告别仪式",
+          "url": "https://flash.jin10.com/detail/20260704184728055800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时12分 ~ 22时43分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：黎巴嫩消息人士称，以色列在萨迪金市附近进行了一次无人机袭击。",
+          "url": "https://flash.jin10.com/detail/20260704161949297800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 20时12分]"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗国防部副部长表示，伊朗和巴基斯坦可以成为该地区新安全安排的基石。",
+          "url": "https://flash.jin10.com/detail/20260704004754888800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 02时19分]"
+        },
+        {
+          "title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点",
+          "url": "https://flash.jin10.com/detail/20260704214033656800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "以总理办公室否认计划暗杀伊朗谈判代表",
+          "url": "https://flash.jin10.com/detail/20260703234542336800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "据沙特媒体哈达斯与阿拉伯卫星电视台报道，美国与伊朗的谈判将于7月11日在巴基斯坦进行。",
+          "url": "https://flash.jin10.com/detail/20260704212154579800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
+          "url": "https://flash.jin10.com/detail/20260704211410750800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "伊朗为已故最高领袖哈梅内伊举行公众告别与悼念仪式",
+          "url": "https://flash.jin10.com/detail/20260704103120519800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
+          "url": "https://flash.jin10.com/detail/20260704200114603800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普再批台湾拿走晶片业务 称卸任前美国将拥有60%产能",
@@ -89,6 +312,18 @@
           "time_info": "[04时20分 ~ 06时12分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-04）",
+          "url": "https://flash.jin10.com/detail/20260704182308917800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时12分 ~ 22时43分]"
+        },
+        {
           "title": "伊朗议长反击特朗普“缺粮”言论：美国数千万人靠食品券生活",
           "url": "https://flash.jin10.com/detail/20260704124044168800",
           "source": "金十数据",
@@ -100,15 +335,15 @@
           "time_info": "[15时53分 ~ 15时54分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-04）",
-          "url": "https://flash.jin10.com/detail/20260704182308917800",
-          "source": "金十数据",
+          "title": "特朗普独立日前演说 斥民主党构成“共产主义威胁”",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0475664.html",
+          "source": "联合早报",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时12分"
+          "time_info": "22时43分"
         },
         {
           "title": "哥伦比亚总统佩特罗：特朗普此前并不知道我被列入美国财政部海外资产控制办公室（OFAC）制裁名单，特朗普表示将对此采取行动。",
@@ -179,163 +414,8 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
-          "url": "https://flash.jin10.com/detail/20260704021129048800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时18分 ~ 06时12分]"
-        },
-        {
-          "title": "霍尔木兹海峡无公海通道 伊朗拟“换个名头”收过路费",
-          "url": "https://www.zaochenbao.com/news/politics/202607/0375600.html",
-          "source": "联合早报",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 06时12分]"
-        },
-        {
-          "title": "据伊朗学生通讯社：伊朗和巴基斯坦双方在伊朗前最高领袖哈梅内伊的葬礼后举行会谈。",
-          "url": "https://flash.jin10.com/detail/20260703235631921800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "全国人大常委会副委员长何维代表中方出席伊朗已故最高领袖哈梅内伊葬礼",
-          "url": "https://flash.jin10.com/detail/20260703235528345800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "伊朗为哈梅内伊举行六天公众告别仪式",
-          "url": "https://www.zaochenbao.com/news/politics/202607/0475647.html",
-          "source": "联合早报",
-          "ranks": [
-            2,
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时53分 ~ 20时12分]"
-        },
-        {
-          "title": "伊朗议长：伊朗已为中国船只通过霍尔木兹提供便利",
-          "url": "https://www.zaochenbao.com/news/china/202607/0475632.html",
-          "source": "联合早报",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 15时54分]"
-        },
-        {
-          "title": "伊朗官员警告他国勿在霍尔木兹海峡采取军事行动",
-          "url": "https://flash.jin10.com/detail/20260704144842898800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时53分 ~ 18时20分]"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：美国必须“接受贸易领域的既定现实”。",
-          "url": "https://flash.jin10.com/detail/20260704030253296800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时20分 ~ 06时12分]"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：黎巴嫩消息人士称，以色列在萨迪金市附近进行了一次无人机袭击。",
-          "url": "https://flash.jin10.com/detail/20260704161949297800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 20时12分]"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗国防部副部长表示，伊朗和巴基斯坦可以成为该地区新安全安排的基石。",
-          "url": "https://flash.jin10.com/detail/20260704004754888800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 02时19分]"
-        },
-        {
-          "title": "上千万伊朗人参与哈梅内伊告别仪式",
-          "url": "https://flash.jin10.com/detail/20260704184728055800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时12分"
-        },
-        {
-          "title": "以总理办公室否认计划暗杀伊朗谈判代表",
-          "url": "https://flash.jin10.com/detail/20260703234542336800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "伊朗为已故最高领袖哈梅内伊举行公众告别与悼念仪式",
-          "url": "https://flash.jin10.com/detail/20260704103120519800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
@@ -348,8 +428,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时42分 ~ 20时12分]"
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 22时43分]"
         },
         {
           "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
@@ -386,6 +466,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时53分 ~ 20时12分]"
+        },
+        {
+          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
+          "url": "https://wallstreetcn.com/articles/3776200",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         }
       ]
     },
@@ -401,11 +492,12 @@
             8,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时42分 ~ 20时12分]"
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 22时43分]"
         }
       ]
     },
