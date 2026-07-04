@@ -1,24 +1,36 @@
 {
-  "generated_at": "2026-07-05T00:11:36.729187+08:00",
-  "total_titles_processed": 92,
+  "generated_at": "2026-07-05T02:08:59.628074+08:00",
+  "total_titles_processed": 125,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊朗驻华大使：将在霍尔木兹海峡收费安排中给予中国特殊待遇",
           "url": "https://www.zaochenbao.com/news/china/202607/0475671.html",
           "source": "联合早报",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时08分]"
+        },
+        {
+          "title": "伊朗驻华大使：霍尔木兹海峡拟收服务费 对友好国家给予特殊待遇",
+          "url": "https://www.zaochenbao.com/news/china/202607/0475672.html",
+          "source": "联合早报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "02时08分"
         },
         {
           "title": "伊朗传统两派对立格局被打破，保守派内部进一步分裂，新最高领袖的绝对权力正在被稀释",
@@ -32,6 +44,28 @@
           "time_info": "00时11分"
         },
         {
+          "title": "伊朗为哈梅内伊举行六天公众告别仪式",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0475647.html",
+          "source": "联合早报",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时08分]"
+        },
+        {
+          "title": "伊朗情报部门称已消灭四个与美国和以色列有关联的武装组织",
+          "url": "https://flash.jin10.com/detail/20260705011249100800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时08分"
+        },
+        {
           "title": "伊朗外交部长阿拉格齐在伊朗首都德黑兰分别会晤黎巴嫩真主党及哈马斯代表。",
           "url": "https://flash.jin10.com/detail/20260704220954516800",
           "source": "金十数据",
@@ -43,6 +77,17 @@
           "time_info": "00时11分"
         },
         {
+          "title": "伊朗驻华大使：计划按国际通行标准对霍尔木兹海峡通航收服务费",
+          "url": "https://flash.jin10.com/detail/20260705010158919800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时08分"
+        },
+        {
           "title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点",
           "url": "https://flash.jin10.com/detail/20260704214033656800",
           "source": "金十数据",
@@ -52,6 +97,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "伊朗方面表示，感谢各国代表团顶住外部的“施压与恫吓”、前来参加最高领袖哈梅内伊葬礼。",
+          "url": "https://flash.jin10.com/detail/20260705005803215800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时08分"
         },
         {
           "title": "据沙特媒体哈达斯与阿拉伯卫星电视台报道，美国与伊朗的谈判将于7月11日在巴基斯坦进行。",
@@ -85,17 +141,123 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "据以色列第15频道援引消息人士称，美国总统特朗普要求不要在黎巴嫩局势上升级，以免妨碍他与伊朗的沟通。",
+          "url": "https://flash.jin10.com/detail/20260705015152155800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时08分"
         },
         {
-          "title": "伊朗为哈梅内伊举行六天公众告别仪式",
-          "url": "https://www.zaochenbao.com/news/politics/202607/0475647.html",
+          "title": "以色列总理内塔尼亚胡表示，昨天与美国总统特朗普通了电话，已同意很快在美国与特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20260705013538607800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时08分"
+        },
+        {
+          "title": "特朗普独立日前演说 斥民主党构成“共产主义威胁”",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0475664.html",
           "source": "联合早报",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时08分]"
+        },
+        {
+          "title": "一名美国官员表示，特朗普身边多位核心幕僚都认为，内塔尼亚胡在所有问题上都判断失误。",
+          "url": "https://flash.jin10.com/detail/20260705011106298800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时08分"
+        },
+        {
+          "title": "美国总统特朗普：我对伊朗人在哈梅内伊的葬礼上哭泣感到很惊讶，因为我原以为人们是讨厌他的。也许这些都是假眼泪。",
+          "url": "https://flash.jin10.com/detail/20260705011006115800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时08分"
+        },
+        {
+          "title": "特朗普：哈梅内伊葬礼结束前 美伊双方互不交火",
+          "url": "https://flash.jin10.com/detail/20260705010025696800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时08分"
+        },
+        {
+          "title": "美国总统特朗普：美国和伊朗决定暂停会谈一周。哈梅内伊葬礼相关事宜结束前，美伊双方互不交火。",
+          "url": "https://flash.jin10.com/detail/20260705005401003800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时08分"
+        },
+        {
+          "title": "内塔尼亚胡或将访白宫 特朗普称内塔尼亚胡“知道谁才是老大”",
+          "url": "https://flash.jin10.com/detail/20260705005125146800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时08分"
+        },
+        {
+          "title": "特朗普与内塔尼亚胡或最早于下周举行会晤。",
+          "url": "https://flash.jin10.com/detail/20260705004719450800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时08分"
+        },
+        {
+          "title": "美国财政部正式推出“特朗普账户”应用程序",
+          "url": "https://flash.jin10.com/detail/20260705001056251800",
+          "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "02时08分"
         }
       ]
     },
@@ -119,28 +281,12 @@
           "url": "https://wallstreetcn.com/articles/3776200",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特朗普独立日前演说 斥民主党构成“共产主义威胁”",
-          "url": "https://www.zaochenbao.com/news/politics/202607/0475664.html",
-          "source": "联合早报",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时08分]"
         }
       ]
     }
