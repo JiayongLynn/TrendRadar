@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-04T18:20:39.618031+08:00",
-  "total_titles_processed": 276,
+  "generated_at": "2026-07-04T20:12:29.978678+08:00",
+  "total_titles_processed": 293,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普再批台湾拿走晶片业务 称卸任前美国将拥有60%产能",
@@ -100,6 +100,17 @@
           "time_info": "[15时53分 ~ 15时54分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-04）",
+          "url": "https://flash.jin10.com/detail/20260704182308917800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
+        },
+        {
           "title": "哥伦比亚总统佩特罗：特朗普此前并不知道我被列入美国财政部海外资产控制办公室（OFAC）制裁名单，特朗普表示将对此采取行动。",
           "url": "https://flash.jin10.com/detail/20260703234037205800",
           "source": "金十数据",
@@ -169,7 +180,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
@@ -222,11 +233,12 @@
           "source": "联合早报",
           "ranks": [
             2,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时53分 ~ 18时20分]"
+          "appearance_count": 4,
+          "time_info": "[15时53分 ~ 20时12分]"
         },
         {
           "title": "伊朗议长：伊朗已为中国船只通过霍尔木兹提供便利",
@@ -264,6 +276,18 @@
           "time_info": "[04时20分 ~ 06时12分]"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：黎巴嫩消息人士称，以色列在萨迪金市附近进行了一次无人机袭击。",
+          "url": "https://flash.jin10.com/detail/20260704161949297800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 20时12分]"
+        },
+        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗国防部副部长表示，伊朗和巴基斯坦可以成为该地区新安全安排的基石。",
           "url": "https://flash.jin10.com/detail/20260704004754888800",
           "source": "金十数据",
@@ -273,6 +297,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 02时19分]"
+        },
+        {
+          "title": "上千万伊朗人参与哈梅内伊告别仪式",
+          "url": "https://flash.jin10.com/detail/20260704184728055800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
         },
         {
           "title": "以总理办公室否认计划暗杀伊朗谈判代表",
@@ -295,17 +330,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：黎巴嫩消息人士称，以色列在萨迪金市附近进行了一次无人机袭击。",
-          "url": "https://flash.jin10.com/detail/20260704161949297800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
         }
       ]
     },
@@ -313,6 +337,20 @@
       "keyword_group": "美股",
       "match_count": 4,
       "titles": [
+        {
+          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3776174",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时42分 ~ 20时12分]"
+        },
         {
           "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
           "url": "https://wallstreetcn.com/articles/3776105",
@@ -325,19 +363,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时42分 ~ 12时42分]"
-        },
-        {
-          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3776174",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 18时20分]"
         },
         {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
@@ -359,8 +384,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时53分 ~ 18时20分]"
+          "appearance_count": 4,
+          "time_info": "[15时53分 ~ 20时12分]"
         }
       ]
     },
@@ -375,11 +400,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 18时20分]"
+          "appearance_count": 5,
+          "time_info": "[12时42分 ~ 20时12分]"
         }
       ]
     },
