@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T21:58:33.696188+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-07-05T23:22:01.487569+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [
     "36kr"
   ],
@@ -20,8 +20,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时03分 ~ 21时58分]"
+          "appearance_count": 6,
+          "time_info": "[13时03分 ~ 23时22分]"
         },
         {
           "title": "据以色列第15频道援引消息人士称，美国总统特朗普要求不要在黎巴嫩局势上升级，以免妨碍他与伊朗的沟通。",
@@ -79,6 +79,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时11分 ~ 08时08分]"
+        },
+        {
+          "title": "特朗普展示最初美国国旗 庆祝“250年永不落幕的胜利”",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0575711.html",
+          "source": "联合早报",
+          "ranks": [
+            11,
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时18分 ~ 23时22分]"
         },
         {
           "title": "普京向特朗普介绍战场形势，特朗普称继续斡旋俄乌冲突",
@@ -152,19 +165,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时03分 ~ 19时41分]"
-        },
-        {
-          "title": "特朗普展示最初美国国旗 庆祝“250年永不落幕的胜利”",
-          "url": "https://www.zaochenbao.com/news/politics/202607/0575711.html",
-          "source": "联合早报",
-          "ranks": [
-            11,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 21时58分]"
         },
         {
           "title": "俄罗斯总统助理乌沙科夫：特朗普在北约峰会前提出帮助达成乌克兰冲突的解决方案。",
@@ -390,7 +390,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
@@ -486,7 +486,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "伊朗驻华大使：将在霍尔木兹海峡收费安排中给予中国特殊待遇",
@@ -500,6 +500,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时11分 ~ 08时08分]"
+        },
+        {
+          "title": "英法联手阿曼保霍尔木兹航运 伊朗警告“危机制造者”后果自负",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0575731.html",
+          "source": "联合早报",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时58分 ~ 23时22分]"
         },
         {
           "title": "伊朗驻华大使：霍尔木兹海峡拟收服务费 对友好国家给予特殊待遇",
@@ -523,17 +535,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
-        },
-        {
-          "title": "英法联手阿曼保霍尔木兹航运 伊朗警告“危机制造者”后果自负",
-          "url": "https://www.zaochenbao.com/news/politics/202607/0575731.html",
-          "source": "联合早报",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时58分"
         },
         {
           "title": "伊朗传统两派对立格局被打破，保守派内部进一步分裂，新最高领袖的绝对权力正在被稀释",
@@ -582,6 +583,29 @@
           "time_info": "[00时11分 ~ 06时05分]"
         },
         {
+          "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
+          "url": "https://flash.jin10.com/detail/20260705195906511800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时58分 ~ 23时22分]"
+        },
+        {
+          "title": "据沙特媒体哈达斯：伊朗议会议长卡利巴夫表示，伊朗认为尽管存在困难，但与美国达成共识是可能的。",
+          "url": "https://flash.jin10.com/detail/20260705223200385800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时22分]"
+        },
+        {
           "title": "独立投资研究平台HFI Research：过去24小时，许多原本计划经阿曼航道通行的船只，转而选择了伊朗一侧航道。",
           "url": "https://flash.jin10.com/detail/20260705120323119800",
           "source": "金十数据",
@@ -613,17 +637,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
-        },
-        {
-          "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
-          "url": "https://flash.jin10.com/detail/20260705195906511800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时58分"
         },
         {
           "title": "伊朗驻华大使：计划按国际通行标准对霍尔木兹海峡通航收服务费",
@@ -720,7 +733,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
@@ -812,8 +825,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时03分 ~ 21时58分]"
+          "appearance_count": 6,
+          "time_info": "[13时03分 ~ 23时22分]"
         },
         {
           "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
@@ -827,6 +840,17 @@
           "time_info": "00时11分"
         },
         {
+          "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时58分 ~ 23时22分]"
+        },
+        {
           "title": "美股现3个月最大资金流出，而日股迎来7周最大资金流入",
           "url": "https://wallstreetcn.com/articles/3776188",
           "source": "华尔街见闻",
@@ -837,17 +861,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时05分 ~ 08时08分]"
-        },
-        {
-          "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
-          "url": "https://wallstreetcn.com/articles/3776130",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时58分"
         }
       ]
     },
@@ -865,8 +878,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 21时58分]"
+          "appearance_count": 5,
+          "time_info": "[17时18分 ~ 23时22分]"
         }
       ]
     },
