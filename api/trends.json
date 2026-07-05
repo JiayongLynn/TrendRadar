@@ -1,14 +1,27 @@
 {
-  "generated_at": "2026-07-05T17:18:31.769711+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-05T19:41:37.834882+08:00",
+  "total_titles_processed": 349,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
+        {
+          "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
+          "url": "https://wallstreetcn.com/articles/3776207",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时03分 ~ 19时41分]"
+        },
         {
           "title": "据以色列第15频道援引消息人士称，美国总统特朗普要求不要在黎巴嫩局势上升级，以免妨碍他与伊朗的沟通。",
           "url": "https://flash.jin10.com/detail/20260705015152155800",
@@ -19,6 +32,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-05）",
+          "url": "https://flash.jin10.com/detail/20260705184446232800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "泽连斯基：我已与特朗普讨论了乌克兰前线局势",
@@ -103,18 +127,6 @@
           "time_info": "[06时05分 ~ 08时08分]"
         },
         {
-          "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
-          "url": "https://wallstreetcn.com/articles/3776207",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时03分 ~ 17时18分]"
-        },
-        {
           "title": "俄罗斯总统助理乌沙科夫：美国总统特使威特科夫和特朗普女婿库什纳将继续协助和平努力，并准备访问莫斯科。",
           "url": "https://flash.jin10.com/detail/20260705053327048800",
           "source": "金十数据",
@@ -125,6 +137,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时05分 ~ 08时08分]"
+        },
+        {
+          "title": "继2月美伊冲突 内坦亚胡与特朗普料下周会面",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0575693.html",
+          "source": "联合早报",
+          "ranks": [
+            9,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时03分 ~ 19时41分]"
         },
         {
           "title": "俄罗斯总统助理乌沙科夫：特朗普在北约峰会前提出帮助达成乌克兰冲突的解决方案。",
@@ -163,18 +188,6 @@
           "time_info": "[06时05分 ~ 08时08分]"
         },
         {
-          "title": "继2月美伊冲突 内坦亚胡与特朗普料下周会面",
-          "url": "https://www.zaochenbao.com/news/politics/202607/0575693.html",
-          "source": "联合早报",
-          "ranks": [
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时03分 ~ 17时18分]"
-        },
-        {
           "title": "克里姆林宫：在普京与特朗普的通话中，双方谈及乌克兰问题。",
           "url": "https://flash.jin10.com/detail/20260705052229258800",
           "source": "金十数据",
@@ -185,6 +198,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时05分 ~ 08时08分]"
+        },
+        {
+          "title": "特朗普展示最初美国国旗 庆祝“250年永不落幕的胜利”",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0575711.html",
+          "source": "联合早报",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 19时41分]"
         },
         {
           "title": "克里姆林宫：俄罗斯总统普京与美国总统特朗普举行了新的电话会谈，通话由美方发起，持续了1小时25分钟。普京向特朗普和美国人民祝贺美国独立日，纪念美国独立250周年。",
@@ -310,17 +335,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
-        },
-        {
-          "title": "特朗普展示最初美国国旗 庆祝“250年永不落幕的胜利”",
-          "url": "https://www.zaochenbao.com/news/politics/202607/0575711.html",
-          "source": "联合早报",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
         },
         {
           "title": "特朗普：华盛顿庆典人潮空前 美国比以往任何时候都更强大",
@@ -458,7 +472,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "伊朗驻华大使：将在霍尔木兹海峡收费安排中给予中国特殊待遇",
@@ -497,15 +511,15 @@
           "time_info": "04时14分"
         },
         {
-          "title": "伊朗举国哀悼哈梅内伊，新最高领袖仍未公开露面",
-          "url": "https://flash.jin10.com/detail/20260705164059369800",
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗国际海事局表示，卡塔尔鲁韦斯港和伊朗港口之间的海上贸易恢复。",
+          "url": "https://flash.jin10.com/detail/20260705184100307800",
           "source": "金十数据",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时18分"
+          "time_info": "19时41分"
         },
         {
           "title": "伊朗传统两派对立格局被打破，保守派内部进一步分裂，新最高领袖的绝对权力正在被稀释",
@@ -517,6 +531,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "伊朗举国哀悼哈梅内伊，新最高领袖仍未公开露面",
+          "url": "https://flash.jin10.com/detail/20260705164059369800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 19时41分]"
         },
         {
           "title": "伊朗为哈梅内伊举行六天公众告别仪式",
@@ -640,6 +666,17 @@
           "time_info": "00时11分"
         },
         {
+          "title": "伊朗政府发言人：我们正在依法推进就前最高领袖遇刺案提起申诉的相关程序，目前已从证据收集阶段开始。",
+          "url": "https://flash.jin10.com/detail/20260705173727294800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "也门副总理在德黑兰会见伊朗外长",
           "url": "https://flash.jin10.com/detail/20260705103710456800",
           "source": "金十数据",
@@ -722,11 +759,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时03分 ~ 17时18分]"
+          "appearance_count": 3,
+          "time_info": "[13时03分 ~ 19时41分]"
         },
         {
           "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
@@ -762,11 +800,12 @@
           "url": "https://wallstreetcn.com/articles/3776218",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 19时41分]"
         }
       ]
     },
@@ -781,7 +820,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         }
