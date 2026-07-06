@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-06T12:18:14.201416+08:00",
-  "total_titles_processed": 238,
+  "generated_at": "2026-07-06T17:07:15.709197+08:00",
+  "total_titles_processed": 318,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
@@ -78,6 +78,18 @@
           "time_info": "[05时12分 ~ 07时10分]"
         },
         {
+          "title": "特朗普：哈梅内伊葬礼上一次攻击就能全部干掉伊朗高层，但不会这么做，这样就没人谈判了",
+          "url": "https://wallstreetcn.com/articles/3776227",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时17分 ~ 17时07分]"
+        },
+        {
           "title": "特朗普将在北约峰会期间会晤乌克兰和叙利亚领导人",
           "url": "https://flash.jin10.com/detail/20260706024451820800",
           "source": "金十数据",
@@ -138,15 +150,26 @@
           "time_info": "[03时36分 ~ 05时12分]"
         },
         {
-          "title": "特朗普：哈梅内伊葬礼上一次攻击就能全部干掉伊朗高层，但不会这么做，这样就没人谈判了",
-          "url": "https://wallstreetcn.com/articles/3776227",
-          "source": "华尔街见闻",
+          "title": "中国外交部：习近平就美国独立250周年向特朗普致贺电",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0675783.html",
+          "source": "联合早报",
           "ranks": [
-            9
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时17分 ~ 12时18分]"
+          "time_info": "[17时06分 ~ 17时07分]"
+        },
+        {
+          "title": "特朗普再次挑起争端 发照片暗示意总理梅洛尼对他“着迷”",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0675778.html",
+          "source": "联合早报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时06分 ~ 17时07分]"
         },
         {
           "title": "特朗普将出席北约峰会 与泽连斯基会面推动结束战争",
@@ -348,7 +371,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
@@ -377,11 +400,23 @@
           "url": "https://wallstreetcn.com/articles/3776130",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时17分 ~ 17时07分]"
+        },
+        {
+          "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
+          "url": "https://wallstreetcn.com/articles/3776235",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时17分 ~ 12时18分]"
+          "time_info": "[17时06分 ~ 17时07分]"
         },
         {
           "title": "本周重要事件与数据预告：美联储会议纪要；中国CPI、外储；SK海力士登陆美股",
