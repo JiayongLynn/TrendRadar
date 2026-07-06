@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-07T03:03:13.771222+08:00",
-  "total_titles_processed": 120,
+  "generated_at": "2026-07-07T05:54:09.782566+08:00",
+  "total_titles_processed": 148,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "美国总统特朗普：我们对澳大利亚非常尊重。",
@@ -28,8 +28,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 03时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 05时54分]"
         },
         {
           "title": "中国外交部：习近平就美国独立250周年向特朗普致贺电",
@@ -39,8 +39,20 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 03时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 05时54分]"
+        },
+        {
+          "title": "民调：多数美国人认为特朗普在伊朗战争中得不偿失 拖累中期选举",
+          "url": "https://www.cls.cn/detail/2417917",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时02分 ~ 05时54分]"
         },
         {
           "title": "据韩联社：特朗普重申，关税政策已促使韩国、日本等国汽车制造商赴美建厂。",
@@ -54,15 +66,37 @@
           "time_info": "[03时02分 ~ 03时03分]"
         },
         {
-          "title": "民调：多数美国人认为特朗普在伊朗战争中得不偿失 拖累中期选举",
-          "url": "https://www.cls.cn/detail/2417917",
-          "source": "财联社热门",
+          "title": "美国总统特朗普：沃尔玛正“以大胆方式行动”，并呼吁其他零售商效仿这一“爱国企业”的做法。",
+          "url": "https://flash.jin10.com/detail/20260707045256832800",
+          "source": "金十数据",
           "ranks": [
-            13
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时02分 ~ 03时03分]"
+          "time_info": "[05时53分 ~ 05时54分]"
+        },
+        {
+          "title": "美国总统特朗普：沃尔玛将把一磅碎牛肉价格下调近15%，并降低包括其他多种商品在内的售价。",
+          "url": "https://flash.jin10.com/detail/20260707044730846800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 05时54分]"
+        },
+        {
+          "title": "美国总统特朗普：沃尔玛将降低价格。",
+          "url": "https://flash.jin10.com/detail/20260707044646086800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 05时54分]"
         },
         {
           "title": "美国众议院议长约翰逊：随着民主党无视、否认甚至助长欺诈，共和党正在与特朗普总统合作，根除腐败蓝州中的浪费、欺诈和滥用，确保纳税人的钱不被滥用。",
@@ -123,7 +157,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股异动丨特斯拉涨幅扩大至5% SpaceX合并预期持续升温",
@@ -133,8 +167,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 03时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 05时54分]"
         },
         {
           "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
@@ -144,8 +178,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 03时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 05时54分]"
+        },
+        {
+          "title": "科技股领涨推动美股反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
+          "url": "https://wallstreetcn.com/articles/3776262",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 05时54分]"
         },
         {
           "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
@@ -156,20 +201,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 03时03分]"
-        },
-        {
-          "title": "AI情绪反弹，美股上扬，存储概念股走高，西部数据涨超5%，美元走强",
-          "url": "https://wallstreetcn.com/articles/3776262",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 03时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 05时54分]"
         },
         {
           "title": "美股期指延续涨势 纳斯达克100指数期货涨超1% | 今夜看点",
@@ -178,6 +211,18 @@
           "ranks": [
             11,
             10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 05时54分]"
+        },
+        {
+          "title": "AI情绪反弹，美股上扬，存储概念股走高，西部数据涨超5%，美元走强",
+          "url": "https://wallstreetcn.com/articles/3776262",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -219,8 +264,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 03时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 05时54分]"
         },
         {
           "title": "欧洲央行管委温施：伊朗冲击似乎已经消失，我们没有看到太多的二次效应。",
@@ -249,6 +294,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时02分 ~ 03时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数6日微涨",
+          "url": "https://flash.jin10.com/detail/20260707045644750800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 05时54分]"
         }
       ]
     }
