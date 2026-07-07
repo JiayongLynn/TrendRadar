@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-08T02:08:28.174412+08:00",
-  "total_titles_processed": 92,
+  "generated_at": "2026-07-08T04:54:23.815916+08:00",
+  "total_titles_processed": 111,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "卡塔尔外交部：要求伊朗立即停止任何威胁地区安全的行为，并停止危害全球航运和能源供应的安全。",
@@ -65,6 +65,17 @@
           "time_info": "02时08分"
         },
         {
+          "title": "美国海军作战部长：伊朗的目标是迫使商业船只在霍尔木兹海峡航行时贴近伊朗海岸。",
+          "url": "https://flash.jin10.com/detail/20260708043509600800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
           "title": "约旦外交部：我们谴责伊朗针对一艘途经霍尔木兹海峡的卡塔尔油轮发动袭击。",
           "url": "https://flash.jin10.com/detail/20260708012453653800",
           "source": "金十数据",
@@ -101,7 +112,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
@@ -111,19 +122,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时08分"
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 04时54分]"
         },
         {
-          "title": "土耳其官员：埃尔多安与特朗普讨论伊朗问题，呼吁解决战争并重开霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260708013258964800",
+          "title": "美国证券交易委员会表示，“特朗普账户”现已开放申请，鼓励家庭开设账户并领取符合条件的1000美元初始资金。",
+          "url": "https://flash.jin10.com/detail/20260708044045752800",
           "source": "金十数据",
           "ranks": [
-            7
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时08分"
+          "time_info": "04时54分"
         },
         {
           "title": "美国“特朗普账户”申请破600万 低收入家庭能否受益受质疑",
@@ -133,8 +144,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时08分"
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 04时54分]"
         },
         {
           "title": "特朗普称俄乌接近停战方案",
@@ -142,6 +153,17 @@
           "source": "联合早报",
           "ranks": [
             11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 04时54分]"
+        },
+        {
+          "title": "土耳其官员：埃尔多安与特朗普讨论伊朗问题，呼吁解决战争并重开霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260708013258964800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -172,8 +194,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时08分"
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 04时54分]"
         },
         {
           "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
@@ -183,14 +205,14 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时08分"
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 04时54分]"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美元指数大幅上升，我国6月外储规模环比下跌，央行连续20个月增持购金",
@@ -200,8 +222,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 04时54分]"
+        },
+        {
+          "title": "美元指数7日上涨",
+          "url": "https://flash.jin10.com/detail/20260708042247119800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时08分"
+          "time_info": "04时54分"
         }
       ]
     }
