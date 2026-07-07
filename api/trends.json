@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-07T16:31:10.888410+08:00",
-  "total_titles_processed": 328,
+  "generated_at": "2026-07-07T20:03:21.687562+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时25分 ~ 16时31分]"
+          "appearance_count": 5,
+          "time_info": "[07时25分 ~ 20时03分]"
         },
         {
           "title": "古巴前领导人卡斯特罗孙子：愿同特朗普谈判",
@@ -60,11 +60,12 @@
           "source": "联合早报",
           "ranks": [
             1,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 16时31分]"
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 20时03分]"
         },
         {
           "title": "美国总统特朗普：我们对澳大利亚非常尊重。",
@@ -144,6 +145,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时02分 ~ 03时03分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：计划在周三与美国总统特朗普讨论空中防御问题。",
+          "url": "https://flash.jin10.com/detail/20260707193628336800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         },
         {
           "title": "特朗普预计习近平9月24日前后访美",
@@ -243,12 +255,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "市场消息：土耳其总统埃尔多安在安卡拉机场迎接美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20260707191743674800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
@@ -272,6 +295,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时57分 ~ 07时25分]"
+        },
+        {
+          "title": "撤出美股七巨头，押注中国AI！华尔街正在赌上一场“东升西落”？",
+          "url": "https://www.cls.cn/detail/2418780",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时30分 ~ 20时03分]"
         },
         {
           "title": "美股收盘：道指再创历史新高 AI硬件链重现抱团",
@@ -310,17 +345,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时57分 ~ 07时25分]"
-        },
-        {
-          "title": "撤出美股七巨头，押注中国AI！华尔街正在赌上一场“东升西落”？",
-          "url": "https://www.cls.cn/detail/2418780",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时30分 ~ 16时31分]"
         },
         {
           "title": "科技股领涨推动美股反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
@@ -377,6 +401,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时30分 ~ 16时31分]"
+        },
+        {
+          "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
+          "url": "https://wallstreetcn.com/articles/3776359",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         }
       ]
     },
@@ -473,6 +508,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“华为天才少年”批DeepSeek面试流程不规范",
+          "url": "https://www.zaochenbao.com/news/china/202607/0775862.html",
+          "source": "联合早报",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         }
       ]
     },
