@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-08T12:21:48.794178+08:00",
-  "total_titles_processed": 258,
+  "generated_at": "2026-07-08T15:36:22.383923+08:00",
+  "total_titles_processed": 316,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 44,
+      "match_count": 51,
       "titles": [
         {
           "title": "美军：开始对伊朗发动系列打击",
@@ -16,11 +16,46 @@
           "ranks": [
             12,
             4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时18分 ~ 15时36分]"
+        },
+        {
+          "title": "美伊和平又生变数？美军发动攻击伊朗强硬回应，症结仍在霍尔木兹！",
+          "url": "https://www.cls.cn/detail/2419839",
+          "source": "财联社热门",
+          "ranks": [
+            5,
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时18分 ~ 12时21分]"
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 15时36分]"
+        },
+        {
+          "title": "据伊朗媒体Fars News：当地官员表示，周三上午，伊朗南部布什尔省的两处军事基地遭到袭击，目前尚无人员伤亡报告。",
+          "url": "https://flash.jin10.com/detail/20260708151901762800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "北约秘书长：美国强硬回击伊朗是绝对必要的",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0875924.html",
+          "source": "联合早报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "卡塔尔外交部：要求伊朗立即停止任何威胁地区安全的行为，并停止危害全球航运和能源供应的安全。",
@@ -45,6 +80,17 @@
           "time_info": "06时18分"
         },
         {
+          "title": "美军完成对伊朗新一轮打击 称击中超过80个目标",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0875923.html",
+          "source": "联合早报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
           "title": "卡塔尔外交部：坚决拒绝伊朗的袭击行为，该行为损害国际航行安全。",
           "url": "https://flash.jin10.com/detail/20260708013919396800",
           "source": "金十数据",
@@ -67,6 +113,29 @@
           "time_info": "06时18分"
         },
         {
+          "title": "欧洲航空安全局（EASA）：航空运营商不应在伊朗空域（德黑兰飞行信息区，OIIX）内，无论在任何高度和飞行高度层，进行飞行活动。",
+          "url": "https://flash.jin10.com/detail/20260708151707855800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击",
+          "url": "https://wallstreetcn.com/articles/3776409",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 15时36分]"
+        },
+        {
           "title": "卡塔尔外交部召见伊朗副大使，抗议在霍尔木兹海峡针对卡塔尔液化天然气油轮的行为。",
           "url": "https://flash.jin10.com/detail/20260708013722779800",
           "source": "金十数据",
@@ -76,6 +145,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        },
+        {
+          "title": "伊朗议长斥美国五项“违约”行为",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0875921.html",
+          "source": "联合早报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "WTI原油周三高开0.3%，此前美军称开始对伊朗发动一系列打击。",
@@ -89,38 +169,28 @@
           "time_info": "06时18分"
         },
         {
-          "title": "美伊和平又生变数？美军发动攻击伊朗强硬回应，症结仍在霍尔木兹！",
-          "url": "https://www.cls.cn/detail/2419839",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "伊朗媒体称格什姆岛再传出爆炸声",
-          "url": "https://www.zaochenbao.com/news/politics/202607/0875909.html",
+          "title": "伊朗革命卫队称击落美国MQ-9死神无人机",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0875920.html",
           "source": "联合早报",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时21分"
+          "time_info": "15时36分"
         },
         {
-          "title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击",
-          "url": "https://wallstreetcn.com/articles/3776409",
-          "source": "华尔街见闻",
+          "title": "美国撤销伊朗石油制裁豁免，油价飙升",
+          "url": "https://www.cls.cn/detail/2419758",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            2
+            12,
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时06分 ~ 12时21分]"
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 15时36分]"
         },
         {
           "title": "美军对伊朗发起一系列打击 回应伊朗袭击三艘商船",
@@ -135,16 +205,16 @@
           "time_info": "[08时06分 ~ 12时21分]"
         },
         {
-          "title": "美国撤销伊朗石油制裁豁免，油价飙升",
-          "url": "https://www.cls.cn/detail/2419758",
-          "source": "财联社热门",
+          "title": "伊朗媒体称格什姆岛再传出爆炸声",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0875909.html",
+          "source": "联合早报",
           "ranks": [
-            12,
-            7
+            5,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时06分 ~ 12时21分]"
+          "time_info": "[12时21分 ~ 15时36分]"
         },
         {
           "title": "土耳其官员：伊朗可以通过谈判确保自身安全和经济利益，战争不会让任何一方受益。",
@@ -164,7 +234,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -197,7 +267,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -255,6 +325,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "据伊朗国家媒体报道，伊朗革命卫队海军称，周三上午一名成员被“敌方的无人机”击毙。",
+          "url": "https://flash.jin10.com/detail/20260708150720504800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "约旦外交部：我们谴责伊朗针对一艘途经霍尔木兹海峡的卡塔尔油轮发动袭击。",
@@ -318,7 +399,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -340,7 +421,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -472,7 +553,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -502,7 +583,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
@@ -575,6 +656,18 @@
           "time_info": "[02时08分 ~ 08时06分]"
         },
         {
+          "title": "特朗普再次扬言控制格陵兰岛 美伊冲突狼烟又起 | 环球市场",
+          "url": "https://www.cls.cn/detail/2419821",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 15时36分]"
+        },
+        {
           "title": "土耳其官员：埃尔多安与特朗普讨论伊朗问题，呼吁解决战争并重开霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20260708013258964800",
           "source": "金十数据",
@@ -592,18 +685,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "特朗普再次扬言控制格陵兰岛 美伊冲突狼烟又起 | 环球市场",
-          "url": "https://www.cls.cn/detail/2419821",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -625,7 +707,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -650,6 +732,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "美伊停火协议裂痕扩大 特朗普难以收场",
+          "url": "https://flash.jin10.com/detail/20260708150256432800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：美国中央司令部正在打击特朗普四个月前声称已经摧毁的目标，因此他们当中有一方在撒谎。",
@@ -691,8 +784,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时06分 ~ 12时21分]"
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 15时36分]"
         },
         {
           "title": "美股异动丨国际油价反弹，WTI原油站上70美元，油气股普涨",
@@ -723,11 +816,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时06分 ~ 12时21分]"
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 15时36分]"
         },
         {
           "title": "美股三大股指期货周三小幅低开。",
@@ -782,7 +876,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         }
@@ -799,7 +893,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         }
@@ -816,7 +910,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         }
