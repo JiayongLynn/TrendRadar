@@ -1,24 +1,26 @@
 {
-  "generated_at": "2026-07-08T08:06:31.308569+08:00",
-  "total_titles_processed": 182,
+  "generated_at": "2026-07-08T12:21:48.794178+08:00",
+  "total_titles_processed": 258,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 44,
       "titles": [
         {
-          "title": "美军对伊朗发起一系列打击 回应伊朗袭击三艘商船",
-          "url": "https://www.zaochenbao.com/news/politics/202607/0875891.html",
-          "source": "联合早报",
+          "title": "美军：开始对伊朗发动系列打击",
+          "url": "https://www.cls.cn/detail/2419769",
+          "source": "财联社热门",
           "ranks": [
-            1
+            12,
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时18分 ~ 12时21分]"
         },
         {
           "title": "卡塔尔外交部：要求伊朗立即停止任何威胁地区安全的行为，并停止危害全球航运和能源供应的安全。",
@@ -87,16 +89,62 @@
           "time_info": "06时18分"
         },
         {
-          "title": "美军：开始对伊朗发动系列打击",
-          "url": "https://www.cls.cn/detail/2419769",
+          "title": "美伊和平又生变数？美军发动攻击伊朗强硬回应，症结仍在霍尔木兹！",
+          "url": "https://www.cls.cn/detail/2419839",
           "source": "财联社热门",
           "ranks": [
-            12,
-            4
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "伊朗媒体称格什姆岛再传出爆炸声",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0875909.html",
+          "source": "联合早报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击",
+          "url": "https://wallstreetcn.com/articles/3776409",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时18分 ~ 08时06分]"
+          "time_info": "[08时06分 ~ 12时21分]"
+        },
+        {
+          "title": "美军对伊朗发起一系列打击 回应伊朗袭击三艘商船",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0875891.html",
+          "source": "联合早报",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 12时21分]"
+        },
+        {
+          "title": "美国撤销伊朗石油制裁豁免，油价飙升",
+          "url": "https://www.cls.cn/detail/2419758",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 12时21分]"
         },
         {
           "title": "土耳其官员：伊朗可以通过谈判确保自身安全和经济利益，战争不会让任何一方受益。",
@@ -110,6 +158,17 @@
           "time_info": "02时08分"
         },
         {
+          "title": "美袭击伊朗南部后 伊朗总统结束伊拉克行程回国",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0875907.html",
+          "source": "联合早报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
           "title": "据天空新闻：消息人士称，美军打击行动仍在持续。与此前所谓停火期间美国对伊朗发动的打击相比，此次行动似乎持续时间更长、规模更大。",
           "url": "https://flash.jin10.com/detail/20260708055847599800",
           "source": "金十数据",
@@ -121,17 +180,6 @@
           "time_info": "06时18分"
         },
         {
-          "title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击",
-          "url": "https://wallstreetcn.com/articles/3776409",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
           "title": "以色列总理内塔尼亚胡：无论是否达成协议，我都绝不会允许伊朗拥有核武器。",
           "url": "https://flash.jin10.com/detail/20260708013125197800",
           "source": "金十数据",
@@ -141,6 +189,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        },
+        {
+          "title": "伊朗指责美国一再违约 警告将果断回应",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0875905.html",
+          "source": "联合早报",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "载有伊朗已故最高领袖哈梅内伊遗体的飞机抵达伊拉克",
@@ -182,7 +241,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -196,17 +255,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
-        },
-        {
-          "title": "美国撤销伊朗石油制裁豁免，油价飙升",
-          "url": "https://www.cls.cn/detail/2419758",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
         },
         {
           "title": "约旦外交部：我们谴责伊朗针对一艘途经霍尔木兹海峡的卡塔尔油轮发动袭击。",
@@ -264,15 +312,37 @@
           "time_info": "06时18分"
         },
         {
+          "title": "伊朗公布对美初步回应：打击美国85处重要军事设施",
+          "url": "https://flash.jin10.com/detail/20260708114852909800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
           "title": "美媒：美军在冲突爆发初期忽视警告 袭击伊朗学校致使近200人死亡",
           "url": "https://flash.jin10.com/detail/20260708071836247800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "伊朗革命卫队：打击了巴林和科威特的85处美军设施，以“回应美国违反停火协议”的行为。",
+          "url": "https://flash.jin10.com/detail/20260708114438787800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "据伊朗国家电视台：阿巴斯港市和格什姆的局势已恢复正常，锡里克地区仍有爆炸声。",
@@ -281,7 +351,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -325,7 +395,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -347,7 +417,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -380,7 +450,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -394,6 +464,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "伊朗媒体称伊朗击落一架美军无人机",
+          "url": "https://flash.jin10.com/detail/20260708112609166800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "美军称开始对伊朗发动一系列打击",
@@ -421,7 +502,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
@@ -452,18 +533,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "杨丹旭：当特朗普为世界杯“吹哨”",
-          "url": "https://www.zaochenbao.com/news/politics/202607/0875889.html",
-          "source": "联合早报",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -473,11 +543,24 @@
           "source": "联合早报",
           "ranks": [
             8,
-            12
+            12,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时08分 ~ 08时06分]"
+          "appearance_count": 5,
+          "time_info": "[02时08分 ~ 12时21分]"
+        },
+        {
+          "title": "杨丹旭：当特朗普为世界杯“吹哨”",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0875889.html",
+          "source": "联合早报",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 12时21分]"
         },
         {
           "title": "特朗普称俄乌接近停战方案",
@@ -503,15 +586,48 @@
           "time_info": "02时08分"
         },
         {
+          "title": "特朗普取消对土耳其制裁 可能恢复出售F35战机",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0875906.html",
+          "source": "联合早报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "特朗普再次扬言控制格陵兰岛 美伊冲突狼烟又起 | 环球市场",
+          "url": "https://www.cls.cn/detail/2419821",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
           "title": "据华尔街日报：美国农业部将沃尔玛(WMT.N)的降价计划告知白宫。特朗普周一发文称这是政府施压取得的成果。几分钟后，沃尔玛发布新闻稿称，将下调数千种商品价格，以帮助消费者。",
           "url": "https://flash.jin10.com/detail/20260708072520020800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "特朗普发布“美军打击伊朗”视频",
+          "url": "https://flash.jin10.com/detail/20260708115548998800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "内塔尼亚胡：与特朗普在伊朗问题上立场一致",
@@ -531,7 +647,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -542,7 +658,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         }
@@ -559,11 +675,24 @@
           "ranks": [
             6,
             5,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时08分 ~ 08时06分]"
+          "appearance_count": 5,
+          "time_info": "[02时08分 ~ 12时21分]"
+        },
+        {
+          "title": "【早报】美方：强力打击伊朗、终止对伊油制裁豁免；美股科技股集体跳水；原油大涨、黄金收跌；阿根廷3-2逆转埃及",
+          "url": "https://www.cls.cn/detail/2419797",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 12时21分]"
         },
         {
           "title": "美股异动丨国际油价反弹，WTI原油站上70美元，油气股普涨",
@@ -589,15 +718,16 @@
           "time_info": "06时18分"
         },
         {
-          "title": "【早报】美方：强力打击伊朗、终止对伊油制裁豁免；美股科技股集体跳水；原油大涨、黄金收跌；阿根廷3-2逆转埃及",
-          "url": "https://www.cls.cn/detail/2419797",
+          "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
+          "url": "https://www.cls.cn/detail/2419782",
           "source": "财联社热门",
           "ranks": [
-            3
+            9,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 12时21分]"
         },
         {
           "title": "美股三大股指期货周三小幅低开。",
@@ -609,17 +739,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
-        },
-        {
-          "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
-          "url": "https://www.cls.cn/detail/2419782",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
         }
       ]
     },
@@ -649,6 +768,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌发布会定档8月12日，将发布Pixel 11系列手机",
+          "url": "https://flash.jin10.com/detail/20260708120738647800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI：GPT-5.6 SOL、TERRA和LUNA版本将于本周四公开发布。",
+          "url": "https://flash.jin10.com/detail/20260708120128059800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“霍尔木兹之火”再起？油价急涨再压金价",
+          "url": "https://flash.jin10.com/detail/20260708120640968800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         }
       ]
     }
