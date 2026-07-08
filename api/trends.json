@@ -1,14 +1,26 @@
 {
-  "generated_at": "2026-07-08T15:36:22.383923+08:00",
-  "total_titles_processed": 316,
+  "generated_at": "2026-07-08T18:28:03.983937+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
+        {
+          "title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击",
+          "url": "https://wallstreetcn.com/articles/3776409",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时06分 ~ 18时28分]"
+        },
         {
           "title": "美军：开始对伊朗发动系列打击",
           "url": "https://www.cls.cn/detail/2419769",
@@ -22,6 +34,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时18分 ~ 15时36分]"
+        },
+        {
+          "title": "伊朗议员：美国必须承认霍尔木兹海峡的伊朗制度",
+          "url": "https://flash.jin10.com/detail/20260708181941376800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
         },
         {
           "title": "美伊和平又生变数？美军发动攻击伊朗强硬回应，症结仍在霍尔木兹！",
@@ -42,18 +65,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        },
-        {
-          "title": "北约秘书长：美国强硬回击伊朗是绝对必要的",
-          "url": "https://www.zaochenbao.com/news/politics/202607/0875924.html",
-          "source": "联合早报",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -78,17 +90,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
-        },
-        {
-          "title": "美军完成对伊朗新一轮打击 称击中超过80个目标",
-          "url": "https://www.zaochenbao.com/news/politics/202607/0875923.html",
-          "source": "联合早报",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
         },
         {
           "title": "卡塔尔外交部：坚决拒绝伊朗的袭击行为，该行为损害国际航行安全。",
@@ -119,21 +120,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
         {
-          "title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击",
-          "url": "https://wallstreetcn.com/articles/3776409",
-          "source": "华尔街见闻",
+          "title": "北约秘书长：美国强硬回击伊朗是绝对必要的",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0875924.html",
+          "source": "联合早报",
           "ranks": [
-            8,
-            2
+            1,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时06分 ~ 15时36分]"
+          "time_info": "[15时36分 ~ 18时28分]"
         },
         {
           "title": "卡塔尔外交部召见伊朗副大使，抗议在霍尔木兹海峡针对卡塔尔液化天然气油轮的行为。",
@@ -147,15 +148,29 @@
           "time_info": "02时08分"
         },
         {
-          "title": "伊朗议长斥美国五项“违约”行为",
-          "url": "https://www.zaochenbao.com/news/politics/202607/0875921.html",
+          "title": "美军完成对伊朗新一轮打击 称击中超过80个目标",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0875923.html",
           "source": "联合早报",
           "ranks": [
-            4
+            2,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时36分 ~ 18时28分]"
+        },
+        {
+          "title": "伊朗媒体称格什姆岛再传出爆炸声",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0875909.html",
+          "source": "联合早报",
+          "ranks": [
+            5,
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时21分 ~ 18时28分]"
         },
         {
           "title": "WTI原油周三高开0.3%，此前美军称开始对伊朗发动一系列打击。",
@@ -169,15 +184,28 @@
           "time_info": "06时18分"
         },
         {
+          "title": "伊朗议长斥美国五项“违约”行为",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0875921.html",
+          "source": "联合早报",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时36分 ~ 18时28分]"
+        },
+        {
           "title": "伊朗革命卫队称击落美国MQ-9死神无人机",
           "url": "https://www.zaochenbao.com/news/politics/202607/0875920.html",
           "source": "联合早报",
           "ranks": [
-            5
+            5,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时36分 ~ 18时28分]"
         },
         {
           "title": "美国撤销伊朗石油制裁豁免，油价飙升",
@@ -203,18 +231,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时06分 ~ 12时21分]"
-        },
-        {
-          "title": "伊朗媒体称格什姆岛再传出爆炸声",
-          "url": "https://www.zaochenbao.com/news/politics/202607/0875909.html",
-          "source": "联合早报",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 15时36分]"
         },
         {
           "title": "土耳其官员：伊朗可以通过谈判确保自身安全和经济利益，战争不会让任何一方受益。",
@@ -333,7 +349,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -583,7 +599,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
@@ -595,6 +611,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时08分 ~ 06时18分]"
+        },
+        {
+          "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
+          "url": "https://wallstreetcn.com/articles/3776459",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
         },
         {
           "title": "美国证券交易委员会表示，“特朗普账户”现已开放申请，鼓励家庭开设账户并领取符合条件的1000美元初始资金。",
@@ -666,6 +693,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时21分 ~ 15时36分]"
+        },
+        {
+          "title": "伊朗打击周边国家美军基地 特朗普称美伊谅解备忘录“已终结”",
+          "url": "https://www.cls.cn/detail/2420443",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
         },
         {
           "title": "土耳其官员：埃尔多安与特朗普讨论伊朗问题，呼吁解决战争并重开霍尔木兹海峡。",
@@ -740,7 +778,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -759,7 +797,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
@@ -786,6 +824,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时06分 ~ 15时36分]"
+        },
+        {
+          "title": "美股异动丨存储股盘前集体下挫，闪迪跌超6%，美光科技跌超5%",
+          "url": "https://www.gelonghui.com/news/5264926",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
         },
         {
           "title": "美股异动丨国际油价反弹，WTI原油站上70美元，油气股普涨",
@@ -837,6 +886,34 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "腾讯再挖角OpenAI研究员",
+          "url": "https://www.zaochenbao.com/news/china/202607/0875934.html",
+          "source": "联合早报",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
+        },
+        {
+          "title": "OpenAI：GPT-5.6 SOL、TERRA和LUNA版本将于本周四公开发布。",
+          "url": "https://flash.jin10.com/detail/20260708120128059800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -875,23 +952,6 @@
           "source": "金十数据",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI：GPT-5.6 SOL、TERRA和LUNA版本将于本周四公开发布。",
-          "url": "https://flash.jin10.com/detail/20260708120128059800",
-          "source": "金十数据",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 1,
