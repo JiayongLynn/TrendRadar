@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-11T16:54:33.508305+08:00",
-  "total_titles_processed": 298,
+  "generated_at": "2026-07-11T18:22:14.319555+08:00",
+  "total_titles_processed": 320,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "美方要求伊朗周六前承诺停止向霍尔木兹海峡船只开火",
@@ -30,6 +30,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时51分 ~ 07时52分]"
+        },
+        {
+          "title": "伊朗外长11日访阿曼 磋商霍尔木兹海峡通航",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1176138.html",
+          "source": "联合早报",
+          "ranks": [
+            10,
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时28分 ~ 18时22分]"
         },
         {
           "title": "巴基斯坦总理：同意推进伊朗总统佩泽希齐扬近期访巴期间确定的双边合作议程。",
@@ -124,17 +137,15 @@
           "time_info": "[14时22分 ~ 16时54分]"
         },
         {
-          "title": "伊朗外长11日访阿曼 磋商霍尔木兹海峡通航",
-          "url": "https://www.zaochenbao.com/news/politics/202607/1176138.html",
+          "title": "伊朗海上滞销原油增加 中国独立炼厂转购其他中东原油",
+          "url": "https://www.zaochenbao.com/news/china/202607/1176166.html",
           "source": "联合早报",
           "ranks": [
-            10,
-            13,
-            25
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时28分 ~ 16时54分]"
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 18时22分]"
         },
         {
           "title": "伊朗外交部发言人巴盖伊：基于负责任立场，未拒绝地区调解方访伊并就最新事态举行会谈的请求。",
@@ -218,6 +229,17 @@
           "time_info": "[11时28分 ~ 11时29分]"
         },
         {
+          "title": "据伊朗国家媒体：伊朗最高领袖将在未来数小时内发表有关前任遇害领袖的葬礼的信息。",
+          "url": "https://flash.jin10.com/detail/20260711172652226800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 18时22分]"
+        },
+        {
           "title": "美媒：伊朗称霍尔木兹袭船系“内部失误”所致",
           "url": "https://flash.jin10.com/detail/20260711051458798800",
           "source": "金十数据",
@@ -293,17 +315,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
-        },
-        {
-          "title": "伊朗海上滞销原油增加 中国独立炼厂转购其他中东原油",
-          "url": "https://www.zaochenbao.com/news/china/202607/1176166.html",
-          "source": "联合早报",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：当地官员证实，伊朗西部洛雷斯坦省一座工业城发生火灾。",
@@ -389,7 +400,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -444,7 +455,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -488,7 +499,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -517,8 +528,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时55分 ~ 16时54分]"
+          "appearance_count": 11,
+          "time_info": "[01时55分 ~ 18时22分]"
         },
         {
           "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
@@ -528,11 +539,26 @@
             5,
             4,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时55分 ~ 16时54分]"
+          "appearance_count": 11,
+          "time_info": "[01时55分 ~ 18时22分]"
+        },
+        {
+          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
+          "url": "https://wallstreetcn.com/articles/3776680",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时51分 ~ 18时22分]"
         },
         {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
@@ -552,6 +578,33 @@
           "time_info": "[01时55分 ~ 16时54分]"
         },
         {
+          "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2423243",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时55分 ~ 18时22分]"
+        },
+        {
+          "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
+          "url": "https://www.cls.cn/detail/2423438",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时51分 ~ 18时22分]"
+        },
+        {
           "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
           "url": "https://wallstreetcn.com/articles/3776523",
           "source": "华尔街见闻",
@@ -561,44 +614,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时55分 ~ 07时52分]"
-        },
-        {
-          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
-          "url": "https://wallstreetcn.com/articles/3776680",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时51分 ~ 16时54分]"
-        },
-        {
-          "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2423243",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时55分 ~ 16时54分]"
-        },
-        {
-          "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
-          "url": "https://www.cls.cn/detail/2423438",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时51分 ~ 16时54分]"
         },
         {
           "title": "SK海力士首日开盘价170美元，美股指盘中涨跌互现，英伟达涨超3%，布油跌超1%",
@@ -613,6 +628,18 @@
           "time_info": "[01时55分 ~ 05时14分]"
         },
         {
+          "title": "美股处于“极度脆弱”的时候，财报季开启了",
+          "url": "https://wallstreetcn.com/articles/3776694",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 18时22分]"
+        },
+        {
           "title": "一周热榜精选：美国要求伊朗周六给承诺！SK海力士美股首日涨超12%",
           "url": "https://flash.jin10.com/detail/20260711094525096800",
           "source": "金十数据",
@@ -622,17 +649,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时28分 ~ 11时29分]"
-        },
-        {
-          "title": "美股处于“极度脆弱”的时候，财报季开启了",
-          "url": "https://wallstreetcn.com/articles/3776694",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
         },
         {
           "title": "金十图示：2026年07月10日（周五）美股热门股票行情一览（美股收盘）",
@@ -671,18 +687,30 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-11）",
+          "url": "https://flash.jin10.com/detail/20260711180323221800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 18时22分]"
+        },
         {
           "title": "特朗普改口：美加跨国大桥将于27日通车",
           "url": "https://flash.jin10.com/detail/20260711162225573800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 18时22分]"
         },
         {
           "title": "白宫证实特朗普已“清空”美选举援助委员会",
@@ -707,6 +735,17 @@
           "time_info": "[01时55分 ~ 07时52分]"
         },
         {
+          "title": "面对暗杀威胁 特朗普警告伊朗：1000枚导弹已对准你们",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1176161.html",
+          "source": "联合早报",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 18时22分]"
+        },
+        {
           "title": "特朗普：美国同意与伊朗继续谈判 停火协议“已结束”",
           "url": "https://www.zaochenbao.com/news/politics/202607/1176126.html",
           "source": "联合早报",
@@ -728,17 +767,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时28分 ~ 11时29分]"
-        },
-        {
-          "title": "面对暗杀威胁 特朗普警告伊朗：1000枚导弹已对准你们",
-          "url": "https://www.zaochenbao.com/news/politics/202607/1176161.html",
-          "source": "联合早报",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
         },
         {
           "title": "市场消息：四名美国参议员称，已与特朗普政府达成协议，将推进对俄制裁法案。",
