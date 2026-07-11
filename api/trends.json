@@ -1,35 +1,48 @@
 {
-  "generated_at": "2026-07-12T03:16:23.196075+08:00",
-  "total_titles_processed": 110,
+  "generated_at": "2026-07-12T05:01:20.037802+08:00",
+  "total_titles_processed": 117,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "美官员称美国团队未前往阿曼参加与伊朗的谈判",
+          "url": "https://flash.jin10.com/detail/20260712041548582800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时00分 ~ 05时01分]"
+        },
         {
           "title": "阿曼提议霍尔木兹“双航道”管理 伊朗航道需事先获批",
           "url": "https://flash.jin10.com/detail/20260712030241916800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 05时01分]"
         },
         {
           "title": "阿曼与伊朗将继续谈判 以达成霍尔木兹海峡通航协议",
           "url": "https://flash.jin10.com/detail/20260712024237763800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 05时01分]"
         },
         {
           "title": "伊朗袭击油轮，挑衅行动或重燃战争",
@@ -39,8 +52,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 05时01分]"
         },
         {
           "title": "据伊朗Press TV：一位伊朗高级情报消息人士称，美国正在对伊朗展开一场协调一致的施压、威胁和媒体虚假信息宣传行动。",
@@ -48,11 +61,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 05时01分]"
         },
         {
           "title": "伊朗与阿曼外长在马斯喀特会晤 就霍尔木兹海峡问题进行了交流",
@@ -60,11 +74,35 @@
           "source": "金十数据",
           "ranks": [
             7,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 05时01分]"
+        },
+        {
+          "title": "伊朗：除非美国“放弃立场” 否则不会谈判",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1176185.html",
+          "source": "联合早报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 05时01分]"
+        },
+        {
+          "title": "美国驻以色列大使：以色列已通知我们有关伊朗策划刺杀美国总统一事。伊朗的威胁并不新鲜，其行为也没有改变。我们没有看到伊朗存在温和派的真实证据。",
+          "url": "https://flash.jin10.com/detail/20260712021317281800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 05时01分]"
         },
         {
           "title": "伊朗代表称若美继续违反其义务 伊将不再遵守谅解备忘录",
@@ -77,28 +115,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时06分 ~ 03时16分]"
-        },
-        {
-          "title": "伊朗：除非美国“放弃立场” 否则不会谈判",
-          "url": "https://www.zaochenbao.com/news/politics/202607/1176185.html",
-          "source": "联合早报",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时16分]"
-        },
-        {
-          "title": "美国驻以色列大使：以色列已通知我们有关伊朗策划刺杀美国总统一事。伊朗的威胁并不新鲜，其行为也没有改变。我们没有看到伊朗存在温和派的真实证据。",
-          "url": "https://flash.jin10.com/detail/20260712021317281800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
         },
         {
           "title": "伊朗最高领袖就哈梅内伊之死号召复仇，为新谈判前景增添变数",
@@ -137,7 +153,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -147,8 +163,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 05时01分]"
         },
         {
           "title": "美股处于“极度脆弱”的时候，财报季开启了",
@@ -158,8 +174,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 05时01分]"
         },
         {
           "title": "SK海力士赴美首日上市大涨超18%，美股溢价超21%",
@@ -170,30 +186,43 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 05时01分]"
+        },
+        {
+          "title": "美股涨势背后存在隐忧 数据显示市场内部广度正在收窄",
+          "url": "https://flash.jin10.com/detail/20260712034752790800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时16分]"
+          "time_info": "[05时00分 ~ 05时01分]"
         },
         {
           "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
           "url": "https://www.cls.cn/detail/2423438",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 05时01分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2423243",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 05时01分]"
         }
       ]
     },
@@ -209,8 +238,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 05时01分]"
         },
         {
           "title": "美国总统特朗普：我刚在沃尔特·里德医院完成了一次完美的体检。我每六个月做一次体检，此外，我还要求了另一项认知测试，我是唯一一位这样做的总统，三次测试我都通过了——每个问题都答对了。",
@@ -218,11 +247,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 05时01分]"
         },
         {
           "title": "特朗普政府放宽对阿联酋出口管制 民主党质疑涉利益输送",
@@ -232,15 +262,26 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 05时01分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
+          "url": "https://flash.jin10.com/detail/20260712043502920800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时00分 ~ 05时01分]"
+        },
         {
           "title": "苹果告OpenAI：窃取商业机密图利自身硬件研发",
           "url": "https://www.zaochenbao.com/news/politics/202607/1176181.html",
@@ -249,8 +290,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 05时01分]"
         }
       ]
     }
