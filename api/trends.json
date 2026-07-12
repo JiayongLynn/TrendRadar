@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-12T17:59:06.995039+08:00",
-  "total_titles_processed": 284,
+  "generated_at": "2026-07-12T19:21:16.293411+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
         {
           "title": "伊朗关闭霍尔木兹海峡、打击美在中东目标，美军对伊发动新一轮袭击、多地传出爆炸声",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 17时59分]"
+          "appearance_count": 6,
+          "time_info": "[12时31分 ~ 19时21分]"
         },
         {
           "title": "阿曼提议霍尔木兹“双航道”管理 伊朗航道需事先获批",
@@ -111,6 +111,20 @@
           "time_info": "12时31分"
         },
         {
+          "title": "指伊朗袭击商船 美军发动新一轮空袭",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1276220.html",
+          "source": "联合早报",
+          "ranks": [
+            11,
+            22,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时31分 ~ 19时21分]"
+        },
+        {
           "title": "伊朗军方：我们警告，美国的行动及其对地区安全的破坏后果将由美国与以色列承担。",
           "url": "https://flash.jin10.com/detail/20260712114826607800",
           "source": "金十数据",
@@ -122,6 +136,39 @@
           "time_info": "12时31分"
         },
         {
+          "title": "约旦政府：伊朗发动的无人机和导弹袭击公然侵犯约旦主权，威胁其安全、稳定和领土​​完整，是危险的局势升级。同时，伊朗袭击也公然违反了国际法和《联合国宪章》。",
+          "url": "https://flash.jin10.com/detail/20260712183728174800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "巴林军方称伊朗持续进行“系统性侵略”",
+          "url": "https://flash.jin10.com/detail/20260712183553070800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "据伊朗国家媒体：一名伊朗军官在周日美以对伊朗的袭击中丧生。",
+          "url": "https://flash.jin10.com/detail/20260712183032386800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
           "title": "美国中央司令部：于7月11日完成了本周第三轮对伊朗的打击。美军动用陆基和舰载战斗机、无人机及海军舰艇，以精确弹药打击了约140个伊朗军事目标。目标包括伊朗导弹和无人机基地、海军能力、弹药储存设施、通信网络以及沿海监视地点。",
           "url": "https://flash.jin10.com/detail/20260712113603119800",
           "source": "金十数据",
@@ -131,19 +178,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
-        },
-        {
-          "title": "指伊朗袭击商船 美军发动新一轮空袭",
-          "url": "https://www.zaochenbao.com/news/politics/202607/1276220.html",
-          "source": "联合早报",
-          "ranks": [
-            11,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 17时59分]"
         },
         {
           "title": "伊朗称霍尔木兹海峡将“无限期关闭”",
@@ -189,22 +223,24 @@
           "url": "https://flash.jin10.com/detail/20260712172804711800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时58分 ~ 17时59分]"
+          "appearance_count": 3,
+          "time_info": "[17时58分 ~ 19时21分]"
         },
         {
           "title": "卡塔尔外交部：卡塔尔谴责伊朗对其领土及其他阿拉伯国家的袭击。",
           "url": "https://flash.jin10.com/detail/20260712172655313800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时58分 ~ 17时59分]"
+          "appearance_count": 3,
+          "time_info": "[17时58分 ~ 19时21分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗外交部长与巴基斯坦副外部长通话讨论地区发展情况。",
@@ -305,6 +341,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时32分 ~ 15时33分]"
+        },
+        {
+          "title": "一个海事咨询组织表示，尽管美伊相互攻击升级，伊朗宣布关闭霍尔木兹海峡，但周日该海峡的南部航道仍对航运开放。",
+          "url": "https://flash.jin10.com/detail/20260712182317910800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "市场消息：美国海军第五舰队在巴林的设施发生火灾，此前伊朗导弹袭击了该地区。",
@@ -444,8 +491,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时01分 ~ 17时59分]"
+          "appearance_count": 9,
+          "time_info": "[06时01分 ~ 19时21分]"
         },
         {
           "title": "扬言千枚导弹已锁定伊朗 特朗普警告伊朗勿暗杀他",
@@ -472,6 +519,20 @@
           "time_info": "[06时01分 ~ 08时03分]"
         },
         {
+          "title": "北约峰会：特朗普在对盟友出言不逊后又展示团结",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1276228.html",
+          "source": "联合早报",
+          "ranks": [
+            3,
+            14,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时31分 ~ 19时21分]"
+        },
+        {
           "title": "美国总统特朗普：我刚在沃尔特·里德医院完成了一次完美的体检。我每六个月做一次体检，此外，我还要求了另一项认知测试，我是唯一一位这样做的总统，三次测试我都通过了——每个问题都答对了。",
           "url": "https://flash.jin10.com/detail/20260712002717195800",
           "source": "金十数据",
@@ -486,41 +547,18 @@
           "time_info": "[01时06分 ~ 06时02分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-12）",
-          "url": "https://flash.jin10.com/detail/20260712174734590800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时58分 ~ 17时59分]"
-        },
-        {
-          "title": "北约峰会：特朗普在对盟友出言不逊后又展示团结",
-          "url": "https://www.zaochenbao.com/news/politics/202607/1276228.html",
-          "source": "联合早报",
-          "ranks": [
-            3,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 17时59分]"
-        },
-        {
           "title": "伊朗停火协议“终结”，特朗普面临破局难题",
           "url": "https://www.zaochenbao.com/news/politics/202607/1276227.html",
           "source": "联合早报",
           "ranks": [
             4,
             15,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 17时59分]"
+          "appearance_count": 6,
+          "time_info": "[12时31分 ~ 19时21分]"
         },
         {
           "title": "观点：特朗普承诺的外国投资热潮出现了吗？",
@@ -529,11 +567,12 @@
           "ranks": [
             5,
             16,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 17时59分]"
+          "appearance_count": 6,
+          "time_info": "[12时31分 ~ 19时21分]"
         },
         {
           "title": "特朗普政府放宽对阿联酋出口管制 民主党质疑涉利益输送",
@@ -558,15 +597,28 @@
           "time_info": "08时03分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-12）",
+          "url": "https://flash.jin10.com/detail/20260712174734590800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时58分 ~ 19时21分]"
+        },
+        {
           "title": "美国总统特朗普：参议员林赛·格雷厄姆，我所认识的最伟大的人和参议员之一，去世了！他总是勤勉工作，是一位真正的美国爱国者。林赛将被深深怀念！！！后续将公布更多细节和安排。太令人悲痛了！",
           "url": "https://flash.jin10.com/detail/20260712171914835800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时58分 ~ 17时59分]"
+          "appearance_count": 3,
+          "time_info": "[17时58分 ~ 19时21分]"
         },
         {
           "title": "伊朗议员阿拉丁·布鲁杰迪表示，特朗普、以色列总理内塔尼亚胡及其“代理人”应预料到“自由的世界人民”将实施“神圣的复仇之手”，并称“世界上没有任何地方——即便是白宫——对他们而言会是安全的”。",
@@ -642,8 +694,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时06分 ~ 17时59分]"
+          "appearance_count": 13,
+          "time_info": "[01时06分 ~ 19时21分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -719,8 +771,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时58分 ~ 17时59分]"
+          "appearance_count": 3,
+          "time_info": "[17时58分 ~ 19时21分]"
         }
       ]
     }
