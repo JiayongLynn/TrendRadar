@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-12T19:21:16.293411+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-07-12T21:45:36.381045+08:00",
+  "total_titles_processed": 355,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 40,
+      "match_count": 49,
       "titles": [
         {
           "title": "伊朗关闭霍尔木兹海峡、打击美在中东目标，美军对伊发动新一轮袭击、多地传出爆炸声",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时31分 ~ 19时21分]"
+          "appearance_count": 7,
+          "time_info": "[12时31分 ~ 21时45分]"
         },
         {
           "title": "阿曼提议霍尔木兹“双航道”管理 伊朗航道需事先获批",
@@ -111,6 +111,17 @@
           "time_info": "12时31分"
         },
         {
+          "title": "伊朗最高领袖顾问雷扎伊：霍尔木兹海峡是一种战略威慑力量，其重要性甚至超过数十枚原子弹。伊朗将守护这条至关重要的水道。",
+          "url": "https://flash.jin10.com/detail/20260712213900079800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "指伊朗袭击商船 美军发动新一轮空袭",
           "url": "https://www.zaochenbao.com/news/politics/202607/1276220.html",
           "source": "联合早报",
@@ -142,7 +153,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -153,9 +164,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
+        },
+        {
+          "title": "美军再发文驳斥伊朗“控制霍尔木兹海峡”说法：海峡是国际水道",
+          "url": "https://flash.jin10.com/detail/20260712212554194800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "据伊朗国家媒体：一名伊朗军官在周日美以对伊朗的袭击中丧生。",
@@ -164,7 +186,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -349,9 +371,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
+        },
+        {
+          "title": "伊朗：霍尔木兹海峡目前无法通行",
+          "url": "https://flash.jin10.com/detail/20260712210226028800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "市场消息：美国海军第五舰队在巴林的设施发生火灾，此前伊朗导弹袭击了该地区。",
@@ -363,6 +396,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
+        },
+        {
+          "title": "华尔街日报调查：伊朗战争冲击低于预期，但通胀更顽固",
+          "url": "https://flash.jin10.com/detail/20260712205015758800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
+          "title": "阿曼就部分地点遭袭事件召见伊朗驻阿大使",
+          "url": "https://flash.jin10.com/detail/20260712203724717800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "伊朗革命卫队：美国军方对伊朗南部海岸的多个沿海基地和通信塔发起了空袭。",
@@ -387,6 +442,17 @@
           "time_info": "12时31分"
         },
         {
+          "title": "美军：霍尔木兹海峡航运正常通行，伊朗不控制该水道",
+          "url": "https://flash.jin10.com/detail/20260712201734588800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "巴林国防部：空中防御系统成功拦截伊朗的攻击。",
           "url": "https://flash.jin10.com/detail/20260712110454758800",
           "source": "金十数据",
@@ -409,6 +475,17 @@
           "time_info": "12时31分"
         },
         {
+          "title": "阿曼外交部：已就伊朗袭击阿曼领土召见伊朗驻阿曼大使以示抗议。",
+          "url": "https://flash.jin10.com/detail/20260712195226608800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "伊朗最高领袖就哈梅内伊之死号召复仇，为新谈判前景增添变数",
           "url": "https://flash.jin10.com/detail/20260711222557487800",
           "source": "金十数据",
@@ -429,6 +506,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        },
+        {
+          "title": "伊朗军方发言人：霍尔木兹海峡管理权在伊朗，美国强加航线违反备忘录",
+          "url": "https://flash.jin10.com/detail/20260712193152672800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "阿联酋国防部：空中防御系统正在拦截来自伊朗的导弹和无人机。",
@@ -473,12 +561,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗革命卫队防空系统在伊朗西部洛雷斯坦省霍拉马巴德附近拦截了一枚敌方巡航导弹。",
+          "url": "https://flash.jin10.com/detail/20260712191001886800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "伊朗最高领袖称将报复美以，特朗普：1000枚导弹已瞄准伊朗",
@@ -505,6 +604,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时06分 ~ 08时03分]"
+        },
+        {
+          "title": "观点：特朗普承诺的外国投资热潮出现了吗？",
+          "url": "https://www.zaochenbao.com/news/opinion/202607/1276226.html",
+          "source": "联合早报",
+          "ranks": [
+            5,
+            16,
+            23,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时31分 ~ 21时45分]"
         },
         {
           "title": "美国总统特朗普：即便所有媒体都对我极尽抹黑、充斥虚假新闻，我依旧以压倒性大胜拿下总统大选。由此可见，主流媒体毫无公信力可言！",
@@ -561,20 +675,6 @@
           "time_info": "[12时31分 ~ 19时21分]"
         },
         {
-          "title": "观点：特朗普承诺的外国投资热潮出现了吗？",
-          "url": "https://www.zaochenbao.com/news/opinion/202607/1276226.html",
-          "source": "联合早报",
-          "ranks": [
-            5,
-            16,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时31分 ~ 19时21分]"
-        },
-        {
           "title": "特朗普政府放宽对阿联酋出口管制 民主党质疑涉利益输送",
           "url": "https://www.zaochenbao.com/news/politics/202607/1176183.html",
           "source": "联合早报",
@@ -595,6 +695,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "据NBC新闻：美国总统特朗普表示，霍尔木兹海峡是开放的。",
+          "url": "https://flash.jin10.com/detail/20260712211503582800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-12）",
@@ -768,11 +879,12 @@
           "url": "https://wallstreetcn.com/articles/3776720",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时58分 ~ 19时21分]"
+          "appearance_count": 4,
+          "time_info": "[17时58分 ~ 21时45分]"
         }
       ]
     }
