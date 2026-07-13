@@ -1,24 +1,25 @@
 {
-  "generated_at": "2026-07-14T06:03:01.655373+08:00",
-  "total_titles_processed": 146,
+  "generated_at": "2026-07-14T07:59:41.782482+08:00",
+  "total_titles_processed": 188,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "美国恢复对伊朗海上封锁 向霍尔木兹海峡货运收20%费用",
           "url": "https://www.zaochenbao.com/news/politics/202607/1376355.html",
           "source": "联合早报",
           "ranks": [
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 06时03分]"
+          "appearance_count": 5,
+          "time_info": "[02时02分 ~ 07时59分]"
         },
         {
           "title": "据伊朗媒体Fars News：伊朗布什尔省贾姆县传出数次爆炸声。",
@@ -43,6 +44,17 @@
           "time_info": "[06时02分 ~ 06时03分]"
         },
         {
+          "title": "美军宣布7月14日恢复对伊朗的海上封锁",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1476360.html",
+          "source": "联合早报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
           "title": "据伊朗国家电视台：截至目前，伊朗南部地区包括班达尔阿巴斯在内的多地暂无爆炸报告。",
           "url": "https://flash.jin10.com/detail/20260714033243959800",
           "source": "金十数据",
@@ -58,22 +70,24 @@
           "url": "https://www.zaochenbao.com/news/politics/202607/1376346.html",
           "source": "联合早报",
           "ranks": [
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 06时03分]"
+          "appearance_count": 5,
+          "time_info": "[02时02分 ~ 07时59分]"
         },
         {
           "title": "也门军队袭击萨那机场 阻止伊朗飞机降落",
           "url": "https://www.zaochenbao.com/news/politics/202607/1376345.html",
           "source": "联合早报",
           "ranks": [
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 06时03分]"
+          "appearance_count": 5,
+          "time_info": "[02时02分 ~ 07时59分]"
         },
         {
           "title": "受伊朗战争和通货膨胀冲击，全球经济增长面临急剧放缓",
@@ -219,6 +233,17 @@
           "time_info": "04时20分"
         },
         {
+          "title": "据伊朗迈赫尔通讯社：伊朗西南部胡齐斯坦省奥米迪耶（Omidiyeh）多个地区遭到美国炮弹袭击。",
+          "url": "https://flash.jin10.com/detail/20260714072534204800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
           "title": "伊朗外交部：我们强烈谴责对也门首都萨那国际机场的袭击，这是对国际法和联合国宪章的公然侵犯。",
           "url": "https://flash.jin10.com/detail/20260714012856156800",
           "source": "金十数据",
@@ -244,8 +269,21 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
+          "url": "https://wallstreetcn.com/articles/3776814",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时02分 ~ 07时59分]"
+        },
         {
           "title": "据MS NOW：美国总统特朗普在周四（北京时间周五上午）的讲话中将谈及2020年选举中的外国干预 。",
           "url": "https://flash.jin10.com/detail/20260714034636545800",
@@ -269,16 +307,15 @@
           "time_info": "04时20分"
         },
         {
-          "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
-          "url": "https://wallstreetcn.com/articles/3776814",
+          "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
+          "url": "https://wallstreetcn.com/articles/3776822",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            6
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 06时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         },
         {
           "title": "特朗普威胁打击伊朗“镐山”地下核设施",
@@ -336,6 +373,28 @@
           "time_info": "04时20分"
         },
         {
+          "title": "美军三夜连炸伊朗，特朗普放话要端掉地下核设施“镐山”",
+          "url": "https://flash.jin10.com/detail/20260714065721126800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "特朗普将重启对伊行动定性为“军事冲突” 拒绝划定时间表",
+          "url": "https://flash.jin10.com/detail/20260714065615611800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
           "title": "美媒：特朗普已通知国会伊朗战事重新爆发",
           "url": "https://flash.jin10.com/detail/20260714024104744800",
           "source": "金十数据",
@@ -345,12 +404,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "特朗普称仍可能与伊朗达成协议",
+          "url": "https://flash.jin10.com/detail/20260714063751176800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "据AXIOS：美国官员透露，特朗普对沙特王储本·萨勒曼针对也门胡塞武装采取极为罕见的军事行动表示支持。",
+          "url": "https://flash.jin10.com/detail/20260714063620914800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "白宫：特朗普签署一项公告，涉及对某些固定污染源给予监管救济。",
+          "url": "https://flash.jin10.com/detail/20260714062715329800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
@@ -375,6 +467,17 @@
           "time_info": "[06时02分 ~ 06时03分]"
         },
         {
+          "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
           "title": "高盛：盈利增长仍是美股驱动力，但美联储加息将从三方面造成影响",
           "url": "https://flash.jin10.com/detail/20260714015018155800",
           "source": "金十数据",
@@ -386,6 +489,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "美股收盘：美伊局势升级打压风险偏好 芯片股重挫纳指跌逾1.5%",
+          "url": "https://www.cls.cn/detail/2425183",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
           "title": "美股Q2财报季前瞻：非科技股盈利韧性凸显 科技股“答卷”超预期才能过关",
           "url": "https://www.cls.cn/detail/2424724",
           "source": "财联社热门",
@@ -395,6 +509,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时02分 ~ 06时03分]"
+        },
+        {
+          "title": "高盛、美银齐发卖出警报，对冲基金却重返科技股，美股仓位信号现分歧",
+          "url": "https://wallstreetcn.com/articles/3776816",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         }
       ]
     },
@@ -412,6 +537,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 06时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【早报】美伊冲突升级；美股存储股再度重挫；国际油价暴涨9%，金价大跌",
+          "url": "https://www.cls.cn/detail/2425210",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         }
       ]
     },
