@@ -1,661 +1,74 @@
 {
-  "generated_at": "2026-07-13T23:47:13.044318+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2026-07-14T02:02:23.622334+08:00",
+  "total_titles_processed": 93,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 45,
+      "match_count": 5,
       "titles": [
         {
-          "title": "伊朗关闭霍尔木兹海峡、打击美在中东目标，美军对伊发动新一轮袭击、多地传出爆炸声",
-          "url": "https://wallstreetcn.com/articles/3776710",
-          "source": "华尔街见闻",
+          "title": "美国恢复对伊朗海上封锁 向霍尔木兹海峡货运收20%费用",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1376355.html",
+          "source": "联合早报",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 08时02分]"
-        },
-        {
-          "title": "美军：12日夜间打击140个伊朗目标",
-          "url": "https://flash.jin10.com/detail/20260713200607928800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时14分 ~ 20时15分]"
-        },
-        {
-          "title": "伊朗革命卫队：美国周一空袭伊朗致三名伊斯兰革命卫队成员丧生。",
-          "url": "https://flash.jin10.com/detail/20260713231825220800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时46分 ~ 23时47分]"
-        },
-        {
-          "title": "【早报】美国对伊朗发动打击；油价大涨，黄金跌破4100美元；半导体设备龙头，今日复牌",
-          "url": "https://www.cls.cn/detail/2423960",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时02分 ~ 16时23分]"
-        },
-        {
-          "title": "伊朗否认布什尔核电站区域遭袭",
-          "url": "https://flash.jin10.com/detail/20260713035228154800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时00分 ~ 06时03分]"
-        },
-        {
-          "title": "据CNN：美国中央司令部发言人霍金斯上尉表示，在过去一小时内，伊朗革命卫队向通过霍尔木兹海峡的商船开火。截至目前，美军飞机已成功击落一枚伊朗巡航导弹和一架单向攻击无人机。",
-          "url": "https://flash.jin10.com/detail/20260713055814899800",
-          "source": "金十数据",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时03分"
-        },
-        {
-          "title": "加拿大就伊朗袭击事件表示“与海湾国家站在一起”",
-          "url": "https://flash.jin10.com/detail/20260713022951270800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时16分 ~ 05时01分]"
-        },
-        {
-          "title": "安全消息人士：无人机袭击目标为伊朗库尔德反对派在伊拉克东部苏莱曼尼亚的营地。",
-          "url": "https://flash.jin10.com/detail/20260713020118699800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时16分 ~ 05时01分]"
-        },
-        {
-          "title": "伊朗议员：管控霍尔木兹海峡是伊朗的“最终”政策",
-          "url": "https://flash.jin10.com/detail/20260713015857749800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时16分 ~ 05时01分]"
-        },
-        {
-          "title": "据AXIOS网站：美国官员称，美国军方在一小时前对霍尔木兹海峡周边几个地点的导弹和空中防御系统以及伊朗革命卫队的小型船只进行了几次打击。",
-          "url": "https://flash.jin10.com/detail/20260713002259107800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时17分]"
-        },
-        {
-          "title": "美国中央司令部：伊朗声称三名美军丧生的说法不实",
-          "url": "https://flash.jin10.com/detail/20260713043105812800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时03分]"
-        },
-        {
-          "title": "伊朗霍尔木兹甘省多地遭美袭击 致1死2伤",
-          "url": "https://flash.jin10.com/detail/20260713014859242800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时16分 ~ 05时01分]"
-        },
-        {
-          "title": "据伊朗媒体Fars News：伊朗革命卫队此前在科威特的无人机行动中瞄准了美国火箭弹发射系统。",
-          "url": "https://flash.jin10.com/detail/20260713012608595800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时16分 ~ 05时01分]"
-        },
-        {
-          "title": "科威特军方：伊朗袭击致边境哨所及钻井平台受损",
-          "url": "https://flash.jin10.com/detail/20260713010907062800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时16分 ~ 05时01分]"
-        },
-        {
-          "title": "受伊朗战争和通货膨胀冲击，全球经济增长面临急剧放缓",
-          "url": "https://www.zaochenbao.com/news/politics/202607/1376326.html",
-          "source": "联合早报",
-          "ranks": [
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时14分 ~ 23时47分]"
-        },
-        {
-          "title": "独立投资研究平台HFI Research：伊朗一侧航道仍有一些船只通行，但整体航运十分冷清。",
-          "url": "https://flash.jin10.com/detail/20260713005709592800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时16分 ~ 05时01分]"
-        },
-        {
-          "title": "美军完成对伊朗第四轮打击 首次使用海上无人艇",
-          "url": "https://www.zaochenbao.com/news/politics/202607/1376308.html",
-          "source": "联合早报",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 20时15分]"
-        },
-        {
-          "title": "也门外交部重申，面对美国和以色列持续不断的侵略，也门将继续支持伊朗。",
-          "url": "https://flash.jin10.com/detail/20260713031516956800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时00分 ~ 06时03分]"
-        },
-        {
-          "title": "卡塔尔称将依法追究伊朗袭击行为的责任",
-          "url": "https://flash.jin10.com/detail/20260713000852861800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时17分]"
-        },
-        {
-          "title": "伊朗阿巴斯港和格什姆岛沿海地区传出爆炸声",
-          "url": "https://flash.jin10.com/detail/20260712235715186800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时17分]"
-        },
-        {
-          "title": "伊朗总统：我们正参与一场复杂的经济战争，成功克服这一阶段需要公民的积极参与。",
-          "url": "https://flash.jin10.com/detail/20260712234037416800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时17分]"
-        },
-        {
-          "title": "据伊朗Press TV：驻科威特美军基地内的ATACMS导弹系统设施遭到袭击，现场升起浓烟。",
-          "url": "https://flash.jin10.com/detail/20260712233918237800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时17分]"
+          "time_info": "02时02分"
         },
         {
           "title": "英国将伊朗伊斯兰革命卫队列为恐怖组织",
           "url": "https://www.zaochenbao.com/news/politics/202607/1376346.html",
           "source": "联合早报",
           "ranks": [
-            7
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时46分 ~ 23时47分]"
+          "appearance_count": 1,
+          "time_info": "02时02分"
         },
         {
           "title": "也门军队袭击萨那机场 阻止伊朗飞机降落",
           "url": "https://www.zaochenbao.com/news/politics/202607/1376345.html",
           "source": "联合早报",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时46分 ~ 23时47分]"
-        },
-        {
-          "title": "伊朗安全官员：美国一再的挑衅行为，将导致伊朗行动范围的扩大。美国及其盟友必须服从我们的安排，请把此点牢记在心。",
-          "url": "https://flash.jin10.com/detail/20260713230155908800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时46分 ~ 23时47分]"
-        },
-        {
-          "title": "伊朗海峡管理局：通行恢复需要等待局势稳定",
-          "url": "https://flash.jin10.com/detail/20260713195026382800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时14分 ~ 20时15分]"
-        },
-        {
-          "title": "美国中央司令部：昨日中央司令部部队使用多架单向攻击型水面无人机，成功打击了伊朗一处潜艇和舰艇维修设施。三艘“海盗”无人水面舰艇击中了阿巴斯港海军基地的港口，这是美军首次在作战行动中使用海上无人机。昨晚的打击削弱了伊朗持续袭击商业航运的能力。",
-          "url": "https://flash.jin10.com/detail/20260713224718942800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时46分 ~ 23时47分]"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：初步报告称在布什尔省部分地区传出爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260713054554908800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        },
-        {
-          "title": "伊朗外交部发言人：我们强调，绝不允许霍尔木兹海峡成为威胁伊朗国家安全的地方。与此同时，我们一直本着诚实和负责任的态度，致力于确保该航道的航运安全。",
-          "url": "https://flash.jin10.com/detail/20260713160813965800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "伊朗外交部：周六的马斯喀特会谈集中在霍尔木兹海峡的管理问题上，但美国通过施压阿曼阻止了在此问题上达成结果。",
-          "url": "https://flash.jin10.com/detail/20260713052720745800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        },
-        {
-          "title": "伊朗外交部发言人：过去四个月里，由于美军的存在，本地区陷入了动荡与不安；我们始终希望本地区国家能从中汲取教训。",
-          "url": "https://flash.jin10.com/detail/20260713160746237800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "美军确认已开始对伊朗进行新一轮打击",
-          "url": "https://flash.jin10.com/detail/20260713052039321800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        },
-        {
-          "title": "据伊朗伊斯兰广播电视台（IRIB）：伊朗霍尔木兹甘省贾斯克市传出三声爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260713051831521800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        },
-        {
-          "title": "伊朗外交部发言人：调解方仍在继续努力促成伊朗与美国之间的调解，包括近期的努力。",
-          "url": "https://flash.jin10.com/detail/20260713160549416800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "据伊朗法尔斯通讯社：今天凌晨00:30（北京时间05:00）左右，伊朗阿巴斯港和锡里克传出超过10次爆炸声。爆炸的确切地点尚不清楚。",
-          "url": "https://flash.jin10.com/detail/20260713051732491800",
-          "source": "金十数据",
-          "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时03分"
+          "time_info": "02时02分"
         },
         {
-          "title": "据伊朗伊斯兰广播电视台（IRIB）：伊朗南部再次传出爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260713051223616800",
+          "title": "伊朗外交部：我们强烈谴责对也门首都萨那国际机场的袭击，这是对国际法和联合国宪章的公然侵犯。",
+          "url": "https://flash.jin10.com/detail/20260714012856156800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时03分"
+          "time_info": "02时02分"
         },
         {
-          "title": "联合国驻黎巴嫩代表与伊朗外长会晤",
-          "url": "https://flash.jin10.com/detail/20260712233702335800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        },
-        {
-          "title": "伊朗外交部强烈谴责美国在过去24小时内对伊朗的侵略性攻击，称这些攻击不仅公然违反了《联合国宪章》的基本原则，还对国际和平与安全构成严重威胁，使得过去几个月减少紧张局势和在西亚地区建立和平的努力付诸东流。",
-          "url": "https://flash.jin10.com/detail/20260713051101553800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        },
-        {
-          "title": "伊朗称胡齐斯坦省遭美方袭击",
-          "url": "https://flash.jin10.com/detail/20260713072000112800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "伊朗否认布什尔核电站区域遭袭",
-          "url": "https://www.zaochenbao.com/news/politics/202607/1376283.html",
+          "title": "受伊朗战争和通货膨胀冲击，全球经济增长面临急剧放缓",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1376326.html",
           "source": "联合早报",
           "ranks": [
-            15
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "据纽约时报此前援引一名美国官员的话称，当地时间周日晚上（北京时间13日上午）美国对伊朗军事目标发动的打击规模可能比当天早些时候的更大。",
-          "url": "https://flash.jin10.com/detail/20260713071349910800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "为削弱伊朗袭击商船能力 美军发起第四轮打击",
-          "url": "https://www.zaochenbao.com/news/politics/202607/1376281.html",
-          "source": "联合早报",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：初步消息称伊朗对美国在科威特的导弹发射基地发动了攻击。",
-          "url": "https://flash.jin10.com/detail/20260712231501261800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：伊朗外交部发言人对美国反伊朗参议员格雷厄姆的死讯发表评论，表示死神是公正的，人们绝不会为格雷厄姆的死感到惊恐或祈祷。",
-          "url": "https://flash.jin10.com/detail/20260713160326947800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "霍尔木兹大战升级！伊朗导弹横扫海湾多国，再次宣布关闭海峡",
-          "url": "https://flash.jin10.com/detail/20260713063453673800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "美国总统特朗普：若冗长辩论规则不终止，政府或于9月停摆。",
-          "url": "https://flash.jin10.com/detail/20260713200647541800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时14分 ~ 20时15分]"
-        },
-        {
-          "title": "观点：特朗普承诺的外国投资热潮出现了吗？",
-          "url": "https://www.zaochenbao.com/news/opinion/202607/1276226.html",
-          "source": "联合早报",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 08时02分]"
-        },
-        {
-          "title": "特朗普在对伊战争上“没有什么可以向美国选民兜售的”",
-          "url": "https://flash.jin10.com/detail/20260713021538403800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时16分 ~ 05时01分]"
-        },
-        {
-          "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
-          "url": "https://wallstreetcn.com/articles/3776814",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时46分 ~ 23时47分]"
-        },
-        {
-          "title": "特朗普宣布重新封锁伊朗，对霍尔木兹海峡货运收取20%“保护费”",
-          "url": "https://flash.jin10.com/detail/20260713230450277800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时46分 ~ 23时47分]"
-        },
-        {
-          "title": "伊朗安全官员：特朗普忘了，霍尔木兹海峡在美国诞生之前数千年，就一直属于伊朗。",
-          "url": "https://flash.jin10.com/detail/20260713230128924800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时46分 ~ 23时47分]"
-        },
-        {
-          "title": "伊朗安全官员：特朗普所谓美国保护霍尔木兹海峡已有50年的说法，纯粹是一种幻觉。",
-          "url": "https://flash.jin10.com/detail/20260713230115556800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时46分 ~ 23时47分]"
-        },
-        {
-          "title": "伊朗安全官员：霍尔木兹海峡的管理权由我们的意志决定，而非你（特朗普）的帖子。",
-          "url": "https://flash.jin10.com/detail/20260713230053533800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时46分 ~ 23时47分]"
-        },
-        {
-          "title": "美伊博弈重启，特朗普将目光锁定油价！",
-          "url": "https://flash.jin10.com/detail/20260713120241521800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”",
-          "url": "https://flash.jin10.com/detail/20260712224922649800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
+          "time_info": "02时02分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 3,
       "titles": [
         {
           "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
@@ -665,93 +78,47 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时46分 ~ 23时47分]"
+          "appearance_count": 1,
+          "time_info": "02时02分"
         },
         {
-          "title": "美股三大股指期货周一低开，其中纳指期货跌0.3%。",
-          "url": "https://flash.jin10.com/detail/20260713060020016800",
+          "title": "高盛：盈利增长仍是美股驱动力，但美联储加息将从三方面造成影响",
+          "url": "https://flash.jin10.com/detail/20260714015018155800",
           "source": "金十数据",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时03分"
-        },
-        {
-          "title": "AI恐慌蔓延，美股盘前存储芯片股普跌，SK海力士暴跌15.4%创历史最大跌幅，原油上涨，黄金下跌",
-          "url": "https://wallstreetcn.com/articles/3776754",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 20时15分]"
+          "time_info": "02时02分"
         },
         {
           "title": "美股Q2财报季前瞻：非科技股盈利韧性凸显 科技股“答卷”超预期才能过关",
           "url": "https://www.cls.cn/detail/2424724",
           "source": "财联社热门",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时14分 ~ 20时15分]"
-        },
-        {
-          "title": "美股异动丨Gloo Holdings盘前大涨7.6% 高管增持",
-          "url": "https://www.gelonghui.com/news/5267464",
-          "source": "格隆汇",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "美股知名“大空头”看好非科技板块，市场的逻辑正在发生深刻转变！",
-          "url": "https://flash.jin10.com/detail/20260713160713817800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "在纳斯达克强劲首秀后，SK海力士ADR在美股盘前交易下跌10.4%。",
-          "url": "https://flash.jin10.com/detail/20260713160438285800",
-          "source": "金十数据",
-          "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时23分"
+          "time_info": "02时02分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "特朗普",
       "match_count": 1,
       "titles": [
         {
-          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
-          "url": "https://wallstreetcn.com/articles/3776720",
+          "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
+          "url": "https://wallstreetcn.com/articles/3776814",
           "source": "华尔街见闻",
           "ranks": [
-            9,
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时09分 ~ 12时36分]"
+          "appearance_count": 1,
+          "time_info": "02时02分"
         }
       ]
     }
