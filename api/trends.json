@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-13T16:23:23.653433+08:00",
-  "total_titles_processed": 318,
+  "generated_at": "2026-07-13T20:15:11.400355+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "伊朗关闭霍尔木兹海峡、打击美在中东目标，美军对伊发动新一轮袭击、多地传出爆炸声",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时09分 ~ 08时02分]"
+        },
+        {
+          "title": "美军：12日夜间打击140个伊朗目标",
+          "url": "https://flash.jin10.com/detail/20260713200607928800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时14分 ~ 20时15分]"
         },
         {
           "title": "【早报】美国对伊朗发动打击；油价大涨，黄金跌破4100美元；半导体设备龙头，今日复牌",
@@ -173,6 +184,18 @@
           "time_info": "[03时16分 ~ 05时01分]"
         },
         {
+          "title": "美军完成对伊朗第四轮打击 首次使用海上无人艇",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1376308.html",
+          "source": "联合早报",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 20时15分]"
+        },
+        {
           "title": "也门外交部重申，面对美国和以色列持续不断的侵略，也门将继续支持伊朗。",
           "url": "https://flash.jin10.com/detail/20260713031516956800",
           "source": "金十数据",
@@ -234,6 +257,28 @@
           "time_info": "[01时09分 ~ 03时17分]"
         },
         {
+          "title": "受伊朗战争和通货膨胀冲击，全球经济增长面临急剧放缓",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1376326.html",
+          "source": "联合早报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时14分 ~ 20时15分]"
+        },
+        {
+          "title": "伊朗海峡管理局：通行恢复需要等待局势稳定",
+          "url": "https://flash.jin10.com/detail/20260713195026382800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时14分 ~ 20时15分]"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：初步报告称在布什尔省部分地区传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260713054554908800",
           "source": "金十数据",
@@ -251,7 +296,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -273,18 +318,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "美军完成对伊朗第四轮打击 首次使用海上无人艇",
-          "url": "https://www.zaochenbao.com/news/politics/202607/1376308.html",
-          "source": "联合早报",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -317,7 +351,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -427,7 +461,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -446,7 +480,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股三大股指期货周一低开，其中纳指期货跌0.3%。",
@@ -460,24 +494,36 @@
           "time_info": "06时03分"
         },
         {
+          "title": "AI恐慌蔓延，美股盘前存储芯片股普跌，SK海力士暴跌15.4%创历史最大跌幅，原油上涨，黄金下跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 20时15分]"
+        },
+        {
+          "title": "美股Q2财报季前瞻：非科技股盈利韧性凸显 科技股“答卷”超预期才能过关",
+          "url": "https://www.cls.cn/detail/2424724",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时14分 ~ 20时15分]"
+        },
+        {
           "title": "美股异动丨Gloo Holdings盘前大涨7.6% 高管增持",
           "url": "https://www.gelonghui.com/news/5267464",
           "source": "格隆汇",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "AI恐慌蔓延，美股盘前存储芯片股普跌，SK海力士暴跌15.4%创历史最大跌幅，原油上涨，黄金下跌",
-          "url": "https://wallstreetcn.com/articles/3776754",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -488,7 +534,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -499,7 +545,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         }
@@ -507,8 +553,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美国总统特朗普：若冗长辩论规则不终止，政府或于9月停摆。",
+          "url": "https://flash.jin10.com/detail/20260713200647541800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时14分 ~ 20时15分]"
+        },
         {
           "title": "观点：特朗普承诺的外国投资热潮出现了吗？",
           "url": "https://www.zaochenbao.com/news/opinion/202607/1276226.html",
