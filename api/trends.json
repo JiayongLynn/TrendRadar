@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-13T08:02:49.366603+08:00",
-  "total_titles_processed": 168,
+  "generated_at": "2026-07-13T12:36:37.881097+08:00",
+  "total_titles_processed": 246,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "伊朗关闭霍尔木兹海峡、打击美在中东目标，美军对伊发动新一轮袭击、多地传出爆炸声",
@@ -94,6 +94,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时09分 ~ 03时17分]"
+        },
+        {
+          "title": "【早报】美国对伊朗发动打击；油价大涨，黄金跌破4100美元；半导体设备龙头，今日复牌",
+          "url": "https://www.cls.cn/detail/2423960",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 12时36分]"
         },
         {
           "title": "美国中央司令部：伊朗声称三名美军丧生的说法不实",
@@ -243,17 +255,6 @@
           "time_info": "06时03分"
         },
         {
-          "title": "【早报】美国对伊朗发动打击；油价大涨，黄金跌破4100美元；半导体设备龙头，今日复牌",
-          "url": "https://www.cls.cn/detail/2423960",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
           "title": "美军确认已开始对伊朗进行新一轮打击",
           "url": "https://flash.jin10.com/detail/20260713052039321800",
           "source": "金十数据",
@@ -326,9 +327,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "伊朗否认布什尔核电站区域遭袭",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1376283.html",
+          "source": "联合早报",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
         },
         {
           "title": "据纽约时报此前援引一名美国官员的话称，当地时间周日晚上（北京时间13日上午）美国对伊朗军事目标发动的打击规模可能比当天早些时候的更大。",
@@ -337,9 +349,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "为削弱伊朗袭击商船能力 美军发起第四轮打击",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1376281.html",
+          "source": "联合早报",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：初步消息称伊朗对美国在科威特的导弹发射基地发动了攻击。",
@@ -359,7 +382,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         }
@@ -367,7 +390,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "观点：特朗普承诺的外国投资热潮出现了吗？",
@@ -395,6 +418,17 @@
           "time_info": "[03时16分 ~ 05时01分]"
         },
         {
+          "title": "美伊博弈重启，特朗普将目光锁定油价！",
+          "url": "https://flash.jin10.com/detail/20260713120241521800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
           "title": "特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”",
           "url": "https://flash.jin10.com/detail/20260712224922649800",
           "source": "金十数据",
@@ -416,11 +450,12 @@
           "url": "https://wallstreetcn.com/articles/3776720",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 08时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 12时36分]"
         }
       ]
     },
