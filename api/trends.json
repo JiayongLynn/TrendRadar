@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-13T12:36:37.881097+08:00",
-  "total_titles_processed": 246,
+  "generated_at": "2026-07-13T16:23:23.653433+08:00",
+  "total_titles_processed": 318,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "伊朗关闭霍尔木兹海峡、打击美在中东目标，美军对伊发动新一轮袭击、多地传出爆炸声",
@@ -19,6 +19,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时09分 ~ 08时02分]"
+        },
+        {
+          "title": "【早报】美国对伊朗发动打击；油价大涨，黄金跌破4100美元；半导体设备龙头，今日复牌",
+          "url": "https://www.cls.cn/detail/2423960",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 16时23分]"
         },
         {
           "title": "伊朗否认布什尔核电站区域遭袭",
@@ -94,18 +107,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时09分 ~ 03时17分]"
-        },
-        {
-          "title": "【早报】美国对伊朗发动打击；油价大涨，黄金跌破4100美元；半导体设备龙头，今日复牌",
-          "url": "https://www.cls.cn/detail/2423960",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时02分 ~ 12时36分]"
         },
         {
           "title": "美国中央司令部：伊朗声称三名美军丧生的说法不实",
@@ -244,6 +245,17 @@
           "time_info": "06时03分"
         },
         {
+          "title": "伊朗外交部发言人：我们强调，绝不允许霍尔木兹海峡成为威胁伊朗国家安全的地方。与此同时，我们一直本着诚实和负责任的态度，致力于确保该航道的航运安全。",
+          "url": "https://flash.jin10.com/detail/20260713160813965800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "伊朗外交部：周六的马斯喀特会谈集中在霍尔木兹海峡的管理问题上，但美国通过施压阿曼阻止了在此问题上达成结果。",
           "url": "https://flash.jin10.com/detail/20260713052720745800",
           "source": "金十数据",
@@ -253,6 +265,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "伊朗外交部发言人：过去四个月里，由于美军的存在，本地区陷入了动荡与不安；我们始终希望本地区国家能从中汲取教训。",
+          "url": "https://flash.jin10.com/detail/20260713160746237800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "美军完成对伊朗第四轮打击 首次使用海上无人艇",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1376308.html",
+          "source": "联合早报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "美军确认已开始对伊朗进行新一轮打击",
@@ -275,6 +309,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "伊朗外交部发言人：调解方仍在继续努力促成伊朗与美国之间的调解，包括近期的努力。",
+          "url": "https://flash.jin10.com/detail/20260713160549416800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "据伊朗法尔斯通讯社：今天凌晨00:30（北京时间05:00）左右，伊朗阿巴斯港和锡里克传出超过10次爆炸声。爆炸的确切地点尚不清楚。",
@@ -338,7 +383,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -360,7 +405,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -376,6 +421,17 @@
           "time_info": "01时09分"
         },
         {
+          "title": "据伊朗迈赫尔通讯社：伊朗外交部发言人对美国反伊朗参议员格雷厄姆的死讯发表评论，表示死神是公正的，人们绝不会为格雷厄姆的死感到惊恐或祈祷。",
+          "url": "https://flash.jin10.com/detail/20260713160326947800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "霍尔木兹大战升级！伊朗导弹横扫海湾多国，再次宣布关闭海峡",
           "url": "https://flash.jin10.com/detail/20260713063453673800",
           "source": "金十数据",
@@ -385,6 +441,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美股三大股指期货周一低开，其中纳指期货跌0.3%。",
+          "url": "https://flash.jin10.com/detail/20260713060020016800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "美股异动丨Gloo Holdings盘前大涨7.6% 高管增持",
+          "url": "https://www.gelonghui.com/news/5267464",
+          "source": "格隆汇",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "AI恐慌蔓延，美股盘前存储芯片股普跌，SK海力士暴跌15.4%创历史最大跌幅，原油上涨，黄金下跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "美股知名“大空头”看好非科技板块，市场的逻辑正在发生深刻转变！",
+          "url": "https://flash.jin10.com/detail/20260713160713817800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "在纳斯达克强劲首秀后，SK海力士ADR在美股盘前交易下跌10.4%。",
+          "url": "https://flash.jin10.com/detail/20260713160438285800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         }
       ]
     },
@@ -424,7 +541,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -456,23 +573,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时09分 ~ 12时36分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股三大股指期货周一低开，其中纳指期货跌0.3%。",
-          "url": "https://flash.jin10.com/detail/20260713060020016800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时03分"
         }
       ]
     }
