@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-14T19:39:29.200367+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-07-14T22:03:42.126137+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "美国恢复对伊朗海上封锁 向霍尔木兹海峡货运收20%费用",
@@ -53,6 +53,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "美国共和党参议员马歇尔：伊朗距离拥有核武器还“差几十年”，如有必要，海湾国家应通过部署地面部队对伊朗采取行动。不过，美国不应在此类行动中扮演主导角色。",
+          "url": "https://flash.jin10.com/detail/20260714213804014800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "印度就船员在霍尔木兹海峡遇害向伊朗提出抗议",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1476430.html",
+          "source": "联合早报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "英国将伊朗伊斯兰革命卫队列为恐怖组织",
@@ -101,6 +123,32 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时02分 ~ 06时03分]"
+        },
+        {
+          "title": "美军已完成对伊朗新一轮打击",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1476408.html",
+          "source": "联合早报",
+          "ranks": [
+            13,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时11分 ~ 22时03分]"
+        },
+        {
+          "title": "伊朗革命卫队确认袭击美国海军第五舰队",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1476407.html",
+          "source": "联合早报",
+          "ranks": [
+            14,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时11分 ~ 22时03分]"
         },
         {
           "title": "据CNN：美国官员表示，美军打击目标为伊朗军事设施，包括海岸监视系统、无人机和导弹能力。",
@@ -180,30 +228,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 06时03分]"
-        },
-        {
-          "title": "美军已完成对伊朗新一轮打击",
-          "url": "https://www.zaochenbao.com/news/politics/202607/1476408.html",
-          "source": "联合早报",
-          "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时11分 ~ 19时39分]"
-        },
-        {
-          "title": "伊朗革命卫队确认袭击美国海军第五舰队",
-          "url": "https://www.zaochenbao.com/news/politics/202607/1476407.html",
-          "source": "联合早报",
-          "ranks": [
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时11分 ~ 19时39分]"
         },
         {
           "title": "据伊朗国家电视台：伊朗军方消息称，伊军已出动无人机打击位于科威特的美军军事设施和装备。伊朗用巡航导弹瞄准了一艘“敌对”的美国舰艇。",
@@ -344,7 +368,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -355,7 +379,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -374,7 +398,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
@@ -401,8 +425,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时59分 ~ 19时39分]"
+          "appearance_count": 6,
+          "time_info": "[07时59分 ~ 22时03分]"
         },
         {
           "title": "据MS NOW：美国总统特朗普在周四（北京时间周五上午）的讲话中将谈及2020年选举中的外国干预 。",
@@ -427,6 +451,17 @@
           "time_info": "04时20分"
         },
         {
+          "title": "特朗普若对霍尔木兹海峡货运收费 或导致航运成本翻倍",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1476433.html",
+          "source": "联合早报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "美伊战火不停？特朗普已“知会”国会，但仍认为有望达成协议！",
           "url": "https://www.cls.cn/detail/2425302",
           "source": "财联社热门",
@@ -436,6 +471,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时24分 ~ 17时11分]"
+        },
+        {
+          "title": "特朗普索海峡护航费 超级油轮或须付数千万美元",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1476406.html",
+          "source": "联合早报",
+          "ranks": [
+            15,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时11分 ~ 22时03分]"
         },
         {
           "title": "特朗普已正式通知国会重启伊朗战事",
@@ -459,18 +507,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 06时03分]"
-        },
-        {
-          "title": "特朗普索海峡护航费 超级油轮或须付数千万美元",
-          "url": "https://www.zaochenbao.com/news/politics/202607/1476406.html",
-          "source": "联合早报",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时11分 ~ 19时39分]"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）我们将摧毁镐山（Pickaxe Mountain）。",
@@ -653,7 +689,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
@@ -661,11 +697,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时59分 ~ 19时39分]"
+          "appearance_count": 6,
+          "time_info": "[07时59分 ~ 22时03分]"
         },
         {
           "title": "美股收盘：美伊局势升级打压风险偏好 芯片股重挫纳指跌逾1.5%",
@@ -702,6 +739,17 @@
           "time_info": "[06时02分 ~ 06时03分]"
         },
         {
+          "title": "美股异动｜IBM初步业绩逊于预期，软件板块整体承压",
+          "url": "https://www.gelonghui.com/news/5269021",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "美股异动丨WISeKey盘前涨3% 上半年营收翻倍+重申全年增长预期",
           "url": "https://www.gelonghui.com/news/5268510",
           "source": "格隆汇",
@@ -733,6 +781,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
+        },
+        {
+          "title": "美国通胀降温，美股盘初涨跌互现，存储芯片股大涨，IBM跌26%，原油涨超4%，黄金涨近2%",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "高盛、美银齐发卖出警报，对冲基金却重返科技股，美股仓位信号现分歧",
@@ -769,6 +828,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时02分 ~ 06时03分]"
+        },
+        {
+          "title": "美股银行股涨跌不一，高盛(GS.N)涨超5%，摩根士丹利(MS.N)涨超2%，摩根大通(JPM.N)跌1%，富国银行(WFC.N)跌超4%。",
+          "url": "https://flash.jin10.com/detail/20260714213401467800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "美股开盘，道指开跌0.26%，标普500指数涨0.19%，纳指涨0.53%。SK海力士ADR(SKHY.O)涨超11%，闪迪(SNDK.O)涨超7%，美光科技(MU.O)涨超5%，高通(QCOM.O)涨2%，英特尔(INTC.O)涨4%。",
+          "url": "https://flash.jin10.com/detail/20260714213028426800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         }
       ]
     },
@@ -822,11 +903,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时20分 ~ 19时39分]"
+          "appearance_count": 4,
+          "time_info": "[14时20分 ~ 22时03分]"
         }
       ]
     },
