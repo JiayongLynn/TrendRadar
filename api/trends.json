@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-16T03:24:29.285313+08:00",
-  "total_titles_processed": 118,
+  "generated_at": "2026-07-16T05:09:25.218749+08:00",
+  "total_titles_processed": 149,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 20,
       "titles": [
         {
           "title": "美国总统特朗普：希望我能更快地使用关税手段。",
@@ -16,7 +16,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -38,7 +38,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -49,29 +49,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "美国总统特朗普：我认为年末的通胀会低于现在的水平。",
-          "url": "https://flash.jin10.com/detail/20260716031623183800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "美国总统特朗普：油价会波动一段时间。",
-          "url": "https://flash.jin10.com/detail/20260716031615355800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -84,8 +62,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 05时09分]"
+        },
+        {
+          "title": "美国总统特朗普：我认为年末的通胀会低于现在的水平。",
+          "url": "https://flash.jin10.com/detail/20260716031623183800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "美国总统特朗普：油价会波动一段时间。",
+          "url": "https://flash.jin10.com/detail/20260716031615355800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         },
         {
           "title": "美媒：特朗普周二召开战情室会议讨论大举打击伊朗",
@@ -95,8 +95,74 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 05时09分]"
+        },
+        {
+          "title": "美国总统特朗普：我们将很快采取行动，让退伍军人更容易成为卡车司机。",
+          "url": "https://flash.jin10.com/detail/20260716042335511800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        },
+        {
+          "title": "美国总统特朗普：通用动力的进度比我们希望的要慢一些。",
+          "url": "https://flash.jin10.com/detail/20260716041719188800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        },
+        {
+          "title": "美国总统特朗普：我们需要加快潜艇建造速度。",
+          "url": "https://flash.jin10.com/detail/20260716041706590800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        },
+        {
+          "title": "美国总统特朗普：等伊朗局势稳定下来，油价将降至每桶55美元。",
+          "url": "https://flash.jin10.com/detail/20260716041210992800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        },
+        {
+          "title": "美国总统特朗普：（关于石油）价格稍微上涨是因为我不得不采取强硬措施。",
+          "url": "https://flash.jin10.com/detail/20260716040910494800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）他们将很快被击败。",
+          "url": "https://flash.jin10.com/detail/20260716040637109800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
         },
         {
           "title": "特朗普：纽约州应立即改变数据中心政策",
@@ -138,16 +204,49 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "美媒：特朗普倾向扩大对伊军事行动，选项包括夺取哈尔克岛",
+          "url": "https://flash.jin10.com/detail/20260716034751447800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        },
+        {
+          "title": "美国总统特朗普称赞摩根大通(JPM.N)、波音(BA.N)和通用动力公司CEO。",
+          "url": "https://flash.jin10.com/detail/20260716034427070800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "美军7月袭击已致伊朗35人死亡",
+          "url": "https://flash.jin10.com/detail/20260716043828118800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        },
         {
           "title": "美军称对伊朗进行了90分钟打击",
           "url": "https://wallstreetcn.com/articles/3777022",
@@ -157,8 +256,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 05时09分]"
         },
         {
           "title": "向伊朗特工发送视频 以色列士兵判监五年",
@@ -168,8 +267,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 05时09分]"
         },
         {
           "title": "美国伊朗互相袭击 巴林科威特拦截空袭",
@@ -179,8 +278,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 05时09分]"
         },
         {
           "title": "美国中央司令部：美军于美东时间下午3时（北京时间7月16日凌晨3时）对伊朗发动当天第二轮打击行动。此次行动目标是伊朗用于威胁通过霍尔木兹海峡船只的军事能力。",
@@ -189,7 +288,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -200,7 +299,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -211,7 +310,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -233,7 +332,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -244,7 +343,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -255,7 +354,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -266,15 +365,48 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗科纳拉克附近传出两起爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260716035854009800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：巴林谢赫·伊萨美国军事基地附近传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260716035646958800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗拉斯克传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260716034832378800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
@@ -284,8 +416,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 05时09分]"
         },
         {
           "title": "美国通胀降温提振美股，存储跌幅扩大，戴尔重挫13%，油价转跌",
@@ -300,6 +432,17 @@
           "time_info": "[01时25分 ~ 03时24分]"
         },
         {
+          "title": "PPI确认通胀降温，美股小幅收涨，美光、闪迪暴跌8%，原油、黄金走V",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        },
+        {
           "title": "SK海力士美股单日暴涨27%，较韩股溢价超50%！期权上市刺激交投，资金押注短期看涨",
           "url": "https://wallstreetcn.com/articles/3776944",
           "source": "华尔街见闻",
@@ -308,8 +451,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 05时09分]"
         },
         {
           "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
@@ -319,8 +462,41 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 05时09分]"
+        },
+        {
+          "title": "金十图示：2026年07月15日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260716040558899800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        },
+        {
+          "title": "金十图示：2026年07月15日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260716040535908800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收涨 海力士跌9%",
+          "url": "https://flash.jin10.com/detail/20260716040122729800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
         }
       ]
     },
@@ -336,8 +512,25 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 05时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数15日下跌",
+          "url": "https://flash.jin10.com/detail/20260716043228905800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
         }
       ]
     }
