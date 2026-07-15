@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T14:24:42.356557+08:00",
-  "total_titles_processed": 343,
+  "generated_at": "2026-07-15T17:17:14.487070+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [
     "36kr"
   ],
@@ -21,8 +21,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时10分 ~ 14时24分]"
+          "appearance_count": 12,
+          "time_info": "[02时10分 ~ 17时17分]"
         },
         {
           "title": "据半岛电视台：伊朗官员称，一家瓶装水工厂遭到美国三枚炮弹袭击。袭击造成工厂设备损坏，但没有人员伤亡报告。",
@@ -75,7 +75,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -135,6 +135,19 @@
           "time_info": "04时19分"
         },
         {
+          "title": "科威特称拦截伊朗无人机 巴林拉响防空警报",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1576465.html",
+          "source": "联合早报",
+          "ranks": [
+            6,
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时24分 ~ 17时17分]"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗表示，今日美国对基什岛港口的袭击导致数艘船只受损。",
           "url": "https://flash.jin10.com/detail/20260714234730304800",
           "source": "金十数据",
@@ -144,18 +157,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
-        },
-        {
-          "title": "科威特称拦截伊朗无人机 巴林拉响防空警报",
-          "url": "https://www.zaochenbao.com/news/politics/202607/1576465.html",
-          "source": "联合早报",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 14时24分]"
         },
         {
           "title": "美国称伊朗一周内袭击七商船 宣布制裁伊朗航运网络",
@@ -437,7 +438,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
@@ -447,11 +448,25 @@
             6,
             5,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时19分 ~ 14时24分]"
+          "appearance_count": 10,
+          "time_info": "[04时19分 ~ 17时17分]"
+        },
+        {
+          "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
+          "url": "https://wallstreetcn.com/articles/3776934",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时05分 ~ 17时17分]"
         },
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
@@ -490,19 +505,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时22分 ~ 08时00分]"
-        },
-        {
-          "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
-          "url": "https://wallstreetcn.com/articles/3776934",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时05分 ~ 14时24分]"
         },
         {
           "title": "据AXIOS：三位知情人士透露，当地时间周二，美国总统特朗普在白宫战情室召开会议，讨论针对伊朗的大规模攻势；该行动的范围将比目前在霍尔木兹海峡周边进行的打击更为广泛。",
@@ -557,7 +559,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -632,6 +634,28 @@
           "time_info": "[07时59分 ~ 08时00分]"
         },
         {
+          "title": "美媒：特朗普周二召开战情室会议讨论大举打击伊朗",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1576486.html",
+          "source": "联合早报",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 17时17分]"
+        },
+        {
+          "title": "分析：一天内取消海峡收费凸显特朗普已进退失据",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1576485.html",
+          "source": "联合早报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 17时17分]"
+        },
+        {
           "title": "美媒：特朗普要求内塔尼亚胡从叙利亚、黎巴嫩撤军",
           "url": "https://flash.jin10.com/detail/20260715010957773800",
           "source": "金十数据",
@@ -679,7 +703,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
@@ -706,6 +730,18 @@
           "time_info": "[07时59分 ~ 14时24分]"
         },
         {
+          "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时24分 ~ 17时17分]"
+        },
+        {
           "title": "美股收盘：CPI降温叠加银行财报开门红 三大指数集体收涨",
           "url": "https://www.cls.cn/detail/2426541",
           "source": "财联社热门",
@@ -728,17 +764,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时22分 ~ 04时19分]"
-        },
-        {
-          "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
-          "url": "https://wallstreetcn.com/articles/3776859",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 14时24分]"
         },
         {
           "title": "美国通胀降温，美股指全线反弹，存储芯片股大涨，IBM暴跌25%，油金齐涨",
@@ -774,13 +799,35 @@
           "time_info": "[00时22分 ~ 06时06分]"
         },
         {
+          "title": "美股异动｜Mesoblast涨近7% 针对慢性下背痛的关键性3期临床试验取得进展",
+          "url": "https://www.gelonghui.com/news/5269589",
+          "source": "格隆汇",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 17时17分]"
+        },
+        {
+          "title": "美股异动丨京东盘前涨2% 多家机构料京东次季Non-GAAP纯利同比增14%",
+          "url": "https://www.gelonghui.com/news/5269588",
+          "source": "格隆汇",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 17时17分]"
+        },
+        {
           "title": "美股异动丨阿斯麦夜盘拉升涨6%，Q2营收超预期并上调2026年展望",
           "url": "https://www.gelonghui.com/news/5269355",
           "source": "格隆汇",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         }
@@ -921,7 +968,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         }
