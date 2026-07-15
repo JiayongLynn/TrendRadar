@@ -1,14 +1,25 @@
 {
-  "generated_at": "2026-07-16T01:25:56.731151+08:00",
-  "total_titles_processed": 92,
+  "generated_at": "2026-07-16T03:24:29.285313+08:00",
+  "total_titles_processed": 118,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "美国总统特朗普：希望我能更快地使用关税手段。",
+          "url": "https://flash.jin10.com/detail/20260716031809880800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
         {
           "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
           "url": "https://wallstreetcn.com/articles/3776932",
@@ -21,15 +32,71 @@
           "time_info": "01时25分"
         },
         {
+          "title": "美国总统特朗普：希望利率下降。",
+          "url": "https://flash.jin10.com/detail/20260716031747837800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "美国总统特朗普：暂停加息总比加息更好。",
+          "url": "https://flash.jin10.com/detail/20260716031734648800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "美国总统特朗普：我认为年末的通胀会低于现在的水平。",
+          "url": "https://flash.jin10.com/detail/20260716031623183800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "美国总统特朗普：油价会波动一段时间。",
+          "url": "https://flash.jin10.com/detail/20260716031615355800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
           "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
           "url": "https://wallstreetcn.com/articles/3776989",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 03时24分]"
+        },
+        {
+          "title": "美媒：特朗普周二召开战情室会议讨论大举打击伊朗",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1576486.html",
+          "source": "联合早报",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 03时24分]"
         },
         {
           "title": "特朗普：纽约州应立即改变数据中心政策",
@@ -65,15 +132,143 @@
           "time_info": "01时25分"
         },
         {
-          "title": "美媒：特朗普周二召开战情室会议讨论大举打击伊朗",
-          "url": "https://www.zaochenbao.com/news/politics/202607/1576486.html",
+          "title": "特朗普答轰炸伊朗：不喜欢设定最后期限",
+          "url": "https://flash.jin10.com/detail/20260716023558998800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "美军称对伊朗进行了90分钟打击",
+          "url": "https://wallstreetcn.com/articles/3777022",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 03时24分]"
+        },
+        {
+          "title": "向伊朗特工发送视频 以色列士兵判监五年",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1576518.html",
           "source": "联合早报",
           "ranks": [
-            26
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 03时24分]"
+        },
+        {
+          "title": "美国伊朗互相袭击 巴林科威特拦截空袭",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1576517.html",
+          "source": "联合早报",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 03时24分]"
+        },
+        {
+          "title": "美国中央司令部：美军于美东时间下午3时（北京时间7月16日凌晨3时）对伊朗发动当天第二轮打击行动。此次行动目标是伊朗用于威胁通过霍尔木兹海峡船只的军事能力。",
+          "url": "https://flash.jin10.com/detail/20260716031542772800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "伊朗外交部：伊朗外长阿拉格齐从多哈返回德黑兰。",
+          "url": "https://flash.jin10.com/detail/20260716031404179800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "科威特国防部发言人：伊朗“侵略行动”针对多个重要设施，造成财产损失，但未造成人员伤亡。",
+          "url": "https://flash.jin10.com/detail/20260716030445232800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗军方在阿巴斯港摧毁一架美国卢卡斯无人机。",
+          "url": "https://flash.jin10.com/detail/20260716010443458800",
+          "source": "金十数据",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "科威特方面表示，其武装部队周三拦截了来自伊朗的4枚巡航导弹和21架无人机。",
+          "url": "https://flash.jin10.com/detail/20260716030408036800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "伊朗议长称为维护国家利益必须时刻做好准备",
+          "url": "https://flash.jin10.com/detail/20260716025904014800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗外交部召见英国驻伊大使，抗议英方将革命卫队列入《反制国家威胁法》相关名单。",
+          "url": "https://flash.jin10.com/detail/20260716025142642800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "三名美国官员称，近期美国对伊朗的打击行动正在增强美方进一步升级行动的选项。",
+          "url": "https://flash.jin10.com/detail/20260716024749247800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         }
       ]
     },
@@ -89,19 +284,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 03时24分]"
         },
         {
           "title": "美国通胀降温提振美股，存储跌幅扩大，戴尔重挫13%，油价转跌",
           "url": "https://wallstreetcn.com/articles/3776964",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 03时24分]"
+        },
+        {
+          "title": "SK海力士美股单日暴涨27%，较韩股溢价超50%！期权上市刺激交投，资金押注短期看涨",
+          "url": "https://wallstreetcn.com/articles/3776944",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 03时24分]"
         },
         {
           "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
@@ -111,69 +319,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "SK海力士美股单日暴涨27%，较韩股溢价超50%！期权上市刺激交投，资金押注短期看涨",
-          "url": "https://wallstreetcn.com/articles/3776944",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美军称对伊朗进行了90分钟打击",
-          "url": "https://wallstreetcn.com/articles/3777022",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "向伊朗特工发送视频 以色列士兵判监五年",
-          "url": "https://www.zaochenbao.com/news/politics/202607/1576518.html",
-          "source": "联合早报",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "美国伊朗互相袭击 巴林科威特拦截空袭",
-          "url": "https://www.zaochenbao.com/news/politics/202607/1576517.html",
-          "source": "联合早报",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "据伊朗媒体Fars News：伊朗军方在阿巴斯港摧毁一架美国卢卡斯无人机。",
-          "url": "https://flash.jin10.com/detail/20260716010443458800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 03时24分]"
         }
       ]
     },
@@ -189,8 +336,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 03时24分]"
         }
       ]
     }
