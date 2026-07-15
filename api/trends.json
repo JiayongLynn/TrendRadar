@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-15T17:17:14.487070+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-07-15T19:42:03.292683+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
         {
           "title": "伊朗称美进入正式战争状态",
@@ -21,8 +21,22 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时10分 ~ 17时17分]"
+          "appearance_count": 14,
+          "time_info": "[02时10分 ~ 19时42分]"
+        },
+        {
+          "title": "科威特称拦截伊朗无人机 巴林拉响防空警报",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1576465.html",
+          "source": "联合早报",
+          "ranks": [
+            6,
+            8,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时24分 ~ 19时42分]"
         },
         {
           "title": "据半岛电视台：伊朗官员称，一家瓶装水工厂遭到美国三枚炮弹袭击。袭击造成工厂设备损坏，但没有人员伤亡报告。",
@@ -56,6 +70,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时05分 ~ 06时06分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：伊朗对全球经济的威胁能力已下降。",
+          "url": "https://flash.jin10.com/detail/20260715193249542800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 19时42分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗军方表示，针对该地区美国基地的无人机行动将持续进行，直至“最终胜利”。",
@@ -133,19 +158,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
-        },
-        {
-          "title": "科威特称拦截伊朗无人机 巴林拉响防空警报",
-          "url": "https://www.zaochenbao.com/news/politics/202607/1576465.html",
-          "source": "联合早报",
-          "ranks": [
-            6,
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 17时17分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗表示，今日美国对基什岛港口的袭击导致数艘船只受损。",
@@ -248,6 +260,17 @@
           "time_info": "[06时05分 ~ 06时06分]"
         },
         {
+          "title": "伊朗卫生部：在针对我国的新一轮战争挑衅中，目前已有超过260人受伤，其中包括3名女性和6名18岁以下的未成年人。222名受伤者已接受治疗并出院。",
+          "url": "https://flash.jin10.com/detail/20260715192339167800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 19时42分]"
+        },
+        {
           "title": "据伊朗官方媒体：安迪梅什克爆炸声源于受控爆破，并非敌方发动袭击。",
           "url": "https://flash.jin10.com/detail/20260715010348604800",
           "source": "金十数据",
@@ -301,6 +324,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时59分 ~ 08时00分]"
+        },
+        {
+          "title": "伊朗政府发言人：在过去24小时内，至少有两艘船只因违反规定，被革命卫队海军通过警告射击拦截。",
+          "url": "https://flash.jin10.com/detail/20260715191946898800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 19时42分]"
+        },
+        {
+          "title": "伊朗政府发言人：霍尔木兹海峡仍处于关闭状态，船只非法通行将面临惩处。",
+          "url": "https://flash.jin10.com/detail/20260715191658089800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 19时42分]"
         },
         {
           "title": "美中央司令部证实已对伊朗发动新一轮打击",
@@ -438,7 +483,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
@@ -452,8 +497,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时19分 ~ 17时17分]"
+          "appearance_count": 12,
+          "time_info": "[04时19分 ~ 19时42分]"
         },
         {
           "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
@@ -462,11 +507,12 @@
           "ranks": [
             10,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时05分 ~ 17时17分]"
+          "appearance_count": 11,
+          "time_info": "[06时05分 ~ 19时42分]"
         },
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
@@ -576,6 +622,30 @@
           "time_info": "[07时59分 ~ 14时24分]"
         },
         {
+          "title": "美媒：特朗普周二召开战情室会议讨论大举打击伊朗",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1576486.html",
+          "source": "联合早报",
+          "ranks": [
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 19时42分]"
+        },
+        {
+          "title": "分析：一天内取消海峡收费凸显特朗普已进退失据",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1576485.html",
+          "source": "联合早报",
+          "ranks": [
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 19时42分]"
+        },
+        {
           "title": "美伊战火没完没了？特朗普：要打到我喊停，下周或袭击桥梁发电厂！",
           "url": "https://www.cls.cn/detail/2426616",
           "source": "财联社热门",
@@ -612,6 +682,28 @@
           "time_info": "[11时24分 ~ 14时24分]"
         },
         {
+          "title": "美伊战火愈演愈烈？特朗普被曝白宫战情室开会 讨论对伊“毁灭性打击”",
+          "url": "https://www.cls.cn/detail/2427184",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 19时42分]"
+        },
+        {
+          "title": "美国总统特朗普：我认为俄罗斯已准备好很快达成协议。",
+          "url": "https://flash.jin10.com/detail/20260715192740266800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 19时42分]"
+        },
+        {
           "title": "伊朗总统佩泽希齐扬：我们将以实际行动回应特朗普的叫嚣，并将捍卫祖国的每一寸土地。特朗普的无礼言论，只配留给美国人自己。",
           "url": "https://flash.jin10.com/detail/20260715011502137800",
           "source": "金十数据",
@@ -632,28 +724,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时59分 ~ 08时00分]"
-        },
-        {
-          "title": "美媒：特朗普周二召开战情室会议讨论大举打击伊朗",
-          "url": "https://www.zaochenbao.com/news/politics/202607/1576486.html",
-          "source": "联合早报",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 17时17分]"
-        },
-        {
-          "title": "分析：一天内取消海峡收费凸显特朗普已进退失据",
-          "url": "https://www.zaochenbao.com/news/politics/202607/1576485.html",
-          "source": "联合早报",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 17时17分]"
         },
         {
           "title": "美媒：特朗普要求内塔尼亚胡从叙利亚、黎巴嫩撤军",
@@ -703,8 +773,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时24分 ~ 19时42分]"
+        },
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
           "url": "https://wallstreetcn.com/articles/3776754",
@@ -728,18 +810,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时59分 ~ 14时24分]"
-        },
-        {
-          "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
-          "url": "https://wallstreetcn.com/articles/3776859",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 17时17分]"
         },
         {
           "title": "美股收盘：CPI降温叠加银行财报开门红 三大指数集体收涨",
@@ -786,6 +856,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时59分 ~ 08时00分]"
+        },
+        {
+          "title": "美银：调查显示美股有望跑赢大盘",
+          "url": "https://flash.jin10.com/detail/20260715193611493800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 19时42分]"
         },
         {
           "title": "美股存储板块走高 SK海力士大涨近20%创新高",
@@ -918,7 +999,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "梁文锋成为世界最富有AI企业创始人",
@@ -943,6 +1024,56 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时22分 ~ 08时00分]"
+        },
+        {
+          "title": "DeepSeek新一轮融资规模或达500亿人民币",
+          "url": "https://www.zaochenbao.com/news/china/202607/1576510.html",
+          "source": "联合早报",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 19时42分]"
+        },
+        {
+          "title": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股",
+          "url": "https://www.cls.cn/detail/2427193",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 19时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "数据显示：由巴菲特担任董事长的伯克希尔哈撒韦公司持有谷歌母公司Alphabet约310亿美元的股票。",
+          "url": "https://flash.jin10.com/detail/20260715192053295800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 19时42分]"
+        },
+        {
+          "title": "巴菲特：我当年没有投资谷歌是个错误，基于其目前的业绩，该公司如今“更有可能成为赢家”。",
+          "url": "https://flash.jin10.com/detail/20260715191829009800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 19时42分]"
         }
       ]
     },
