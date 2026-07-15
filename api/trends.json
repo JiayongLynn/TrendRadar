@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-15T22:00:22.207053+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-07-15T23:43:21.775736+08:00",
+  "total_titles_processed": 610,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
         {
           "title": "伊朗称美进入正式战争状态",
@@ -61,17 +61,6 @@
           "time_info": "[06时05分 ~ 06时06分]"
         },
         {
-          "title": "向伊朗特工发送视频 以色列士兵判监五年",
-          "url": "https://www.zaochenbao.com/news/politics/202607/1576518.html",
-          "source": "联合早报",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时00分]"
-        },
-        {
           "title": "伊朗亨贾姆岛及阿巴斯港传出爆炸声",
           "url": "https://flash.jin10.com/detail/20260715054703235800",
           "source": "金十数据",
@@ -81,17 +70,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时05分 ~ 06时06分]"
-        },
-        {
-          "title": "美国伊朗互相袭击 巴林科威特拦截空袭",
-          "url": "https://www.zaochenbao.com/news/politics/202607/1576517.html",
-          "source": "联合早报",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时00分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：伊朗对全球经济的威胁能力已下降。",
@@ -160,6 +138,18 @@
           "time_info": "[00时22分 ~ 06时06分]"
         },
         {
+          "title": "向伊朗特工发送视频 以色列士兵判监五年",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1576518.html",
+          "source": "联合早报",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时59分 ~ 23时43分]"
+        },
+        {
           "title": "伊朗霍尔木兹甘省政府表示，当地时间约23时，美军打击命中伊朗南部锡里克附近地区。",
           "url": "https://flash.jin10.com/detail/20260715034852680800",
           "source": "金十数据",
@@ -169,6 +159,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
+        },
+        {
+          "title": "伊朗外交部：我们目前专注于捍卫国家。",
+          "url": "https://flash.jin10.com/detail/20260715232826838800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "美国伊朗互相袭击 巴林科威特拦截空袭",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1576517.html",
+          "source": "联合早报",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时59分 ~ 23时43分]"
         },
         {
           "title": "据伊朗官方媒体：伊朗班达尔阿巴斯市政府消息称，美军打击已击中伊朗南部港口城市班达尔阿巴斯周边地区。",
@@ -381,6 +394,17 @@
           "time_info": "04时19分"
         },
         {
+          "title": "美军称对伊朗进行了90分钟打击",
+          "url": "https://wallstreetcn.com/articles/3777022",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "美军确认对伊朗进行了新一轮打击",
           "url": "https://flash.jin10.com/detail/20260715033059498800",
           "source": "金十数据",
@@ -500,6 +524,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：美国炮弹击中了伊朗亨加姆岛的一处地点。",
+          "url": "https://flash.jin10.com/detail/20260715231214937800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         }
       ]
     },
@@ -519,8 +554,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[04时19分 ~ 22时00分]"
+          "appearance_count": 15,
+          "time_info": "[04时19分 ~ 23时43分]"
         },
         {
           "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
@@ -587,6 +622,20 @@
           "time_info": "[11时24分 ~ 11时25分]"
         },
         {
+          "title": "美媒：特朗普周二召开战情室会议讨论大举打击伊朗",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1576486.html",
+          "source": "联合早报",
+          "ranks": [
+            15,
+            19,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时16分 ~ 23时43分]"
+        },
+        {
           "title": "特朗普通知国会 恢复对伊军事打击",
           "url": "https://www.zaochenbao.com/news/politics/202607/1576450.html",
           "source": "联合早报",
@@ -609,19 +658,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时59分 ~ 08时00分]"
-        },
-        {
-          "title": "美媒：特朗普周二召开战情室会议讨论大举打击伊朗",
-          "url": "https://www.zaochenbao.com/news/politics/202607/1576486.html",
-          "source": "联合早报",
-          "ranks": [
-            15,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时16分 ~ 22时00分]"
         },
         {
           "title": "特朗普索海峡护航费 超级油轮或须付数千万美元",
@@ -706,6 +742,18 @@
           "time_info": "[00时22分 ~ 02时11分]"
         },
         {
+          "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
+          "url": "https://wallstreetcn.com/articles/3776989",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时59分 ~ 23时43分]"
+        },
+        {
           "title": "美国连续四天袭击伊朗 特朗普威胁升级打击能源设施",
           "url": "https://www.zaochenbao.com/news/politics/202607/1576451.html",
           "source": "联合早报",
@@ -716,17 +764,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时24分 ~ 14时24分]"
-        },
-        {
-          "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
-          "url": "https://wallstreetcn.com/articles/3776989",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时00分]"
         },
         {
           "title": "美国总统特朗普：我认为俄罗斯已准备好很快达成协议。",
@@ -809,7 +846,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
@@ -821,8 +858,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时24分 ~ 22时00分]"
+          "appearance_count": 10,
+          "time_info": "[11时24分 ~ 23时43分]"
         },
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
@@ -928,6 +965,41 @@
           "time_info": "[00时22分 ~ 06时06分]"
         },
         {
+          "title": "美国通胀降温提振美股，存储跌幅扩大，戴尔重挫13%，油价转跌",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2427604",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时59分 ~ 23时43分]"
+        },
+        {
+          "title": "SK海力士美股单日暴涨27%，较韩股溢价超50%！期权上市刺激交投，资金押注短期看涨",
+          "url": "https://wallstreetcn.com/articles/3776944",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时59分 ~ 23时43分]"
+        },
+        {
           "title": "美股异动｜Mesoblast涨近7% 针对慢性下背痛的关键性3期临床试验取得进展",
           "url": "https://www.gelonghui.com/news/5269589",
           "source": "格隆汇",
@@ -950,18 +1022,6 @@
           "time_info": "[21时59分 ~ 22时00分]"
         },
         {
-          "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2427604",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时00分]"
-        },
-        {
           "title": "美股异动丨京东盘前涨2% 多家机构料京东次季Non-GAAP纯利同比增14%",
           "url": "https://www.gelonghui.com/news/5269588",
           "source": "格隆汇",
@@ -971,17 +1031,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时16分 ~ 17时17分]"
-        },
-        {
-          "title": "SK海力士美股单日暴涨27%，较韩股溢价超50%！期权上市刺激交投，资金押注短期看涨",
-          "url": "https://wallstreetcn.com/articles/3776944",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时00分]"
         },
         {
           "title": "美股三大指数高开，阿里巴巴涨超4%，阿斯麦涨近3%",
@@ -1135,11 +1184,12 @@
           "source": "联合早报",
           "ranks": [
             1,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时41分 ~ 22时00分]"
+          "appearance_count": 5,
+          "time_info": "[19时41分 ~ 23时43分]"
         },
         {
           "title": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股",
