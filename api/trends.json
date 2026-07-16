@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-16T11:23:45.144701+08:00",
-  "total_titles_processed": 260,
+  "generated_at": "2026-07-16T14:26:53.428461+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
@@ -43,6 +43,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "特朗普幕僚认为中国违反贸易协议 但不愿采取反制措施",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1676555.html",
+          "source": "联合早报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
         },
         {
           "title": "美国总统特朗普：希望利率下降。",
@@ -89,6 +100,17 @@
           "time_info": "07时04分"
         },
         {
+          "title": "分析：宣布海峡征费后一天内撤销 凸显特朗普进退失据",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1676553.html",
+          "source": "联合早报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
           "title": "美国总统特朗普：油价会波动一段时间。",
           "url": "https://flash.jin10.com/detail/20260716031615355800",
           "source": "金十数据",
@@ -108,8 +130,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时04分 ~ 11时23分]"
+          "appearance_count": 3,
+          "time_info": "[07时04分 ~ 14时26分]"
         },
         {
           "title": "美媒：特朗普周二召开战情室会议讨论大举打击伊朗",
@@ -127,11 +149,24 @@
           "url": "https://www.zaochenbao.com/news/politics/202607/1676544.html",
           "source": "联合早报",
           "ranks": [
-            6
+            6,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 14时26分]"
+        },
+        {
+          "title": "罗伯特·萨特：特朗普的对华融冰政策将在华盛顿碰壁",
+          "url": "https://www.zaochenbao.com/news/opinion/202607/1676533.html",
+          "source": "联合早报",
+          "ranks": [
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 14时26分]"
         },
         {
           "title": "美国总统特朗普：我们将很快采取行动，让退伍军人更容易成为卡车司机。",
@@ -162,7 +197,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -220,17 +255,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
-        },
-        {
-          "title": "罗伯特·萨特：特朗普的对华融冰政策将在华盛顿碰壁",
-          "url": "https://www.zaochenbao.com/news/opinion/202607/1676533.html",
-          "source": "联合早报",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
         },
         {
           "title": "特朗普：纽约州应立即改变数据中心政策",
@@ -313,7 +337,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "【早报】长鑫科技，今日申购；热门中概股普涨；美军再次打击伊朗；原油小幅收涨",
@@ -322,9 +346,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 14时26分]"
+        },
+        {
+          "title": "美军称对伊朗进行了90分钟打击",
+          "url": "https://wallstreetcn.com/articles/3777022",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时25分 ~ 14时26分]"
         },
         {
           "title": "美军7月袭击已致伊朗35人死亡",
@@ -336,18 +372,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
-        },
-        {
-          "title": "美军称对伊朗进行了90分钟打击",
-          "url": "https://wallstreetcn.com/articles/3777022",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 11时23分]"
         },
         {
           "title": "向伊朗特工发送视频 以色列士兵判监五年",
@@ -370,6 +394,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时25分 ~ 07时04分]"
+        },
+        {
+          "title": "美军称击中一艘试图驶向伊朗港口的油轮",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1676541.html",
+          "source": "联合早报",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 14时26分]"
+        },
+        {
+          "title": "观点：海湾地区为何须要与伊朗建立经济联系",
+          "url": "https://www.zaochenbao.com/news/opinion/202607/1676531.html",
+          "source": "联合早报",
+          "ranks": [
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 14时26分]"
         },
         {
           "title": "美国中央司令部：美军于美东时间下午3时（北京时间7月16日凌晨3时）对伊朗发动当天第二轮打击行动。此次行动目标是伊朗用于威胁通过霍尔木兹海峡船只的军事能力。",
@@ -403,17 +451,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
-        },
-        {
-          "title": "美军称击中一艘试图驶向伊朗港口的油轮",
-          "url": "https://www.zaochenbao.com/news/politics/202607/1676541.html",
-          "source": "联合早报",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
         },
         {
           "title": "据伊朗媒体Fars News：伊朗军方在阿巴斯港摧毁一架美国卢卡斯无人机。",
@@ -482,17 +519,6 @@
           "time_info": "03时24分"
         },
         {
-          "title": "观点：海湾地区为何须要与伊朗建立经济联系",
-          "url": "https://www.zaochenbao.com/news/opinion/202607/1676531.html",
-          "source": "联合早报",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
           "title": "伊朗称南部多地遭美军炮击",
           "url": "https://flash.jin10.com/detail/20260716055445668800",
           "source": "金十数据",
@@ -510,7 +536,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -559,6 +585,17 @@
           "time_info": "05时09分"
         },
         {
+          "title": "伊朗称将对等回应基础设施遭袭",
+          "url": "https://flash.jin10.com/detail/20260716141325922800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
           "title": "伊朗一儿童医院附近遭美军袭击",
           "url": "https://flash.jin10.com/detail/20260716050247877800",
           "source": "金十数据",
@@ -573,7 +610,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
@@ -598,6 +635,17 @@
           "time_info": "[05时09分 ~ 07时04分]"
         },
         {
+          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 14时26分]"
+        },
+        {
           "title": "美国通胀降温提振美股，存储跌幅扩大，戴尔重挫13%，油价转跌",
           "url": "https://wallstreetcn.com/articles/3776964",
           "source": "华尔街见闻",
@@ -610,15 +658,27 @@
           "time_info": "[01时25分 ~ 03时24分]"
         },
         {
-          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
-          "url": "https://wallstreetcn.com/articles/3776964",
-          "source": "华尔街见闻",
+          "title": "美股异动丨又见“利好出尽”！台积电Q2净利暴增创纪录，美股夜盘倒戈跳水转跌0.6%",
+          "url": "https://www.gelonghui.com/news/5270101",
+          "source": "格隆汇",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时23分"
+          "time_info": "14时26分"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收涨 中概股集体走强 存储板块逆势暴跌",
+          "url": "https://www.cls.cn/detail/2427818",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时04分 ~ 14时26分]"
         },
         {
           "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
@@ -631,18 +691,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时25分 ~ 11时23分]"
-        },
-        {
-          "title": "美股收盘：三大股指小幅收涨 中概股集体走强 存储板块逆势暴跌",
-          "url": "https://www.cls.cn/detail/2427818",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时04分 ~ 11时23分]"
         },
         {
           "title": "SK海力士美股单日暴涨27%，较韩股溢价超50%！期权上市刺激交投，资金押注短期看涨",
@@ -700,11 +748,12 @@
           "url": "https://www.zaochenbao.com/news/china/202607/1676548.html",
           "source": "联合早报",
           "ranks": [
-            2
+            2,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 14时26分]"
         },
         {
           "title": "DeepSeek新一轮融资规模或达500亿人民币",
@@ -728,11 +777,12 @@
           "url": "https://wallstreetcn.com/articles/3777063",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 14时26分]"
         },
         {
           "title": "巴菲特最新访谈：批评当下市场投机潮 揭秘押注谷歌的逻辑",
@@ -741,9 +791,26 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "瑞银大幅上调瑞声科技(02018.HK)目标价至48港元：看好光模块及存储散热业务，受益OpenAI和苹果AI硬件升级",
+          "url": "https://www.gelonghui.com/news/5270100",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
         }
       ]
     },
