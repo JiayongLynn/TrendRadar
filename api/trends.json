@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-17T20:17:51.551586+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-07-17T22:51:01.381812+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 40,
+      "match_count": 44,
       "titles": [
         {
           "title": "伊媒：伊朗布什尔市传出爆炸声",
@@ -136,6 +136,17 @@
           "time_info": "[00时24分 ~ 04时07分]"
         },
         {
+          "title": "伊朗袭击约旦境内美国飞机 卡塔尔拦截导弹",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1776664.html",
+          "source": "联合早报",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 22时51分]"
+        },
+        {
           "title": "美国政府新规收紧国际学生等入境居留期限 美军连续第五晚打击伊朗 | 环球市场",
           "url": "https://www.cls.cn/detail/2428979",
           "source": "财联社热门",
@@ -145,6 +156,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时14分 ~ 15时24分]"
+        },
+        {
+          "title": "俄罗斯外长拉夫罗夫：如果针对伊朗的军事行动持续，我们将看到其后果蔓延至红海。届时，不仅是石油部门，全球贸易都将面临更糟糕的局面。",
+          "url": "https://flash.jin10.com/detail/20260717220300757800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 22时51分]"
+        },
+        {
+          "title": "俄罗斯外长拉夫罗夫：我们正努力建设一条连接伊朗、阿塞拜疆和俄罗斯的铁路线，以应对现有水道通道的紧张局势。霍尔木兹海峡危机的持续将对船舶航行、国际运输和全球经济产生负面影响。",
+          "url": "https://flash.jin10.com/detail/20260717220241233800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 22时51分]"
+        },
+        {
+          "title": "伊朗桥梁、水厂、粮仓接连被炸，是极限施压还是地面入侵前兆？",
+          "url": "https://flash.jin10.com/detail/20260717220130366800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 22时51分]"
         },
         {
           "title": "白宫：将继续关注伊朗进展。",
@@ -164,7 +208,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -252,7 +296,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -285,7 +329,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -307,7 +351,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -373,7 +417,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -458,7 +502,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "白宫：特朗普今晚（北京时间今早9点）发表讲话时将谈及伊朗问题。",
@@ -494,6 +538,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时24分 ~ 20时17分]"
+        },
+        {
+          "title": "特朗普重炒2020选举争议 指中国窃取2.2亿选民资料",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1776667.html",
+          "source": "联合早报",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 22时51分]"
         },
         {
           "title": "特朗普探讨扩大对伊打击 伊准备封锁红海石油运输通道",
@@ -591,7 +646,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -727,7 +782,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -735,11 +790,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时05分 ~ 20时17分]"
+          "appearance_count": 7,
+          "time_info": "[08时05分 ~ 22时51分]"
         },
         {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
@@ -775,6 +831,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时05分 ~ 15时24分]"
+        },
+        {
+          "title": "美股异动丨奈飞大跌超12%，创2024年8月以来新低，Q3指引逊预期",
+          "url": "https://www.gelonghui.com/news/5271524",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 22时51分]"
+        },
+        {
+          "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 22时51分]"
         },
         {
           "title": "美股期指走低 纳指期货跌1% 芯片股普遍承压 | 今夜看点",
@@ -899,8 +977,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 20时17分]"
+          "appearance_count": 6,
+          "time_info": "[12时14分 ~ 22时51分]"
         }
       ]
     },
