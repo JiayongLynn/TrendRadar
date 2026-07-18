@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-18T19:58:58.639232+08:00",
-  "total_titles_processed": 372,
+  "generated_at": "2026-07-18T21:42:34.253838+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 62,
+      "match_count": 68,
       "titles": [
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗中部城市亚兹德发生五起爆炸。",
@@ -43,6 +43,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时15分 ~ 11时16分]"
+        },
+        {
+          "title": "约旦击落10枚伊朗导弹 未造成伤亡或财产损失",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1876719.html",
+          "source": "联合早报",
+          "ranks": [
+            2,
+            10,
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时53分 ~ 21时42分]"
+        },
+        {
+          "title": "美国军方完成对伊朗第七晚空袭",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1876718.html",
+          "source": "联合早报",
+          "ranks": [
+            3,
+            11,
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时53分 ~ 21时42分]"
+        },
+        {
+          "title": "巴林：防空系统启动 挫败伊朗袭击",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1876741.html",
+          "source": "联合早报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         },
         {
           "title": "美军：伊朗称两艘油轮触雷爆炸说法不实",
@@ -81,6 +120,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "伊朗报复美攻击 科威特第二座发电厂和水厂遇袭",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1876740.html",
+          "source": "联合早报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
           "title": "据伊朗国家电视台：伊朗革命卫队称，两艘油轮在驶经霍尔木兹海峡以南一条布设有水雷的航线后发生爆炸并起火。",
           "url": "https://flash.jin10.com/detail/20260718055951272800",
           "source": "金十数据",
@@ -101,32 +151,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
-        },
-        {
-          "title": "约旦击落10枚伊朗导弹 未造成伤亡或财产损失",
-          "url": "https://www.zaochenbao.com/news/politics/202607/1876719.html",
-          "source": "联合早报",
-          "ranks": [
-            2,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时53分 ~ 19时58分]"
-        },
-        {
-          "title": "美国军方完成对伊朗第七晚空袭",
-          "url": "https://www.zaochenbao.com/news/politics/202607/1876718.html",
-          "source": "联合早报",
-          "ranks": [
-            3,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时53分 ~ 19时58分]"
         },
         {
           "title": "美国官员：伊朗向沙特美军基地发射导弹",
@@ -487,6 +511,17 @@
           "time_info": "00时23分"
         },
         {
+          "title": "卡塔尔外交部：强烈谴责伊朗对约旦、巴林和科威特的反复袭击。此举公然侵犯了受袭国家的主权和领土完整，严重违反了国际法、《联合国宪章》以及睦邻友好原则。",
+          "url": "https://flash.jin10.com/detail/20260718210251434800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗伊斯兰革命卫队表示，针对美国在谢赫伊萨空军基地的战斗机设施进行了打击。",
           "url": "https://flash.jin10.com/detail/20260718130947273800",
           "source": "金十数据",
@@ -504,7 +539,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -520,6 +555,17 @@
           "time_info": "00时23分"
         },
         {
+          "title": "伊朗驻巴基斯坦大使谴责美方曲解伊美谅解备忘录",
+          "url": "https://flash.jin10.com/detail/20260718204219080800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
           "title": "据塔斯尼姆通讯社：伊朗一揽子原油价格已突破每桶80美元。",
           "url": "https://flash.jin10.com/detail/20260718013855394800",
           "source": "金十数据",
@@ -529,6 +575,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
+        },
+        {
+          "title": "伊朗卫生部：自6月27日以来，美国的袭击造成至少50人遇难，500人受伤。",
+          "url": "https://flash.jin10.com/detail/20260718204134957800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         },
         {
           "title": "卡塔尔外交部：伊朗对这些侵略行为及其引发的所有后果和影响负有全部法律责任。",
@@ -559,7 +616,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -595,6 +652,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
+        },
+        {
+          "title": "伊朗副外长：伊朗已停止履行伊美谅解备忘录",
+          "url": "https://flash.jin10.com/detail/20260718203356472800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：知情人士称，伊朗革命卫队在霍尔木兹海峡袭击了一艘船只。",
@@ -636,7 +704,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -721,7 +789,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普重炒2020选举争议 指中国窃取2.2亿选民资料",
@@ -892,15 +960,26 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
+        },
+        {
+          "title": "美媒：一项允许沙特进行铀浓缩的核协议悬而未决，尚待特朗普政府批准",
+          "url": "https://flash.jin10.com/detail/20260718202124153800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
@@ -911,8 +990,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时02分 ~ 19时58分]"
+          "appearance_count": 9,
+          "time_info": "[07时02分 ~ 21时42分]"
         },
         {
           "title": "美股异动丨奈飞大跌超12%，创2024年8月以来新低，Q3指引逊预期",
@@ -924,8 +1003,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 19时58分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 21时42分]"
         },
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -972,6 +1051,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 07时02分]"
+        },
+        {
+          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
+          "url": "https://wallstreetcn.com/articles/3777263",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         },
         {
           "title": "美股芯片股，距熊市仅一步之遥",
@@ -1047,8 +1137,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时15分 ~ 19时58分]"
+          "appearance_count": 8,
+          "time_info": "[11时15分 ~ 21时42分]"
         }
       ]
     },
