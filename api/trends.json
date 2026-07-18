@@ -1,14 +1,25 @@
 {
-  "generated_at": "2026-07-18T07:02:17.258640+08:00",
-  "total_titles_processed": 182,
+  "generated_at": "2026-07-18T11:16:16.039123+08:00",
+  "total_titles_processed": 243,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 36,
       "titles": [
+        {
+          "title": "美国官员：伊朗向沙特美军基地发射导弹",
+          "url": "https://flash.jin10.com/detail/20260718110048188800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
+        },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗中部城市亚兹德发生五起爆炸。",
           "url": "https://flash.jin10.com/detail/20260718052252562800",
@@ -34,6 +45,17 @@
           "time_info": "[06时01分 ~ 07时02分]"
         },
         {
+          "title": "伊朗电力与海水淡化设施遭袭",
+          "url": "https://flash.jin10.com/detail/20260718104201601800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
+        },
+        {
           "title": "据伊朗努尔新闻(Nour News)：当地消息人士称，伊朗阿巴斯港传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260718020238771800",
           "source": "金十数据",
@@ -51,7 +73,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -62,7 +84,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -101,6 +123,17 @@
           "time_info": "[06时01分 ~ 07时02分]"
         },
         {
+          "title": "据约旦通讯社：约旦武装部队表示，拦截了十枚来自伊朗的导弹。",
+          "url": "https://flash.jin10.com/detail/20260718103528310800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
+        },
+        {
           "title": "伊朗革命卫队：如果美国继续打击伊朗目标，伊方将扩大对美国在中东地区相关工业、科技和人工智能资产的攻击。",
           "url": "https://flash.jin10.com/detail/20260718044547376800",
           "source": "金十数据",
@@ -125,6 +158,28 @@
           "time_info": "[06时01分 ~ 07时02分]"
         },
         {
+          "title": "美军：伊朗称两艘油轮触雷爆炸说法不实",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1876698.html",
+          "source": "联合早报",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
+        },
+        {
+          "title": "伊朗革命卫队：两艘油轮在霍尔木兹海峡爆炸起火",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1876696.html",
+          "source": "联合早报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
+        },
+        {
           "title": "伊朗最高领袖军事顾问：美伊谅解备忘录已名存实亡",
           "url": "https://flash.jin10.com/detail/20260718043137914800",
           "source": "金十数据",
@@ -137,6 +192,28 @@
           "time_info": "[06时01分 ~ 07时02分]"
         },
         {
+          "title": "中东美军基地受损情况评估：伊朗打击显著升级，哪座基地遭破坏程度最重？",
+          "url": "https://flash.jin10.com/detail/20260718095446767800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
+        },
+        {
+          "title": "据伊朗媒体报道，霍拉马巴德地区传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260718094942206800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
+        },
+        {
           "title": "据伊朗国家电视台：伊朗南部锡里克响起三声爆炸声。",
           "url": "https://flash.jin10.com/detail/20260718041645298800",
           "source": "金十数据",
@@ -147,6 +224,61 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 07时02分]"
+        },
+        {
+          "title": "美中央司令部：结束连续第七晚对伊朗的打击行动",
+          "url": "https://flash.jin10.com/detail/20260718094142790800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
+        },
+        {
+          "title": "美国军方：美国军方结束了对伊朗连续第七夜的打击。",
+          "url": "https://flash.jin10.com/detail/20260718094009737800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
+        },
+        {
+          "title": "据伊通社（IRNA）：阿拉伯媒体报道称，伊朗导弹成功突破约旦防空系统，声称“爱国者”导弹防御系统未能有效拦截。",
+          "url": "https://flash.jin10.com/detail/20260718085751276800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
+        },
+        {
+          "title": "伊朗军方声称，最新的攻击瞄准了科威特的美国弹药库、桥梁以及约旦的燃料储备。",
+          "url": "https://flash.jin10.com/detail/20260718085336636800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
+        },
+        {
+          "title": "美官方数据显示七月以来美军对伊朗行动受伤人数增加14人",
+          "url": "https://flash.jin10.com/detail/20260718085312777800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
         },
         {
           "title": "LS Power：美国电力市场基本不受伊朗战争推高油价影响",
@@ -284,8 +416,20 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "特朗普重炒2020选举争议 指中国窃取2.2亿选民资料",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1776667.html",
+          "source": "联合早报",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 11时16分]"
+        },
         {
           "title": "特朗普：6月通胀传来“好消息”，美国迎来“黄金时代”",
           "url": "https://flash.jin10.com/detail/20260718034050546800",
@@ -320,17 +464,6 @@
           "time_info": "04时12分"
         },
         {
-          "title": "特朗普重炒2020选举争议 指中国窃取2.2亿选民资料",
-          "url": "https://www.zaochenbao.com/news/politics/202607/1776667.html",
-          "source": "联合早报",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 07时02分]"
-        },
-        {
           "title": "消息人士：特朗普媒体向金融机构推销“Truth API”，三年期优惠价每月6万美元。",
           "url": "https://flash.jin10.com/detail/20260718045100973800",
           "source": "金十数据",
@@ -353,6 +486,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 07时02分]"
+        },
+        {
+          "title": "特朗普扬言就野火烟雾追加加拿大关税",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1876695.html",
+          "source": "联合早报",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
+        },
+        {
+          "title": "特朗普的社交帖文被包装成付费产品，华尔街机构不付费就将“慢人一步”",
+          "url": "https://flash.jin10.com/detail/20260718092759635800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
         },
         {
           "title": "加拿大野火殃及美国，特朗普称要用关税来支付",
@@ -449,26 +604,28 @@
           "time_info": "[00时23分 ~ 06时01分]"
         },
         {
-          "title": "美股异动丨奈飞大跌超12%，创2024年8月以来新低，Q3指引逊预期",
-          "url": "https://www.gelonghui.com/news/5271524",
-          "source": "格隆汇",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 07时02分]"
-        },
-        {
           "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
           "url": "https://www.cls.cn/detail/2430055",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时02分 ~ 11时16分]"
+        },
+        {
+          "title": "美股异动丨奈飞大跌超12%，创2024年8月以来新低，Q3指引逊预期",
+          "url": "https://www.gelonghui.com/news/5271524",
+          "source": "格隆汇",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 11时16分]"
         },
         {
           "title": "金十图示：2026年07月17日（周五）美股热门股票行情一览（美股收盘）",
@@ -508,6 +665,23 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
+          "url": "https://wallstreetcn.com/articles/3777230",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -522,6 +696,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时23分 ~ 07时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国际金价险守4000美元关口 美伊冲突升级双方扩大打击范围 | 环球市场",
+          "url": "https://www.cls.cn/detail/2430073",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
         }
       ]
     },
