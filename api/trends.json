@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-19T14:38:30.419313+08:00",
-  "total_titles_processed": 254,
+  "generated_at": "2026-07-19T17:10:15.308956+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 14时38分]"
+          "appearance_count": 4,
+          "time_info": "[11时36分 ~ 17时10分]"
         },
         {
           "title": "伊朗政府：伊朗外长阿拉格齐与伊拉克外长福阿德·侯赛因就美国对伊朗发动军事袭击后最新地区事态发展、华盛顿多次违反《伊斯兰堡谅解备忘录》的情况，以及伊朗针对相关行动采取的回应进行了讨论。",
@@ -43,6 +43,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时05分 ~ 07时04分]"
+        },
+        {
+          "title": "据巴林国家电视台：巴林防空系统拦截了伊朗的袭击。",
+          "url": "https://flash.jin10.com/detail/20260719164759505800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 17时10分]"
         },
         {
           "title": "伊朗报复美攻击 科威特第二座发电厂和水厂遇袭",
@@ -167,7 +178,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -202,9 +213,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        },
+        {
+          "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
+          "url": "https://www.cls.cn/detail/2430332",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时36分 ~ 17时10分]"
         },
         {
           "title": "伊朗外长阿拉格齐与伊拉克外长福阿德·侯赛因进行电话交谈，讨论中东局势和双边合作。",
@@ -243,6 +266,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时00分 ~ 07时04分]"
+        },
+        {
+          "title": "伊朗停止履行谅解备忘录后 哈梅内伊誓言让美国“领教难忘的教训”",
+          "url": "https://www.cls.cn/detail/2430324",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时36分 ~ 17时10分]"
         },
         {
           "title": "报道称美国对伊朗南部阿巴斯港发动空袭",
@@ -306,28 +341,15 @@
           "time_info": "[03时15分 ~ 05时01分]"
         },
         {
-          "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
-          "url": "https://www.cls.cn/detail/2430332",
-          "source": "财联社热门",
+          "title": "伊朗方面发布约旦一处美国战斗机机库遭毁坏的卫星图像",
+          "url": "https://flash.jin10.com/detail/20260719161015049800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            7
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时36分 ~ 14时38分]"
-        },
-        {
-          "title": "伊朗停止履行谅解备忘录后 哈梅内伊誓言让美国“领教难忘的教训”",
-          "url": "https://www.cls.cn/detail/2430324",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 14时38分]"
+          "time_info": "[17时09分 ~ 17时10分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：美国对伊朗的格什姆岛发动新一轮空袭。 该岛部分地区至少听到两声爆炸。紧急救援、安全及行动小组已赶赴现场，以确定遭袭位置并评估人员伤亡或财产损失情况。",
@@ -380,7 +402,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -413,7 +435,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -512,7 +534,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -545,7 +567,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -589,7 +611,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         }
@@ -599,6 +621,19 @@
       "keyword_group": "特朗普",
       "match_count": 15,
       "titles": [
+        {
+          "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
+          "url": "https://www.cls.cn/detail/2430341",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时36分 ~ 17时10分]"
+        },
         {
           "title": "特朗普：“完全不在乎”伊朗暂停履行临时协议",
           "url": "https://flash.jin10.com/detail/20260719052601155800",
@@ -660,16 +695,16 @@
           "time_info": "[11时36分 ~ 14时38分]"
         },
         {
-          "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
-          "url": "https://www.cls.cn/detail/2430341",
-          "source": "财联社热门",
+          "title": "特朗普称FIFA主席曾建议美中合办世界杯",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1976772.html",
+          "source": "联合早报",
           "ranks": [
-            9,
-            5
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 14时38分]"
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 17时10分]"
         },
         {
           "title": "据黎巴嫩国家通讯社：黎巴嫩总统奥恩已抵达华盛顿，将于明日开始与美国国务卿鲁比奥会面，并于下周二与美国总统特朗普会晤。",
@@ -696,24 +731,13 @@
           "time_info": "[11时36分 ~ 14时38分]"
         },
         {
-          "title": "特朗普称FIFA主席曾建议美中合办世界杯",
-          "url": "https://www.zaochenbao.com/news/politics/202607/1976772.html",
-          "source": "联合早报",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
           "title": "特朗普决策逻辑分析：只想名垂千古，政治成本不再重要",
           "url": "https://flash.jin10.com/detail/20260719130745873800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -787,8 +811,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时05分 ~ 14时38分]"
+          "appearance_count": 10,
+          "time_info": "[01时05分 ~ 17时10分]"
         },
         {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
@@ -824,11 +848,12 @@
           "url": "https://wallstreetcn.com/articles/3777339",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 17时10分]"
         }
       ]
     },
@@ -843,7 +868,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         }
