@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-19T19:15:47.303874+08:00",
-  "total_titles_processed": 354,
+  "generated_at": "2026-07-19T21:42:10.333260+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 58,
+      "match_count": 69,
       "titles": [
         {
           "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时36分 ~ 19时15分]"
+          "appearance_count": 7,
+          "time_info": "[11时36分 ~ 21时42分]"
         },
         {
           "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
@@ -29,11 +29,23 @@
           "ranks": [
             6,
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时36分 ~ 19时15分]"
+          "appearance_count": 7,
+          "time_info": "[11时36分 ~ 21时42分]"
+        },
+        {
+          "title": "巴林科威特拦截伊朗空袭 海湾地区威胁不断",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1976797.html",
+          "source": "联合早报",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 21时42分]"
         },
         {
           "title": "伊朗政府：伊朗外长阿拉格齐与伊拉克外长福阿德·侯赛因就美国对伊朗发动军事袭击后最新地区事态发展、华盛顿多次违反《伊斯兰堡谅解备忘录》的情况，以及伊朗针对相关行动采取的回应进行了讨论。",
@@ -70,6 +82,17 @@
           "time_info": "[17时09分 ~ 17时10分]"
         },
         {
+          "title": "称与美国达成协议是投降 伊朗强硬派指领导层发动政变",
+          "url": "https://www.zaochenbao.com/news/politics/202607/1976795.html",
+          "source": "联合早报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 21时42分]"
+        },
+        {
           "title": "伊朗报复美攻击 科威特第二座发电厂和水厂遇袭",
           "url": "https://www.zaochenbao.com/news/politics/202607/1876740.html",
           "source": "联合早报",
@@ -98,7 +121,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -354,6 +377,28 @@
           "time_info": "[03时15分 ~ 05时01分]"
         },
         {
+          "title": "美国能源部长赖特：无论伊朗是否提供帮助，（美方）都将确保霍尔木兹海峡的石油输送。海峡石油流动的“七天截尾均值”低于700万桶/日。<br/>",
+          "url": "https://flash.jin10.com/detail/20260719211212937800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 21时42分]"
+        },
+        {
+          "title": "约旦武装部队称拦截3枚伊朗发射的导弹",
+          "url": "https://flash.jin10.com/detail/20260719205616524800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 21时42分]"
+        },
+        {
           "title": "伊朗方面发布约旦一处美国战斗机机库遭毁坏的卫星图像",
           "url": "https://flash.jin10.com/detail/20260719161015049800",
           "source": "金十数据",
@@ -363,6 +408,83 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时09分 ~ 17时10分]"
+        },
+        {
+          "title": "约旦军方表示，三枚针对南部城市亚喀巴的伊朗弹道导弹被拦截，第四枚则落在一片空旷地区。",
+          "url": "https://flash.jin10.com/detail/20260719205216938800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 21时42分]"
+        },
+        {
+          "title": "据约旦国家新闻社援引军事官员的消息称，伊朗导弹坠落在约旦后未造成人员伤亡或重大损失。",
+          "url": "https://flash.jin10.com/detail/20260719205141551800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 21时42分]"
+        },
+        {
+          "title": "国际原子能机构：国际原子能机构已就公开报道与伊朗方面进行了联系。",
+          "url": "https://flash.jin10.com/detail/20260719205111724800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 21时42分]"
+        },
+        {
+          "title": "国际原子能机构：国际原子能机构正在调查有关伊朗达尔霍温一处计划中的核电站施工现场遭遇夜间袭击的报告。",
+          "url": "https://flash.jin10.com/detail/20260719205005611800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 21时42分]"
+        },
+        {
+          "title": "据约旦国家电视台：约旦武装部队表示，他们击落了三枚针对该国的伊朗导弹。",
+          "url": "https://flash.jin10.com/detail/20260719204926577800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 21时42分]"
+        },
+        {
+          "title": "据以色列第12频道：美军拦截了一枚朝约旦亚喀巴市发射的伊朗导弹。",
+          "url": "https://flash.jin10.com/detail/20260719204712183800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 21时42分]"
+        },
+        {
+          "title": "以色列埃拉特市政府发言人：不久前，以色列国防军发言人通报称，探测到从伊朗方向向约旦亚喀巴市（靠近以色列领土）发射的导弹。最近几分钟内听到的爆炸声，是约旦境内拦截行动所致。目前，后方司令部的指导方针没有变化，预计国内各地区不会发布警报。该地区所有部队均处于戒备状态并做好了准备，包括正在进行的演习和训练。如果局势评估出现任何进一步变化，我们将及时发布最新消息。",
+          "url": "https://flash.jin10.com/detail/20260719202428143800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 21时42分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：美国对伊朗的格什姆岛发动新一轮空袭。 该岛部分地区至少听到两声爆炸。紧急救援、安全及行动小组已赶赴现场，以确定遭袭位置并评估人员伤亡或财产损失情况。",
@@ -459,7 +581,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -492,7 +614,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -635,7 +757,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -646,7 +768,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -686,11 +808,12 @@
             9,
             5,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时36分 ~ 19时15分]"
+          "appearance_count": 7,
+          "time_info": "[11时36分 ~ 21时42分]"
         },
         {
           "title": "特朗普：“完全不在乎”伊朗暂停履行临时协议",
@@ -911,25 +1034,26 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时38分 ~ 19时15分]"
+          "appearance_count": 6,
+          "time_info": "[14时38分 ~ 21时42分]"
         },
         {
           "title": "DeepSeek V4满血版据报最快7月20日推出",
           "url": "https://www.zaochenbao.com/news/china/202607/1976788.html",
           "source": "联合早报",
           "ranks": [
-            1
+            1,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 21时42分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
@@ -937,11 +1061,23 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时38分 ~ 21时42分]"
+        },
+        {
+          "title": "金十数据整理：下周重要事件与数据预告——欧央行利率决议，谷歌、英特尔、特斯拉等科技股财报密集来袭",
+          "url": "https://flash.jin10.com/detail/20260719211602664800",
+          "source": "金十数据",
+          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时38分 ~ 19时15分]"
+          "time_info": "[21时41分 ~ 21时42分]"
         }
       ]
     },
