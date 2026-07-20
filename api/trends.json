@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-20T12:42:46.576243+08:00",
-  "total_titles_processed": 255,
+  "generated_at": "2026-07-20T16:13:37.465111+08:00",
+  "total_titles_processed": 321,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 41,
       "titles": [
         {
           "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
@@ -234,6 +234,17 @@
           "time_info": "[03时17分 ~ 05时02分]"
         },
         {
+          "title": "伊朗西部发生5.2级地震",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2076837.html",
+          "source": "联合早报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
+        },
+        {
           "title": "一名美军人员在伊拉克执行涉伊朗任务时死亡",
           "url": "https://flash.jin10.com/detail/20260720045743667800",
           "source": "金十数据",
@@ -245,6 +256,17 @@
           "time_info": "06时05分"
         },
         {
+          "title": "美军称完成对伊朗新一轮打击行动",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2076836.html",
+          "source": "联合早报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
+        },
+        {
           "title": "据伊通社（IRNA）：伊朗中央省副省长哈桑·加马里表示，几分钟前在伊朗中部城市阿拉克（Arak）听到的爆炸声与“进攻性行动”有关，无需担心。此外，社交媒体流传出伊朗发射导弹的视频。",
           "url": "https://flash.jin10.com/detail/20260720045626344800",
           "source": "金十数据",
@@ -254,6 +276,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
+        },
+        {
+          "title": "据伊朗劳工通讯社：伊朗霍尔木兹甘省革命卫队表示，今天12:00至16:00，贾斯克港区将进行未爆弹药的受控销毁作业，因此该地区可能会听到爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260720155943018800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
         },
         {
           "title": "美国官员：美国计划升级对伊朗的战争 但可能受到多重制约",
@@ -273,9 +306,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "消息人士称，伊朗内政部长所携带的佩泽希齐扬总统信函涉及谈判文件（或谈判议题）。",
+          "url": "https://flash.jin10.com/detail/20260720155810012800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
         },
         {
           "title": "美军连续第九晚对伊朗发动空袭",
@@ -284,9 +328,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "伊朗外交部确认收到调解方提议 但未透露详情",
+          "url": "https://flash.jin10.com/detail/20260720155511610800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
         },
         {
           "title": "以军总参谋长：做好对伊朗恢复战斗准备",
@@ -295,7 +350,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -309,6 +364,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "伊朗外交部发言人：此前报道称获释出狱的伊朗裔美国公民既不是囚犯，也未面临间谍指控。",
+          "url": "https://flash.jin10.com/detail/20260720155123067800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗称，阿巴丹发生的爆炸与伊朗军方行动有关，并非美国发动的袭击。",
@@ -339,7 +405,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -366,13 +432,24 @@
           "time_info": "01时07分"
         },
         {
+          "title": "伊朗外交部发言人：伊朗在霍尔木兹海峡的主权权利不可谈判。",
+          "url": "https://flash.jin10.com/detail/20260720154605074800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
+        },
+        {
           "title": "据伊朗伊斯兰共和国通讯社：伊朗胡齐斯坦省安全与治安副省长报告称，今天凌晨，伊玛目霍梅尼港郊外的一处地点遭到了导弹袭击。",
           "url": "https://flash.jin10.com/detail/20260720113812832800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -394,7 +471,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         }
@@ -402,7 +479,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
@@ -430,17 +507,6 @@
           "time_info": "[03时17分 ~ 06时05分]"
         },
         {
-          "title": "特朗普：美国将“狠打”伊朗以祭阵亡美军",
-          "url": "https://www.zaochenbao.com/news/politics/202607/2076825.html",
-          "source": "联合早报",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
           "title": "据福克斯新闻：白宫确认特朗普将向今天阿根廷与西班牙的世界杯决赛获胜者颁发冠军奖杯。",
           "url": "https://flash.jin10.com/detail/20260720022026593800",
           "source": "金十数据",
@@ -452,6 +518,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时17分 ~ 06时05分]"
+        },
+        {
+          "title": "特朗普：已促加拿大总理要更好地控制林火",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2076839.html",
+          "source": "联合早报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
+        },
+        {
+          "title": "特朗普：美国将“狠打”伊朗以祭阵亡美军",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2076825.html",
+          "source": "联合早报",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 16时13分]"
         },
         {
           "title": "以媒：特朗普倾向进一步升级对伊行动",
@@ -502,6 +591,46 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+          "url": "https://wallstreetcn.com/articles/3777171",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 06时05分]"
+        },
+        {
+          "title": "本周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+          "url": "https://wallstreetcn.com/articles/3777171",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 16时13分]"
+        },
+        {
+          "title": "AI投资热下裁员不断 谷歌员工联署保饭碗",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2076838.html",
+          "source": "联合早报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -531,35 +660,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
-          "url": "https://wallstreetcn.com/articles/3777171",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 06时05分]"
-        },
-        {
-          "title": "本周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
-          "url": "https://wallstreetcn.com/articles/3777171",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 12时42分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 1,
       "titles": [
@@ -568,11 +668,12 @@
           "url": "https://www.cls.cn/detail/2430704",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 16时13分]"
         }
       ]
     }
