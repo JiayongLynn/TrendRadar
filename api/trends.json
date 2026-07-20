@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-20T19:53:43.197490+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-07-20T22:25:21.746194+08:00",
+  "total_titles_processed": 450,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 44,
+      "match_count": 48,
       "titles": [
         {
           "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
@@ -79,6 +79,17 @@
           "time_info": "08时04分"
         },
         {
+          "title": "伊朗总统：与美国处于全面战争状态 德黑兰应接受抵抗的必然结果",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2076865.html",
+          "source": "联合早报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "据沙特阿拉比亚电视台：伊朗媒体称伊朗马尔卡齐省（中央省）南部德利詹市发生爆炸，伊朗西部的阿拉克发生爆炸。",
           "url": "https://flash.jin10.com/detail/20260720044514567800",
           "source": "金十数据",
@@ -89,6 +100,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时01分 ~ 06时05分]"
+        },
+        {
+          "title": "伊朗战事推高能源成本 全球清洁能源需求升温",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2076864.html",
+          "source": "联合早报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "据伊通社（IRNA）：伊朗革命卫队发布了显示约旦境内的F-15和F-16机库遭摧毁的画面。据革命卫队公共关系部门称，这些图像显示相关设施遭受了广泛破坏。",
@@ -269,6 +291,17 @@
           "time_info": "06时05分"
         },
         {
+          "title": "据伊朗媒体报道，伊朗内政部长于今日率团访问巴基斯坦。访问期间，双方将在会谈和联席会议中讨论并交流有关发展双边关系的问题，包括加强边境合作、扩大两国在经济、过境和农业领域的合作等事宜。",
+          "url": "https://flash.jin10.com/detail/20260720220345698800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "据伊通社（IRNA）：伊朗中央省副省长哈桑·加马里表示，几分钟前在伊朗中部城市阿拉克（Arak）听到的爆炸声与“进攻性行动”有关，无需担心。此外，社交媒体流传出伊朗发射导弹的视频。",
           "url": "https://flash.jin10.com/detail/20260720045626344800",
           "source": "金十数据",
@@ -363,7 +396,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -429,9 +462,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
+        },
+        {
+          "title": "阿联酋强烈谴责伊朗对巴林和科威特的再次敌对攻击。",
+          "url": "https://flash.jin10.com/detail/20260720215834302800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗方面称，数小时前一枚美国发射的巡航导弹在伊朗西部地区遭防空系统成功拦截和击中，导弹已被摧毁。",
@@ -451,7 +495,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -514,7 +558,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
@@ -573,11 +617,12 @@
           "source": "联合早报",
           "ranks": [
             5,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时13分 ~ 19时53分]"
+          "appearance_count": 3,
+          "time_info": "[16时13分 ~ 22时25分]"
         },
         {
           "title": "以媒：特朗普倾向进一步升级对伊行动",
@@ -604,6 +649,17 @@
           "time_info": "[03时17分 ~ 05时02分]"
         },
         {
+          "title": "美媒：美国增派战机赴中东 特朗普权衡扩大对伊军事行动",
+          "url": "https://flash.jin10.com/detail/20260720220524435800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "两天三名美军死亡！美伊冲突失控风险骤升，特朗普迎来关键考验",
           "url": "https://flash.jin10.com/detail/20260720065512528800",
           "source": "金十数据",
@@ -615,6 +671,17 @@
           "time_info": "08时04分"
         },
         {
+          "title": "墨西哥总统辛鲍姆：在世界杯上与美国总统特朗普、加拿大总理卡尼简短交谈。",
+          "url": "https://flash.jin10.com/detail/20260720215422935800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "美国总统特朗普将大力神杯颁给西班牙队。",
           "url": "https://flash.jin10.com/detail/20260720064454811800",
           "source": "金十数据",
@@ -624,6 +691,90 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "芯片股抛售暂歇，美股高开，存储芯片股普涨，SK海力士涨4%，油价转跌",
+          "url": "https://wallstreetcn.com/articles/3777383",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "芯片股抛售暂歇，美股期指齐涨，存储股盘前走高，SK海力士涨5%，油价回吐涨幅",
+          "url": "https://wallstreetcn.com/articles/3777383",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
+          "title": "美股异动丨台积电美国大扩产，盘初股价拉升近3%",
+          "url": "https://www.gelonghui.com/news/5272372",
+          "source": "格隆汇",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "7月20日投资避雷针：上周五美股三大指数集体收跌 费城半导体指数进入技术性熊市",
+          "url": "https://www.cls.cn/detail/2430704",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 16时13分]"
+        },
+        {
+          "title": "美股三大股指期货走高，纳斯达克100指数期货涨超1%，标普500指数期货涨0.57%，道指期货涨0.43%。",
+          "url": "https://flash.jin10.com/detail/20260720193452727800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
+          "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2431734",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "美股高位拉锯战背后空头押注飙至历史新高，AI投资将换玩法？",
+          "url": "https://flash.jin10.com/detail/20260720215916403800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         }
       ]
     },
@@ -665,46 +816,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时13分 ~ 19时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "芯片股抛售暂歇，美股期指齐涨，存储股盘前走高，SK海力士涨5%，油价回吐涨幅",
-          "url": "https://wallstreetcn.com/articles/3777383",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "7月20日投资避雷针：上周五美股三大指数集体收跌 费城半导体指数进入技术性熊市",
-          "url": "https://www.cls.cn/detail/2430704",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 16时13分]"
-        },
-        {
-          "title": "美股三大股指期货走高，纳斯达克100指数期货涨超1%，标普500指数期货涨0.57%，道指期货涨0.43%。",
-          "url": "https://flash.jin10.com/detail/20260720193452727800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
         }
       ]
     },
