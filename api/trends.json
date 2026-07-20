@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-20T06:05:38.884998+08:00",
-  "total_titles_processed": 135,
+  "generated_at": "2026-07-20T08:04:41.652659+08:00",
+  "total_titles_processed": 176,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
@@ -17,19 +17,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 06时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 08时04分]"
         },
         {
           "title": "巴林科威特拦截伊朗空袭 海湾地区威胁不断",
           "url": "https://www.zaochenbao.com/news/politics/202607/1976797.html",
           "source": "联合早报",
           "ranks": [
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 06时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 08时04分]"
         },
         {
           "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
@@ -39,19 +40,42 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 06时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 08时04分]"
         },
         {
           "title": "称与美国达成协议是投降 伊朗强硬派指领导层发动政变",
           "url": "https://www.zaochenbao.com/news/politics/202607/1976795.html",
           "source": "联合早报",
           "ranks": [
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 06时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 08时04分]"
+        },
+        {
+          "title": "伊朗塔斯尼姆通讯社：伊朗西南部的马赫沙赫尔港（Bandar Mahshahr）和伊玛目霍梅尼港（Bandar Imam Khomeini）传出了数声爆炸巨响。",
+          "url": "https://flash.jin10.com/detail/20260720073447211800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "据伊朗Press TV：有消息指美国对伊朗城市大不里士发动了打击。",
+          "url": "https://flash.jin10.com/detail/20260720072937572800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "据沙特阿拉比亚电视台：伊朗媒体称伊朗马尔卡齐省（中央省）南部德利詹市发生爆炸，伊朗西部的阿拉克发生爆炸。",
@@ -76,6 +100,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时01分 ~ 06时05分]"
+        },
+        {
+          "title": "美军连续第九晚打击伊朗",
+          "url": "https://flash.jin10.com/detail/20260720071722833800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "伊朗副外长：美方针对在建的达尔赫温（Darkhwin）发电厂发起的袭击，是对伊朗和平基础设施的危险攻击；美方须对局势升级、不安全与不稳定加剧所引发的后果承担全部责任。伊朗在强烈谴责这一侵略行径的同时，将采取适当行动捍卫国家利益与安全。",
@@ -204,7 +239,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         },
@@ -215,7 +250,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         },
@@ -226,7 +261,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         },
@@ -300,18 +335,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
           "url": "https://www.cls.cn/detail/2430341",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 06时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 08时04分]"
         },
         {
           "title": "特朗普：美国将立即再次申办世界杯 决赛看好阿根廷",
@@ -362,6 +398,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时17分 ~ 05时02分]"
+        },
+        {
+          "title": "两天三名美军死亡！美伊冲突失控风险骤升，特朗普迎来关键考验",
+          "url": "https://flash.jin10.com/detail/20260720065512528800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "美国总统特朗普将大力神杯颁给西班牙队。",
+          "url": "https://flash.jin10.com/detail/20260720064454811800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         }
       ]
     },
@@ -377,25 +435,26 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 06时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 08时04分]"
         },
         {
           "title": "DeepSeek V4满血版据报最快7月20日推出",
           "url": "https://www.zaochenbao.com/news/china/202607/1976788.html",
           "source": "联合早报",
           "ranks": [
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 06时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 08时04分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
@@ -407,6 +466,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时07分 ~ 06时05分]"
+        },
+        {
+          "title": "本周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+          "url": "https://wallstreetcn.com/articles/3777171",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         }
       ]
     }
