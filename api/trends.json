@@ -1,997 +1,68 @@
 {
-  "generated_at": "2026-07-21T23:11:29.797940+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2026-07-22T01:38:07.566686+08:00",
+  "total_titles_processed": 93,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 48,
+      "match_count": 5,
       "titles": [
         {
-          "title": "冲突重燃威胁经济 伊朗货币汇率暴跌",
-          "url": "https://www.zaochenbao.com/news/politics/202607/2076868.html",
-          "source": "联合早报",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 08时04分]"
-        },
-        {
-          "title": "伊朗总统：与美国处于全面战争状态 德黑兰应接受抵抗的必然结果",
-          "url": "https://www.zaochenbao.com/news/politics/202607/2076865.html",
-          "source": "联合早报",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 08时04分]"
-        },
-        {
-          "title": "伊媒：伊朗南部两省传出爆炸声",
-          "url": "https://flash.jin10.com/detail/20260721003143439800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
-          "title": "据约旦国家电视台：约旦武装部队拦截了从伊朗发射的三枚导弹，目前暂无人员伤亡或财产损失报告。",
-          "url": "https://flash.jin10.com/detail/20260721023211118800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "据伊朗Press TV：伊朗革命卫队打击了科威特贾比尔基地的美军雷达。",
-          "url": "https://flash.jin10.com/detail/20260721224818568800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "伊朗官员：伊朗中部霍梅尼市郊一处工业设施遭袭，未造成人员伤亡，潜在损失规模仍在评估中。",
-          "url": "https://flash.jin10.com/detail/20260721002652582800",
+          "title": "美国众议院议长约翰逊：必须结束伊朗战争。",
+          "url": "https://flash.jin10.com/detail/20260722011628598800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
-          "title": "据约旦国家通讯社：约旦已击落五架伊朗无人机。",
-          "url": "https://flash.jin10.com/detail/20260721153436290800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
-          "title": "据伊通社（IRNA）：伊朗伊斯法罕省副省长表示，今晚该省未发生爆炸。",
-          "url": "https://flash.jin10.com/detail/20260721054624994800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "科威特外交部：科威特已就伊朗周一在霍尔木兹海峡袭击科威特油轮“KAIFAN”号一事召见伊朗大使，提出抗议。",
-          "url": "https://flash.jin10.com/detail/20260721224247956800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：位于科威特、驻有美军的阿里·萨利姆（Ali Salem）空军基地遭到了袭击。",
-          "url": "https://flash.jin10.com/detail/20260721053811429800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "伊朗战事推高能源成本 全球清洁能源需求升温",
-          "url": "https://www.zaochenbao.com/news/politics/202607/2076864.html",
-          "source": "联合早报",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 08时04分]"
-        },
-        {
-          "title": "据华尔街日报：伊朗导弹袭击约旦基地美军营房。",
-          "url": "https://flash.jin10.com/detail/20260721022339424800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "原油短线下挫！报道称调停方提议美伊停火10天，伊朗称收到提议未透露细节",
-          "url": "https://wallstreetcn.com/articles/3777457",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时04分 ~ 20时28分]"
-        },
-        {
-          "title": "美匿名官员指五角大楼隐瞒美军在伊朗战争受伤人数",
-          "url": "https://www.zaochenbao.com/news/politics/202607/2176918.html",
-          "source": "联合早报",
-          "ranks": [
-            1,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时38分 ~ 20时28分]"
-        },
-        {
-          "title": "伊朗称打击巴林和科威特境内多处美军目标",
-          "url": "https://www.zaochenbao.com/news/politics/202607/2176917.html",
-          "source": "联合早报",
-          "ranks": [
-            2,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时38分 ~ 20时28分]"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：伊朗布什尔核电站附近传来防空系统启动的声音。",
-          "url": "https://flash.jin10.com/detail/20260721042636328800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时37分 ~ 06时08分]"
+          "time_info": "[01时37分 ~ 01时38分]"
         },
         {
-          "title": "美伊互击无消停迹象 伊朗称“全面战争”恢复",
-          "url": "https://www.zaochenbao.com/news/politics/202607/2176877.html",
-          "source": "联合早报",
-          "ranks": [
-            1,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 12时21分]"
-        },
-        {
-          "title": "美官员：本月伊朗袭击已致近100名美军人员受伤",
-          "url": "https://flash.jin10.com/detail/20260721042444342800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时37分 ~ 06时08分]"
-        },
-        {
-          "title": "据伊朗国家电视台：伊朗阿巴斯港传出爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260721042443802800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时37分 ~ 06时08分]"
-        },
-        {
-          "title": "美国中央司令部：美东时间周一下午4时，美军对伊朗发动新一轮打击。此次行动旨在进一步削弱伊朗用于攻击霍尔木兹海峡商业船只的军事能力。",
-          "url": "https://flash.jin10.com/detail/20260721041724576800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时37分 ~ 06时08分]"
-        },
-        {
-          "title": "一油化船在霍尔木兹海峡附近遭袭 美军称对伊朗发动新一轮打击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2431950",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 15时38分]"
-        },
-        {
-          "title": "美国中央司令部：截至7月20日，美军已迫使7艘商船改道，并使1艘商船失去行动能力，以阻止船只进出伊朗港口。",
-          "url": "https://flash.jin10.com/detail/20260721001012625800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：以色列媒体报道称，位于以色列南部的港口城市埃拉特（Eilat）传出爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260721020613232800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "科威特军方表示，防空系统目前正在拦截伊朗的导弹和无人机。",
-          "url": "https://flash.jin10.com/detail/20260721052530774800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐会见伊朗驻意大利、法国和英国大使，就双边关系及相关议题进行讨论。",
-          "url": "https://flash.jin10.com/detail/20260721000223282800",
+          "title": "据塔斯尼姆通讯社：伊朗军方称，在伊朗西北部击落一架单向攻击无人机。",
+          "url": "https://flash.jin10.com/detail/20260722010410911800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 01时38分]"
         },
         {
-          "title": "据伊朗塔斯尼姆通讯社：约旦传出爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260721020250258800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "伊朗迈赫尔通讯社：伊朗中部伊斯法罕传出爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260721051715347800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "伊朗驻法国大使馆：（关于霍尔木兹海峡）美国持续施压和发出威胁无助于保障航运安全，与伊朗在相互尊重基础上开展接触，才是实现地区稳定的途径。",
-          "url": "https://flash.jin10.com/detail/20260721015842673800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "据耶路撒冷邮报：伊朗高级军事顾问雅赫亚·拉希姆·萨法维表示，伊朗官员已与土耳其和阿塞拜疆官员进行会谈，警告他们不要参与对伊朗的攻击。",
-          "url": "https://flash.jin10.com/detail/20260721175418043800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "美官员：伊朗上周击中约旦基地美军营房",
-          "url": "https://www.zaochenbao.com/news/politics/202607/2176892.html",
-          "source": "联合早报",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：伊朗南部锡里克传出数次爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260720235406146800",
+          "title": "伊朗警告保加利亚勿为美军提供便利",
+          "url": "https://flash.jin10.com/detail/20260722005010964800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 01时38分]"
         },
         {
-          "title": "据以色列i24News：以色列安全消息人士称，美国正准备在未来几天对伊朗展开下一阶段军事行动。",
-          "url": "https://flash.jin10.com/detail/20260721014923007800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "金十整理：伊朗在海湾地区打击了哪些民用基础设施？",
-          "url": "https://flash.jin10.com/detail/20260721152335768800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：科威特北部发生剧烈爆炸。",
-          "url": "https://flash.jin10.com/detail/20260721175157274800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "以色列财长：以色列无意加入美国对伊朗的战争",
-          "url": "https://flash.jin10.com/detail/20260721195544413800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时28分"
-        },
-        {
-          "title": "伊朗革命卫队：伊朗部队在约旦鲁克班地区袭击了一处驻有美军的营地，造成数名美军人员死亡。",
-          "url": "https://flash.jin10.com/detail/20260721175127461800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "伊朗内政部长：我们赞赏巴基斯坦为签署谅解备忘录所做的努力。",
-          "url": "https://flash.jin10.com/detail/20260721222147051800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "险资百亿资金支持A股，伊朗称收到停火提议| Plus日报",
-          "url": "https://flash.jin10.com/detail/20260720234905741800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：在伊朗对美国目标发动导弹袭击后，约旦各机场已暂停所有航班。",
-          "url": "https://flash.jin10.com/detail/20260721195314019800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时28分"
-        },
-        {
-          "title": "据伊朗媒体Fars News：伊朗锡里克附近传出爆炸声，原因不明。",
-          "url": "https://flash.jin10.com/detail/20260721035212416800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "据伊通社（IRNA）：伊朗恰巴哈尔和科纳拉克地区传出爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260721044511474800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "据伊通社（IRNA）：伊朗布什尔省省长表示，当地防空系统已启动，以应对敌对飞行器威胁。截至目前，布什尔地区尚未发生任何袭击命中事件。",
-          "url": "https://flash.jin10.com/detail/20260721043939359800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐祝贺哈马斯新领导人哈利勒·哈亚当选，重申伊朗将继续支持巴勒斯坦相关行动。",
-          "url": "https://flash.jin10.com/detail/20260721012416623800",
+          "title": "伊朗外长阿拉格齐与法国外长巴罗通话，伊朗外长阿拉格齐指责法国外交官在德黑兰行为不可接受，并称霍尔木兹海峡局势升级责任在美国。",
+          "url": "https://flash.jin10.com/detail/20260722002835074800",
           "source": "金十数据",
           "ranks": [
             20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "巴基斯坦总理：（对伊朗内政部长表示）我们对近期地区局势升级感到担忧，各方应保持克制。",
-          "url": "https://flash.jin10.com/detail/20260721221530413800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "伊朗内政部长访巴基斯坦 推进经贸合作并讨论地区局势",
-          "url": "https://flash.jin10.com/detail/20260721033922832800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "据伊通社（IRNA）：伊朗内政部长抵达巴基斯坦首都伊斯兰堡。",
-          "url": "https://flash.jin10.com/detail/20260720233247180800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
-          "title": "据伊朗学生通讯社：伊朗内政部长在伊斯兰堡的第二次工作会谈中，会见了巴基斯坦总理夏巴兹·谢里夫。在首轮工作会谈中，伊朗内政部长会见了巴基斯坦陆军参谋长兼国防部队司令阿西姆·穆尼尔元帅。",
-          "url": "https://flash.jin10.com/detail/20260721193755482800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时28分"
-        },
-        {
-          "title": "伊朗军方表示，已对巴林谢赫伊萨空军基地的美军人员住宿点实施打击。",
-          "url": "https://flash.jin10.com/detail/20260721150702313800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
-          "url": "https://wallstreetcn.com/articles/3777383",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时04分 ~ 23时11分]"
-        },
-        {
-          "title": "芯片股抛售暂歇，美股高开，存储芯片股普涨，SK海力士涨4%，油价转跌",
-          "url": "https://wallstreetcn.com/articles/3777383",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 04时37分]"
-        },
-        {
-          "title": "【早报】美股光通信、存储板块全线走强，中概股多数上涨；油价上行、黄金微跌；三环集团、三花智控、东山精密等计划回购股份",
-          "url": "https://www.cls.cn/detail/2431956",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时04分 ~ 15时38分]"
-        },
-        {
-          "title": "中东局势与财报季双重压力下，美股高开走低，芯片股抛售暂歇，中概收涨，油价过山车",
-          "url": "https://wallstreetcn.com/articles/3777383",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "全球科技股反弹！美股盘初走高，存储芯片股普涨，闪迪涨9%，布油重回90美元上方，现货白银涨4%",
-          "url": "https://wallstreetcn.com/articles/3777518",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "美股收盘：高开低走三大指数齐收跌 光通信、存储概念整体反弹",
-          "url": "https://www.cls.cn/detail/2431934",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时04分 ~ 15时38分]"
-        },
-        {
-          "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2431734",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 08时04分]"
-        },
-        {
-          "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2433005",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "美股异动丨SK海力士ADR盘初冲高回落，一度涨超5%后回吐涨幅",
-          "url": "https://www.gelonghui.com/news/5272402",
-          "source": "格隆汇",
-          "ranks": [
-            9,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 08时04分]"
-        },
-        {
-          "title": "美股异动丨新一轮涨价潮来袭？苹果成本承压，股价跌超2%",
-          "url": "https://www.gelonghui.com/news/5272397",
-          "source": "格隆汇",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 06时08分]"
-        },
-        {
-          "title": "美股股指期货走强，纳指期货涨超1%，道指期货涨0.27%，标普500指数期货涨0.4%。",
-          "url": "https://flash.jin10.com/detail/20260721115127423800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "全球科技股反弹！美股盘前闪迪涨超7%，布油重回90美元上方，现货白银涨超4%",
-          "url": "https://wallstreetcn.com/articles/3777518",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时28分"
-        },
-        {
-          "title": "美股异动丨特斯拉涨3.7%，第二季度业绩明日盘后放榜",
-          "url": "https://www.gelonghui.com/news/5273062",
-          "source": "格隆汇",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "美股回调背后暗藏激烈博弈：空头押注水平创纪录",
-          "url": "https://www.cls.cn/detail/2431824",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "美股异动｜比特币升破66000美元，加密货币概念股走强",
-          "url": "https://www.gelonghui.com/news/5273060",
-          "source": "格隆汇",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "金十图示：2026年07月20日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260721040540843800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "金十图示：2026年07月20日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260721040538600800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "美股收盘：三大股指收跌 阿里巴巴涨4.6%",
-          "url": "https://flash.jin10.com/detail/20260721040127333800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "礼来(LLY.N)美股盘前小幅走低，现跌0.58%。",
-          "url": "https://flash.jin10.com/detail/20260721193857975800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "纽约要抓内塔尼亚胡？特朗普紧急“护航”：他在美国“绝不会被逮捕”",
-          "url": "https://flash.jin10.com/detail/20260721075918880800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "特朗普收紧美国防业者采购中国关键矿产条例",
-          "url": "https://www.zaochenbao.com/news/politics/202607/2176960.html",
-          "source": "联合早报",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "特朗普：内坦亚胡不会在美国被逮捕",
-          "url": "https://www.zaochenbao.com/news/politics/202607/2176915.html",
-          "source": "联合早报",
-          "ranks": [
-            4,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时38分 ~ 20时28分]"
-        },
-        {
-          "title": "不受特朗普指中国干预大选影响 鲁比奥：习近平9月仍按计划访美",
-          "url": "https://www.zaochenbao.com/news/politics/202607/2176876.html",
-          "source": "联合早报",
-          "ranks": [
-            2,
-            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时04分 ~ 12时21分]"
+          "time_info": "[01时37分 ~ 01时38分]"
         },
         {
-          "title": "美伊对峙愈演愈烈？美军伤亡与日俱增，特朗普扬言要伊朗付数倍代价！",
-          "url": "https://www.cls.cn/detail/2431976",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 15时38分]"
-        },
-        {
-          "title": "美伊战局逼近十字路口！特朗普考虑恢复全面战争，10天停火方案能否救市场？",
-          "url": "https://flash.jin10.com/detail/20260721114954063800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "美国总统特朗普：加拿大对从美国进口的汽车征收特定关税并实施配额限制，但未对其他国家采取此类措施。",
-          "url": "https://flash.jin10.com/detail/20260721051526286800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "特朗普暗示美军将对伊朗发动强硬报复：每杀害一名美国士兵将付出数倍代价",
-          "url": "https://wallstreetcn.com/articles/3777496",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "纽约市长称研究逮捕内塔尼亚胡，特朗普回应：绝不会发生",
-          "url": "https://flash.jin10.com/detail/20260721040706607800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "美军发动新打击 特朗普誓言为阵亡美军对伊朗加倍奉还",
-          "url": "https://www.zaochenbao.com/news/politics/202607/2176891.html",
-          "source": "联合早报",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "特朗普下令审查国防供应链 保障关键环节战时保障",
-          "url": "https://flash.jin10.com/detail/20260721040321137800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "特朗普向共和党施压：本周必须投票支持预算决议",
-          "url": "https://flash.jin10.com/detail/20260720234326387800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
-          "title": "美国总统特朗普：敦促众议院共和党本周投票支持预算法案。",
-          "url": "https://flash.jin10.com/detail/20260720234012581800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
-          "title": "消息人士：各方正展开外交努力，试图劝告特朗普政府不要切断与联合国难民署的联系。",
-          "url": "https://flash.jin10.com/detail/20260721073150077800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "白宫：特朗普签署公告，授权商务部长制定激励计划，鼓励企业投资铝冶炼厂。",
-          "url": "https://flash.jin10.com/detail/20260721034723509800",
+          "title": "巴基斯坦政府：巴基斯坦总理会见伊朗内政部长，伊朗内政部长肯定了巴基斯坦方面为促成伊斯兰堡谅解备忘录作出的努力。",
+          "url": "https://flash.jin10.com/detail/20260722002000799800",
           "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "特朗普放狠话：伊朗杀一名美军将付出“很多倍代价”！美军连续第10天轰炸",
-          "url": "https://flash.jin10.com/detail/20260721073043061800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "白宫：特朗普采取进一步措施，调整美国铝进口政策。",
-          "url": "https://flash.jin10.com/detail/20260721034603088800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "特朗普行政令规定，若国防承包商未能替换存在风险的外国供应商，可能面临失去合同的后果。该行政令要求承包商优先用尽采购国内产品的选择，并绘制武器系统关键矿产及零部件供应链图谱。",
-          "url": "https://flash.jin10.com/detail/20260721034306028800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "特朗普签署行政令，收紧国防承包商获取禁用外国关键矿产和材料豁免的条件。",
-          "url": "https://flash.jin10.com/detail/20260721034107530800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 01时38分]"
         }
       ]
     },
@@ -1000,51 +71,126 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
-          "url": "https://www.cls.cn/detail/2431896",
+          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
+          "url": "https://wallstreetcn.com/articles/3777467",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 01时38分]"
+        },
+        {
+          "title": "谷歌发布一系列更低成本的Gemini模型",
+          "url": "https://flash.jin10.com/detail/20260722004534436800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 01时38分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：自7月21日起，使用超过6个月的Google Ads账户将不再提供针对部分政策决定的申诉选项。",
+          "url": "https://flash.jin10.com/detail/20260722002853814800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 01时38分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：Gemini 3.6 Flash具备快速理解上下文能力，可帮助用户打造专属创意工具。",
+          "url": "https://flash.jin10.com/detail/20260722000525610800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 01时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "全球科技股反弹！纳指涨2%，美股存储芯片指数涨超10%，布油重回90美元上方",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 01时38分]"
+        },
+        {
+          "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
+          "url": "https://wallstreetcn.com/articles/3777383",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 01时38分]"
+        },
+        {
+          "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2433005",
           "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时21分 ~ 15时38分]"
-        },
+          "time_info": "[01时37分 ~ 01时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 3,
+      "titles": [
         {
-          "title": "贝莱德(BLK.N)、Carhartt、福特汽车(F.N)、谷歌(GOOG.O)联合推出新联盟，旨在扩大技能劳动力培训。",
-          "url": "https://flash.jin10.com/detail/20260721180223434800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
-          "url": "https://wallstreetcn.com/articles/3777467",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时21分 ~ 23时11分]"
-        },
-        {
-          "title": "欧盟出手重塑手机AI市场 谷歌苹果以隐私风险反对",
-          "url": "https://www.zaochenbao.com/news/politics/202607/2176914.html",
+          "title": "特朗普收紧美国防业者采购中国关键矿产条例",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2176960.html",
           "source": "联合早报",
           "ranks": [
-            5,
-            25,
-            29
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时38分 ~ 20时28分]"
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 01时38分]"
+        },
+        {
+          "title": "特朗普暗示美军将对伊朗发动强硬报复：每杀害一名美国士兵将付出数倍代价",
+          "url": "https://wallstreetcn.com/articles/3777496",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 01时38分]"
+        },
+        {
+          "title": "特朗普会见黎巴嫩总统奥恩",
+          "url": "https://flash.jin10.com/detail/20260722003143324800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 01时38分]"
         }
       ]
     },
@@ -1057,46 +203,28 @@
           "url": "https://wallstreetcn.com/articles/3777510",
           "source": "华尔街见闻",
           "ranks": [
-            10,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时32分 ~ 23时11分]"
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 01时38分]"
         }
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "港股异动丨金价企稳4000美元，黄金股集体拉升，招金矿业涨5.4%",
-          "url": "https://www.gelonghui.com/news/5272491",
-          "source": "格隆汇",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数20日上涨",
-          "url": "https://flash.jin10.com/detail/20260721033703387800",
+          "title": "OpenAI：宣布推出面向小型企业的ChatGPT服务计划。ChatGPT Work和GPT-5.6今日起面向小型企业开放。",
+          "url": "https://flash.jin10.com/detail/20260722010658774800",
           "source": "金十数据",
           "ranks": [
-            27
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 01时38分]"
         }
       ]
     }
