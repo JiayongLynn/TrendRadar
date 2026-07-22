@@ -1,10 +1,126 @@
 {
-  "generated_at": "2026-07-23T00:26:46.744496+08:00",
-  "total_titles_processed": 92,
+  "generated_at": "2026-07-23T02:15:46.809104+08:00",
+  "total_titles_processed": 117,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
+    {
+      "keyword_group": "伊朗",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "美媒：以色列摩萨德新局长访美协调伊朗核谈判",
+          "url": "https://flash.jin10.com/detail/20260723014721867800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时15分"
+        },
+        {
+          "title": "伊朗多地遭美军袭击 首都德黑兰启动防空系统",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2277023.html",
+          "source": "联合早报",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时15分]"
+        },
+        {
+          "title": "以媒：美国拟动用重型轰炸机打击伊朗",
+          "url": "https://flash.jin10.com/detail/20260723013624498800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时15分"
+        },
+        {
+          "title": "据AXIOS：知情消息人士称，以色列新摩萨德局长两周前在华盛顿与中央情报局局长就伊朗问题进行了会晤。",
+          "url": "https://flash.jin10.com/detail/20260723013342559800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时15分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：以色列在黎巴嫩南部进行炮击和空袭。",
+          "url": "https://flash.jin10.com/detail/20260722235808400800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：我们已多次表明，霍尔木兹海峡的局势不会恢复到战前状态。",
+          "url": "https://flash.jin10.com/detail/20260723012821272800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时15分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：这场战争的逻辑很明确。要么所有人都承受后果，要么谁都别想置身事外。",
+          "url": "https://flash.jin10.com/detail/20260723012742411800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时15分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：如果我们的安全得不到保障，就不会有任何基础设施是安全的。霍尔木兹海峡的安全取决于美国军队不在该地区存在。",
+          "url": "https://flash.jin10.com/detail/20260723012737481800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时15分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：如果我们所在地区无法出售石油，那么任何人都别想出售石油。",
+          "url": "https://flash.jin10.com/detail/20260723012721929800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时15分"
+        },
+        {
+          "title": "伊朗总统： 伊朗人民不会屈服于威胁，我们始终强调外交的重要性，并主张通过政治途径解决分歧。",
+          "url": "https://flash.jin10.com/detail/20260723012312486800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时15分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 7,
@@ -14,11 +130,12 @@
           "url": "https://www.cls.cn/detail/2434359",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时15分]"
         },
         {
           "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
@@ -28,8 +145,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时15分]"
         },
         {
           "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
@@ -39,8 +156,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时15分]"
         },
         {
           "title": "OpenAI先进模型自主“越狱” 入侵外部平台",
@@ -50,8 +167,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时15分]"
         },
         {
           "title": "OpenAI：将向国家实验室和大学中约2000名“创世使命”研究人员提供400万美元的Codex访问权限。",
@@ -100,8 +217,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时15分]"
         },
         {
           "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
@@ -111,8 +228,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时15分]"
         },
         {
           "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
@@ -122,8 +239,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时15分]"
         },
         {
           "title": "美股异动丨耐克跌超3%，花旗预期转向在线DTC策略将导致在华市场份额流失",
@@ -133,8 +250,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时15分]"
         },
         {
           "title": "美股三大股指走势分化，纳指转涨，此前一度跌超0.8%，道指涨0.3%；标普500指数跌1.52%。",
@@ -172,8 +289,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时15分]"
         },
         {
           "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
@@ -183,8 +300,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时15分]"
         },
         {
           "title": "特朗普2028年8月起向仿制药征收100%关税 隔年翻倍",
@@ -194,36 +311,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据伊朗迈赫尔通讯社：以色列在黎巴嫩南部进行炮击和空袭。",
-          "url": "https://flash.jin10.com/detail/20260722235808400800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "伊朗多地遭美军袭击 首都德黑兰启动防空系统",
-          "url": "https://www.zaochenbao.com/news/politics/202607/2277023.html",
-          "source": "联合早报",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时15分]"
         }
       ]
     },
@@ -239,8 +328,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时15分]"
         }
       ]
     }
