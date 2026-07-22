@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-22T17:33:17.421763+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2026-07-22T19:55:14.196484+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "美国众议院议长约翰逊：必须结束伊朗战争。",
@@ -52,6 +52,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "伊朗多地遭美军袭击 首都德黑兰启动防空系统",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2277023.html",
+          "source": "联合早报",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时33分 ~ 19时55分]"
+        },
+        {
+          "title": "美军对伊朗新一轮打击持续75分钟",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2277017.html",
+          "source": "联合早报",
+          "ranks": [
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时33分 ~ 19时55分]"
         },
         {
           "title": "据塔斯尼姆通讯社：伊朗军方称，在伊朗西北部击落一架单向攻击无人机。",
@@ -133,6 +157,17 @@
           "time_info": "[07时04分 ~ 07时05分]"
         },
         {
+          "title": "伊朗革命卫队通报重创约旦两处美军基地",
+          "url": "https://flash.jin10.com/detail/20260722190748861800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 19时55分]"
+        },
+        {
           "title": "伊朗军方：若美攻击伊核设施 中东地区美方利益都将遭报复",
           "url": "https://flash.jin10.com/detail/20260722052653164800",
           "source": "金十数据",
@@ -188,17 +223,6 @@
           "time_info": "14时37分"
         },
         {
-          "title": "伊朗多地遭美军袭击 首都德黑兰启动防空系统",
-          "url": "https://www.zaochenbao.com/news/politics/202607/2277023.html",
-          "source": "联合早报",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        },
-        {
           "title": "赫格塞思称美国对伊朗战争已耗资375亿美元",
           "url": "https://flash.jin10.com/detail/20260722043337311800",
           "source": "金十数据",
@@ -216,7 +240,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -238,7 +262,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -252,17 +276,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
-        },
-        {
-          "title": "美军对伊朗新一轮打击持续75分钟",
-          "url": "https://www.zaochenbao.com/news/politics/202607/2277017.html",
-          "source": "联合早报",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
         },
         {
           "title": "伊朗总统强调团结对当前局势至关重要",
@@ -356,7 +369,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普收紧美国防业者采购中国关键矿产条例",
@@ -413,6 +426,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时37分 ~ 03时43分]"
+        },
+        {
+          "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
+          "url": "https://wallstreetcn.com/articles/3777603",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时33分 ~ 19时55分]"
+        },
+        {
+          "title": "特朗普解除40余年禁令 允许美国航班直飞黎巴嫩",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2277016.html",
+          "source": "联合早报",
+          "ranks": [
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时33分 ~ 19时55分]"
         },
         {
           "title": "市场消息：美国总统特朗普计划下周到访密歇根州开展选举造势活动。",
@@ -473,6 +510,17 @@
           "time_info": "[07时04分 ~ 07时05分]"
         },
         {
+          "title": "特朗普给孩子发1000美元“投资红包”，但不少父母发现：钱还没到账",
+          "url": "https://flash.jin10.com/detail/20260722193533351800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 19时55分]"
+        },
+        {
           "title": "特朗普淡化中国干预选举指控 降低采取报复行动可能性",
           "url": "https://www.zaochenbao.com/news/politics/202607/2276991.html",
           "source": "联合早报",
@@ -518,35 +566,13 @@
           "time_info": "[07时04分 ~ 07时05分]"
         },
         {
-          "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
-          "url": "https://wallstreetcn.com/articles/3777603",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        },
-        {
-          "title": "特朗普解除40余年禁令 允许美国航班直飞黎巴嫩",
-          "url": "https://www.zaochenbao.com/news/politics/202607/2277016.html",
-          "source": "联合早报",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        },
-        {
           "title": "据福克斯新闻：美国贸易代表格里尔将于当地时间今日在参议院小组委员会就特朗普的贸易和关税政策作证。",
           "url": "https://flash.jin10.com/detail/20260722165855515800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         }
@@ -554,7 +580,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -566,6 +592,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时37分 ~ 07时05分]"
+        },
+        {
+          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时29分 ~ 19时55分]"
         },
         {
           "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
@@ -592,15 +630,16 @@
           "time_info": "[01时37分 ~ 05时20分]"
         },
         {
-          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
-          "url": "https://wallstreetcn.com/articles/3777518",
+          "title": "AI交易热情回落，美股盘前存储芯片股普跌，SK海力士跌约5%，日韩股市几乎抹去涨幅，金银走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            5,
+            3
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时29分 ~ 17时33分]"
+          "time_info": "[17时33分 ~ 19时55分]"
         },
         {
           "title": "美股收盘：明星存储股集体飙涨两位数 芯片股反弹费城指数升逾5%",
@@ -638,15 +677,15 @@
           "time_info": "[07时04分 ~ 07时05分]"
         },
         {
-          "title": "AI交易热情回落，美股盘前存储芯片股普跌，SK海力士跌约5%，日韩股市几乎抹去涨幅，金银走强",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
+          "title": "美股三大股指期货下挫，纳斯达克100指数期货跌超1%，标普500指数期货跌0.38%，道琼斯指数期货跌0.22%。",
+          "url": "https://flash.jin10.com/detail/20260722194602712800",
+          "source": "金十数据",
           "ranks": [
-            5
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 19时55分]"
         },
         {
           "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
@@ -657,8 +696,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 17时33分]"
+          "appearance_count": 4,
+          "time_info": "[14时37分 ~ 19时55分]"
         },
         {
           "title": "美股存储概念全线爆发！华尔街喊话坚守AI硬件股：Kimi K3将催生新需求",
@@ -679,7 +718,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -698,7 +737,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
@@ -722,6 +761,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时29分 ~ 14时37分]"
+        },
+        {
+          "title": "谷歌平价Gemini三箭齐发，网安模型对标Anthropic Mythos，旗舰3.5 Pro仍难产",
+          "url": "https://wallstreetcn.com/articles/3777594",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 19时55分]"
         },
         {
           "title": "谷歌发布一系列更低成本的Gemini模型",
@@ -796,6 +846,18 @@
           "time_info": "14时37分"
         },
         {
+          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
+          "url": "https://wallstreetcn.com/articles/3777627",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时33分 ~ 19时55分]"
+        },
+        {
           "title": "OpenAI：宣布推出面向小型企业的ChatGPT服务计划。ChatGPT Work和GPT-5.6今日起面向小型企业开放。",
           "url": "https://flash.jin10.com/detail/20260722010658774800",
           "source": "金十数据",
@@ -807,24 +869,13 @@
           "time_info": "[01时37分 ~ 01时38分]"
         },
         {
-          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
-          "url": "https://wallstreetcn.com/articles/3777627",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        },
-        {
           "title": "史无前例！OpenAI模型“失控”攻入全球最大AI开源社区 中国开源模型参与取证",
           "url": "https://www.cls.cn/detail/2433554",
           "source": "财联社热门",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
