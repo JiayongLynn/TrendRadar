@@ -1,14 +1,25 @@
 {
-  "generated_at": "2026-07-23T02:15:46.809104+08:00",
-  "total_titles_processed": 117,
+  "generated_at": "2026-07-23T04:18:02.971831+08:00",
+  "total_titles_processed": 142,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "据伊朗媒体Fars News：当地消息人士称，伊朗袭击了驻扎在约旦东部的美军阵地。",
+          "url": "https://flash.jin10.com/detail/20260723034639807800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 04时18分]"
+        },
         {
           "title": "美媒：以色列摩萨德新局长访美协调伊朗核谈判",
           "url": "https://flash.jin10.com/detail/20260723014721867800",
@@ -16,7 +27,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
         },
@@ -28,8 +39,63 @@
             27
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 04时18分]"
+        },
+        {
+          "title": "据伊朗媒体Fars News：部分消息人士称，约旦境内也传出数声爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260723033237765800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时15分]"
+          "time_info": "[04时17分 ~ 04时18分]"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊拉克埃尔比勒传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260723032858790800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 04时18分]"
+        },
+        {
+          "title": "英国撤回驻伊朗外交人员",
+          "url": "https://flash.jin10.com/detail/20260723032500538800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 04时18分]"
+        },
+        {
+          "title": "据CNN：英国政府正在撤回驻伊朗外交人员。",
+          "url": "https://flash.jin10.com/detail/20260723032349225800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 04时18分]"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：美国战争部长在国会听证会上接受质询期间，竟没有一个问题涉及这场对伊朗战争的人道影响，尽管各方都清楚，这是一场非法发动的战争。",
+          "url": "https://flash.jin10.com/detail/20260723031816286800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 04时18分]"
         },
         {
           "title": "以媒：美国拟动用重型轰炸机打击伊朗",
@@ -38,7 +104,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
         },
@@ -49,7 +115,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
         },
@@ -71,7 +137,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
         },
@@ -82,7 +148,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
         },
@@ -93,7 +159,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
         },
@@ -104,7 +170,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
         },
@@ -115,7 +181,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
         }
@@ -134,8 +200,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 04时18分]"
         },
         {
           "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
@@ -145,8 +211,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 04时18分]"
         },
         {
           "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
@@ -156,8 +222,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 04时18分]"
         },
         {
           "title": "OpenAI先进模型自主“越狱” 入侵外部平台",
@@ -167,8 +233,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 04时18分]"
         },
         {
           "title": "OpenAI：将向国家实验室和大学中约2000名“创世使命”研究人员提供400万美元的Codex访问权限。",
@@ -206,70 +272,20 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 5,
+      "keyword_group": "特朗普",
+      "match_count": 6,
       "titles": [
         {
-          "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时15分]"
-        },
-        {
-          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
-          "url": "https://wallstreetcn.com/articles/3777518",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时15分]"
-        },
-        {
-          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
-          "url": "https://wallstreetcn.com/articles/3777612",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时15分]"
-        },
-        {
-          "title": "美股异动丨耐克跌超3%，花旗预期转向在线DTC策略将导致在华市场份额流失",
-          "url": "https://www.gelonghui.com/news/5273683",
-          "source": "格隆汇",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时15分]"
-        },
-        {
-          "title": "美股三大股指走势分化，纳指转涨，此前一度跌超0.8%，道指涨0.3%；标普500指数跌1.52%。",
-          "url": "https://flash.jin10.com/detail/20260722232746995800",
+          "title": "美国总统特朗普：美国不需要霍尔木兹海峡。委内瑞拉正与美国合作生产石油。",
+          "url": "https://flash.jin10.com/detail/20260723034521965800",
           "source": "金十数据",
           "ranks": [
-            23
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 4,
-      "titles": [
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 04时18分]"
+        },
         {
           "title": "据华盛顿邮报：美国总统特朗普政府正在考虑在马里采取军事行动。",
           "url": "https://flash.jin10.com/detail/20260723000745259800",
@@ -289,8 +305,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 04时18分]"
         },
         {
           "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
@@ -300,8 +316,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 04时18分]"
         },
         {
           "title": "特朗普2028年8月起向仿制药征收100%关税 隔年翻倍",
@@ -311,8 +327,80 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 04时18分]"
+        },
+        {
+          "title": "特朗普政府探索联邦水域核电项目",
+          "url": "https://flash.jin10.com/detail/20260723032253567800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时15分]"
+          "time_info": "[04时17分 ~ 04时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 04时18分]"
+        },
+        {
+          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 04时18分]"
+        },
+        {
+          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
+          "url": "https://wallstreetcn.com/articles/3777612",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 04时18分]"
+        },
+        {
+          "title": "美股异动丨耐克跌超3%，花旗预期转向在线DTC策略将导致在华市场份额流失",
+          "url": "https://www.gelonghui.com/news/5273683",
+          "source": "格隆汇",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 04时18分]"
+        },
+        {
+          "title": "美股三大股指走势分化，纳指转涨，此前一度跌超0.8%，道指涨0.3%；标普500指数跌1.52%。",
+          "url": "https://flash.jin10.com/detail/20260722232746995800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
         }
       ]
     },
@@ -328,8 +416,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 04时18分]"
         }
       ]
     }
