@@ -1,14 +1,26 @@
 {
-  "generated_at": "2026-07-24T07:05:13.949194+08:00",
-  "total_titles_processed": 183,
+  "generated_at": "2026-07-24T11:31:06.498435+08:00",
+  "total_titles_processed": 261,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "伊朗称打击约旦与科威特美军设施 约旦拦截导弹与无人机",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2377137.html",
+          "source": "联合早报",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时40分 ~ 11时31分]"
+        },
         {
           "title": "科威特军方：空中防御系统目前正在拦截伊朗的“敌对”无人机威胁。",
           "url": "https://flash.jin10.com/detail/20260724033250623800",
@@ -54,17 +66,6 @@
           "time_info": "01时40分"
         },
         {
-          "title": "伊朗称打击约旦与科威特美军设施 约旦拦截导弹与无人机",
-          "url": "https://www.zaochenbao.com/news/politics/202607/2377137.html",
-          "source": "联合早报",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时40分 ~ 07时05分]"
-        },
-        {
           "title": "伊朗称拦截一枚美军“战斧”导弹 伊南部传出爆炸声",
           "url": "https://flash.jin10.com/detail/20260724064748080800",
           "source": "金十数据",
@@ -74,6 +75,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时04分 ~ 07时05分]"
+        },
+        {
+          "title": "美威胁发动空前打击 伊朗、胡塞武装：已做好应战准备",
+          "url": "https://www.cls.cn/detail/2435700",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时30分 ~ 11时31分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：截至目前，针对美军驻约旦基地的强烈爆炸仍在持续发生，尚未停止。",
+          "url": "https://flash.jin10.com/detail/20260724105711113800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时30分 ~ 11时31分]"
+        },
+        {
+          "title": "伊朗外交部长：一旦政府将没收资产常态化，那么所有人的资产都将不再安全。由此引发的混乱将不会温和有序。",
+          "url": "https://flash.jin10.com/detail/20260724105528686800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时30分 ~ 11时31分]"
+        },
+        {
+          "title": "伊朗外交部长：扣押他国资产用于支付无关的未来索赔，是一个煽动性的先例。",
+          "url": "https://flash.jin10.com/detail/20260724105506689800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时30分 ~ 11时31分]"
         },
         {
           "title": "据以色列i24News：消息人士称，伊朗拒绝“改进”目前摆在桌面上的10天停火外交提议。",
@@ -178,8 +223,44 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
+          "url": "https://wallstreetcn.com/articles/3777791",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时37分 ~ 11时31分]"
+        },
+        {
+          "title": "胡塞武装红海攻击沙特油轮 特朗普警告再袭将严厉军事打击",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2477167.html",
+          "source": "联合早报",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时30分 ~ 11时31分]"
+        },
+        {
+          "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
+          "url": "https://wallstreetcn.com/articles/3777811",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时30分 ~ 11时31分]"
+        },
         {
           "title": "美众议院通过决议限制特朗普对伊动武权力 参议院则支持总统",
           "url": "https://flash.jin10.com/detail/20260724032850735800",
@@ -190,19 +271,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
-        },
-        {
-          "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
-          "url": "https://wallstreetcn.com/articles/3777791",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时37分 ~ 07时05分]"
         },
         {
           "title": "特朗普重建关税墙！60个经济体被征10%-12.5%新税",
@@ -225,6 +293,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时40分 ~ 03时37分]"
+        },
+        {
+          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
+          "url": "https://wallstreetcn.com/articles/3777809",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时30分 ~ 11时31分]"
+        },
+        {
+          "title": "特朗普：习近平9月24日访美 两人将讨论AI课题",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2477158.html",
+          "source": "联合早报",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时30分 ~ 11时31分]"
+        },
+        {
+          "title": "特朗普称将用被冻结的伊朗资金赔偿船只及货物损失 | 环球市场",
+          "url": "https://www.cls.cn/detail/2435732",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时30分 ~ 11时31分]"
         },
         {
           "title": "特朗普：将用伊朗资金赔付船只及货物损失",
@@ -307,7 +408,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -325,11 +426,46 @@
           "url": "https://wallstreetcn.com/articles/3777754",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时04分 ~ 11时31分]"
+        },
+        {
+          "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
+          "url": "https://www.cls.cn/detail/2435717",
+          "source": "财联社热门",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时04分 ~ 07时05分]"
+          "time_info": "[11时30分 ~ 11时31分]"
+        },
+        {
+          "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
+          "url": "https://www.cls.cn/detail/2435694",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时04分 ~ 11时31分]"
+        },
+        {
+          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777828",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时30分 ~ 11时31分]"
         },
         {
           "title": "美股异动丨T-Mobile跌超5%，次季后付费账户净新增放缓",
@@ -342,17 +478,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时40分 ~ 07时05分]"
-        },
-        {
-          "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
-          "url": "https://www.cls.cn/detail/2435694",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时04分 ~ 07时05分]"
         },
         {
           "title": "金十图示：2026年07月23日（周四）美股热门股票行情一览（美股收盘）",
@@ -470,19 +595,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时40分 ~ 07时05分]"
+          "appearance_count": 7,
+          "time_info": "[01时40分 ~ 11时31分]"
         },
         {
           "title": "无视美国威胁 欧盟对谷歌处以逾13亿元罚款",
           "url": "https://www.zaochenbao.com/news/politics/202607/2377139.html",
           "source": "联合早报",
           "ranks": [
-            11
+            11,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时40分 ~ 07时05分]"
+          "appearance_count": 7,
+          "time_info": "[01时40分 ~ 11时31分]"
         },
         {
           "title": "据福克斯商业：特朗普政府表示，欧盟依据《数字市场法案》对谷歌处以10亿美元罚款的决定威胁贸易稳定。",
@@ -578,11 +704,12 @@
           "url": "https://www.zaochenbao.com/news/china/202607/2377147.html",
           "source": "联合早报",
           "ranks": [
-            3
+            3,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时40分 ~ 07时05分]"
+          "appearance_count": 7,
+          "time_info": "[01时40分 ~ 11时31分]"
         }
       ]
     },
