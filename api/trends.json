@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-25T08:11:55.452017+08:00",
-  "total_titles_processed": 178,
+  "generated_at": "2026-07-25T12:17:59.490505+08:00",
+  "total_titles_processed": 235,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 22,
       "titles": [
         {
           "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
@@ -21,6 +21,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时48分 ~ 08时11分]"
+        },
+        {
+          "title": "特朗普离开土耳其前紧急更换专机，幕后原因披露",
+          "url": "https://flash.jin10.com/detail/20260725113942463800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
+          "title": "习近平访美前 北京或不理会特朗普新关税措施",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2577245.html",
+          "source": "联合早报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
         },
         {
           "title": "市场消息：特朗普将于周五会见多位核能公司首席执行官，庆祝先进反应堆取得里程碑进展。",
@@ -46,6 +68,17 @@
           "time_info": "[04时26分 ~ 06时12分]"
         },
         {
+          "title": "美小型企业起诉 挑战特朗普“强迫劳动”关税",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2577243.html",
+          "source": "联合早报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
           "title": "美国小企业提起诉讼，质疑特朗普新的“强迫劳动”关税措施。诉讼称，相关关税授权需要提供更详细的、针对具体国家的调查结论，才能在法律上成立。",
           "url": "https://flash.jin10.com/detail/20260725020246817800",
           "source": "金十数据",
@@ -55,6 +88,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "特朗普：相信中俄不会暗中协助伊朗",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2577242.html",
+          "source": "联合早报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
+          "title": "内坦亚胡访白宫前 特朗普与内阁讨论升级对伊朗打击",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2577240.html",
+          "source": "联合早报",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
         },
         {
           "title": "美国总统特朗普：在签署沙特核协议之前，没有与美国能源部长赖特进行过交谈。",
@@ -77,6 +132,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "特朗普称伊朗问题进展非常顺利 但称伊朗“还没准备好”达成协议",
+          "url": "https://flash.jin10.com/detail/20260725105906223800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
         },
         {
           "title": "美国总统特朗普：（关于沙特核协议）如果沙特阿拉伯不加入（亚伯拉罕）协议，就不会达成核协议。",
@@ -134,6 +200,28 @@
           "time_info": "02时24分"
         },
         {
+          "title": "美国总统特朗普：我打算送给美国参议院少数党领袖舒默一套漂亮的巴​​勒斯坦服装，这样当以色列总理内塔尼亚胡下周来访时，他就能穿上这身行头去迎接对方了——当然，还有那位（纽约）市长，我相信他也一定很想见见内塔尼亚胡。他们对待内塔尼亚胡的态度可不太好。",
+          "url": "https://flash.jin10.com/detail/20260725103229350800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
+          "title": "美国总统特朗普：以色列总理内塔尼亚胡下周将访问华盛顿。",
+          "url": "https://flash.jin10.com/detail/20260725102400999800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
           "title": "美国总统特朗普：已做好在伊朗采取更高级别军事行动的准备。",
           "url": "https://flash.jin10.com/detail/20260725034104359800",
           "source": "金十数据",
@@ -169,130 +257,31 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 10,
+      "keyword_group": "伊朗",
+      "match_count": 15,
       "titles": [
         {
-          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
-          "url": "https://wallstreetcn.com/articles/3777828",
-          "source": "华尔街见闻",
+          "title": "伊朗外长说不惧威胁不屈服于美国",
+          "url": "https://flash.jin10.com/detail/20260725113145513800",
+          "source": "金十数据",
           "ranks": [
-            3,
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
+          "title": "一艘驶向伊朗的油轮被美军开火 失去航行能力",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2577244.html",
+          "source": "联合早报",
+          "ranks": [
             5
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 08时11分]"
-        },
-        {
-          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
-          "url": "https://wallstreetcn.com/articles/3777754",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时48分 ~ 06时12分]"
-        },
-        {
-          "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
-          "url": "https://wallstreetcn.com/articles/3777833",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时11分"
+          "time_info": "12时17分"
         },
-        {
-          "title": "金十图示：2026年07月24日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260725041124494800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时26分 ~ 08时11分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 闪迪跌超10%",
-          "url": "https://flash.jin10.com/detail/20260725040225206800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 06时12分]"
-        },
-        {
-          "title": "金十图示：2026年07月24日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260725041219645800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时12分 ~ 08时11分]"
-        },
-        {
-          "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
-          "url": "https://www.cls.cn/detail/2436875",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时11分"
-        },
-        {
-          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
-          "url": "https://www.cls.cn/detail/2436884",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时11分"
-        },
-        {
-          "title": "金十图示：2026年07月24日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260725015555373800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "金十图示：2026年07月24日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260725015553317800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 10,
-      "titles": [
         {
           "title": "据伊朗塔斯尼姆通讯社：美国第五舰队驻巴林基地遭到导弹和无人机袭击。",
           "url": "https://flash.jin10.com/detail/20260725051459277800",
@@ -363,6 +352,17 @@
           "time_info": "[00时48分 ~ 00时49分]"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：继也门再次发动导弹袭击后，沙特境内再次传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260725111226216800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
           "title": "市场消息：巴基斯坦方面警告伊朗，关闭“曼德海峡”将使局势进一步复杂化。",
           "url": "https://flash.jin10.com/detail/20260725013811963800",
           "source": "金十数据",
@@ -405,6 +405,179 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "据美联社：美军周五表示，向另一艘试图突破其对伊朗港口封锁的商船开火。美军在阿曼湾使M/T Lavine号油轮丧失了航行能力。",
+          "url": "https://flash.jin10.com/detail/20260725101954738800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
+          "title": "据伊朗Press TV：在沙特对也门发动袭击之际，沙特港口城市延布发生剧烈爆炸。",
+          "url": "https://flash.jin10.com/detail/20260725101746595800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777828",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时48分 ~ 08时11分]"
+        },
+        {
+          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
+          "url": "https://wallstreetcn.com/articles/3777754",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 06时12分]"
+        },
+        {
+          "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
+          "url": "https://wallstreetcn.com/articles/3777833",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时11分 ~ 12时17分]"
+        },
+        {
+          "title": "金十图示：2026年07月24日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260725041124494800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时26分 ~ 08时11分]"
+        },
+        {
+          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
+          "url": "https://www.cls.cn/detail/2436884",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时11分 ~ 12时17分]"
+        },
+        {
+          "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
+          "url": "https://www.cls.cn/detail/2436875",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时11分 ~ 12时17分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 闪迪跌超10%",
+          "url": "https://flash.jin10.com/detail/20260725040225206800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 06时12分]"
+        },
+        {
+          "title": "金十图示：2026年07月24日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260725041219645800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 08时11分]"
+        },
+        {
+          "title": "金十图示：2026年07月24日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260725015555373800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        },
+        {
+          "title": "金十图示：2026年07月24日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260725015553317800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI创始人奥尔特曼：希望美国在开源AI模型方面获胜，希望我们在闭源AI模型方面也能获胜。",
+          "url": "https://flash.jin10.com/detail/20260725000422924800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 00时49分]"
+        },
+        {
+          "title": "韩国总统李在明：我先后会见了Anthropic首席执行官Dario Amodei、OpenAI首席执行官Sam Altman、英伟达首席执行官黄仁勋以及博通首席执行官陈福阳，共同探讨了AI时代的合作与未来发展。",
+          "url": "https://flash.jin10.com/detail/20260725103555536800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
         }
       ]
     },
@@ -417,11 +590,12 @@
           "url": "https://www.zaochenbao.com/news/china/202607/2577227.html",
           "source": "联合早报",
           "ranks": [
-            1
+            1,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时11分 ~ 12时17分]"
         }
       ]
     },
@@ -439,23 +613,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI创始人奥尔特曼：希望美国在开源AI模型方面获胜，希望我们在闭源AI模型方面也能获胜。",
-          "url": "https://flash.jin10.com/detail/20260725000422924800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 00时49分]"
         }
       ]
     },
