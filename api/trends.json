@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-25T21:52:48.692825+08:00",
-  "total_titles_processed": 372,
+  "generated_at": "2026-07-25T23:11:58.757390+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
@@ -132,6 +132,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "两位巴西消息人士：巴西拒绝向两名试图质询巴西选举制度的特朗普政府特使签发签证。",
+          "url": "https://flash.jin10.com/detail/20260725222304302800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "特朗普突然宣布：将第四次竞选总统！他头戴印有“特朗普2028”字样的小红帽称：我已经很有经验了，将再次出马",
+          "url": "https://wallstreetcn.com/articles/3777927",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "内坦亚胡访白宫前 特朗普与内阁讨论升级对伊朗打击",
@@ -291,19 +313,8 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
-        {
-          "title": "伊朗官员：镐山设施“目前是空的”",
-          "url": "https://flash.jin10.com/detail/20260725214500074800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时52分"
-        },
         {
           "title": "伊朗外长说不惧威胁不屈服于美国",
           "url": "https://flash.jin10.com/detail/20260725113145513800",
@@ -314,6 +325,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
+        },
+        {
+          "title": "美国对伊朗实施“冷热交替”策略，当前首要目标可能是......",
+          "url": "https://flash.jin10.com/detail/20260725223644816800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "一艘驶向伊朗的油轮被美军开火 失去航行能力",
@@ -328,6 +350,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时17分 ~ 19时19分]"
+        },
+        {
+          "title": "伊朗官员：镐山设施“目前是空的”",
+          "url": "https://flash.jin10.com/detail/20260725214500074800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 23时11分]"
         },
         {
           "title": "伊朗公布卫星图像显示约旦一美军基地弹药库被摧毁",
@@ -469,6 +503,17 @@
           "time_info": "19时19分"
         },
         {
+          "title": "伊朗打击亚马逊数据中心，卫星图像公布",
+          "url": "https://www.cls.cn/detail/2437013",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "市场消息：巴基斯坦方面警告伊朗，关闭“曼德海峡”将使局势进一步复杂化。",
           "url": "https://flash.jin10.com/detail/20260725013811963800",
           "source": "金十数据",
@@ -571,8 +616,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时11分 ~ 21时52分]"
+          "appearance_count": 7,
+          "time_info": "[08时11分 ~ 23时11分]"
         },
         {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
@@ -587,17 +632,6 @@
           "time_info": "[00时48分 ~ 08时11分]"
         },
         {
-          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
-          "url": "https://wallstreetcn.com/articles/3777754",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时48分 ~ 06时12分]"
-        },
-        {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
           "url": "https://www.cls.cn/detail/2436884",
           "source": "财联社热门",
@@ -607,8 +641,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时11分 ~ 21时52分]"
+          "appearance_count": 7,
+          "time_info": "[08时11分 ~ 23时11分]"
+        },
+        {
+          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
+          "url": "https://wallstreetcn.com/articles/3777754",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 06时12分]"
         },
         {
           "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
@@ -623,8 +668,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时11分 ~ 21时52分]"
+          "appearance_count": 7,
+          "time_info": "[08时11分 ~ 23时11分]"
         },
         {
           "title": "金十图示：2026年07月24日（周五）热门中概股行情一览（美股收盘）",
@@ -732,6 +777,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "报复谷歌被开罚 特朗普恫言对欧盟展开新贸易调查",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2577284.html",
+          "source": "联合早报",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 23时11分]"
+        },
+        {
           "title": "SpaceX AI：今天我们将把Grok引入Google Workspace。适用于Google Workspace的Grok是一款免费的附加组件。",
           "url": "https://flash.jin10.com/detail/20260725020808879800",
           "source": "金十数据",
@@ -741,17 +798,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
-        },
-        {
-          "title": "报复谷歌被开罚 特朗普恫言对欧盟展开新贸易调查",
-          "url": "https://www.zaochenbao.com/news/politics/202607/2577284.html",
-          "source": "联合早报",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时52分"
         }
       ]
     },
