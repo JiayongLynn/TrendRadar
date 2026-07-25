@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-25T12:17:59.490505+08:00",
-  "total_titles_processed": 235,
+  "generated_at": "2026-07-25T15:24:59.763810+08:00",
+  "total_titles_processed": 283,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
@@ -29,7 +29,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -38,11 +38,36 @@
           "url": "https://www.zaochenbao.com/news/politics/202607/2577245.html",
           "source": "联合早报",
           "ranks": [
-            4
+            4,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 15时24分]"
+        },
+        {
+          "title": "美小型企业起诉 挑战特朗普“强迫劳动”关税",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2577243.html",
+          "source": "联合早报",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 15时24分]"
+        },
+        {
+          "title": "特朗普：相信中俄不会暗中协助伊朗",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2577242.html",
+          "source": "联合早报",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 15时24分]"
         },
         {
           "title": "市场消息：特朗普将于周五会见多位核能公司首席执行官，庆祝先进反应堆取得里程碑进展。",
@@ -68,15 +93,15 @@
           "time_info": "[04时26分 ~ 06时12分]"
         },
         {
-          "title": "美小型企业起诉 挑战特朗普“强迫劳动”关税",
-          "url": "https://www.zaochenbao.com/news/politics/202607/2577243.html",
+          "title": "特朗普政府要求暂缓H-1B签证费裁决 遭上诉法院驳回",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2577259.html",
           "source": "联合早报",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时17分"
+          "time_info": "15时24分"
         },
         {
           "title": "美国小企业提起诉讼，质疑特朗普新的“强迫劳动”关税措施。诉讼称，相关关税授权需要提供更详细的、针对具体国家的调查结论，才能在法律上成立。",
@@ -90,24 +115,13 @@
           "time_info": "02时24分"
         },
         {
-          "title": "特朗普：相信中俄不会暗中协助伊朗",
-          "url": "https://www.zaochenbao.com/news/politics/202607/2577242.html",
-          "source": "联合早报",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
           "title": "内坦亚胡访白宫前 特朗普与内阁讨论升级对伊朗打击",
           "url": "https://www.zaochenbao.com/news/politics/202607/2577240.html",
           "source": "联合早报",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -140,7 +154,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -206,7 +220,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -217,7 +231,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -258,7 +272,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "伊朗外长说不惧威胁不屈服于美国",
@@ -267,18 +281,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
-          "title": "一艘驶向伊朗的油轮被美军开火 失去航行能力",
-          "url": "https://www.zaochenbao.com/news/politics/202607/2577244.html",
-          "source": "联合早报",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -293,6 +296,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时12分 ~ 08时11分]"
+        },
+        {
+          "title": "一艘驶向伊朗的油轮被美军开火 失去航行能力",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2577244.html",
+          "source": "联合早报",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 15时24分]"
         },
         {
           "title": "据伊朗媒体Fars News：阿拉伯消息称，沙特阿拉伯对也门的荷台达港进行了空袭。",
@@ -358,9 +373,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
+        },
+        {
+          "title": "王毅会伊朗外长：坚持谈判化解争端回归落实备忘录共识",
+          "url": "https://www.zaochenbao.com/news/china/202607/2577252.html",
+          "source": "联合早报",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "市场消息：巴基斯坦方面警告伊朗，关闭“曼德海峡”将使局势进一步复杂化。",
@@ -372,6 +398,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "连续13晚打击伊朗后，美军未再宣布对伊朗发动空袭",
+          "url": "https://flash.jin10.com/detail/20260725132754175800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "据悉巴林和科威特对伊朗境内目标进行了空袭",
@@ -413,7 +450,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -424,7 +461,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         }
@@ -465,8 +502,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时11分 ~ 12时17分]"
+          "appearance_count": 3,
+          "time_info": "[08时11分 ~ 15时24分]"
+        },
+        {
+          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
+          "url": "https://www.cls.cn/detail/2436884",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时11分 ~ 15时24分]"
         },
         {
           "title": "金十图示：2026年07月24日（周五）热门中概股行情一览（美股收盘）",
@@ -482,28 +531,17 @@
           "time_info": "[04时26分 ~ 08时11分]"
         },
         {
-          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
-          "url": "https://www.cls.cn/detail/2436884",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时11分 ~ 12时17分]"
-        },
-        {
           "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
           "url": "https://www.cls.cn/detail/2436875",
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时11分 ~ 12时17分]"
+          "appearance_count": 3,
+          "time_info": "[08时11分 ~ 15时24分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 闪迪跌超10%",
@@ -575,7 +613,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         }
