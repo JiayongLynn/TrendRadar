@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-26T21:45:35.745445+08:00",
-  "total_titles_processed": 372,
+  "generated_at": "2026-07-26T23:12:16.027360+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 47,
+      "match_count": 53,
       "titles": [
         {
           "title": "伊朗打击亚马逊数据中心，卫星图像公布",
@@ -20,8 +20,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时10分 ~ 21时45分]"
+          "appearance_count": 14,
+          "time_info": "[01时10分 ~ 23时12分]"
         },
         {
           "title": "伊朗促欧盟就乌克兰袭击里海商船采取果断行动",
@@ -70,6 +70,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时43分 ~ 14时44分]"
+        },
+        {
+          "title": "据CBS新闻援引消息人士报道，美国已暂停对伊朗的轰炸，因阿曼官员周五前往德黑兰进行会谈。",
+          "url": "https://flash.jin10.com/detail/20260726230732779800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时11分 ~ 23时12分]"
         },
         {
           "title": "也门总理：胡塞武装持续袭击船只并威胁红海安全，证明其正在执行伊朗的指令。",
@@ -121,22 +132,24 @@
           "url": "https://flash.jin10.com/detail/20260726212720415800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时45分 ~ 23时12分]"
         },
         {
           "title": "伊高级消息人士：只要美国继续维持停火状态 伊朗也将停止攻击",
           "url": "https://flash.jin10.com/detail/20260726211546067800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时45分 ~ 23时12分]"
         },
         {
           "title": "伊朗石油部：尽管面临战争和制裁，年度石油收入预算目标已完成逾六成。",
@@ -327,6 +340,17 @@
           "time_info": "[14时43分 ~ 14时44分]"
         },
         {
+          "title": "以色列总理内塔尼亚胡：如果伊朗以任何方式发动攻击，我们的回应将是强有力的。",
+          "url": "https://flash.jin10.com/detail/20260726222300049800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时11分 ~ 23时12分]"
+        },
+        {
           "title": "伊朗外交部：伊朗与阿曼就霍尔木兹海峡问题举行技术会谈。双方在会谈中就确保霍尔木兹海峡航运安全通行的共同原则和具体操作机制进行了讨论，同时强调需要在尊重两国沿岸国家主权权利的基础上进行管理。",
           "url": "https://flash.jin10.com/detail/20260726131456129800",
           "source": "金十数据",
@@ -336,6 +360,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时43分 ~ 14时44分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：战争将在伊朗政权垮台或被削弱到必须终止其核计划时才会结束。",
+          "url": "https://flash.jin10.com/detail/20260726222250657800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时11分 ~ 23时12分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：必须结束伊朗的核计划，无论是通过协议还是不通过协议。",
+          "url": "https://flash.jin10.com/detail/20260726222206221800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时11分 ~ 23时12分]"
         },
         {
           "title": "美国在伊朗战争中弹药消耗情况一览",
@@ -349,6 +395,17 @@
           "time_info": "[19时24分 ~ 19时25分]"
         },
         {
+          "title": "伊朗陆军发言人称美国已陷入绝境",
+          "url": "https://flash.jin10.com/detail/20260726220235819800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时11分 ~ 23时12分]"
+        },
+        {
           "title": "伊朗外交部谴责乌克兰对里海一艘伊朗商船发动袭击：爆炸造成一名船员死亡，另一名船员受伤。",
           "url": "https://flash.jin10.com/detail/20260726030022566800",
           "source": "金十数据",
@@ -359,6 +416,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 07时01分]"
+        },
+        {
+          "title": "伊朗官员：一艘里海通行伊朗商船遭袭致1死3伤",
+          "url": "https://flash.jin10.com/detail/20260726214337730800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时11分 ~ 23时12分]"
         },
         {
           "title": "伊朗称约旦、科威特和巴林美军基地为报复行动的重点目标",
@@ -510,7 +578,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -521,7 +589,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -532,7 +600,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -551,7 +619,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -564,8 +632,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时41分 ~ 21时45分]"
+          "appearance_count": 10,
+          "time_info": "[11时41分 ~ 23时12分]"
         },
         {
           "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
@@ -577,8 +645,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时41分 ~ 21时45分]"
+          "appearance_count": 10,
+          "time_info": "[11时41分 ~ 23时12分]"
+        },
+        {
+          "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
+          "url": "https://www.cls.cn/detail/2437057",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时41分 ~ 23时12分]"
         },
         {
           "title": "特朗普突然宣布：将第四次竞选总统！他头戴印有“特朗普2028”字样的小红帽称：我已经很有经验了，将再次出马",
@@ -593,18 +673,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时10分 ~ 14时44分]"
-        },
-        {
-          "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
-          "url": "https://www.cls.cn/detail/2437057",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时41分 ~ 21时45分]"
         },
         {
           "title": "澳洲总理阿尔巴尼斯：将就关税问题与特朗普磋商",
@@ -630,6 +698,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时41分 ~ 19时25分]"
+        },
+        {
+          "title": "以总理办公室官员：我们同意维和委员会及国际部队进入加沙，这是特朗普计划中规定的内容。",
+          "url": "https://flash.jin10.com/detail/20260726230940914800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时11分 ~ 23时12分]"
         },
         {
           "title": "内塔尼亚胡主持召开内阁会议，讨论会见特朗普及国际刑事法院事宜",
@@ -666,6 +745,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时20分 ~ 19时25分]"
+        },
+        {
+          "title": "美国常驻联合国代表迈克·华尔兹表示，美国总统特朗普正在给伊朗谈判“留出一些空间”。",
+          "url": "https://flash.jin10.com/detail/20260726210929420800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时45分 ~ 23时12分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：伊朗问题取决于特朗普的决定。",
+          "url": "https://flash.jin10.com/detail/20260726222401916800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时11分 ~ 23时12分]"
         },
         {
           "title": "美国上诉法院拒绝允许实施特朗普限制邮寄投票的行政命令。",
@@ -712,17 +814,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时43分 ~ 14时44分]"
-        },
-        {
-          "title": "美国常驻联合国代表迈克·华尔兹表示，美国总统特朗普正在给伊朗谈判“留出一些空间”。",
-          "url": "https://flash.jin10.com/detail/20260726210929420800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
         },
         {
           "title": "澳大利亚总理：将就新关税问题向特朗普提出交涉",
@@ -828,8 +919,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时10分 ~ 21时45分]"
+          "appearance_count": 14,
+          "time_info": "[01时10分 ~ 23时12分]"
+        },
+        {
+          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
+          "url": "https://www.cls.cn/detail/2437061",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时43分 ~ 23时12分]"
         },
         {
           "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
@@ -843,17 +945,6 @@
           "time_info": "[01时10分 ~ 07时01分]"
         },
         {
-          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
-          "url": "https://www.cls.cn/detail/2437061",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时43分 ~ 21时45分]"
-        },
-        {
           "title": "高盛交易主管：美股“操作难度依然极高”，建议逢低布局黄金",
           "url": "https://wallstreetcn.com/articles/3777937",
           "source": "华尔街见闻",
@@ -862,8 +953,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时20分 ~ 21时45分]"
+          "appearance_count": 7,
+          "time_info": "[17时20分 ~ 23时12分]"
         },
         {
           "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
