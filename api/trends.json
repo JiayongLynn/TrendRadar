@@ -1,46 +1,71 @@
 {
-  "generated_at": "2026-07-27T01:10:52.309822+08:00",
-  "total_titles_processed": 95,
+  "generated_at": "2026-07-27T03:22:45.826443+08:00",
+  "total_titles_processed": 114,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "伊朗外交部发言人巴加埃：伊朗与美国之间的信息交流以及调解人的活动仍在继续。",
+          "url": "https://flash.jin10.com/detail/20260727030445297800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "伊朗革命卫队胡齐斯坦省指挥官：美军在中东地区的基地有超过288个目标被摧毁。",
+          "url": "https://flash.jin10.com/detail/20260727023212211800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
         {
           "title": "俄罗斯外交部：阿拉格齐向拉夫罗夫通报了当前为缓和因美国袭击伊朗而引发的中东紧张局势所开展的外交努力。",
           "url": "https://flash.jin10.com/detail/20260727003153619800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 03时22分]"
         },
         {
           "title": "俄罗斯外交部：俄外长就7月25日乌克兰无人机袭击伊朗商船并造成一名伊朗船员死亡一事表示诚挚哀悼。阿拉格齐感谢阿斯特拉罕当局为遇袭船只船员提供帮助，并强调必须防止基辅此类冒险行径。",
           "url": "https://flash.jin10.com/detail/20260727003123877800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 03时22分]"
         },
         {
           "title": "俄罗斯外交部：7月26日，应伊朗方面提议，俄罗斯外交部长拉夫罗夫与伊朗外交部长阿拉格齐举行了电话会谈。",
           "url": "https://flash.jin10.com/detail/20260727003011756800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 03时22分]"
         },
         {
           "title": "伊朗打击亚马逊数据中心，卫星图像公布",
@@ -50,8 +75,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 03时22分]"
         },
         {
           "title": "伊朗外交部长：在与欧盟高级代表卡拉斯和俄罗斯外长拉夫罗夫的通话中，我已明确表示，基辅那个不劳而获的家伙所做的一切绝不会不遭到回应。",
@@ -76,6 +101,17 @@
           "time_info": "01时10分"
         },
         {
+          "title": "伊朗总统批准执行伊斯兰议会内部条例第一条修正案。",
+          "url": "https://flash.jin10.com/detail/20260727014228137800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
           "title": "以总理：此次访美旨在了解美总统对伊朗问题的想法",
           "url": "https://flash.jin10.com/detail/20260726234844568800",
           "source": "金十数据",
@@ -87,6 +123,17 @@
           "time_info": "01时10分"
         },
         {
+          "title": "伊朗最高领袖：支持黎真主党并要求全面结束以对黎军事行动",
+          "url": "https://flash.jin10.com/detail/20260727015443558800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
           "title": "伊朗能源部长在谈及可再生能源发展时表示，上周已有70兆瓦的太阳能发电项目投入运行；本周还将有约100兆瓦的太阳能发电项目投入运行，且这一进程将持续进行。",
           "url": "https://flash.jin10.com/detail/20260726233459980800",
           "source": "金十数据",
@@ -96,6 +143,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "伊朗驻法国大使馆：霍尔木兹海峡是我们世代相传的遗产。",
+          "url": "https://flash.jin10.com/detail/20260727004811747800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗外长阿拉格齐与俄罗斯外长拉夫罗夫今天下午进行了通话，讨论了最新的地区和国际局势。",
@@ -123,7 +181,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -133,8 +191,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 03时22分]"
         },
         {
           "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
@@ -144,19 +202,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 03时22分]"
         },
         {
           "title": "英国国防大臣：欧洲将感谢特朗普，因为他迫使欧洲实现自立。我们并不总是认同特朗普及其行事方式，但他促使我们避免产生自满情绪。",
           "url": "https://flash.jin10.com/detail/20260727002330493800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 03时22分]"
         },
         {
           "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
@@ -166,8 +225,19 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 03时22分]"
+        },
+        {
+          "title": "据Axios：美国中央司令部司令库珀建议停止在霍尔木兹海峡周边的轰炸行动，因该行动的效力已达极限。这影响了特朗普周五做出的暂停对伊打击的决定。",
+          "url": "https://flash.jin10.com/detail/20260727010619989800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时10分"
+          "time_info": "03时22分"
         },
         {
           "title": "以总理办公室官员：我们同意维和委员会及国际部队进入加沙，这是特朗普计划中规定的内容。",
@@ -194,8 +264,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 03时22分]"
         },
         {
           "title": "高盛交易主管：美股“操作难度依然极高”，建议逢低布局黄金",
@@ -205,8 +275,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 03时22分]"
         }
       ]
     }
