@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-28T01:06:12.661182+08:00",
-  "total_titles_processed": 93,
+  "generated_at": "2026-07-28T03:46:49.977328+08:00",
+  "total_titles_processed": 119,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普：美国应拥有全球最低的利率",
@@ -19,6 +19,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时05分 ~ 01时06分]"
+        },
+        {
+          "title": "美国总统特朗普：我们要取消夏令时。",
+          "url": "https://flash.jin10.com/detail/20260728031330264800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "戴庆成：特朗普11月会访问香港么？",
+          "url": "https://www.zaochenbao.com/news/hkMacao/202607/2777370.html",
+          "source": "联合早报",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 03时46分]"
         },
         {
           "title": "特朗普称正与伊朗进行“良好谈判” 暗示可能会发生一些事情",
@@ -208,15 +230,37 @@
           "time_info": "[01时05分 ~ 01时06分]"
         },
         {
-          "title": "戴庆成：特朗普11月会访问香港么？",
-          "url": "https://www.zaochenbao.com/news/hkMacao/202607/2777370.html",
-          "source": "联合早报",
+          "title": "美国总统特朗普：关税对通用汽车(GM.N)的影响真是惊人。",
+          "url": "https://flash.jin10.com/detail/20260728023159967800",
+          "source": "金十数据",
           "ranks": [
-            30
+            13
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "据PunchBowl News：美国官员称，美国总统特朗普将与以色列总理内塔尼亚胡讨论伊朗及《亚伯拉罕协议》。",
+          "url": "https://flash.jin10.com/detail/20260728021523729800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "据PunchBowl News：一位美国官员称，美国总统特朗普将与乌克兰总统泽连斯基讨论俄乌战争。",
+          "url": "https://flash.jin10.com/detail/20260728021247518800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
         }
       ]
     },
@@ -229,11 +273,24 @@
           "url": "https://wallstreetcn.com/articles/3777993",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 03时46分]"
+        },
+        {
+          "title": "美伊暂停交火提振市场情绪 美股期指上涨 油价大幅回落 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2438191",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 03时46分]"
         },
         {
           "title": "美股异动丨债务担忧压倒AI利好！英伟达跌超4%失守200美元",
@@ -243,30 +300,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
-        },
-        {
-          "title": "美伊暂停交火提振市场情绪 美股期指上涨 油价大幅回落 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2438191",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 03时46分]"
         },
         {
           "title": "美国中期选举进入百日倒计时！高盛：美股8月起将逐步感受冲击",
           "url": "https://www.cls.cn/detail/2438003",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 03时46分]"
         },
         {
           "title": "美股异动丨SK海力士创上市新低",
@@ -276,8 +323,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 03时46分]"
         },
         {
           "title": "美股异动丨闪迪暴跌8%领跌！存储芯片板块重挫，9500亿美元合作难挽市场信心",
@@ -287,15 +334,37 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 03时46分]"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "据以色列媒体：以色列方面评估认为，当地时间周一在约旦上空被拦截的无人机是由伊朗支持的伊拉克民兵组织发射的。",
+          "url": "https://flash.jin10.com/detail/20260728030719798800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "伊朗军方：美国近三日威胁伊朗沿海水域内的船只和油轮，此举构成冲突升级，任何袭击都将遭到回应。",
+          "url": "https://flash.jin10.com/detail/20260728030433137800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
         {
           "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
           "url": "https://wallstreetcn.com/articles/3777973",
@@ -304,8 +373,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 03时46分]"
+        },
+        {
+          "title": "伊朗外交部：未恢复与美国的和平谈判",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2777429.html",
+          "source": "联合早报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 03时46分]"
         },
         {
           "title": "加拿大外长：与卡塔尔首相兼外交大臣通话。加拿大支持卡塔尔的主权和安全，我们呼吁伊朗停止袭击，重新开放霍尔木兹海峡至关重要。",
@@ -319,15 +399,15 @@
           "time_info": "[01时05分 ~ 01时06分]"
         },
         {
-          "title": "伊朗外交部：未恢复与美国的和平谈判",
-          "url": "https://www.zaochenbao.com/news/politics/202607/2777429.html",
-          "source": "联合早报",
+          "title": "据伊朗塔斯尼姆通讯社：美国联邦航空管理局称，由于巴林飞行情报区军事活动增加，建议飞行员在国际水域上空飞行时提高警惕。",
+          "url": "https://flash.jin10.com/detail/20260728025702923800",
+          "source": "金十数据",
           "ranks": [
-            11
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
         }
       ]
     },
@@ -343,8 +423,25 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 03时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌(GOOG.O)和微软(MSFT.O)表示发现的软件漏洞数量创下历史新高。美国方面称已知网络漏洞数量预计将大幅超过205个。",
+          "url": "https://flash.jin10.com/detail/20260728020553174800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
         }
       ]
     }
