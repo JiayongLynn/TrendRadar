@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T15:41:23.764262+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2026-07-27T19:33:48.176549+08:00",
+  "total_titles_processed": 375,
   "failed_sources": [
     "36kr"
   ],
@@ -54,6 +54,19 @@
           "time_info": "07时05分"
         },
         {
+          "title": "乌克兰袭击伊朗商船 伊外长：决不罢休",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2777387.html",
+          "source": "联合早报",
+          "ranks": [
+            1,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 19时33分]"
+        },
+        {
           "title": "俄罗斯外交部：阿拉格齐向拉夫罗夫通报了当前为缓和因美国袭击伊朗而引发的中东紧张局势所开展的外交努力。",
           "url": "https://flash.jin10.com/detail/20260727003153619800",
           "source": "金十数据",
@@ -64,18 +77,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时10分 ~ 03时22分]"
-        },
-        {
-          "title": "乌克兰袭击伊朗商船 伊外长：决不罢休",
-          "url": "https://www.zaochenbao.com/news/politics/202607/2777387.html",
-          "source": "联合早报",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 15时41分]"
         },
         {
           "title": "俄罗斯外交部：俄外长就7月25日乌克兰无人机袭击伊朗商船并造成一名伊朗船员死亡一事表示诚挚哀悼。阿拉格齐感谢阿斯特拉罕当局为遇袭船只船员提供帮助，并强调必须防止基辅此类冒险行径。",
@@ -133,8 +134,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 15时41分]"
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 19时33分]"
         },
         {
           "title": "伊朗总统批准执行伊斯兰议会内部条例第一条修正案。",
@@ -155,7 +156,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -355,6 +356,19 @@
           "time_info": "[01时10分 ~ 07时05分]"
         },
         {
+          "title": "戴庆成：特朗普11月会访问香港么？",
+          "url": "https://www.zaochenbao.com/news/hkMacao/202607/2777370.html",
+          "source": "联合早报",
+          "ranks": [
+            18,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 19时33分]"
+        },
+        {
           "title": "英国国防大臣：欧洲将感谢特朗普，因为他迫使欧洲实现自立。我们并不总是认同特朗普及其行事方式，但他促使我们避免产生自满情绪。",
           "url": "https://flash.jin10.com/detail/20260727002330493800",
           "source": "金十数据",
@@ -403,18 +417,6 @@
           "time_info": "[05时05分 ~ 07时05分]"
         },
         {
-          "title": "戴庆成：特朗普11月会访问香港么？",
-          "url": "https://www.zaochenbao.com/news/hkMacao/202607/2777370.html",
-          "source": "联合早报",
-          "ranks": [
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 15时41分]"
-        },
-        {
           "title": "据Axios：美国中央司令部司令库珀建议停止在霍尔木兹海峡周边的轰炸行动，因该行动的效力已达极限。这影响了特朗普周五做出的暂停对伊打击的决定。",
           "url": "https://flash.jin10.com/detail/20260727010619989800",
           "source": "金十数据",
@@ -440,7 +442,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -464,6 +466,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时10分 ~ 07时05分]"
+        },
+        {
+          "title": "D-WAVE美股盘前涨12%，此前AT&T宣布扩大与该公司的量子合作协议。",
+          "url": "https://flash.jin10.com/detail/20260727190337962800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         },
         {
           "title": "港股新消费概念股持续走强，小米集团(01810.HK)涨近7%，沪上阿姨(02589.HK)涨超4.5%，老铺黄金(06181.HK)、卫龙(09985.HK)、蜜雪集团(02097.HK)、泡泡玛特(09992.HK)、上美股份(02145.HK)等多股均涨超2%。",
@@ -540,7 +553,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         }
