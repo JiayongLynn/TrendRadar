@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-27T19:33:48.176549+08:00",
-  "total_titles_processed": 375,
+  "generated_at": "2026-07-27T22:54:33.775828+08:00",
+  "total_titles_processed": 426,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "【早报】长鑫科技，今日上市；美暂停打击伊朗；油价大跌、黄金反弹；宁德时代启动A股史上最大规模回购",
@@ -52,6 +52,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "伊朗议会议员哈兹里安：从法律角度来看，阿曼无法在未与伊朗协调的情况下开放霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260727224406834800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
+          "url": "https://wallstreetcn.com/articles/3777973",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时51分 ~ 22时54分]"
+        },
+        {
+          "title": "伊朗外交部：未恢复与美国的和平谈判",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2777429.html",
+          "source": "联合早报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "乌克兰袭击伊朗商船 伊外长：决不罢休",
@@ -124,18 +159,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时10分 ~ 07时05分]"
-        },
-        {
-          "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
-          "url": "https://wallstreetcn.com/articles/3777973",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时51分 ~ 19时33分]"
         },
         {
           "title": "伊朗总统批准执行伊斯兰议会内部条例第一条修正案。",
@@ -306,8 +329,169 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
+          "url": "https://www.cls.cn/detail/2436884",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时10分 ~ 07时05分]"
+        },
+        {
+          "title": "美股异动丨债务担忧压倒AI利好！英伟达跌超4%失守200美元",
+          "url": "https://www.gelonghui.com/news/5275904",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "美股异动丨SK海力士创上市新低",
+          "url": "https://www.gelonghui.com/news/5275901",
+          "source": "格隆汇",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "高盛交易主管：美股“操作难度依然极高”，建议逢低布局黄金",
+          "url": "https://wallstreetcn.com/articles/3777937",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时10分 ~ 07时05分]"
+        },
+        {
+          "title": "美股异动丨闪迪暴跌8%领跌！存储芯片板块重挫，9500亿美元合作难挽市场信心",
+          "url": "https://www.gelonghui.com/news/5275899",
+          "source": "格隆汇",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "美伊紧张局势缓和，美股三大股指集体高开，SK海力士涨超3%，布油一度大跌7%、债市走强",
+          "url": "https://wallstreetcn.com/articles/3777993",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "美伊暂停交火提振市场情绪 美股期指上涨 油价大幅回落 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2438191",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "美股异动丨SpaceX上市后辉煌尽失，股价腰斩再创新低至110美元",
+          "url": "https://www.gelonghui.com/news/5275895",
+          "source": "格隆汇",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "美国中期选举进入百日倒计时！高盛：美股8月起将逐步感受冲击",
+          "url": "https://www.cls.cn/detail/2438003",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "美股异动丨阿斯麦再度跌超4%，市场担忧2026年增长前景",
+          "url": "https://www.gelonghui.com/news/5275890",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "D-WAVE美股盘前涨12%，此前AT&T宣布扩大与该公司的量子合作协议。",
+          "url": "https://flash.jin10.com/detail/20260727190337962800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
+          "title": "港股新消费概念股持续走强，小米集团(01810.HK)涨近7%，沪上阿姨(02589.HK)涨超4.5%，老铺黄金(06181.HK)、卫龙(09985.HK)、蜜雪集团(02097.HK)、泡泡玛特(09992.HK)、上美股份(02145.HK)等多股均涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260727105549593800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "美伊骤然停火，有望重返谈判桌！AI“开放权重模型”公开信签署企业增至50家，“大空头”加码做空美光和英伟达……当前金银油均呈多头占优，美股情绪分化，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260727104810536800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "美股迎关键一周：所有目光转向AI财报与美联储",
+          "url": "https://flash.jin10.com/detail/20260727104614100800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -362,11 +546,12 @@
           "ranks": [
             18,
             26,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时51分 ~ 19时33分]"
+          "appearance_count": 4,
+          "time_info": "[11时51分 ~ 22时54分]"
         },
         {
           "title": "英国国防大臣：欧洲将感谢特朗普，因为他迫使欧洲实现自立。我们并不总是认同特朗普及其行事方式，但他促使我们避免产生自满情绪。",
@@ -428,6 +613,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "奥尔特曼本周将会见特朗普政府官员，“预展”新AI模型的功能",
+          "url": "https://flash.jin10.com/detail/20260727223018481800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "以总理办公室官员：我们同意维和委员会及国际部队进入加沙，这是特朗普计划中规定的内容。",
           "url": "https://flash.jin10.com/detail/20260726230940914800",
           "source": "金十数据",
@@ -437,79 +633,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
-          "url": "https://www.cls.cn/detail/2436884",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 07时05分]"
-        },
-        {
-          "title": "高盛交易主管：美股“操作难度依然极高”，建议逢低布局黄金",
-          "url": "https://wallstreetcn.com/articles/3777937",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 07时05分]"
-        },
-        {
-          "title": "D-WAVE美股盘前涨12%，此前AT&T宣布扩大与该公司的量子合作协议。",
-          "url": "https://flash.jin10.com/detail/20260727190337962800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时33分"
-        },
-        {
-          "title": "港股新消费概念股持续走强，小米集团(01810.HK)涨近7%，沪上阿姨(02589.HK)涨超4.5%，老铺黄金(06181.HK)、卫龙(09985.HK)、蜜雪集团(02097.HK)、泡泡玛特(09992.HK)、上美股份(02145.HK)等多股均涨超2%。",
-          "url": "https://flash.jin10.com/detail/20260727105549593800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
-        },
-        {
-          "title": "美伊骤然停火，有望重返谈判桌！AI“开放权重模型”公开信签署企业增至50家，“大空头”加码做空美光和英伟达……当前金银油均呈多头占优，美股情绪分化，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260727104810536800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
-        },
-        {
-          "title": "美股迎关键一周：所有目光转向AI财报与美联储",
-          "url": "https://flash.jin10.com/detail/20260727104614100800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
         }
       ]
     },
@@ -539,6 +662,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "下午察：外泄梁文锋“金句”给美国递刀子？",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2777433.html",
+          "source": "联合早报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         }
       ]
     },
