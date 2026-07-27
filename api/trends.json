@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-28T05:20:09.094677+08:00",
-  "total_titles_processed": 147,
+  "generated_at": "2026-07-28T07:13:22.150572+08:00",
+  "total_titles_processed": 181,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普：美国应拥有全球最低的利率",
@@ -39,8 +39,30 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 05时20分]"
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 07时13分]"
+        },
+        {
+          "title": "五角大楼被曝对乌援助要拖到特朗普卸任年",
+          "url": "https://flash.jin10.com/detail/20260728064510542800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
+          "title": "特朗普力挺沃什降息，喊美国利率要全球最低，炮轰美联储“阻降派”",
+          "url": "https://flash.jin10.com/detail/20260728063552100800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
         },
         {
           "title": "美媒：特朗普政府接近敲定AI自愿审查框架",
@@ -307,6 +329,17 @@
           "time_info": "03时46分"
         },
         {
+          "title": "市场消息：以色列总理内塔尼亚胡已抵达美国马里兰州安德鲁斯联合基地，准备于当地时间周二与特朗普会晤。",
+          "url": "https://flash.jin10.com/detail/20260728061247016800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
           "title": "据PunchBowl News：美国官员称，美国总统特朗普将与以色列总理内塔尼亚胡讨论伊朗及《亚伯拉罕协议》。",
           "url": "https://flash.jin10.com/detail/20260728021523729800",
           "source": "金十数据",
@@ -327,128 +360,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊拉克国家安全顾问称，乌克兰情报小组正在伊拉克境内实施袭击，并将其嫁祸于抵抗组织。伊拉克有关机构已逮捕一些人员和相关成员，他们在审讯中承认，乌克兰情报小组曾针对伊拉克政府设施发动袭击。",
-          "url": "https://flash.jin10.com/detail/20260728044945651800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 05时20分]"
         },
         {
-          "title": "内塔尼亚胡低调启程华盛顿 伊朗问题成首要议题",
-          "url": "https://flash.jin10.com/detail/20260728044248647800",
+          "title": "美媒：内塔尼亚胡拟向特朗普证明伊朗仍在推进“镐山”核计划",
+          "url": "https://flash.jin10.com/detail/20260728053007305800",
           "source": "金十数据",
           "ranks": [
-            5
+            24
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 05时20分]"
-        },
-        {
-          "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
-          "url": "https://wallstreetcn.com/articles/3777973",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 05时20分]"
-        },
-        {
-          "title": "据以色列媒体：以色列方面评估认为，当地时间周一在约旦上空被拦截的无人机是由伊朗支持的伊拉克民兵组织发射的。",
-          "url": "https://flash.jin10.com/detail/20260728030719798800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时46分"
+          "time_info": "07时13分"
         },
         {
-          "title": "伊朗军方：美国近三日威胁伊朗沿海水域内的船只和油轮，此举构成冲突升级，任何袭击都将遭到回应。",
-          "url": "https://flash.jin10.com/detail/20260728030433137800",
+          "title": "据纽约邮报：以色列总理内塔尼亚胡将向美国总统特朗普提供伊朗“镐山”核设施情报。",
+          "url": "https://flash.jin10.com/detail/20260728052319740800",
           "source": "金十数据",
           "ranks": [
-            5
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时46分"
-        },
-        {
-          "title": "伊朗外交部：未恢复与美国的和平谈判",
-          "url": "https://www.zaochenbao.com/news/politics/202607/2777429.html",
-          "source": "联合早报",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 05时20分]"
-        },
-        {
-          "title": "加拿大外长：与卡塔尔首相兼外交大臣通话。加拿大支持卡塔尔的主权和安全，我们呼吁伊朗停止袭击，重新开放霍尔木兹海峡至关重要。",
-          "url": "https://flash.jin10.com/detail/20260728005241733800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
-        },
-        {
-          "title": "路透社/益普索调查显示，仅有33%的美国人支持美国与伊朗的战争，为冲突初期以来的最低水平。",
-          "url": "https://flash.jin10.com/detail/20260728040942338800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 05时20分]"
-        },
-        {
-          "title": "据伊朗媒体FarsNews：伊拉克消息人士称，一架美国无人机在伊拉克西部安巴尔省被击落。",
-          "url": "https://flash.jin10.com/detail/20260728034720418800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 05时20分]"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：美国联邦航空管理局称，由于巴林飞行情报区军事活动增加，建议飞行员在国际水域上空飞行时提高警惕。",
-          "url": "https://flash.jin10.com/detail/20260728025702923800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时46分"
+          "time_info": "07时13分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股高开低走，存储大跌、阿斯麦跌8%自动停牌，布油一度大跌7%、债市走强",
@@ -468,11 +407,23 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 05时20分]"
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 07时13分]"
+        },
+        {
+          "title": "AI忧虑盖过油价下跌，美股指震荡承压，半导体指数一度跌超5%，中概股逆市收涨",
+          "url": "https://wallstreetcn.com/articles/3777993",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
         },
         {
           "title": "美国中期选举进入百日倒计时！高盛：美股8月起将逐步感受冲击",
@@ -484,19 +435,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 05时20分]"
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 07时13分]"
         },
         {
           "title": "美股异动丨债务担忧压倒AI利好！英伟达跌超4%失守200美元",
           "url": "https://www.gelonghui.com/news/5275904",
           "source": "格隆汇",
           "ranks": [
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 05时20分]"
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 07时13分]"
         },
         {
           "title": "美股异动丨SK海力士创上市新低",
@@ -552,6 +504,133 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 05时20分]"
+        },
+        {
+          "title": "美股收盘：阿斯麦、英伟达领衔“芯片风暴” 苹果重返全球市值第一",
+          "url": "https://www.cls.cn/detail/2438385",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
+          "url": "https://wallstreetcn.com/articles/3777973",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 07时13分]"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊拉克国家安全顾问称，乌克兰情报小组正在伊拉克境内实施袭击，并将其嫁祸于抵抗组织。伊拉克有关机构已逮捕一些人员和相关成员，他们在审讯中承认，乌克兰情报小组曾针对伊拉克政府设施发动袭击。",
+          "url": "https://flash.jin10.com/detail/20260728044945651800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 05时20分]"
+        },
+        {
+          "title": "内塔尼亚胡低调启程华盛顿 伊朗问题成首要议题",
+          "url": "https://flash.jin10.com/detail/20260728044248647800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 05时20分]"
+        },
+        {
+          "title": "伊朗外交部：未恢复与美国的和平谈判",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2777429.html",
+          "source": "联合早报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 07时13分]"
+        },
+        {
+          "title": "据以色列媒体：以色列方面评估认为，当地时间周一在约旦上空被拦截的无人机是由伊朗支持的伊拉克民兵组织发射的。",
+          "url": "https://flash.jin10.com/detail/20260728030719798800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "伊朗军方：美国近三日威胁伊朗沿海水域内的船只和油轮，此举构成冲突升级，任何袭击都将遭到回应。",
+          "url": "https://flash.jin10.com/detail/20260728030433137800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "加拿大外长：与卡塔尔首相兼外交大臣通话。加拿大支持卡塔尔的主权和安全，我们呼吁伊朗停止袭击，重新开放霍尔木兹海峡至关重要。",
+          "url": "https://flash.jin10.com/detail/20260728005241733800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 01时06分]"
+        },
+        {
+          "title": "路透社/益普索调查显示，仅有33%的美国人支持美国与伊朗的战争，为冲突初期以来的最低水平。",
+          "url": "https://flash.jin10.com/detail/20260728040942338800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 05时20分]"
+        },
+        {
+          "title": "据伊朗媒体FarsNews：伊拉克消息人士称，一架美国无人机在伊拉克西部安巴尔省被击落。",
+          "url": "https://flash.jin10.com/detail/20260728034720418800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 05时20分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：美国联邦航空管理局称，由于巴林飞行情报区军事活动增加，建议飞行员在国际水域上空飞行时提高警惕。",
+          "url": "https://flash.jin10.com/detail/20260728025702923800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时46分"
         }
       ]
     },
@@ -567,8 +646,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 05时20分]"
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 07时13分]"
         }
       ]
     },
