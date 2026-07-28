@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T17:41:51.055465+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-07-28T20:03:52.728843+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [
     "36kr"
   ],
@@ -221,6 +221,18 @@
           "time_info": "[01时05分 ~ 01时06分]"
         },
         {
+          "title": "以色列前高官联名致信特朗普 警告约旦河西岸局势或升级",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2877477.html",
+          "source": "联合早报",
+          "ranks": [
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 20时03分]"
+        },
+        {
           "title": "美国总统特朗普：（关于美联储）美联储委员会成员是“政治性的”。",
           "url": "https://flash.jin10.com/detail/20260728003505278800",
           "source": "金十数据",
@@ -375,17 +387,6 @@
           "time_info": "14时34分"
         },
         {
-          "title": "以色列前高官联名致信特朗普 警告约旦河西岸局势或升级",
-          "url": "https://www.zaochenbao.com/news/politics/202607/2877477.html",
-          "source": "联合早报",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
           "title": "据PunchBowl News：美国官员称，美国总统特朗普将与以色列总理内塔尼亚胡讨论伊朗及《亚伯拉罕协议》。",
           "url": "https://flash.jin10.com/detail/20260728021523729800",
           "source": "金十数据",
@@ -433,7 +434,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股高开低走，存储大跌、阿斯麦跌8%自动停牌，布油一度大跌7%、债市走强",
@@ -456,8 +457,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 17时41分]"
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 20时03分]"
         },
         {
           "title": "美伊暂停交火提振市场情绪 美股期指上涨 油价大幅回落 | 今夜看点",
@@ -535,6 +536,17 @@
           "time_info": "[01时05分 ~ 07时13分]"
         },
         {
+          "title": "汇丰雷打不动看多美股：维持“顶格超配”！",
+          "url": "https://flash.jin10.com/detail/20260728194952864800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
           "title": "美股异动丨SK海力士创上市新低",
           "url": "https://www.gelonghui.com/news/5275901",
           "source": "格隆汇",
@@ -600,12 +612,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 05时20分]"
+        },
+        {
+          "title": "美股跌完韩股跌！美韩科技股联动性飙升，分散投资优势逐步消退",
+          "url": "https://www.cls.cn/detail/2438661",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
@@ -658,7 +681,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -739,6 +762,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
+        },
+        {
+          "title": "伊朗政府：伊朗道路部长法尔扎内·萨迪格在土库曼斯坦与土库曼总统、交通部长及外交部长进行了富有成果的会谈，重点讨论了加强运输车队、基础设施以及天然气和电力领域的能源合作。",
+          "url": "https://flash.jin10.com/detail/20260728193823710800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
+          "title": "伊朗外长与日本外相在通话中就合作应对海峡安全问题进行了讨论。",
+          "url": "https://flash.jin10.com/detail/20260728192842428800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
+          "title": "日本外相与伊朗外长进行电话交谈",
+          "url": "https://flash.jin10.com/detail/20260728192241889800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         }
       ]
     },
@@ -785,11 +841,12 @@
           "url": "https://wallstreetcn.com/articles/3778049",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 20时03分]"
         }
       ]
     },
@@ -804,7 +861,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         }
