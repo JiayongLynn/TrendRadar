@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-29T03:44:39.364838+08:00",
-  "total_titles_processed": 116,
+  "generated_at": "2026-07-29T05:16:27.071670+08:00",
+  "total_titles_processed": 135,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗副外长：德黑兰向阿曼提议，由伊朗负责管理霍尔木兹海峡一侧的单向航运通行，阿曼则负责管理另一侧的通行。",
@@ -27,7 +27,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
         },
@@ -39,8 +39,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 03时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时42分 ~ 05时16分]"
+        },
+        {
+          "title": "美国官员：伊朗在霍尔木兹海的要求过于苛刻，阿曼、美国及国际社会对此正当拒绝。",
+          "url": "https://flash.jin10.com/detail/20260729043825142800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         },
         {
           "title": "伊朗副外长：目前我们的对话仅与阿曼就霍尔木兹海峡问题进行。我们与美国或任何调解方均无任何谈判。",
@@ -60,7 +71,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
         },
@@ -82,7 +93,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
         },
@@ -126,7 +137,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
         },
@@ -192,7 +203,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
         }
@@ -200,8 +211,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2439316",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时42分 ~ 05时16分]"
+        },
         {
           "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
           "url": "https://wallstreetcn.com/articles/3778058",
@@ -214,26 +236,16 @@
           "time_info": "[01时42分 ~ 03时44分]"
         },
         {
-          "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2439316",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 03时44分]"
-        },
-        {
           "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
           "url": "https://wallstreetcn.com/articles/3778135",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 03时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时42分 ~ 05时16分]"
         },
         {
           "title": "美股异动｜波音涨超5%，自由现金流回暖+积压订单创新高",
@@ -243,8 +255,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 03时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时42分 ~ 05时16分]"
         },
         {
           "title": "美股异动｜可口可乐涨超7%创新高，受惠于世界杯期间需求增长+上调全年业绩指引",
@@ -254,8 +266,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 03时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时42分 ~ 05时16分]"
         },
         {
           "title": "美股异动丨资金从芯片股轮动至SaaS概念，Adobe、SAP涨超5%",
@@ -265,8 +277,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 03时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时42分 ~ 05时16分]"
+        },
+        {
+          "title": "受希捷科技(STX.O)财报提振，美股存储芯片概念股盘后走高，西部数据(WDC.O)涨6.5%，SK海力士(SKHY.O)涨2.5%，美光科技(MU.O)涨0.8%，闪迪(SNDK.O)涨1%，希捷科技(STX.O)一度涨9%。",
+          "url": "https://flash.jin10.com/detail/20260729042233620800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         }
       ]
     },
@@ -282,8 +305,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 03时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时42分 ~ 05时16分]"
         },
         {
           "title": "以色列发言人：在美国总统特朗普与以色列总理内塔尼亚胡的会晤中未讨论土耳其和F-35问题。",
@@ -314,7 +337,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
         },
@@ -325,7 +348,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
         }
@@ -342,7 +365,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
         }
@@ -360,8 +383,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 03时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时42分 ~ 05时16分]"
         }
       ]
     }
