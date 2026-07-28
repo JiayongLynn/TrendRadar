@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-28T11:22:53.720586+08:00",
-  "total_titles_processed": 262,
+  "generated_at": "2026-07-28T14:34:49.668324+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普：美国应拥有全球最低的利率",
@@ -98,6 +98,18 @@
           "time_info": "[05时19分 ~ 05时20分]"
         },
         {
+          "title": "特朗普称美伊谈判进展良好 但伊朗邻国继续遇袭",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2877454.html",
+          "source": "联合早报",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 14时34分]"
+        },
+        {
           "title": "美、布两油短线下挫超0.5美元，现分别报81.86美元/桶和86.18美元/桶，此前特朗普表示，与伊朗的谈判进展良好，会同意与伊朗会面。",
           "url": "https://flash.jin10.com/detail/20260728004419411800",
           "source": "金十数据",
@@ -107,6 +119,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时05分 ~ 01时06分]"
+        },
+        {
+          "title": "特朗普：若美伊谈判失败 准备采取扩大军事行动",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2877453.html",
+          "source": "联合早报",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 14时34分]"
         },
         {
           "title": "美国总统特朗普：战争一结束，价格将大幅下跌。",
@@ -318,28 +342,6 @@
           "time_info": "[05时19分 ~ 05时20分]"
         },
         {
-          "title": "特朗普称美伊谈判进展良好 但伊朗邻国继续遇袭",
-          "url": "https://www.zaochenbao.com/news/politics/202607/2877454.html",
-          "source": "联合早报",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "特朗普：若美伊谈判失败 准备采取扩大军事行动",
-          "url": "https://www.zaochenbao.com/news/politics/202607/2877453.html",
-          "source": "联合早报",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
           "title": "美国总统特朗普：关税对通用汽车(GM.N)的影响真是惊人。",
           "url": "https://flash.jin10.com/detail/20260728023159967800",
           "source": "金十数据",
@@ -360,6 +362,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "美乌关系戏剧性反转，泽连斯基再访白宫，特朗普会兑现对乌转向吗？",
+          "url": "https://flash.jin10.com/detail/20260728135155865800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         },
         {
           "title": "据PunchBowl News：美国官员称，美国总统特朗普将与以色列总理内塔尼亚胡讨论伊朗及《亚伯拉罕协议》。",
@@ -437,6 +450,31 @@
           "time_info": "[01时05分 ~ 11时22分]"
         },
         {
+          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
+          "url": "https://wallstreetcn.com/articles/3778058",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 14时34分]"
+        },
+        {
+          "title": "美股收盘：阿斯麦、英伟达领衔“芯片风暴” 苹果重返全球市值第一",
+          "url": "https://www.cls.cn/detail/2438385",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时13分 ~ 14时34分]"
+        },
+        {
           "title": "AI忧虑盖过油价下跌，美股指震荡承压，半导体指数一度跌超5%，中概股逆市收涨",
           "url": "https://wallstreetcn.com/articles/3777993",
           "source": "华尔街见闻",
@@ -473,17 +511,6 @@
           "time_info": "[01时05分 ~ 07时13分]"
         },
         {
-          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
-          "url": "https://wallstreetcn.com/articles/3778058",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
           "title": "美股异动丨SK海力士创上市新低",
           "url": "https://www.gelonghui.com/news/5275901",
           "source": "格隆汇",
@@ -506,16 +533,28 @@
           "time_info": "[01时05分 ~ 05时20分]"
         },
         {
-          "title": "美股收盘：阿斯麦、英伟达领衔“芯片风暴” 苹果重返全球市值第一",
-          "url": "https://www.cls.cn/detail/2438385",
+          "title": "一文读懂：美股“芯片风暴”究竟是如何发生的？",
+          "url": "https://www.cls.cn/detail/2438605",
           "source": "财联社热门",
           "ranks": [
-            8,
-            5
+            11,
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时13分 ~ 11时22分]"
+          "time_info": "[11时22分 ~ 14时34分]"
+        },
+        {
+          "title": "7月28日投资避雷针：美股费城半导体指数创5月20日以来收盘新低 英伟达跌约5%",
+          "url": "https://www.cls.cn/detail/2438430",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 14时34分]"
         },
         {
           "title": "金十图示：2026年07月27日（周一）美股热门股票行情一览（美股收盘）",
@@ -549,28 +588,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 05时20分]"
-        },
-        {
-          "title": "7月28日投资避雷针：美股费城半导体指数创5月20日以来收盘新低 英伟达跌约5%",
-          "url": "https://www.cls.cn/detail/2438430",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "一文读懂：美股“芯片风暴”究竟是如何发生的？",
-          "url": "https://www.cls.cn/detail/2438605",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
         }
       ]
     },
@@ -667,6 +684,18 @@
           "time_info": "[05时19分 ~ 05时20分]"
         },
         {
+          "title": "伊朗称未与美国谈判 霍尔木兹海峡仍关闭",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2877442.html",
+          "source": "联合早报",
+          "ranks": [
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 14时34分]"
+        },
+        {
           "title": "据伊朗媒体FarsNews：伊拉克消息人士称，一架美国无人机在伊拉克西部安巴尔省被击落。",
           "url": "https://flash.jin10.com/detail/20260728034720418800",
           "source": "金十数据",
@@ -687,17 +716,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
-        },
-        {
-          "title": "伊朗称未与美国谈判 霍尔木兹海峡仍关闭",
-          "url": "https://www.zaochenbao.com/news/politics/202607/2877442.html",
-          "source": "联合早报",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
         }
       ]
     },
@@ -732,6 +750,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "机构：投资者可考虑增持美债短端久期",
+          "url": "https://flash.jin10.com/detail/20260728134306208800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         }
       ]
     },
