@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-28T20:03:52.728843+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2026-07-28T23:27:50.355069+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普：美国应拥有全球最低的利率",
@@ -52,6 +52,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡与美国总统特朗普在白宫椭圆形办公室会晤。",
+          "url": "https://flash.jin10.com/detail/20260728230530898800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "特朗普力挺沃什降息，喊美国利率要全球最低，炮轰美联储“阻降派”",
@@ -354,6 +365,39 @@
           "time_info": "[05时19分 ~ 05时20分]"
         },
         {
+          "title": "以色列总理内塔尼亚胡抵达白宫与统特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20260728225729492800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "市场消息：乌克兰总统泽连斯基与特朗普的会晤结束，泽连斯基将离开白宫。",
+          "url": "https://flash.jin10.com/detail/20260728225717063800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "市场消息：特朗普将于美国东部时间上午（北京时间晚上）11点迎接以色列总理内塔尼亚胡。",
+          "url": "https://flash.jin10.com/detail/20260728225242613800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "美国总统特朗普：关税对通用汽车(GM.N)的影响真是惊人。",
           "url": "https://flash.jin10.com/detail/20260728023159967800",
           "source": "金十数据",
@@ -385,6 +429,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
+        },
+        {
+          "title": "特朗普关税收入成了美国财政“救命钱”？加图研究所：债市根本不买账",
+          "url": "https://flash.jin10.com/detail/20260728223713254800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "据PunchBowl News：美国官员称，美国总统特朗普将与以色列总理内塔尼亚胡讨论伊朗及《亚伯拉罕协议》。",
@@ -429,13 +484,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "特朗普与泽连斯基在白宫会面",
+          "url": "https://flash.jin10.com/detail/20260728222606971800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
+          "url": "https://wallstreetcn.com/articles/3778058",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 23时27分]"
+        },
         {
           "title": "美股高开低走，存储大跌、阿斯麦跌8%自动停牌，布油一度大跌7%、债市走强",
           "url": "https://wallstreetcn.com/articles/3777993",
@@ -447,18 +525,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时05分 ~ 05时20分]"
-        },
-        {
-          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
-          "url": "https://wallstreetcn.com/articles/3778058",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 20时03分]"
         },
         {
           "title": "美伊暂停交火提振市场情绪 美股期指上涨 油价大幅回落 | 今夜看点",
@@ -536,13 +602,24 @@
           "time_info": "[01时05分 ~ 07时13分]"
         },
         {
+          "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2439316",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "汇丰雷打不动看多美股：维持“顶格超配”！",
           "url": "https://flash.jin10.com/detail/20260728194952864800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         },
@@ -614,21 +691,76 @@
           "time_info": "[05时19分 ~ 05时20分]"
         },
         {
+          "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778135",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "美股异动｜波音涨超5%，自由现金流回暖+积压订单创新高",
+          "url": "https://www.gelonghui.com/news/5276500",
+          "source": "格隆汇",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "美股异动｜可口可乐涨超7%创新高，受惠于世界杯期间需求增长+上调全年业绩指引",
+          "url": "https://www.gelonghui.com/news/5276499",
+          "source": "格隆汇",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "美股异动丨资金从芯片股轮动至SaaS概念，Adobe、SAP涨超5%",
+          "url": "https://www.gelonghui.com/news/5276498",
+          "source": "格隆汇",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "美股跌完韩股跌！美韩科技股联动性飙升，分散投资优势逐步消退",
           "url": "https://www.cls.cn/detail/2438661",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
+        },
+        {
+          "title": "美股异动丨芯片股抛售潮拖累韩股暴跌超10%，3倍做多韩国ETF重挫超20%",
+          "url": "https://www.gelonghui.com/news/5276494",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
@@ -764,15 +896,37 @@
           "time_info": "03时46分"
         },
         {
+          "title": "效仿伊朗扼住中东原油命门？也门政府警告：胡塞武装或控制曼德海峡",
+          "url": "https://www.cls.cn/detail/2439032",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "伊朗政府：伊朗道路部长法尔扎内·萨迪格在土库曼斯坦与土库曼总统、交通部长及外交部长进行了富有成果的会谈，重点讨论了加强运输车队、基础设施以及天然气和电力领域的能源合作。",
           "url": "https://flash.jin10.com/detail/20260728193823710800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
+        },
+        {
+          "title": "伊朗军方警告不要接受美国使用伊资产进行“赔偿”",
+          "url": "https://flash.jin10.com/detail/20260728223451735800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "伊朗外长与日本外相在通话中就合作应对海峡安全问题进行了讨论。",
@@ -781,7 +935,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         },
@@ -792,7 +946,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         }
