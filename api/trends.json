@@ -1,14 +1,25 @@
 {
-  "generated_at": "2026-07-29T07:09:04.471929+08:00",
-  "total_titles_processed": 168,
+  "generated_at": "2026-07-29T11:24:05.220721+08:00",
+  "total_titles_processed": 256,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "伊朗称在霍尔木兹海峡拦截3艘“违规”油轮",
+          "url": "https://flash.jin10.com/detail/20260729111612274800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 11时24分]"
+        },
         {
           "title": "据CNN：一名美国官员称，初步估计显示，伊朗在此次袭击中发射的弹道导弹不超过4枚。",
           "url": "https://flash.jin10.com/detail/20260729064359841800",
@@ -30,6 +41,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时08分 ~ 07时09分]"
+        },
+        {
+          "title": "美沙联军空袭伊拉克境内“与伊朗结盟恐怖分子”",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2977547.html",
+          "source": "联合早报",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 11时24分]"
         },
         {
           "title": "伊朗副外长：德黑兰向阿曼提议，由伊朗负责管理霍尔木兹海峡一侧的单向航运通行，阿曼则负责管理另一侧的通行。",
@@ -75,6 +97,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时08分 ~ 07时09分]"
+        },
+        {
+          "title": "伊朗拒绝阿曼方案 要求掌握霍尔木兹海峡最大控制权",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2977544.html",
+          "source": "联合早报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 11时24分]"
+        },
+        {
+          "title": "据伊朗媒体Fars News：也门武装部队发言人称，击落了一架沙特的“卡里亚尔”侦察机。",
+          "url": "https://flash.jin10.com/detail/20260729111118972800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 11时24分]"
+        },
+        {
+          "title": "7月29日投资避雷针：伊朗发射多枚导弹袭击驻中东美军 WTI原油期货早盘一度涨超5%",
+          "url": "https://www.cls.cn/detail/2439585",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 11时24分]"
         },
         {
           "title": "对约旦的最新袭击是自上周五美国暂停对伊朗的攻击以来，伊朗首次对该地区的美国基地发起导弹攻击。",
@@ -300,18 +355,43 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
           "url": "https://www.cls.cn/detail/2439316",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时42分 ~ 07时09分]"
+          "appearance_count": 7,
+          "time_info": "[01时42分 ~ 11时24分]"
+        },
+        {
+          "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778135",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时42分 ~ 11时24分]"
+        },
+        {
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 11时24分]"
         },
         {
           "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
@@ -325,17 +405,16 @@
           "time_info": "[01时42分 ~ 03时44分]"
         },
         {
-          "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778135",
-          "source": "华尔街见闻",
+          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
+          "url": "https://www.cls.cn/detail/2439531",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            6,
-            5
+            9,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时42分 ~ 07时09分]"
+          "appearance_count": 4,
+          "time_info": "[07时08分 ~ 11时24分]"
         },
         {
           "title": "美股异动｜波音涨超5%，自由现金流回暖+积压订单创新高",
@@ -383,15 +462,26 @@
           "time_info": "[07时08分 ~ 07时09分]"
         },
         {
-          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
-          "url": "https://www.cls.cn/detail/2439531",
-          "source": "财联社热门",
+          "title": "美股异动丨恩智浦半导体夜盘跌超4%，Q3业绩指引较市场预期更为谨慎",
+          "url": "https://www.gelonghui.com/news/5276574",
+          "source": "格隆汇",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时08分 ~ 07时09分]"
+          "time_info": "[11时23分 ~ 11时24分]"
+        },
+        {
+          "title": "美股异动丨福特汽车夜盘涨近4%，Q2业绩超预期+全面上调全年展望",
+          "url": "https://www.gelonghui.com/news/5276568",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 11时24分]"
         },
         {
           "title": "受希捷科技(STX.O)财报提振，美股存储芯片概念股盘后走高，西部数据(WDC.O)涨6.5%，SK海力士(SKHY.O)涨2.5%，美光科技(MU.O)涨0.8%，闪迪(SNDK.O)涨1%，希捷科技(STX.O)一度涨9%。",
@@ -408,7 +498,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "特朗普称美伊谈判进展顺利 重申打击核设施威胁",
@@ -442,6 +532,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "特朗普为沙特敞开铀浓缩之门，引发核扩散担忧",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2977537.html",
+          "source": "联合早报",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 11时24分]"
+        },
+        {
+          "title": "特朗普全球新关税对中国影响有限",
+          "url": "https://www.zaochenbao.com/news/china/202607/2977535.html",
+          "source": "联合早报",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 11时24分]"
+        },
+        {
+          "title": "特朗普的伊朗困境：拥有压倒性的武力却进退维谷",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2977534.html",
+          "source": "联合早报",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 11时24分]"
         },
         {
           "title": "内塔尼亚胡称与特朗普进行了一次“极佳的会晤”",
@@ -510,6 +633,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "华尔街11个季度来首次下调金价预测，但央行买盘仍力挺多头",
+          "url": "https://flash.jin10.com/detail/20260729111207271800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 11时24分]"
         }
       ]
     }
