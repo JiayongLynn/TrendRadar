@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-29T14:40:08.925732+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-07-29T17:46:43.106009+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "伊朗称在霍尔木兹海峡拦截3艘“违规”油轮",
@@ -32,15 +32,17 @@
           "time_info": "[07时08分 ~ 07时09分]"
         },
         {
-          "title": "路透：伊朗数周内将接收中国肩射式防空导弹系统",
-          "url": "https://www.zaochenbao.com/news/politics/202607/2977557.html",
+          "title": "美沙联军空袭伊拉克境内“与伊朗结盟恐怖分子”",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2977547.html",
           "source": "联合早报",
           "ranks": [
-            4
+            5,
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 14时40分]"
+          "appearance_count": 5,
+          "time_info": "[11时23分 ~ 17时46分]"
         },
         {
           "title": "非正式停火告吹 伊朗今晨向美军基地发射导弹 原油大涨4%",
@@ -52,18 +54,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时08分 ~ 07时09分]"
-        },
-        {
-          "title": "美沙联军空袭伊拉克境内“与伊朗结盟恐怖分子”",
-          "url": "https://www.zaochenbao.com/news/politics/202607/2977547.html",
-          "source": "联合早报",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时23分 ~ 14时40分]"
         },
         {
           "title": "伊朗副外长：德黑兰向阿曼提议，由伊朗负责管理霍尔木兹海峡一侧的单向航运通行，阿曼则负责管理另一侧的通行。",
@@ -98,6 +88,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时42分 ~ 07时09分]"
+        },
+        {
+          "title": "路透：伊朗数周内将接收中国肩射式防空导弹系统",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2977557.html",
+          "source": "联合早报",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时39分 ~ 17时46分]"
         },
         {
           "title": "伊朗拒绝阿曼方案 要求掌握霍尔木兹海峡最大控制权",
@@ -300,6 +302,17 @@
           "time_info": "03时44分"
         },
         {
+          "title": "美军称伊朗发动突袭 国际油价一度涨超5%",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2977563.html",
+          "source": "联合早报",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
           "title": "市场消息：伊朗外交部长与乌克兰外长通电话。",
           "url": "https://flash.jin10.com/detail/20260729010151022800",
           "source": "金十数据",
@@ -309,6 +322,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "伊朗称导弹打击约旦境內美军基地",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2977562.html",
+          "source": "联合早报",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         },
         {
           "title": "伊朗副外长：我们关闭霍尔木兹海峡的目标是自我防卫，而不是损害巴基斯坦等友好国家。",
@@ -369,8 +393,21 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778135",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时42分 ~ 17时46分]"
+        },
         {
           "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
           "url": "https://www.cls.cn/detail/2439316",
@@ -384,30 +421,6 @@
           "time_info": "[01时42分 ~ 11时24分]"
         },
         {
-          "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778135",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时42分 ~ 14时40分]"
-        },
-        {
-          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时23分 ~ 14时40分]"
-        },
-        {
           "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
           "url": "https://www.cls.cn/detail/2439531",
           "source": "财联社热门",
@@ -418,6 +431,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时08分 ~ 14时40分]"
+        },
+        {
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时23分 ~ 17时46分]"
         },
         {
           "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
@@ -496,6 +521,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时23分 ~ 11时24分]"
+        },
+        {
+          "title": "FOMC和巨头财报在即，市场严阵以待！美股存储股盘前续跌，韩股连续两日暴跌熔断，油价涨超3%",
+          "url": "https://wallstreetcn.com/articles/3778176",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
+          "title": "美股异动丨波士顿科学盘前涨3% 重组计划提振信心+Q2财报明日揭晓",
+          "url": "https://www.gelonghui.com/news/5276841",
+          "source": "格隆汇",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         },
         {
           "title": "受希捷科技(STX.O)财报提振，美股存储芯片概念股盘后走高，西部数据(WDC.O)涨6.5%，SK海力士(SKHY.O)涨2.5%，美光科技(MU.O)涨0.8%，闪迪(SNDK.O)涨1%，希捷科技(STX.O)一度涨9%。",
