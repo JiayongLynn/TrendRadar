@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-29T20:21:08.967650+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2026-07-29T23:14:15.712577+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "美沙联军空袭伊拉克境内“与伊朗结盟恐怖分子”",
@@ -102,6 +102,18 @@
           "time_info": "[01时42分 ~ 07时09分]"
         },
         {
+          "title": "美军称伊朗发动突袭 国际油价一度涨超5%",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2977563.html",
+          "source": "联合早报",
+          "ranks": [
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时46分 ~ 23时14分]"
+        },
+        {
           "title": "伊朗拒绝阿曼方案 要求掌握霍尔木兹海峡最大控制权",
           "url": "https://www.zaochenbao.com/news/politics/202607/2977544.html",
           "source": "联合早报",
@@ -114,6 +126,18 @@
           "time_info": "[11时23分 ~ 14时40分]"
         },
         {
+          "title": "拒绝阿曼“霍尔木兹海峡”提案、要求更多控制权，伊朗再向美军基地发射导弹",
+          "url": "https://wallstreetcn.com/articles/3778174",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时20分 ~ 23时14分]"
+        },
+        {
           "title": "7月29日投资避雷针：伊朗发射多枚导弹袭击驻中东美军 WTI原油期货早盘一度涨超5%",
           "url": "https://www.cls.cn/detail/2439585",
           "source": "财联社热门",
@@ -124,17 +148,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时23分 ~ 14时40分]"
-        },
-        {
-          "title": "美军称伊朗发动突袭 国际油价一度涨超5%",
-          "url": "https://www.zaochenbao.com/news/politics/202607/2977563.html",
-          "source": "联合早报",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时46分 ~ 20时21分]"
         },
         {
           "title": "伊朗称导弹打击约旦境內美军基地",
@@ -168,17 +181,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时23分 ~ 11时24分]"
-        },
-        {
-          "title": "拒绝阿曼“霍尔木兹海峡”提案、要求更多控制权，伊朗再向美军基地发射导弹",
-          "url": "https://wallstreetcn.com/articles/3778174",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时20分 ~ 20时21分]"
         },
         {
           "title": "对约旦的最新袭击是自上周五美国暂停对伊朗的攻击以来，伊朗首次对该地区的美国基地发起导弹攻击。",
@@ -225,6 +227,17 @@
           "time_info": "[07时08分 ~ 07时09分]"
         },
         {
+          "title": "美国财政部：制裁目标指向伊朗的霍尔木兹海峡“勒索网络”。",
+          "url": "https://flash.jin10.com/detail/20260729223413360800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
+        },
+        {
           "title": "伊朗反驳有关寻求与美谈判的说法",
           "url": "https://flash.jin10.com/detail/20260729194257136800",
           "source": "金十数据",
@@ -236,6 +249,17 @@
           "time_info": "[20时20分 ~ 20时21分]"
         },
         {
+          "title": "市场消息：伊拉克20人在美沙空袭中遇难，其中包括五名伊朗人。",
+          "url": "https://flash.jin10.com/detail/20260729223221994800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
+        },
+        {
           "title": "乌克兰伊朗外长就袭船事件通电话",
           "url": "https://flash.jin10.com/detail/20260729055535836800",
           "source": "金十数据",
@@ -245,6 +269,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时08分 ~ 07时09分]"
+        },
+        {
+          "title": "美国财政部：今日对伊朗的制裁针对霍尔木兹（相关）货币化行为。",
+          "url": "https://flash.jin10.com/detail/20260729223158901800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗与美国之间的持续不断交换信息，并通过不同渠道进行沟通的说法是假新闻。",
@@ -426,8 +461,21 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时23分 ~ 23时14分]"
+        },
         {
           "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
           "url": "https://wallstreetcn.com/articles/3778135",
@@ -454,19 +502,6 @@
           "time_info": "[01时42分 ~ 11时24分]"
         },
         {
-          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时23分 ~ 20时21分]"
-        },
-        {
           "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
           "url": "https://www.cls.cn/detail/2439531",
           "source": "财联社热门",
@@ -488,6 +523,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 03时44分]"
+        },
+        {
+          "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
+          "url": "https://wallstreetcn.com/articles/3778176",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
         },
         {
           "title": "FOMC和巨头财报在即，市场严阵以待！美股存储股盘前续跌，韩股连续两日暴跌熔断，油价涨超3%",
@@ -536,6 +582,17 @@
           "time_info": "[01时42分 ~ 05时16分]"
         },
         {
+          "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2440482",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
+        },
+        {
           "title": "美股三大股指期货短线小幅下挫，道指期货跌0.13%，标普500指数期货跌0.08%，纳指期货跌0.02%。",
           "url": "https://flash.jin10.com/detail/20260729062508619800",
           "source": "金十数据",
@@ -556,6 +613,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时23分 ~ 11时24分]"
+        },
+        {
+          "title": "美股异动丨现货黄金跌破4000美元，黄金白银集体走低",
+          "url": "https://www.gelonghui.com/news/5277180",
+          "source": "格隆汇",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
         },
         {
           "title": "美股异动丨福特汽车夜盘涨近4%，Q2业绩超预期+全面上调全年展望",
@@ -594,7 +662,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普称美伊谈判进展顺利 重申打击核设施威胁",
@@ -606,6 +674,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时42分 ~ 07时09分]"
+        },
+        {
+          "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
+          "url": "https://www.cls.cn/detail/2440511",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
+        },
+        {
+          "title": "布油冲破87美元！特朗普警告：将对伊朗“大力打击”",
+          "url": "https://wallstreetcn.com/articles/3778237",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
         },
         {
           "title": "以色列发言人：在美国总统特朗普与以色列总理内塔尼亚胡的会晤中未讨论土耳其和F-35问题。",
@@ -640,6 +730,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时23分 ~ 14时40分]"
+        },
+        {
+          "title": "泽连斯基：与特朗普讨论重启俄乌和谈",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2977586.html",
+          "source": "联合早报",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
         },
         {
           "title": "特朗普为沙特敞开铀浓缩之门，引发核扩散担忧",
