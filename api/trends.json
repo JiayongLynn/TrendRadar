@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T16:42:16.515912+08:00",
-  "total_titles_processed": 369,
+  "generated_at": "2026-07-30T19:16:55.620267+08:00",
+  "total_titles_processed": 435,
   "failed_sources": [
     "36kr"
   ],
@@ -192,8 +192,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时05分 ~ 16时42分]"
+          "appearance_count": 7,
+          "time_info": "[07时05分 ~ 19时16分]"
         },
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
@@ -233,6 +233,20 @@
           "time_info": "[01时24分 ~ 05时05分]"
         },
         {
+          "title": "特朗普暂停伊朗战事面临武器短缺？台海安全堪忧？",
+          "url": "https://www.zaochenbao.com/news/taiwan/202607/3077617.html",
+          "source": "联合早报",
+          "ranks": [
+            13,
+            14,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时56分 ~ 19时16分]"
+        },
+        {
           "title": "最新民调：超七成美国人指责特朗普施政偏离核心议题",
           "url": "https://www.zaochenbao.com/news/politics/202607/3077625.html",
           "source": "联合早报",
@@ -243,19 +257,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时56分 ~ 13时51分]"
-        },
-        {
-          "title": "特朗普暂停伊朗战事面临武器短缺？台海安全堪忧？",
-          "url": "https://www.zaochenbao.com/news/taiwan/202607/3077617.html",
-          "source": "联合早报",
-          "ranks": [
-            13,
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时56分 ~ 16时42分]"
         },
         {
           "title": "泽连斯基：与特朗普讨论重启俄乌和谈",
@@ -285,11 +286,12 @@
           "url": "https://www.zaochenbao.com/news/politics/202607/3077640.html",
           "source": "联合早报",
           "ranks": [
-            8
+            8,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时41分 ~ 16时42分]"
+          "appearance_count": 3,
+          "time_info": "[16时41分 ~ 19时16分]"
         },
         {
           "title": "降息希望落空！特朗普再次力挺沃什 矛头直指美联储理事会",
@@ -361,7 +363,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 12,
       "titles": [
         {
           "title": "涉助伊朗秘密运送石油 美国制裁陆港六实体",
@@ -370,11 +372,12 @@
           "ranks": [
             3,
             4,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时56分 ~ 16时42分]"
+          "appearance_count": 6,
+          "time_info": "[10时56分 ~ 19时16分]"
         },
         {
           "title": "据伊朗法尔斯通讯社：阿拉伯消息人士称，伊拉克埃尔比勒传出数声爆炸声。",
@@ -388,15 +391,49 @@
           "time_info": "[13时50分 ~ 13时51分]"
         },
         {
+          "title": "伊朗声称击中美军F-35战机",
+          "url": "https://flash.jin10.com/detail/20260730185112421800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "被指将向伊朗提供400套导弹发射器 中国外交部：与事实不符",
+          "url": "https://www.zaochenbao.com/news/politics/202607/3077661.html",
+          "source": "联合早报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "美军空袭伊朗数十个革命卫队目标 回应驻中东基地遇袭",
           "url": "https://www.zaochenbao.com/news/politics/202607/3077647.html",
           "source": "联合早报",
           "ranks": [
-            1
+            1,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时41分 ~ 16时42分]"
+          "appearance_count": 3,
+          "time_info": "[16时41分 ~ 19时16分]"
+        },
+        {
+          "title": "巴基斯坦与伊朗达成协议，确保LNG船安全通行",
+          "url": "https://flash.jin10.com/detail/20260730185056625800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "拒绝阿曼“霍尔木兹海峡”提案、要求更多控制权，伊朗再向美军基地发射导弹",
@@ -421,6 +458,17 @@
           "time_info": "10时56分"
         },
         {
+          "title": "伊朗伊斯兰革命卫队：当地时间周四上午袭击了约旦的美军基地。",
+          "url": "https://flash.jin10.com/detail/20260730184525154800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "美沙空袭伊拉克致4名伊朗革命卫队成员身亡",
           "url": "https://flash.jin10.com/detail/20260730030356938800",
           "source": "金十数据",
@@ -430,13 +478,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
+        },
+        {
+          "title": "据伊朗劳工新闻通讯社（ILNA）：伊朗方面表示与阿曼就霍尔木兹海峡管理的谈判仍在继续。",
+          "url": "https://flash.jin10.com/detail/20260730184106307800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "市场消息：巴基斯坦在与伊朗的协议中，确保了液化天然气运输的安全通行。",
+          "url": "https://flash.jin10.com/detail/20260730183840606800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "欧盟委员会发言人：ChatGPT和Roblox均已宣布用户数量超过数字服务法（DSA）阈值。",
+          "url": "https://flash.jin10.com/detail/20260730185354553800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
         {
           "title": "微软(MSFT.O)：第四财季OpenAI投资对每股收益的影响为-7美分。",
           "url": "https://flash.jin10.com/detail/20260730041831120800",
@@ -447,6 +528,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
+        },
+        {
+          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
+          "url": "https://www.cls.cn/detail/2441076",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "OpenAI：今年夏天将以1万名研究人员为起点。",
@@ -521,11 +613,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时05分 ~ 16时42分]"
+          "appearance_count": 7,
+          "time_info": "[07时05分 ~ 19时16分]"
         }
       ]
     }
