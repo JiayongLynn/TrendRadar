@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T00:06:00.700799+08:00",
-  "total_titles_processed": 96,
+  "generated_at": "2026-08-01T02:26:05.326365+08:00",
+  "total_titles_processed": 120,
   "failed_sources": [
     "36kr"
   ],
@@ -32,6 +32,17 @@
           "time_info": "[00时05分 ~ 00时06分]"
         },
         {
+          "title": "特朗普下令 禁止含关键矿产电子垃圾出口",
+          "url": "https://www.zaochenbao.com/news/politics/202607/3177749.html",
+          "source": "联合早报",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时26分]"
+        },
+        {
           "title": "美国总统特朗普：我们与委内瑞拉关系很好。",
           "url": "https://flash.jin10.com/detail/20260731234649317800",
           "source": "金十数据",
@@ -59,17 +70,6 @@
           "source": "金十数据",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 00时06分]"
-        },
-        {
-          "title": "特朗普下令 禁止含关键矿产电子垃圾出口",
-          "url": "https://www.zaochenbao.com/news/politics/202607/3177749.html",
-          "source": "联合早报",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -133,48 +133,20 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
-          "url": "https://wallstreetcn.com/articles/3778379",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 00时06分]"
-        },
-        {
-          "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
-          "url": "https://www.cls.cn/detail/2442818",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 00时06分]"
-        },
-        {
-          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2442973",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 00时06分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "伊朗政府：伊朗外长阿拉格奇与印度外长苏杰生通电话，讨论了双边关系及地区最新局势。",
+          "url": "https://flash.jin10.com/detail/20260801015450418800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 02时26分]"
+        },
         {
           "title": "伊朗：打击两艘欲借美军护航通过霍尔木兹海峡的油轮",
           "url": "https://www.zaochenbao.com/news/politics/202607/3177750.html",
@@ -183,8 +155,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 00时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时26分]"
+        },
+        {
+          "title": "伊朗称打击科威特美军目标",
+          "url": "https://www.zaochenbao.com/news/politics/202607/3177725.html",
+          "source": "联合早报",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时26分]"
         },
         {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：科威特发生爆炸。",
@@ -196,17 +179,47 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时05分 ~ 00时06分]"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
         {
-          "title": "伊朗称打击科威特美军目标",
-          "url": "https://www.zaochenbao.com/news/politics/202607/3177725.html",
-          "source": "联合早报",
+          "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
+          "url": "https://wallstreetcn.com/articles/3778379",
+          "source": "华尔街见闻",
           "ranks": [
-            26
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 00时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时26分]"
+        },
+        {
+          "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
+          "url": "https://www.cls.cn/detail/2442818",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时26分]"
+        },
+        {
+          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2442973",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时26分]"
         }
       ]
     },
@@ -222,8 +235,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 00时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时26分]"
         }
       ]
     }
