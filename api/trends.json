@@ -1,13 +1,108 @@
 {
-  "generated_at": "2026-07-31T04:20:23.880984+08:00",
-  "total_titles_processed": 146,
+  "generated_at": "2026-07-31T08:11:43.684927+08:00",
+  "total_titles_processed": 185,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
+          "url": "https://wallstreetcn.com/articles/3778237",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 04时20分]"
+        },
+        {
+          "title": "特朗普：若中国向伊朗提供武器 我会感到失望",
+          "url": "https://www.zaochenbao.com/news/politics/202607/3077679.html",
+          "source": "联合早报",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 08时11分]"
+        },
+        {
+          "title": "美国参议院以49比50的投票结果否决了一项决议。该决议要求特朗普在未获国会授权的情况下停止对伊朗采取敌对行动。",
+          "url": "https://flash.jin10.com/detail/20260731020234480800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        },
+        {
+          "title": "据美国保守派新闻Daily Wire：由于“需求极其旺盛”，美国国务院将再次发行25万本印有美国总统特朗普肖像的“爱国者护照”。",
+          "url": "https://flash.jin10.com/detail/20260731032815618800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "英媒：特朗普称尚未决定是否允许乌克兰生产爱国者导弹",
+          "url": "https://flash.jin10.com/detail/20260731074119229800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
+        },
+        {
+          "title": "美国官员：未要求以色列同意任何不包含在早前计划中的事项。如果以色列不同意，美国总统特朗普将感到失望。",
+          "url": "https://flash.jin10.com/detail/20260731074100248800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
+        },
+        {
+          "title": "据英国金融时报：美国总统特朗普称其高级顾问库什纳和中东问题特使威特科夫将在未来几天首次访问乌克兰。",
+          "url": "https://flash.jin10.com/detail/20260731073629466800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
+        },
+        {
+          "title": "美国总统特朗普：“并不确定”是否会允许乌克兰建造爱国者导弹。",
+          "url": "https://flash.jin10.com/detail/20260731073406103800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "参议院共和党人成功阻挠旨在停止对伊朗战争的决议",
@@ -43,6 +138,17 @@
           "time_info": "02时24分"
         },
         {
+          "title": "美国官员：伊朗试图说服哈马斯不达成协议，但美国成功克服了这一障碍。",
+          "url": "https://flash.jin10.com/detail/20260731074304991800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
+        },
+        {
           "title": "伊朗军队称打击美军在巴林空军基地",
           "url": "https://flash.jin10.com/detail/20260731015154743800",
           "source": "金十数据",
@@ -60,7 +166,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -139,58 +245,8 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
-          "url": "https://wallstreetcn.com/articles/3778237",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 04时20分]"
-        },
-        {
-          "title": "特朗普：若中国向伊朗提供武器 我会感到失望",
-          "url": "https://www.zaochenbao.com/news/politics/202607/3077679.html",
-          "source": "联合早报",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 04时20分]"
-        },
-        {
-          "title": "美国参议院以49比50的投票结果否决了一项决议。该决议要求特朗普在未获国会授权的情况下停止对伊朗采取敌对行动。",
-          "url": "https://flash.jin10.com/detail/20260731020234480800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "据美国保守派新闻Daily Wire：由于“需求极其旺盛”，美国国务院将再次发行25万本印有美国总统特朗普肖像的“爱国者护照”。",
-          "url": "https://flash.jin10.com/detail/20260731032815618800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "亚马逊、苹果将于7月30日美股盘后公布财报。",
@@ -199,7 +255,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -215,6 +271,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时42分 ~ 04时20分]"
+        },
+        {
+          "title": "美股收盘：满屏都是两位数涨幅 微软单日市值暴增3万亿",
+          "url": "https://www.cls.cn/detail/2441995",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
         },
         {
           "title": "美股异动｜光通信概念股大涨，迈威尔科技涨超12%，康宁涨超7%",
@@ -238,11 +305,12 @@
           "url": "https://www.cls.cn/detail/2441076",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 08时11分]"
         },
         {
           "title": "据英国金融时报：因巨额亏损，由前OpenAI研究员Leopold Aschenbrenner创立、管理规模达240亿美元的对冲基金Situational Awareness已将其160亿美元公开股票持仓中的很大一部分快速出售给了Citadel。",
@@ -272,6 +340,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时42分 ~ 04时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "大奇迹日！美通胀降温与微软大涨刺激，美芯片指数暴涨8%，纳指大反弹，日元急涨美元跳水",
+          "url": "https://wallstreetcn.com/articles/3778287",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
         }
       ]
     }
