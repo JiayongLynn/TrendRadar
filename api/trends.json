@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-01T08:07:41.749099+08:00",
-  "total_titles_processed": 185,
+  "generated_at": "2026-08-01T12:27:14.200388+08:00",
+  "total_titles_processed": 238,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普下令 禁止含关键矿产电子垃圾出口",
@@ -72,11 +72,12 @@
           "url": "https://www.zaochenbao.com/news/politics/202608/0177766.html",
           "source": "联合早报",
           "ranks": [
-            3
+            3,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时07分 ~ 12时27分]"
         },
         {
           "title": "白宫：特朗普认定未来4年对进口石英表面产品实施关税配额是适当的。",
@@ -113,6 +114,17 @@
           "time_info": "[00时05分 ~ 00时06分]"
         },
         {
+          "title": "为迫使伊朗让步 特朗普下令准备新一轮袭击",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0177778.html",
+          "source": "联合早报",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
+        },
+        {
           "title": "白宫：特朗普签署公告，促进美国对石英表面产品进口竞争作出积极调整。",
           "url": "https://flash.jin10.com/detail/20260801050448584800",
           "source": "金十数据",
@@ -134,6 +146,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时05分 ~ 00时06分]"
+        },
+        {
+          "title": "被特朗普“断油”半年，古巴为什么还没崩溃？",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0177777.html",
+          "source": "联合早报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
+        },
+        {
+          "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
+          "url": "https://wallstreetcn.com/articles/3778460",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
+        },
+        {
+          "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
+          "url": "https://www.cls.cn/detail/2443172",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
         },
         {
           "title": "乌克兰总统泽连斯基：讨论了最近在华盛顿与特朗普会晤的结果——这次会议积极且富有成效。",
@@ -194,7 +239,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "伊朗：打击两艘欲借美军护航通过霍尔木兹海峡的油轮",
@@ -220,13 +265,24 @@
           "time_info": "[02时25分 ~ 02时26分]"
         },
         {
+          "title": "消息：美以拟对伊朗能源设施发动迄今最猛烈轰炸",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0177780.html",
+          "source": "联合早报",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
+        },
+        {
           "title": "据塔斯尼姆通讯社：一位伊朗高级安全官员表示，伊朗认为美国和以色列可能袭击伊朗基础设施的计划是一种鲁莽行为。伊朗已制定一项全面的计划，包括打击以色列关键基础设施，以及该地区美国能源基础设施。",
           "url": "https://flash.jin10.com/detail/20260801062202634800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -248,9 +304,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        },
+        {
+          "title": "伊朗“波斯湾海峡管理局”宣布霍尔木兹海峡暂停通行",
+          "url": "https://wallstreetcn.com/articles/3778449",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
         },
         {
           "title": "据CBS：美国和以色列正准备最早于本周末轰炸伊朗的能源相关目标。",
@@ -302,8 +369,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时05分 ~ 08时07分]"
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 12时27分]"
         },
         {
           "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
@@ -317,6 +384,18 @@
           "time_info": "[00时05分 ~ 06时12分]"
         },
         {
+          "title": "美股收盘：超级权重托举指数V型反转 中国金龙指数五连阳",
+          "url": "https://www.cls.cn/detail/2443155",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时07分 ~ 12时27分]"
+        },
+        {
           "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
           "url": "https://www.cls.cn/detail/2442973",
           "source": "财联社热门",
@@ -328,17 +407,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时05分 ~ 08时07分]"
-        },
-        {
-          "title": "美股收盘：超级权重托举指数V型反转 中国金龙指数五连阳",
-          "url": "https://www.cls.cn/detail/2443155",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时07分"
         },
         {
           "title": "金十图示：2026年07月31日（周五）美股热门股票行情一览（美股收盘）",
@@ -422,11 +490,12 @@
           "url": "https://wallstreetcn.com/articles/3778448",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时07分 ~ 12时27分]"
         }
       ]
     },
@@ -487,9 +556,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时07分 ~ 12时27分]"
         }
       ]
     }
