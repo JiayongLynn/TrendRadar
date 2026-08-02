@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-02T06:03:46.349560+08:00",
-  "total_titles_processed": 149,
+  "generated_at": "2026-08-02T08:04:36.772033+08:00",
+  "total_titles_processed": 165,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
@@ -30,19 +30,30 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 06时03分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 08时04分]"
         },
         {
-          "title": "特朗普媒体公司推出了Truth API，该付费服务​​使订阅用户可以比普通用户更早实时访问“真相社交媒体”（Truth Social）上的帖子。该服务每月费用高达10万美元，主要面向交易公司和企业。",
-          "url": "https://flash.jin10.com/detail/20260802044624523800",
-          "source": "金十数据",
+          "title": "美媒传特朗普下令周末攻伊朗 分析：若蓄意炸民用目标或构成战争罪",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0277824.html",
+          "source": "联合早报",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时03分"
+          "time_info": "08时04分"
+        },
+        {
+          "title": "美媒：沙特王储对特朗普大规模打击伊朗的计划表示担忧，敦促其保持克制",
+          "url": "https://flash.jin10.com/detail/20260802075912944800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "美国前副总统哈里斯：特朗普是个孤立主义者，口口声声“美国优先”，但由于他未能理解美国所扮演的角色——尽管这一角色并不完美——他已经造成了两方面的后果，第一，让美国看上去不再是可靠的合作伙伴；第二，他让美国如今在全球事务中发挥影响力的权威降至前所未有的低。",
@@ -67,6 +78,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时05分 ~ 04时13分]"
+        },
+        {
+          "title": "特朗普媒体公司推出了Truth API，该付费服务​​使订阅用户可以比普通用户更早实时访问“真相社交媒体”（Truth Social）上的帖子。该服务每月费用高达10万美元，主要面向交易公司和企业。",
+          "url": "https://flash.jin10.com/detail/20260802044624523800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时03分 ~ 08时04分]"
         },
         {
           "title": "美国代理国家情报总监普尔特：在与美国总统特朗普和杰伊·克莱顿讨论后，国家情报总监（DNI）的交接工作定于周一进行。",
@@ -98,11 +121,12 @@
           "source": "金十数据",
           "ranks": [
             11,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 06时03分]"
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 08时04分]"
         },
         {
           "title": "美国总统特朗普：不同意联邦检察官皮罗关于倒影池的看法。",
@@ -149,6 +173,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时07分 ~ 00时08分]"
+        },
+        {
+          "title": "俄对乌发动大规模袭击，摧毁美国公司无人机工厂！俄方：使用陆基、海基远程高精度武器和无人机！特朗普：尚未同意授权乌生产“爱国者”",
+          "url": "https://wallstreetcn.com/articles/3778492",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         }
       ]
     },
@@ -156,17 +191,6 @@
       "keyword_group": "伊朗",
       "match_count": 12,
       "titles": [
-        {
-          "title": "土耳其外长：今天，我与伊朗外长阿拉格齐进行了通话，双方探讨了当前（美伊）谈判进程的最新情况。土耳其将继续为结束本地区冲突并建立持久和平而努力。",
-          "url": "https://flash.jin10.com/detail/20260802054249682800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        },
         {
           "title": "伊朗外长在分别与土耳其外长、巴基斯坦陆军司令通话时警告称，美国不得采取任何“冒险行动”。",
           "url": "https://flash.jin10.com/detail/20260802035505032800",
@@ -192,15 +216,16 @@
           "time_info": "[02时05分 ~ 06时03分]"
         },
         {
-          "title": "阿拉格齐警告美方：伊朗将坚决回应任何侵犯行为",
-          "url": "https://flash.jin10.com/detail/20260802043310117800",
+          "title": "土耳其外长：今天，我与伊朗外长阿拉格齐进行了通话，双方探讨了当前（美伊）谈判进程的最新情况。土耳其将继续为结束本地区冲突并建立持久和平而努力。",
+          "url": "https://flash.jin10.com/detail/20260802054249682800",
           "source": "金十数据",
           "ranks": [
-            5
+            2,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时03分 ~ 08时04分]"
         },
         {
           "title": "伊朗外交部：决心继续走抵抗与坚守之路",
@@ -208,11 +233,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 06时03分]"
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 08时04分]"
         },
         {
           "title": "伊朗外交部声明： 在美国继续违背6月28日停战协议的情况下，持续对伊朗的港口和商业航运实施海上封锁，针对全国各地进行野蛮攻击，加大经济压力和非法威胁，实施对伊朗的侵略行为，我国武装力量的防御打击将全力以赴继续进行。",
@@ -220,11 +246,24 @@
           "source": "金十数据",
           "ranks": [
             5,
-            15
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 08时04分]"
+        },
+        {
+          "title": "阿拉格齐警告美方：伊朗将坚决回应任何侵犯行为",
+          "url": "https://flash.jin10.com/detail/20260802043310117800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时13分 ~ 06时03分]"
+          "time_info": "[06时03分 ~ 08时04分]"
         },
         {
           "title": "美财长称正在全球范围内追查伊朗资产",
@@ -274,6 +313,18 @@
           "time_info": "[02时05分 ~ 02时06分]"
         },
         {
+          "title": "伊朗外长在分别与土耳其外长、巴基斯坦陆军司令通话时警告称，美国不得采取任何“冒险行动”。美国和以色列的任何“侵略”或地区国家的参与都将遭到“果断回应”。",
+          "url": "https://flash.jin10.com/detail/20260802035505032800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时03分 ~ 08时04分]"
+        },
+        {
           "title": "据卡塔尔通讯社：海湾合作委员会秘书长谴责伊朗对科威特平民设施的攻击。",
           "url": "https://flash.jin10.com/detail/20260801202347340800",
           "source": "金十数据",
@@ -283,17 +334,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时07分 ~ 00时08分]"
-        },
-        {
-          "title": "伊朗外长在分别与土耳其外长、巴基斯坦陆军司令通话时警告称，美国不得采取任何“冒险行动”。美国和以色列的任何“侵略”或地区国家的参与都将遭到“果断回应”。",
-          "url": "https://flash.jin10.com/detail/20260802035505032800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时03分"
         }
       ]
     },
@@ -309,8 +349,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 06时03分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 08时04分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -320,8 +360,25 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 06时03分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 08时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
+          "url": "https://wallstreetcn.com/articles/3778497",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         }
       ]
     },
@@ -337,8 +394,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时05分 ~ 06时03分]"
+          "appearance_count": 5,
+          "time_info": "[02时05分 ~ 08时04分]"
         }
       ]
     },
