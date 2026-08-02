@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-02T20:10:44.351467+08:00",
-  "total_titles_processed": 357,
+  "generated_at": "2026-08-02T22:41:50.736023+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
@@ -23,6 +23,17 @@
           "time_info": "[00时07分 ~ 15时37分]"
         },
         {
+          "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
+          "url": "https://wallstreetcn.com/articles/3778504",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时37分 ~ 22时41分]"
+        },
+        {
           "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
           "url": "https://wallstreetcn.com/articles/3778460",
           "source": "华尔街见闻",
@@ -33,17 +44,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时07分 ~ 06时03分]"
-        },
-        {
-          "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
-          "url": "https://wallstreetcn.com/articles/3778504",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时37分 ~ 20时10分]"
         },
         {
           "title": "伊朗军方：特朗普称伊朗要求停止攻击是“谎言”",
@@ -101,6 +101,28 @@
           "time_info": "08时04分"
         },
         {
+          "title": "“人为破坏指控”不成立？特朗普与钦点检察官因倒影池问题生分歧",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0277888.html",
+          "source": "联合早报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "特朗普称伊朗要求停止袭击 伊朗媒体：纯属谎言",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0277887.html",
+          "source": "联合早报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
           "title": "美国前副总统哈里斯：特朗普是个孤立主义者，口口声声“美国优先”，但由于他未能理解美国所扮演的角色——尽管这一角色并不完美——他已经造成了两方面的后果，第一，让美国看上去不再是可靠的合作伙伴；第二，他让美国如今在全球事务中发挥影响力的权威降至前所未有的低。",
           "url": "https://flash.jin10.com/detail/20260802014640512800",
           "source": "金十数据",
@@ -123,6 +145,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时05分 ~ 04时13分]"
+        },
+        {
+          "title": "摩洛哥国王以特朗普命名高速公路 表达感激之情",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0277886.html",
+          "source": "联合早报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "特朗普媒体公司推出了Truth API，该付费服务​​使订阅用户可以比普通用户更早实时访问“真相社交媒体”（Truth Social）上的帖子。该服务每月费用高达10万美元，主要面向交易公司和企业。",
@@ -148,6 +181,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时04分 ~ 15时37分]"
+        },
+        {
+          "title": "特朗普称应伊方要求同意取消打击 伊朗反驳：并未要求停战！",
+          "url": "https://www.cls.cn/detail/2443463",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时05分 ~ 22时41分]"
         },
         {
           "title": "美国代理国家情报总监普尔特：在与美国总统特朗普和杰伊·克莱顿讨论后，国家情报总监（DNI）的交接工作定于周一进行。",
@@ -224,18 +270,6 @@
           "time_info": "[12时29分 ~ 12时30分]"
         },
         {
-          "title": "特朗普称应伊方要求同意取消打击 伊朗反驳：并未要求停战！",
-          "url": "https://www.cls.cn/detail/2443463",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时05分 ~ 20时10分]"
-        },
-        {
           "title": "美国总统特朗普：不同意联邦检察官皮罗关于倒影池的看法。",
           "url": "https://flash.jin10.com/detail/20260802003624770800",
           "source": "金十数据",
@@ -310,7 +344,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时10分"
         },
@@ -340,7 +374,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
@@ -349,11 +383,12 @@
           "ranks": [
             10,
             5,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时29分 ~ 20时10分]"
+          "appearance_count": 6,
+          "time_info": "[12时29分 ~ 22时41分]"
         },
         {
           "title": "伊朗外长在分别与土耳其外长、巴基斯坦陆军司令通话时警告称，美国不得采取任何“冒险行动”。",
@@ -378,6 +413,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时05分 ~ 06时03分]"
+        },
+        {
+          "title": "美国政府在伊朗问题上似乎无法找到更好的出路，挫败感正日益加深",
+          "url": "https://flash.jin10.com/detail/20260802215913060800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "土耳其外长：今天，我与伊朗外长阿拉格齐进行了通话，双方探讨了当前（美伊）谈判进程的最新情况。土耳其将继续为结束本地区冲突并建立持久和平而努力。",
@@ -553,9 +599,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时10分"
+        },
+        {
+          "title": "伊朗代理国防部长：伊朗不会被敌人“打得措手不及”，也不会对这坐视不管。",
+          "url": "https://flash.jin10.com/detail/20260802201957818800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "伊朗称重开霍尔木兹海峡计划纯属谣言",
@@ -564,7 +621,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时10分"
         },
@@ -671,8 +728,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时07分 ~ 20时10分]"
+          "appearance_count": 13,
+          "time_info": "[00时07分 ~ 22时41分]"
         },
         {
           "title": "高盛：7月砸穿拥挤交易，美股牛市没断但更难做了",
