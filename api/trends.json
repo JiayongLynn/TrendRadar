@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-02T12:30:18.833499+08:00",
-  "total_titles_processed": 227,
+  "generated_at": "2026-08-02T15:37:20.287317+08:00",
+  "total_titles_processed": 275,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
@@ -19,8 +19,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 12时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 15时37分]"
         },
         {
           "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
@@ -66,6 +66,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时29分 ~ 12时30分]"
+        },
+        {
+          "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
+          "url": "https://wallstreetcn.com/articles/3778504",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         },
         {
           "title": "美媒传特朗普下令周末攻伊朗 分析：若蓄意炸民用目标或构成战争罪",
@@ -126,6 +137,19 @@
           "time_info": "[06时03分 ~ 08时04分]"
         },
         {
+          "title": "俄对乌发动大规模袭击，摧毁美国公司无人机工厂！俄方：使用陆基、海基远程高精度武器和无人机！特朗普：尚未同意授权乌生产“爱国者”",
+          "url": "https://wallstreetcn.com/articles/3778492",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 15时37分]"
+        },
+        {
           "title": "美国代理国家情报总监普尔特：在与美国总统特朗普和杰伊·克莱顿讨论后，国家情报总监（DNI）的交接工作定于周一进行。",
           "url": "https://flash.jin10.com/detail/20260802010534825800",
           "source": "金十数据",
@@ -148,18 +172,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时05分 ~ 04时13分]"
-        },
-        {
-          "title": "俄对乌发动大规模袭击，摧毁美国公司无人机工厂！俄方：使用陆基、海基远程高精度武器和无人机！特朗普：尚未同意授权乌生产“爱国者”",
-          "url": "https://wallstreetcn.com/articles/3778492",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时04分 ~ 12时30分]"
         },
         {
           "title": "美国总统特朗普：我正在摧毁伊朗货币，伊朗面临严重通胀。",
@@ -252,12 +264,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时07分 ~ 00时08分]"
+        },
+        {
+          "title": "伊朗军方：要求停止攻击是特朗普“说谎”",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0277860.html",
+          "source": "联合早报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "特朗普公布加沙缴械计划 哈马斯向BBC证实同意",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0277856.html",
+          "source": "联合早报",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "分析师：特朗普取消对伊打击，沙特外交斡旋与伊朗承压或是关键因素",
+          "url": "https://flash.jin10.com/detail/20260802133619872800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "伊朗外长在分别与土耳其外长、巴基斯坦陆军司令通话时警告称，美国不得采取任何“冒险行动”。",
@@ -282,6 +327,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时05分 ~ 06时03分]"
+        },
+        {
+          "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
+          "url": "https://wallstreetcn.com/articles/3778501",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时29分 ~ 15时37分]"
         },
         {
           "title": "土耳其外长：今天，我与伊朗外长阿拉格齐进行了通话，双方探讨了当前（美伊）谈判进程的最新情况。土耳其将继续为结束本地区冲突并建立持久和平而努力。",
@@ -381,17 +438,6 @@
           "time_info": "[12时29分 ~ 12时30分]"
         },
         {
-          "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
-          "url": "https://wallstreetcn.com/articles/3778501",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时29分 ~ 12时30分]"
-        },
-        {
           "title": "据沙特媒体哈达斯（alhadath）：约旦方面称，他们已通知伊拉克，如果亲伊朗的民兵攻击约旦，约旦将进行打击。",
           "url": "https://flash.jin10.com/detail/20260802004243455800",
           "source": "金十数据",
@@ -424,6 +470,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时07分 ~ 00时08分]"
+        },
+        {
+          "title": "伊朗商品交易所单日白银入库数量创历史新高",
+          "url": "https://flash.jin10.com/detail/20260802132032906800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "鲁比奥称美国的打击使伊朗更愿意谈判",
+          "url": "https://flash.jin10.com/detail/20260802123339825800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         }
       ]
     },
@@ -440,8 +508,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时04分 ~ 12时30分]"
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 15时37分]"
         },
         {
           "title": "OpenAI：失控AI曾试图入侵其他公司系统",
@@ -480,8 +548,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 12时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 15时37分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -492,19 +560,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 12时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 15时37分]"
         },
         {
           "title": "高盛：7月砸穿拥挤交易，美股牛市没断但更难做了",
           "url": "https://wallstreetcn.com/articles/3778494",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时29分 ~ 12时30分]"
+          "appearance_count": 3,
+          "time_info": "[12时29分 ~ 15时37分]"
         }
       ]
     },
@@ -535,11 +604,12 @@
           "source": "格隆汇",
           "ranks": [
             5,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时05分 ~ 12时30分]"
+          "appearance_count": 8,
+          "time_info": "[02时05分 ~ 15时37分]"
         }
       ]
     },
