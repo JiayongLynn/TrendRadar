@@ -1,10 +1,331 @@
 {
-  "generated_at": "2026-08-03T20:33:43.907711+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-08-03T23:49:41.000918+08:00",
+  "total_titles_processed": 446,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
+    {
+      "keyword_group": "特朗普",
+      "match_count": 27,
+      "titles": [
+        {
+          "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
+          "url": "https://wallstreetcn.com/articles/3778504",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 12时37分]"
+        },
+        {
+          "title": "特朗普称应伊方要求同意取消打击 伊朗反驳：并未要求停战！",
+          "url": "https://www.cls.cn/detail/2443463",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 08时05分]"
+        },
+        {
+          "title": "“人为破坏指控”不成立？特朗普与钦点检察官因倒影池问题生分歧",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0277888.html",
+          "source": "联合早报",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 08时05分]"
+        },
+        {
+          "title": "特朗普称伊朗要求停止袭击 伊朗媒体：纯属谎言",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0277887.html",
+          "source": "联合早报",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 08时05分]"
+        },
+        {
+          "title": "摩洛哥国王以特朗普命名高速公路 表达感激之情",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0277886.html",
+          "source": "联合早报",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 08时05分]"
+        },
+        {
+          "title": "金十整理：特朗普八次叫停对伊打击",
+          "url": "https://flash.jin10.com/detail/20260803044202027800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
+          "url": "https://www.cls.cn/detail/2443662",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 12时37分]"
+        },
+        {
+          "title": "据以色列第12频道：相关人士称，尽管特朗普发表了声明，以色列国防军今天仍保持高度警戒，认为伊朗可能会制造意外情况。",
+          "url": "https://flash.jin10.com/detail/20260803015627779800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 06时02分]"
+        },
+        {
+          "title": "据以色列第12频道：以色列官员估计特朗普可能会再次改变对伊朗的立场。",
+          "url": "https://flash.jin10.com/detail/20260803014329998800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 06时02分]"
+        },
+        {
+          "title": "事关霍尔木兹！特朗普称今日举行谈判，伊朗重申“不会恢复至战前”！",
+          "url": "https://www.cls.cn/detail/2443690",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 16时36分]"
+        },
+        {
+          "title": "特朗普：美国伊朗8月3日启动新一轮谈判",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0377897.html",
+          "source": "联合早报",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 12时37分]"
+        },
+        {
+          "title": "美对伊袭击“靴子仍未落地” 特朗普有条件暂缓打击",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0377896.html",
+          "source": "联合早报",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 12时37分]"
+        },
+        {
+          "title": "据以色列广播公司：以色列官员对伊朗的铀库存以及特朗普政府对德黑兰行为的承诺表示质疑。",
+          "url": "https://flash.jin10.com/detail/20260803013751190800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时05分 ~ 04时15分]"
+        },
+        {
+          "title": "特朗普：美国参与推高日元汇率是为展现两国友谊",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0377909.html",
+          "source": "联合早报",
+          "ranks": [
+            13,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时37分 ~ 20时33分]"
+        },
+        {
+          "title": "市场消息：以色列官员对特朗普在一周内第二次取消对伊朗的计划打击感到沮丧，称这种临时反转破坏了军事计划。以色列现在认为，特朗普更倾向于与伊朗达成协议，而不是升级冲突。",
+          "url": "https://flash.jin10.com/detail/20260803013114997800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时05分 ~ 04时15分]"
+        },
+        {
+          "title": "据以色列广播公司：一位以色列官员表示，特朗普处理事务的方式使得认真准备和规划未来变得困难。",
+          "url": "https://flash.jin10.com/detail/20260803012453800800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时05分 ~ 04时15分]"
+        },
+        {
+          "title": "美日联手干预扶持日元 特朗普指因两国关系良好",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0377951.html",
+          "source": "联合早报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "以称内塔尼亚胡通过特朗普社媒得知美叫停对伊打击",
+          "url": "https://flash.jin10.com/detail/20260803040451593800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "特朗普高调背书美日联手托市、贝森特笔记泄露天机，日元空头瑟瑟发抖",
+          "url": "https://flash.jin10.com/detail/20260803074140973800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "美日联合干预日元 特朗普再提珍珠港",
+          "url": "https://flash.jin10.com/detail/20260803073906442800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "特朗普300个账户为何被关？银行首度开口：反洗钱审查发现“问题交易”",
+          "url": "https://flash.jin10.com/detail/20260803120059466800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "特朗普称伊朗领导层是“双面人” 与伊朗的谈判已经开始",
+          "url": "https://flash.jin10.com/detail/20260803233020887800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "美国总统特朗普：无论伊朗是否愿意承认，我们实际上是在讨论一个他们造成的、持续数十年的问题的解决方案。",
+          "url": "https://flash.jin10.com/detail/20260803232809750800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "美国总统特朗普：霍尔木兹海峡由美国海军控制。",
+          "url": "https://flash.jin10.com/detail/20260803232735817800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "美国总统特朗普：未经美国批准，任何东西都无法进入伊朗。",
+          "url": "https://flash.jin10.com/detail/20260803232658758800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我认为特朗普的考量是，他不想看到全球经济崩溃。",
+          "url": "https://flash.jin10.com/detail/20260803231201879800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "特朗普叫停对伊新打击，称协议“即将达成”，美油开盘暴跌超8%！",
+          "url": "https://flash.jin10.com/detail/20260803064716887800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        }
+      ]
+    },
     {
       "keyword_group": "伊朗",
       "match_count": 27,
@@ -315,263 +636,8 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 21,
-      "titles": [
-        {
-          "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
-          "url": "https://wallstreetcn.com/articles/3778504",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 12时37分]"
-        },
-        {
-          "title": "特朗普称应伊方要求同意取消打击 伊朗反驳：并未要求停战！",
-          "url": "https://www.cls.cn/detail/2443463",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 08时05分]"
-        },
-        {
-          "title": "“人为破坏指控”不成立？特朗普与钦点检察官因倒影池问题生分歧",
-          "url": "https://www.zaochenbao.com/news/politics/202608/0277888.html",
-          "source": "联合早报",
-          "ranks": [
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 08时05分]"
-        },
-        {
-          "title": "特朗普称伊朗要求停止袭击 伊朗媒体：纯属谎言",
-          "url": "https://www.zaochenbao.com/news/politics/202608/0277887.html",
-          "source": "联合早报",
-          "ranks": [
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 08时05分]"
-        },
-        {
-          "title": "摩洛哥国王以特朗普命名高速公路 表达感激之情",
-          "url": "https://www.zaochenbao.com/news/politics/202608/0277886.html",
-          "source": "联合早报",
-          "ranks": [
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 08时05分]"
-        },
-        {
-          "title": "金十整理：特朗普八次叫停对伊打击",
-          "url": "https://flash.jin10.com/detail/20260803044202027800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
-          "url": "https://www.cls.cn/detail/2443662",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 12时37分]"
-        },
-        {
-          "title": "据以色列第12频道：相关人士称，尽管特朗普发表了声明，以色列国防军今天仍保持高度警戒，认为伊朗可能会制造意外情况。",
-          "url": "https://flash.jin10.com/detail/20260803015627779800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时05分 ~ 06时02分]"
-        },
-        {
-          "title": "据以色列第12频道：以色列官员估计特朗普可能会再次改变对伊朗的立场。",
-          "url": "https://flash.jin10.com/detail/20260803014329998800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时05分 ~ 06时02分]"
-        },
-        {
-          "title": "事关霍尔木兹！特朗普称今日举行谈判，伊朗重申“不会恢复至战前”！",
-          "url": "https://www.cls.cn/detail/2443690",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 16时36分]"
-        },
-        {
-          "title": "特朗普：美国伊朗8月3日启动新一轮谈判",
-          "url": "https://www.zaochenbao.com/news/politics/202608/0377897.html",
-          "source": "联合早报",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 12时37分]"
-        },
-        {
-          "title": "美对伊袭击“靴子仍未落地” 特朗普有条件暂缓打击",
-          "url": "https://www.zaochenbao.com/news/politics/202608/0377896.html",
-          "source": "联合早报",
-          "ranks": [
-            3,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 12时37分]"
-        },
-        {
-          "title": "据以色列广播公司：以色列官员对伊朗的铀库存以及特朗普政府对德黑兰行为的承诺表示质疑。",
-          "url": "https://flash.jin10.com/detail/20260803013751190800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 04时15分]"
-        },
-        {
-          "title": "特朗普：美国参与推高日元汇率是为展现两国友谊",
-          "url": "https://www.zaochenbao.com/news/politics/202608/0377909.html",
-          "source": "联合早报",
-          "ranks": [
-            13,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时37分 ~ 20时33分]"
-        },
-        {
-          "title": "市场消息：以色列官员对特朗普在一周内第二次取消对伊朗的计划打击感到沮丧，称这种临时反转破坏了军事计划。以色列现在认为，特朗普更倾向于与伊朗达成协议，而不是升级冲突。",
-          "url": "https://flash.jin10.com/detail/20260803013114997800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 04时15分]"
-        },
-        {
-          "title": "据以色列广播公司：一位以色列官员表示，特朗普处理事务的方式使得认真准备和规划未来变得困难。",
-          "url": "https://flash.jin10.com/detail/20260803012453800800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 04时15分]"
-        },
-        {
-          "title": "以称内塔尼亚胡通过特朗普社媒得知美叫停对伊打击",
-          "url": "https://flash.jin10.com/detail/20260803040451593800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "特朗普高调背书美日联手托市、贝森特笔记泄露天机，日元空头瑟瑟发抖",
-          "url": "https://flash.jin10.com/detail/20260803074140973800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "美日联合干预日元 特朗普再提珍珠港",
-          "url": "https://flash.jin10.com/detail/20260803073906442800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "特朗普300个账户为何被关？银行首度开口：反洗钱审查发现“问题交易”",
-          "url": "https://flash.jin10.com/detail/20260803120059466800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "特朗普叫停对伊新打击，称协议“即将达成”，美油开盘暴跌超8%！",
-          "url": "https://flash.jin10.com/detail/20260803064716887800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "摩根大通警告：美股“挤水分”进入下半场，但抄底时机未到",
@@ -603,9 +669,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
+        },
+        {
+          "title": "美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%",
+          "url": "https://wallstreetcn.com/articles/3778526",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "美股异动丨阿斯利康盘前跌超6%，施贵宝涨超6%，传双方正洽谈合并",
@@ -617,6 +694,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
+        },
+        {
+          "title": "中东紧张局势降温 美股期指上涨、油价重挫 存储股盘前下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2444462",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "美股异动｜SpaceX涨超3%，马斯克回应社交媒体帖：认同当前是买入良机",
+          "url": "https://www.gelonghui.com/news/5279611",
+          "source": "格隆汇",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "8月股票配置调整：日本以外亚洲市场有吸引力，美股......",
@@ -656,7 +755,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
