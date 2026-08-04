@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-04T20:07:48.500585+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2026-08-04T23:31:06.003119+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "霍尔木兹马上开放？特朗普多次遭伊朗“打脸”，仍坚称美伊正谈判！",
@@ -160,6 +160,28 @@
           "time_info": "[03时50分 ~ 05时13分]"
         },
         {
+          "title": "美议员麦考尔：特朗普将提140亿美元对台军售案",
+          "url": "https://www.zaochenbao.com/news/taiwan/202608/0478036.html",
+          "source": "联合早报",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时30分 ~ 23时31分]"
+        },
+        {
+          "title": "消息人士:特朗普政府正在起草针对中国数据中心设备的禁令",
+          "url": "https://www.zaochenbao.com/news/china/202608/0478035.html",
+          "source": "联合早报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时30分 ~ 23时31分]"
+        },
+        {
           "title": "有史以来最大规模铜流入！7月20万吨铜运抵美国，市场等待特朗普铜关税裁决",
           "url": "https://wallstreetcn.com/articles/3778597",
           "source": "华尔街见闻",
@@ -169,6 +191,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时44分 ~ 20时07分]"
+        },
+        {
+          "title": "美国总统特朗普：已请求参议员达琳·格雷厄姆参加8月11日的共和党特别初选，她已接受。",
+          "url": "https://flash.jin10.com/detail/20260804225055245800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时30分 ~ 23时31分]"
         },
         {
           "title": "美国纽约州总检察长：特朗普的新关税措施范围过于宽泛，不顾法律要求绕过了针对具体国家开展的调查。特朗普最新关税措施只是替代了此前被美国最高法院否决的关税。",
@@ -229,8 +262,30 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "据伊朗Press TV：知情人士表示，尽管受到美国的干扰，伊朗与阿曼关于霍尔木兹海海峡航线的谈判已进入新阶段。若美国及其他国家的干扰停止，伊朗与阿曼达成双边谅解指日可待。",
+          "url": "https://flash.jin10.com/detail/20260804231339108800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时30分 ~ 23时31分]"
+        },
+        {
+          "title": "白宫警告“遭斩首前最后机会” 伊朗冷对“空头威胁”",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0478041.html",
+          "source": "联合早报",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时30分 ~ 23时31分]"
+        },
         {
           "title": "据沙特阿拉比亚电视台：美国与伊朗谈判取得突破的前景存在谨慎乐观情绪。关于停止军事行动以及全面开放霍尔木兹海峡相关安排，目前气氛积极。调解方需要一些时间，以就即将宣布的停火声明达成一致。",
           "url": "https://flash.jin10.com/detail/20260804034016668800",
@@ -256,6 +311,18 @@
           "time_info": "[11时24分 ~ 14时36分]"
         },
         {
+          "title": "霍尔木兹复航现曙光？美伊官员称伊朗与阿曼接近达成协议",
+          "url": "https://www.cls.cn/detail/2445217",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时07分 ~ 23时31分]"
+        },
+        {
           "title": "伊朗最高领袖军事顾问穆赫辛·雷扎伊：在冲突最后几天，伊朗加强了针对美国基地的无人机和导弹打击。科威特美军基地遭受严重破坏，埃尔比勒被疏散，美国指挥官则从约旦转移至被占领地区。这些事态发展迫使美国中央司令部将其指挥和后勤支援力量撤离霍尔木兹海峡打击区域，最终导致美国地面攻势失败。",
           "url": "https://flash.jin10.com/detail/20260804032430245800",
           "source": "金十数据",
@@ -276,6 +343,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时50分 ~ 03时51分]"
+        },
+        {
+          "title": "美财长贝森特：8月5日前将与伊朗达成协议",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0478034.html",
+          "source": "联合早报",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时30分 ~ 23时31分]"
         },
         {
           "title": "伊朗高级官员：不允许美在霍尔木兹海峡开辟非伊朗航线",
@@ -309,6 +387,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时50分 ~ 03时51分]"
+        },
+        {
+          "title": "美媒：美军征集“创新且非常规”打击伊朗方案",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0478029.html",
+          "source": "联合早报",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时30分 ~ 23时31分]"
         },
         {
           "title": "伊朗最高领袖军事顾问穆赫辛·雷扎伊：在美国停止攻击后，我们又进行了两天的攻击，以便让他们理解局势。",
@@ -366,17 +455,6 @@
           "time_info": "[03时50分 ~ 03时51分]"
         },
         {
-          "title": "霍尔木兹复航现曙光？美伊官员称伊朗与阿曼接近达成协议",
-          "url": "https://www.cls.cn/detail/2445217",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时07分"
-        },
-        {
           "title": "伊朗布什尔省省长：南帕尔斯气田的6000万立方米天然气产能已恢复生产。",
           "url": "https://flash.jin10.com/detail/20260804034848736800",
           "source": "金十数据",
@@ -405,7 +483,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时07分"
         }
@@ -413,7 +491,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
@@ -424,8 +502,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时24分 ~ 20时07分]"
+          "appearance_count": 8,
+          "time_info": "[11时24分 ~ 23时31分]"
         },
         {
           "title": "【早报】美股半导体板块，深V反弹；原油大跌、黄金微涨；事关电力，重磅规划发布",
@@ -511,6 +589,17 @@
           "time_info": "[05时13分 ~ 07时11分]"
         },
         {
+          "title": "美股期指全线上涨 卡特彼勒大涨逾10%领涨道指期货 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2445568",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时30分 ~ 23时31分]"
+        },
+        {
           "title": "Palantir(PLTR.N)美股盘后拉升7%。",
           "url": "https://flash.jin10.com/detail/20260804040640366800",
           "source": "金十数据",
@@ -523,6 +612,17 @@
           "time_info": "[05时13分 ~ 07时11分]"
         },
         {
+          "title": "美伊缓和叠加财报季提振，美股高开，光通信股走高，油价跌超5%，日元涨势终止",
+          "url": "https://wallstreetcn.com/articles/3778638",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时30分 ~ 23时31分]"
+        },
+        {
           "title": "金十图示：2026年08月03日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260804040540550800",
           "source": "金十数据",
@@ -533,6 +633,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时13分 ~ 07时11分]"
+        },
+        {
+          "title": "美股异动丨Snap大涨超14%，Q2营收同比增19% 广告业务回暖",
+          "url": "https://www.gelonghui.com/news/5280268",
+          "source": "格隆汇",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时30分 ~ 23时31分]"
         },
         {
           "title": "金十图示：2026年08月03日（周一）热门中概股行情一览（美股收盘）",
@@ -632,6 +743,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "土耳其央行行长卡拉汉：通胀回落将继续影响租金价格。国内需求放缓。",
+          "url": "https://flash.jin10.com/detail/20260804230303443800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时30分 ~ 23时31分]"
+        },
+        {
+          "title": "中国逢低买盘支撑金价企稳于每安士4000美元",
+          "url": "https://www.zaochenbao.com/news/china/202608/0478002.html",
+          "source": "联合早报",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -661,23 +800,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国逢低买盘支撑金价企稳于每安士4000美元",
-          "url": "https://www.zaochenbao.com/news/china/202608/0478002.html",
-          "source": "联合早报",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -687,11 +809,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时35分 ~ 20时07分]"
+          "appearance_count": 6,
+          "time_info": "[14时35分 ~ 23时31分]"
         }
       ]
     }
