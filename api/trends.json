@@ -1,563 +1,256 @@
 {
-  "generated_at": "2026-08-05T23:21:55.813789+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-08-06T01:49:37.518470+08:00",
+  "total_titles_processed": 94,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 17,
       "titles": [
         {
-          "title": "白宫警告“遭斩首前最后机会” 伊朗冷对“空头威胁”",
-          "url": "https://www.zaochenbao.com/news/politics/202608/0478041.html",
-          "source": "联合早报",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 07时11分]"
-        },
-        {
-          "title": "伊朗：与阿曼就霍尔木兹海峡谈判取得“积极进展”",
-          "url": "https://flash.jin10.com/detail/20260805012901694800",
+          "title": "伊朗方面称，目前尚未就美国谈判第二阶段作出决定。",
+          "url": "https://flash.jin10.com/detail/20260806013712793800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时58分"
+          "time_info": "01时49分"
         },
         {
-          "title": "伊朗称与阿曼的联合声明正处于终审阶段 双方就航运路线达成一致",
-          "url": "https://flash.jin10.com/detail/20260805231327490800",
+          "title": "伊朗副外长：我们与阿曼讨论了在霍尔木兹海峡建立联合航行管理中心。",
+          "url": "https://flash.jin10.com/detail/20260806011433363800",
           "source": "金十数据",
           "ranks": [
-            2
+            7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时21分"
+          "time_info": "01时49分"
         },
         {
-          "title": "伊朗称和阿曼就霍尔木兹海峡拟定航道坐标达成一致",
-          "url": "https://flash.jin10.com/detail/20260805231117427800",
+          "title": "伊朗副外长：近期未与美国进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260806011229694800",
           "source": "金十数据",
           "ranks": [
-            5
+            9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时21分"
+          "time_info": "01时49分"
         },
         {
-          "title": "霍尔木兹复航现曙光？美伊官员称伊朗与阿曼接近达成协议",
-          "url": "https://www.cls.cn/detail/2445217",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 07时11分]"
-        },
-        {
-          "title": "美财长贝森特：8月5日前将与伊朗达成协议",
-          "url": "https://www.zaochenbao.com/news/politics/202608/0478034.html",
-          "source": "联合早报",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 07时11分]"
-        },
-        {
-          "title": "美媒：美军征集“创新且非常规”打击伊朗方案",
-          "url": "https://www.zaochenbao.com/news/politics/202608/0478029.html",
-          "source": "联合早报",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 07时11分]"
-        },
-        {
-          "title": "知情者：美国伊朗阿曼“接近达成”重开海峡临时协议",
-          "url": "https://www.zaochenbao.com/news/politics/202608/0578088.html",
-          "source": "联合早报",
-          "ranks": [
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时42分 ~ 20时05分]"
-        },
-        {
-          "title": "据伊朗英语新闻电视台PressTV：伊朗议会国家安全委员会主席警告美国，他们很快将被驱逐出该地区以及驻有美军基地的国家。",
-          "url": "https://flash.jin10.com/detail/20260805170905518800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 17时43分]"
-        },
-        {
-          "title": "伊朗外交部发言人：我们研究了与阿曼就霍尔木兹海峡问题进行会谈的各种技术、法律、安全和环境层面。",
-          "url": "https://flash.jin10.com/detail/20260805230926333800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "伊朗外交部发言人：与阿曼的谈判专业且进展顺利。",
-          "url": "https://flash.jin10.com/detail/20260805230516483800",
+          "title": "机构：霍尔木兹海峡重开后，伊朗仍将建立机制“确保维持和平”",
+          "url": "https://flash.jin10.com/detail/20260806011138184800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时21分"
+          "time_info": "01时49分"
         },
         {
-          "title": "分析：伊朗-阿曼协议只是良好开始，不会解决所有问题",
-          "url": "https://flash.jin10.com/detail/20260805031121994800",
+          "title": "伊朗副外长：美国在信息中表示，已准备好重返其承诺。",
+          "url": "https://flash.jin10.com/detail/20260806011018531800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时49分"
+          "time_info": "01时49分"
         },
         {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗外长阿拉格齐将于周五访问巴基斯坦。",
-          "url": "https://flash.jin10.com/detail/20260805194124411800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时05分"
-        },
-        {
-          "title": "伊朗外交部发言人：外交部长或议长暂无出访巴基斯坦或卡塔尔的计划。",
-          "url": "https://flash.jin10.com/detail/20260805230441113800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "伊朗外交部发言人：伊朗-阿曼协议本身并不意味着霍尔木兹海峡（通行）是安全的。联合声明正处于最终起草阶段。",
-          "url": "https://flash.jin10.com/detail/20260805230343292800",
+          "title": "伊朗副外长：新一轮冲突开始约4至5天后，美国发出信息，要求进行谈判并解决相关问题。",
+          "url": "https://flash.jin10.com/detail/20260806010722355800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时21分"
+          "time_info": "01时49分"
         },
         {
-          "title": "英媒：伊朗考虑向欧洲国家收取霍尔木兹海峡维护费用",
-          "url": "https://flash.jin10.com/detail/20260805030300160800",
+          "title": "伊朗副外长：（与阿曼的）会谈涉及规范商船通行以及为未来管理海峡制定基础框架。",
+          "url": "https://flash.jin10.com/detail/20260806010451877800",
           "source": "金十数据",
           "ranks": [
-            13
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时49分"
+          "time_info": "01时49分"
         },
         {
-          "title": "伊朗外交部发言人：伊朗与阿曼已就霍尔木兹海峡航线的地理走向达成一致。",
-          "url": "https://flash.jin10.com/detail/20260805230130256800",
+          "title": "伊朗副外长：伊朗要求改变霍尔木兹海峡当前的航行路线，因为在当前安全形势下，这些路线已不再适宜。",
+          "url": "https://flash.jin10.com/detail/20260806010440846800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时21分"
+          "time_info": "01时49分"
         },
         {
-          "title": "伊朗协议草案已达成一致，韩国与彭博爆发口水战 | Plus日报",
-          "url": "https://flash.jin10.com/detail/20260805225531238800",
+          "title": "伊朗副外长：与阿曼达成的新协议将关闭霍尔木兹海峡临时航运路线。新方案将以这样的方式设计，即船只的进入路线以及部分离开路线区段将通过伊朗水域。",
+          "url": "https://flash.jin10.com/detail/20260806010225169800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        },
+        {
+          "title": "伊朗副外长：伊朗所有外交立场和外交行动都与战场形势实现了百分之百协调。",
+          "url": "https://flash.jin10.com/detail/20260806010149604800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        },
+        {
+          "title": "伊朗副外长：在当前战争状态下，外交与战场行动是相互配合的，而不是相互对立。",
+          "url": "https://flash.jin10.com/detail/20260806010138725800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时21分"
+          "time_info": "01时49分"
         },
         {
-          "title": "据伊朗法尔斯通讯社：一位接近谈判团队的消息人士表示，如果美国停止对伊朗及其利益的侵略和犯罪行为，并满足所有必要条件以及既定要求，海峡局势才可能恢复到一个月前的状态。",
-          "url": "https://flash.jin10.com/detail/20260805023522601800",
+          "title": "伊朗副外长：美国恢复履行其在《伊斯兰堡谅解备忘录》中作出的承诺是一个条件，但不足以实现霍尔木兹海峡重新开放。",
+          "url": "https://flash.jin10.com/detail/20260806010129313800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        },
+        {
+          "title": "伊朗副外长：伊朗与美国的谈判是在不信任的背景下进行的，而这种不信任仍是当前进程的基础。",
+          "url": "https://flash.jin10.com/detail/20260806010026034800",
           "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时49分"
+          "time_info": "01时49分"
         },
         {
-          "title": "据伊朗法尔斯通讯社：一位接近谈判团队的消息人士表示，即使谈判最终促成伊朗与阿曼之间达成双边协议，该协议本身也无法提供确保霍尔木兹海峡安全所需的全部条件。",
-          "url": "https://flash.jin10.com/detail/20260805023452753800",
+          "title": "伊朗副外长：伊朗与阿曼商定的霍尔木兹海峡潜在过境路线可能在2至4个月内有效。",
+          "url": "https://flash.jin10.com/detail/20260806005632663800",
           "source": "金十数据",
           "ranks": [
-            21
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时49分"
+          "time_info": "01时49分"
         },
         {
-          "title": "“破冰”信号！伊朗与阿曼达成草案，美方解除相关航司制裁",
-          "url": "https://flash.jin10.com/detail/20260805225035775800",
+          "title": "据伊朗塔斯尼姆通讯社：也门方面表示，沙特必须明白，紧张局势的持续和扩大是造成这一局面的相关因素持续存在的直接结果。",
+          "url": "https://flash.jin10.com/detail/20260806005517787800",
           "source": "金十数据",
           "ranks": [
-            22
+            24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时21分"
+          "time_info": "01时49分"
         },
         {
-          "title": "福克斯新闻：官员称美财政部移除伊朗相关制裁措施并不代表政策转变",
-          "url": "https://flash.jin10.com/detail/20260805223254370800",
+          "title": "据伊朗塔斯尼姆通讯社：也门方面表示，在延布以北海域船只遭袭传递出明确信息，即无法通过替代路线绕开“封锁换封锁”的局面。",
+          "url": "https://flash.jin10.com/detail/20260806005502181800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：也门正在为与沙特展开全面对抗做准备。袭击沙特船只巩固了“封锁换封锁”的局面。根据也门武装部队在地面局势发展方面的情况，过去被认为安全的航线已不再安全。",
+          "url": "https://flash.jin10.com/detail/20260806005320918800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时21分"
+          "time_info": "01时49分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3778526",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 07时11分]"
-        },
-        {
-          "title": "美伊缓和叠加财报季提振，美股高开，光通信股走高，油价跌超5%，日元涨势终止",
-          "url": "https://wallstreetcn.com/articles/3778638",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 05时21分]"
-        },
-        {
-          "title": "美股收盘：标普500再创历史新高 光通信、存储涨幅居前",
-          "url": "https://www.cls.cn/detail/2445760",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时11分 ~ 14时37分]"
-        },
-        {
-          "title": "【早报】美股半导体、存储、光通信，集体爆发；油价大跌、黄金走强；SpaceX、AMD财报出炉；大基金三期出手！入股正芯半导体",
-          "url": "https://www.cls.cn/detail/2445802",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时20分 ~ 14时37分]"
-        },
-        {
-          "title": "美股期指全线上涨 卡特彼勒大涨逾10%领涨道指期货 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2445568",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时58分 ~ 11时20分]"
-        },
-        {
-          "title": "美股存储板块爆发！SK海力士ADR大涨逾8% 投行集体看涨",
-          "url": "https://www.cls.cn/detail/2445853",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时20分 ~ 14时37分]"
-        },
-        {
-          "title": "美股异动丨Lucid夜盘跌7.8%，Q2运营亏损扩大+推迟平价电动汽车上市计划",
-          "url": "https://www.gelonghui.com/news/5280346",
-          "source": "格隆汇",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "小摩：看多亚、美股市，波动或不小，建议回调买入",
-          "url": "https://flash.jin10.com/detail/20260805141103377800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
         {
           "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
           "url": "https://wallstreetcn.com/articles/3778704",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "美股异动丨麦当劳涨超2%，Q2调整后每股收益超预期",
-          "url": "https://www.gelonghui.com/news/5280281",
-          "source": "格隆汇",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 07时11分]"
-        },
-        {
-          "title": "美股异动丨Gran Tierra Energy盘前大涨超29%，13.3亿美元出售南美资产并实现扭亏",
-          "url": "https://www.gelonghui.com/news/5280643",
-          "source": "格隆汇",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 17时43分]"
-        },
-        {
-          "title": "美股史上最大解禁冲击来袭！SpaceX即将迎来真正考验",
-          "url": "https://www.cls.cn/detail/2446161",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 17时43分]"
+          "time_info": "01时49分"
         },
         {
           "title": "美股期指延续涨势 SpaceX、AMD盘前大跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2446634",
           "source": "财联社热门",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "美股异动丨Booking Holdings夜盘涨5.6%，Q2业绩超预期 旅游需求强劲",
-          "url": "https://www.gelonghui.com/news/5280338",
-          "source": "格隆汇",
-          "ranks": [
-            11
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "SpaceX股价在Tradegate下跌7%，与其美股盘后走势大致一致。",
-          "url": "https://flash.jin10.com/detail/20260805140652309800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时37分"
+          "time_info": "01时49分"
         },
         {
           "title": "美股异动丨优步跌超6%，Q3预订交易额指引略逊预期",
           "url": "https://www.gelonghui.com/news/5280903",
           "source": "格隆汇",
           "ranks": [
-            13
+            15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时21分"
+          "time_info": "01时49分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 2,
       "titles": [
         {
-          "title": "据福克斯新闻：美国总统特朗普表示，我们与伊朗的讨论非常顺利。",
-          "url": "https://flash.jin10.com/detail/20260805110945151800",
+          "title": "美国民主党参议员Mark Warner：如果特朗普和万斯想打击欺诈行为，他们可以从特朗普在担任总统第一年中中饱私囊的22亿美元开始。",
+          "url": "https://flash.jin10.com/detail/20260806012850217800",
           "source": "金十数据",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "美议员麦考尔：特朗普将提140亿美元对台军售案",
-          "url": "https://www.zaochenbao.com/news/taiwan/202608/0478036.html",
-          "source": "联合早报",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 07时11分]"
-        },
-        {
-          "title": "消息人士:特朗普政府正在起草针对中国数据中心设备的禁令",
-          "url": "https://www.zaochenbao.com/news/china/202608/0478035.html",
-          "source": "联合早报",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 07时11分]"
-        },
-        {
-          "title": "特朗普：霍尔木兹海峡若不很快重开 伊朗将遭“沉重打击”",
-          "url": "https://www.zaochenbao.com/news/politics/202608/0578087.html",
-          "source": "联合早报",
-          "ranks": [
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时42分 ~ 20时05分]"
-        },
-        {
-          "title": "特朗普抵达前 持枪男在洛杉矶高球场被捕",
-          "url": "https://www.zaochenbao.com/news/politics/202608/0578070.html",
-          "source": "联合早报",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时20分 ~ 14时37分]"
-        },
-        {
-          "title": "美财长称霍尔木兹“自由通行”有望今明达成，特朗普与卡塔尔埃米尔通话促降级",
-          "url": "https://flash.jin10.com/detail/20260805065441562800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：美国总统特朗普是我们最好的朋友，但我已明确表示，以色列的存在不容谈判。",
-          "url": "https://flash.jin10.com/detail/20260805230618737800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "已退1000亿美元！特朗普“解放日”关税退款进度接近六成",
-          "url": "https://flash.jin10.com/detail/20260805140832580800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
-          "title": "伊朗否认启动与美国谈判，伊媒：这是特朗普第十次在对德黑兰的“决定性”军事威胁面前退缩",
-          "url": "https://wallstreetcn.com/articles/3778616",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "金十整理：特朗普怒批石油巨头“大发战争财”，全球六大油企二季度谁赚最狠？",
-          "url": "https://flash.jin10.com/detail/20260805140743439800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时37分"
+          "time_info": "01时49分"
         },
         {
           "title": "最快今日宣布！霍尔木兹开放协议据悉接近达成 特朗普发声助阵",
@@ -566,71 +259,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "港股异动丨黄金股大涨 中国黄金国际、灵宝黄金领涨 金价站上4100美元",
-          "url": "https://www.gelonghui.com/news/5280344",
-          "source": "格隆汇",
-          "ranks": [
-            5
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "金十图示：2026年08月05日（周三）上海金早盘价为890.65元/克，较国际金价(895.27元/克)，低4.62元/克",
-          "url": "https://flash.jin10.com/detail/20260805105220632800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "罕见干预操作！贝森特抛欧元、指示美联储“借钱”，让日本“别抛美债”，市场担心“套利交易逆转”",
-          "url": "https://wallstreetcn.com/articles/3778620",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 07时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数4日下跌",
-          "url": "https://flash.jin10.com/detail/20260805045508425800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 05时21分]"
+          "time_info": "01时49分"
         }
       ]
     }
