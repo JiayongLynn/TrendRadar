@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-05T14:37:42.499735+08:00",
-  "total_titles_processed": 295,
+  "generated_at": "2026-08-05T17:43:09.440455+08:00",
+  "total_titles_processed": 372,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
@@ -97,7 +97,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -112,6 +112,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时58分 ~ 07时11分]"
+        },
+        {
+          "title": "美股异动丨Gran Tierra Energy盘前大涨超29%，13.3亿美元出售南美资产并实现扭亏",
+          "url": "https://www.gelonghui.com/news/5280643",
+          "source": "格隆汇",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 17时43分]"
+        },
+        {
+          "title": "美股史上最大解禁冲击来袭！SpaceX即将迎来真正考验",
+          "url": "https://www.cls.cn/detail/2446161",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 17时43分]"
         },
         {
           "title": "美股异动丨Booking Holdings夜盘涨5.6%，Q2业绩超预期 旅游需求强劲",
@@ -131,7 +153,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         }
@@ -139,7 +161,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "白宫警告“遭斩首前最后机会” 伊朗冷对“空头威胁”",
@@ -199,6 +221,28 @@
           "time_info": "[01时58分 ~ 07时11分]"
         },
         {
+          "title": "知情者：美国伊朗阿曼“接近达成”重开海峡临时协议",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0578088.html",
+          "source": "联合早报",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 17时43分]"
+        },
+        {
+          "title": "据伊朗英语新闻电视台PressTV：伊朗议会国家安全委员会主席警告美国，他们很快将被驱逐出该地区以及驻有美军基地的国家。",
+          "url": "https://flash.jin10.com/detail/20260805170905518800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 17时43分]"
+        },
+        {
           "title": "分析：伊朗-阿曼协议只是良好开始，不会解决所有问题",
           "url": "https://flash.jin10.com/detail/20260805031121994800",
           "source": "金十数据",
@@ -246,7 +290,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "据福克斯新闻：美国总统特朗普表示，我们与伊朗的讨论非常顺利。",
@@ -294,6 +338,17 @@
           "time_info": "[11时20分 ~ 14时37分]"
         },
         {
+          "title": "特朗普：霍尔木兹海峡若不很快重开 伊朗将遭“沉重打击”",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0578087.html",
+          "source": "联合早报",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 17时43分]"
+        },
+        {
           "title": "美财长称霍尔木兹“自由通行”有望今明达成，特朗普与卡塔尔埃米尔通话促降级",
           "url": "https://flash.jin10.com/detail/20260805065441562800",
           "source": "金十数据",
@@ -311,7 +366,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -333,7 +388,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         }
