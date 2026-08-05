@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T17:43:09.440455+08:00",
-  "total_titles_processed": 372,
+  "generated_at": "2026-08-05T20:05:38.646912+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [
     "36kr"
   ],
@@ -161,7 +161,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "白宫警告“遭斩首前最后机会” 伊朗冷对“空头威胁”",
@@ -225,11 +225,12 @@
           "url": "https://www.zaochenbao.com/news/politics/202608/0578088.html",
           "source": "联合早报",
           "ranks": [
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 17时43分]"
+          "appearance_count": 3,
+          "time_info": "[17时42分 ~ 20时05分]"
         },
         {
           "title": "据伊朗英语新闻电视台PressTV：伊朗议会国家安全委员会主席警告美国，他们很快将被驱逐出该地区以及驻有美军基地的国家。",
@@ -252,6 +253,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗外长阿拉格齐将于周五访问巴基斯坦。",
+          "url": "https://flash.jin10.com/detail/20260805194124411800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
         },
         {
           "title": "英媒：伊朗考虑向欧洲国家收取霍尔木兹海峡维护费用",
@@ -326,6 +338,18 @@
           "time_info": "[01时58分 ~ 07时11分]"
         },
         {
+          "title": "特朗普：霍尔木兹海峡若不很快重开 伊朗将遭“沉重打击”",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0578087.html",
+          "source": "联合早报",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时42分 ~ 20时05分]"
+        },
+        {
           "title": "特朗普抵达前 持枪男在洛杉矶高球场被捕",
           "url": "https://www.zaochenbao.com/news/politics/202608/0578070.html",
           "source": "联合早报",
@@ -336,17 +360,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时20分 ~ 14时37分]"
-        },
-        {
-          "title": "特朗普：霍尔木兹海峡若不很快重开 伊朗将遭“沉重打击”",
-          "url": "https://www.zaochenbao.com/news/politics/202608/0578087.html",
-          "source": "联合早报",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 17时43分]"
         },
         {
           "title": "美财长称霍尔木兹“自由通行”有望今明达成，特朗普与卡塔尔埃米尔通话促降级",
