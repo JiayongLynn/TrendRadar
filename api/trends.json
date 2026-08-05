@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-06T03:47:15.853703+08:00",
-  "total_titles_processed": 120,
+  "generated_at": "2026-08-06T05:21:20.527026+08:00",
+  "total_titles_processed": 147,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "外媒：伊朗寻求对海峡过境船只收取货物价值5%至7%的费用",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "伊朗称与阿曼接近达成协议 海峡现有两条航道将关闭",
+          "url": "https://flash.jin10.com/detail/20260806042849231800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "伊朗总统回应此前伊朗最高领袖关于停火谅解备忘录消息引发的争议。伊朗总统称：“他们发布了一条消息，称‘原则上，我并不赞成’，但最终，他们允许这一进程继续进行。一些试图制造分裂、利用现有分歧并实现自身派系目标的人夸大了这一问题。”",
@@ -266,7 +277,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
@@ -277,19 +288,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时49分 ~ 03时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时49分 ~ 05时21分]"
         },
         {
           "title": "美股期指延续涨势 SpaceX、AMD盘前大跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2446634",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时49分 ~ 03时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时49分 ~ 05时21分]"
         },
         {
           "title": "美股异动丨优步跌超6%，Q3预订交易额指引略逊预期",
@@ -299,8 +311,41 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时49分 ~ 03时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时49分 ~ 05时21分]"
+        },
+        {
+          "title": "闪迪(SNDK.O)美股盘后跌超3%。",
+          "url": "https://flash.jin10.com/detail/20260806041105813800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "金十图示：2026年08月05日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260806040614618800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "金十图示：2026年08月05日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260806040522076800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         }
       ]
     },
@@ -327,8 +372,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时49分 ~ 03时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时49分 ~ 05时21分]"
         }
       ]
     },
@@ -363,6 +408,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时46分 ~ 03时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数5日下跌",
+          "url": "https://flash.jin10.com/detail/20260806042740895800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         }
       ]
     }
