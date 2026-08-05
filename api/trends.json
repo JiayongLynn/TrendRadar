@@ -1,14 +1,25 @@
 {
-  "generated_at": "2026-08-06T01:49:37.518470+08:00",
-  "total_titles_processed": 94,
+  "generated_at": "2026-08-06T03:47:15.853703+08:00",
+  "total_titles_processed": 120,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "外媒：伊朗寻求对海峡过境船只收取货物价值5%至7%的费用",
+          "url": "https://flash.jin10.com/detail/20260806031639723800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时46分 ~ 03时47分]"
+        },
         {
           "title": "伊朗方面称，目前尚未就美国谈判第二阶段作出决定。",
           "url": "https://flash.jin10.com/detail/20260806013712793800",
@@ -19,6 +30,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "伊朗总统回应此前伊朗最高领袖关于停火谅解备忘录消息引发的争议。伊朗总统称：“他们发布了一条消息，称‘原则上，我并不赞成’，但最终，他们允许这一进程继续进行。一些试图制造分裂、利用现有分歧并实现自身派系目标的人夸大了这一问题。”",
+          "url": "https://flash.jin10.com/detail/20260806025420387800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时46分 ~ 03时47分]"
+        },
+        {
+          "title": "伊朗总统：敌人对任何象征我们能力的事物都感到不安。",
+          "url": "https://flash.jin10.com/detail/20260806024943969800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时46分 ~ 03时47分]"
+        },
+        {
+          "title": "伊朗总统：目前与伊朗最高领袖的沟通“非常困难”。",
+          "url": "https://flash.jin10.com/detail/20260806024752219800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时46分 ~ 03时47分]"
+        },
+        {
+          "title": "伊朗总统：敌人试图通过战争和制裁，让伊朗重演叙利亚的命运。伊朗人民的韧性和决心挫败了敌人的阴谋。",
+          "url": "https://flash.jin10.com/detail/20260806024045255800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时46分 ~ 03时47分]"
+        },
+        {
+          "title": "伊朗副外长：霍尔木兹海峡新安排将关闭临时航道",
+          "url": "https://flash.jin10.com/detail/20260806023054312800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时46分 ~ 03时47分]"
         },
         {
           "title": "伊朗副外长：我们与阿曼讨论了在霍尔木兹海峡建立联合航行管理中心。",
@@ -207,11 +273,12 @@
           "url": "https://wallstreetcn.com/articles/3778704",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
+          "appearance_count": 3,
+          "time_info": "[01时49分 ~ 03时47分]"
         },
         {
           "title": "美股期指延续涨势 SpaceX、AMD盘前大跌 | 今夜看点",
@@ -221,8 +288,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
+          "appearance_count": 3,
+          "time_info": "[01时49分 ~ 03时47分]"
         },
         {
           "title": "美股异动丨优步跌超6%，Q3预订交易额指引略逊预期",
@@ -232,8 +299,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
+          "appearance_count": 3,
+          "time_info": "[01时49分 ~ 03时47分]"
         }
       ]
     },
@@ -260,8 +327,42 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
+          "appearance_count": 3,
+          "time_info": "[01时49分 ~ 03时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌首席科学家Jeff Dean：明天将是我在谷歌工作的最后一天。",
+          "url": "https://flash.jin10.com/detail/20260806032320074800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时46分 ~ 03时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "微软AI收入过半来自OpenAI 显示对合作伙伴依赖仍较高",
+          "url": "https://flash.jin10.com/detail/20260806021844852800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时46分 ~ 03时47分]"
         }
       ]
     }
