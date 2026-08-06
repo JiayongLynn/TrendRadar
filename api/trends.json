@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T17:45:39.585965+08:00",
-  "total_titles_processed": 375,
+  "generated_at": "2026-08-06T20:08:18.025599+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [
     "36kr"
   ],
@@ -9,6 +9,19 @@
       "keyword_group": "伊朗",
       "match_count": 30,
       "titles": [
+        {
+          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
+          "url": "https://wallstreetcn.com/articles/3778783",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时23分 ~ 20时08分]"
+        },
         {
           "title": "外媒：伊朗寻求对海峡过境船只收取货物价值5%至7%的费用",
           "url": "https://flash.jin10.com/detail/20260806031639723800",
@@ -43,16 +56,28 @@
           "time_info": "05时21分"
         },
         {
-          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
-          "url": "https://wallstreetcn.com/articles/3778783",
-          "source": "华尔街见闻",
+          "title": "伊朗总统：目前与最高领袖联络困难 其决策过程遭人利用",
+          "url": "https://www.cls.cn/detail/2447200",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            6
+            13,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时23分 ~ 17时45分]"
+          "time_info": "[17时45分 ~ 20时08分]"
+        },
+        {
+          "title": "伊朗总统：最高领袖决策过程遭人利用",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0678167.html",
+          "source": "联合早报",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 20时08分]"
         },
         {
           "title": "伊朗总统回应此前伊朗最高领袖关于停火谅解备忘录消息引发的争议。伊朗总统称：“他们发布了一条消息，称‘原则上，我并不赞成’，但最终，他们允许这一进程继续进行。一些试图制造分裂、利用现有分歧并实现自身派系目标的人夸大了这一问题。”",
@@ -178,17 +203,6 @@
           "time_info": "01时49分"
         },
         {
-          "title": "伊朗总统：最高领袖决策过程遭人利用",
-          "url": "https://www.zaochenbao.com/news/politics/202608/0678167.html",
-          "source": "联合早报",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
-        },
-        {
           "title": "伊朗副外长：新一轮冲突开始约4至5天后，美国发出信息，要求进行谈判并解决相关问题。",
           "url": "https://flash.jin10.com/detail/20260806010722355800",
           "source": "金十数据",
@@ -198,17 +212,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
-        },
-        {
-          "title": "伊朗总统：目前与最高领袖联络困难 其决策过程遭人利用",
-          "url": "https://www.cls.cn/detail/2447200",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
         },
         {
           "title": "伊朗副外长：（与阿曼的）会谈涉及规范商船通行以及为未来管理海峡制定基础框架。",
@@ -385,6 +388,18 @@
           "time_info": "[11时23分 ~ 17时45分]"
         },
         {
+          "title": "知情者：特朗普与战争部长就弹药短缺问题起冲突",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0678166.html",
+          "source": "联合早报",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 20时08分]"
+        },
+        {
           "title": "美国总统特朗普：需要让共和党在参议院更强硬。",
           "url": "https://flash.jin10.com/detail/20260806055819902800",
           "source": "金十数据",
@@ -427,17 +442,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
-        },
-        {
-          "title": "知情者：特朗普与战争部长就弹药短缺问题起冲突",
-          "url": "https://www.zaochenbao.com/news/politics/202608/0678166.html",
-          "source": "联合早报",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
         },
         {
           "title": "美国总统特朗普：伊朗不能拥有核武器。",
@@ -610,8 +614,32 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
+          "url": "https://www.cls.cn/detail/2447135",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时39分 ~ 20时08分]"
+        },
+        {
+          "title": "DeepSeek、腾讯等获宇树科技战略配售",
+          "url": "https://flash.jin10.com/detail/20260806193023172800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时07分 ~ 20时08分]"
+        },
         {
           "title": "DeepSeek计划大幅上调AI服务价格",
           "url": "https://www.zaochenbao.com/news/china/202608/0678158.html",
@@ -624,16 +652,55 @@
           "time_info": "14时39分"
         },
         {
-          "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
-          "url": "https://www.cls.cn/detail/2447135",
+          "title": "DeepSeek、腾讯等获宇树科技战略配售",
+          "url": "https://www.cls.cn/detail/2447658",
           "source": "财联社热门",
           "ranks": [
-            10,
-            3
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时39分 ~ 17时45分]"
+          "time_info": "[20时07分 ~ 20时08分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "一图看懂 | 金价刚突破4300美元关口，黄金股早已悄悄涨了30%",
+          "url": "https://www.cls.cn/detail/2447296",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时07分 ~ 20时08分]"
+        },
+        {
+          "title": "国际金价大幅飙升 伊朗称与阿曼接近达成协议 | 环球市场",
+          "url": "https://www.cls.cn/detail/2446838",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 14时39分]"
+        },
+        {
+          "title": "港股异动丨金价直冲4300美元！黄金股大涨，赤峰黄金涨9%，灵宝黄金涨超8%",
+          "url": "https://www.gelonghui.com/news/5280982",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
         }
       ]
     },
@@ -662,35 +729,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国际金价大幅飙升 伊朗称与阿曼接近达成协议 | 环球市场",
-          "url": "https://www.cls.cn/detail/2446838",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 14时39分]"
-        },
-        {
-          "title": "港股异动丨金价直冲4300美元！黄金股大涨，赤峰黄金涨9%，灵宝黄金涨超8%",
-          "url": "https://www.gelonghui.com/news/5280982",
-          "source": "格隆汇",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
         }
       ]
     },
