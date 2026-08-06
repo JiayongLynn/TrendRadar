@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-06T14:39:43.860359+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-06T17:45:39.585965+08:00",
+  "total_titles_processed": 375,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "外媒：伊朗寻求对海峡过境船只收取货物价值5%至7%的费用",
@@ -51,8 +51,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 14时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 17时45分]"
         },
         {
           "title": "伊朗总统回应此前伊朗最高领袖关于停火谅解备忘录消息引发的争议。伊朗总统称：“他们发布了一条消息，称‘原则上，我并不赞成’，但最终，他们允许这一进程继续进行。一些试图制造分裂、利用现有分歧并实现自身派系目标的人夸大了这一问题。”",
@@ -178,6 +178,17 @@
           "time_info": "01时49分"
         },
         {
+          "title": "伊朗总统：最高领袖决策过程遭人利用",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0678167.html",
+          "source": "联合早报",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
           "title": "伊朗副外长：新一轮冲突开始约4至5天后，美国发出信息，要求进行谈判并解决相关问题。",
           "url": "https://flash.jin10.com/detail/20260806010722355800",
           "source": "金十数据",
@@ -187,6 +198,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "伊朗总统：目前与最高领袖联络困难 其决策过程遭人利用",
+          "url": "https://www.cls.cn/detail/2447200",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "伊朗副外长：（与阿曼的）会谈涉及规范商船通行以及为未来管理海峡制定基础框架。",
@@ -324,7 +346,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美国民主党参议员Mark Warner：如果特朗普和万斯想打击欺诈行为，他们可以从特朗普在担任总统第一年中中饱私囊的22亿美元开始。",
@@ -355,11 +377,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 14时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 17时45分]"
         },
         {
           "title": "美国总统特朗普：需要让共和党在参议院更强硬。",
@@ -404,6 +427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        },
+        {
+          "title": "知情者：特朗普与战争部长就弹药短缺问题起冲突",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0678166.html",
+          "source": "联合早报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "美国总统特朗普：伊朗不能拥有核武器。",
@@ -506,6 +540,18 @@
           "time_info": "[01时49分 ~ 05时21分]"
         },
         {
+          "title": "码农摇身一变成FDE？美股龙头引领AI落地新模式 机构：计算机板块或迎来重估",
+          "url": "https://www.cls.cn/detail/2446947",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 17时45分]"
+        },
+        {
           "title": "闪迪(SNDK.O)美股盘后跌超3%。",
           "url": "https://flash.jin10.com/detail/20260806041105813800",
           "source": "金十数据",
@@ -526,17 +572,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
-        },
-        {
-          "title": "码农摇身一变成FDE？美股龙头引领AI落地新模式 机构：计算机板块或迎来重估",
-          "url": "https://www.cls.cn/detail/2446947",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时39分"
         },
         {
           "title": "美股存储巨头指引暴雷，亚太股市集体“扑街”！韩股跌超5%，海力士铠侠大跌近10%",
@@ -584,7 +619,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -593,11 +628,12 @@
           "url": "https://www.cls.cn/detail/2447135",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 17时45分]"
         }
       ]
     },
@@ -623,7 +659,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         }
