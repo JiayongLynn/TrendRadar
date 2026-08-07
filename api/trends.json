@@ -1,14 +1,29 @@
 {
-  "generated_at": "2026-08-07T19:54:34.052786+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2026-08-07T21:21:00.720910+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/articles/3778896",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时56分 ~ 21时21分]"
+        },
         {
           "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
           "url": "https://www.cls.cn/detail/2447939",
@@ -33,18 +48,15 @@
           "time_info": "[11时56分 ~ 15时36分]"
         },
         {
-          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
-          "url": "https://wallstreetcn.com/articles/3778896",
-          "source": "华尔街见闻",
+          "title": "特朗普行政令打击“生育旅游” 美媒：或在法庭上受挑战",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0778267.html",
+          "source": "联合早报",
           "ranks": [
-            10,
-            9,
-            8,
-            6
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时56分 ~ 19时54分]"
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
         },
         {
           "title": "特朗普承认部分类型弹药供应“相对紧张”",
@@ -102,7 +114,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -157,7 +169,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -274,6 +286,92 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
+          "url": "https://wallstreetcn.com/articles/3778821",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时11分 ~ 21时21分]"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
+          "url": "https://www.cls.cn/detail/2447905",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时11分 ~ 15时36分]"
+        },
+        {
+          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
+          "url": "https://www.cls.cn/detail/2448354",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时09分 ~ 21时21分]"
+        },
+        {
+          "title": "美国7月非农意外减少 美股期指走高 降息预期升温 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2448784",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
+        },
+        {
+          "title": "非农超预期下降，美股盘前快速拉升、存储概念股走高，光通信股AAOI涨超15%，现货黄金突破4300",
+          "url": "https://wallstreetcn.com/articles/3778924",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
+        },
+        {
+          "title": "韩股跌倒，美股吃饱！“受伤”的韩国散户大军重返华尔街怀抱",
+          "url": "https://www.cls.cn/detail/2448478",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
+        },
+        {
+          "title": "KOSPI下跌引发美股淘金热，韩国散户加速转投华尔街",
+          "url": "https://flash.jin10.com/detail/20260807163047609800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 5,
       "titles": [
@@ -339,55 +437,19 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 4,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
       "titles": [
         {
-          "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
-          "url": "https://wallstreetcn.com/articles/3778821",
-          "source": "华尔街见闻",
+          "title": "奥士康(002913.SZ)：未与英伟达、谷歌开展订单合作",
+          "url": "https://www.gelonghui.com/news/5282350",
+          "source": "格隆汇",
           "ranks": [
-            1
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时11分 ~ 19时54分]"
-        },
-        {
-          "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
-          "url": "https://www.cls.cn/detail/2447905",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时11分 ~ 15时36分]"
-        },
-        {
-          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
-          "url": "https://www.cls.cn/detail/2448354",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时09分 ~ 19时54分]"
-        },
-        {
-          "title": "KOSPI下跌引发美股淘金热，韩国散户加速转投华尔街",
-          "url": "https://flash.jin10.com/detail/20260807163047609800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时09分"
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
         }
       ]
     },
@@ -405,6 +467,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时00分 ~ 19时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "7月非农就业数据疲软，美债价格飙升。",
+          "url": "https://flash.jin10.com/detail/20260807203421543800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
         }
       ]
     }
