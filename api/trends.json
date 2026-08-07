@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T11:56:27.078978+08:00",
-  "total_titles_processed": 169,
+  "generated_at": "2026-08-07T13:47:19.894820+08:00",
+  "total_titles_processed": 216,
   "failed_sources": [
     "36kr"
   ],
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时11分 ~ 11时56分]"
+          "appearance_count": 3,
+          "time_info": "[08时11分 ~ 13时47分]"
         },
         {
           "title": "特朗普政府禁止钨废料、电池废料出口 以提升关键矿产供应能力",
@@ -28,31 +28,57 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 13时47分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
           "url": "https://wallstreetcn.com/articles/3778896",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 13时47分]"
         },
         {
           "title": "特朗普承认部分类型弹药供应“相对紧张”",
           "url": "https://www.zaochenbao.com/news/politics/202608/0778217.html",
           "source": "联合早报",
           "ranks": [
-            10
+            10,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 13时47分]"
+        },
+        {
+          "title": "美国将严厉打击“生育旅游” 特朗普承认某些弹药供应紧张 | 环球市场",
+          "url": "https://www.cls.cn/detail/2447932",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 13时47分]"
+        },
+        {
+          "title": "特朗普再收紧出生公民权 禁赴美生育旅游",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0778215.html",
+          "source": "联合早报",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 13时47分]"
         },
         {
           "title": "据华尔街日报：特朗普已下令对五角大楼弹药储备泄露事件展开新的调查，政府官员表示，这是他为应对有关伊朗战争的破坏性信息披露而采取的最新升级举措。",
@@ -66,35 +92,13 @@
           "time_info": "08时11分"
         },
         {
-          "title": "美国将严厉打击“生育旅游” 特朗普承认某些弹药供应紧张 | 环球市场",
-          "url": "https://www.cls.cn/detail/2447932",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        },
-        {
-          "title": "特朗普再收紧出生公民权 禁赴美生育旅游",
-          "url": "https://www.zaochenbao.com/news/politics/202608/0778215.html",
-          "source": "联合早报",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        },
-        {
           "title": "从批评鲍威尔到频繁致电沃什 特朗普对美联储影响力再受关注",
           "url": "https://www.cls.cn/detail/2447865",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
         },
@@ -127,7 +131,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
         },
@@ -146,7 +150,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
@@ -165,11 +169,12 @@
           "source": "联合早报",
           "ranks": [
             1,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时11分 ~ 11时56分]"
+          "appearance_count": 3,
+          "time_info": "[08时11分 ~ 13时47分]"
         },
         {
           "title": "伊朗公布霍尔木兹海峡管理草案 国际油价大幅走高",
@@ -177,11 +182,24 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            6
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时11分 ~ 13时47分]"
+        },
+        {
+          "title": "伊朗拟禁美以船只过霍尔木兹海峡 索赔后才准通行",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0778216.html",
+          "source": "联合早报",
+          "ranks": [
+            11,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时11分 ~ 11时56分]"
+          "time_info": "[11时56分 ~ 13时47分]"
         },
         {
           "title": "沙特拉响警报：伊朗支持武装或发动多线攻击，能源设施成潜在目标",
@@ -195,15 +213,15 @@
           "time_info": "08时11分"
         },
         {
-          "title": "伊朗拟禁美以船只过霍尔木兹海峡 索赔后才准通行",
-          "url": "https://www.zaochenbao.com/news/politics/202608/0778216.html",
-          "source": "联合早报",
+          "title": "日本石油公司ENEOS首席财务官：伊朗战争结束后，我们需要中长期内扩大石油储备，并实现原油采购来源多元化。将与政府紧密协调，加强石油供应链的韧性。",
+          "url": "https://flash.jin10.com/detail/20260807132544810800",
+          "source": "金十数据",
           "ranks": [
-            11
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时56分"
+          "time_info": "13时47分"
         },
         {
           "title": "伊朗霍尔木兹法案拟禁止美以船只通行，美国拒绝任何“阻碍”",
@@ -241,8 +259,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时11分 ~ 11时56分]"
+          "appearance_count": 3,
+          "time_info": "[08时11分 ~ 13时47分]"
+        },
+        {
+          "title": "消息：DeepSeek已恢复第二轮融资",
+          "url": "https://www.zaochenbao.com/news/china/202608/0678200.html",
+          "source": "联合早报",
+          "ranks": [
+            6,
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时11分 ~ 13时47分]"
         },
         {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
@@ -251,18 +282,6 @@
           "ranks": [
             10,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时11分 ~ 11时56分]"
-        },
-        {
-          "title": "消息：DeepSeek已恢复第二轮融资",
-          "url": "https://www.zaochenbao.com/news/china/202608/0678200.html",
-          "source": "联合早报",
-          "ranks": [
-            6,
-            27
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -293,8 +312,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时11分 ~ 11时56分]"
+          "appearance_count": 3,
+          "time_info": "[08时11分 ~ 13时47分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
@@ -305,8 +324,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时11分 ~ 11时56分]"
+          "appearance_count": 3,
+          "time_info": "[08时11分 ~ 13时47分]"
         }
       ]
     }
