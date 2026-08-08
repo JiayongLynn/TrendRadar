@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-08T21:04:35.308628+08:00",
-  "total_titles_processed": 371,
+  "generated_at": "2026-08-08T22:40:13.380535+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "“中东油轮受威胁程度已达伊朗战争爆发以来最高水平”",
@@ -20,8 +20,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时52分 ~ 21时04分]"
+          "appearance_count": 8,
+          "time_info": "[16时52分 ~ 22时40分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗总统佩泽希齐扬表示：尽管美国和以色列政权通过阴谋以及最近的战争，试图在伊朗与波斯湾沿岸国家之间制造分歧，但我们已经解决了与许多邻国之间的诸多问题。",
@@ -55,6 +55,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时08分 ~ 03时09分]"
+        },
+        {
+          "title": "据阿曼国家通讯社：阿曼方面谴责（伊朗）在霍尔木兹海峡过境时对船只的反复攻击。",
+          "url": "https://flash.jin10.com/detail/20260808215846341800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时39分 ~ 22时40分]"
         },
         {
           "title": "消息人士：美军高层寻找摆脱伊朗战事的途径",
@@ -172,6 +183,18 @@
           "time_info": "[18时41分 ~ 19时36分]"
         },
         {
+          "title": "据沙特媒体哈达斯：伊朗总统表示，停止或继续战争的决定掌握在伊朗军事领导人手中。",
+          "url": "https://flash.jin10.com/detail/20260808204142320800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时04分 ~ 22时40分]"
+        },
+        {
           "title": "美国将13个实体列入涉伊朗制裁名单。",
           "url": "https://flash.jin10.com/detail/20260808023650709800",
           "source": "金十数据",
@@ -205,17 +228,6 @@
           "time_info": "[03时08分 ~ 03时09分]"
         },
         {
-          "title": "据沙特媒体哈达斯：伊朗总统表示，停止或继续战争的决定掌握在伊朗军事领导人手中。",
-          "url": "https://flash.jin10.com/detail/20260808204142320800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时04分"
-        },
-        {
           "title": "据伊通社（IRNA）：伊朗副外长表示，海湾安全必须由地区国家确保，无需外部干涉。",
           "url": "https://flash.jin10.com/detail/20260807234249085800",
           "source": "金十数据",
@@ -244,7 +256,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         }
@@ -252,7 +264,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -267,8 +279,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时16分 ~ 21时04分]"
+          "appearance_count": 12,
+          "time_info": "[12时16分 ~ 22时40分]"
         },
         {
           "title": "特朗普下令对多晶硅开征15%关税 设最低进口价",
@@ -308,8 +320,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时52分 ~ 21时04分]"
+          "appearance_count": 8,
+          "time_info": "[16时52分 ~ 22时40分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -360,11 +372,12 @@
           "url": "https://www.zaochenbao.com/news/politics/202608/0878329.html",
           "source": "联合早报",
           "ranks": [
-            5
+            5,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时04分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时04分 ~ 22时40分]"
         },
         {
           "title": "特朗普政府投38亿新元 强化关键矿产及电池供应链",
@@ -380,6 +393,18 @@
           "time_info": "[10时07分 ~ 13时49分]"
         },
         {
+          "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
+          "url": "https://wallstreetcn.com/articles/3778975",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时04分 ~ 22时40分]"
+        },
+        {
           "title": "特朗普谈降息：希望利率下调，但这不完全取决于沃什一人",
           "url": "https://wallstreetcn.com/articles/3778955",
           "source": "华尔街见闻",
@@ -389,6 +414,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时07分 ~ 12时17分]"
+        },
+        {
+          "title": "消息人士：若民主党赢得众议院，他们计划对特朗普进行调查而非弹劾",
+          "url": "https://flash.jin10.com/detail/20260808205550359800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时39分 ~ 22时40分]"
         },
         {
           "title": "特朗普提名律师丹妮尔·图曼·塞弗斯出任美国联邦通信委员会（FCC）委员。",
@@ -411,17 +447,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
-        },
-        {
-          "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
-          "url": "https://wallstreetcn.com/articles/3778975",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时04分"
         },
         {
           "title": "美媒：特朗普推进罢免美联储理事库克 以“严重失职”为由正式启动罢免程序",
@@ -494,8 +519,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时07分 ~ 21时04分]"
+          "appearance_count": 13,
+          "time_info": "[10时07分 ~ 22时40分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -509,8 +534,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时06分 ~ 21时04分]"
+          "appearance_count": 23,
+          "time_info": "[00时06分 ~ 22时40分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -524,8 +549,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时46分 ~ 21时04分]"
+          "appearance_count": 17,
+          "time_info": "[06时46分 ~ 22时40分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -611,8 +636,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778993",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时39分 ~ 22时40分]"
+        },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
           "url": "https://flash.jin10.com/detail/20260807231253787800",
@@ -623,6 +659,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
+          "url": "https://wallstreetcn.com/articles/3778988",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时39分 ~ 22时40分]"
         }
       ]
     },
@@ -652,11 +705,12 @@
           "url": "https://flash.jin10.com/detail/20260808201231128800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时04分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时04分 ~ 22时40分]"
         }
       ]
     }
