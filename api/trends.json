@@ -1,14 +1,36 @@
 {
-  "generated_at": "2026-08-09T01:38:23.686745+08:00",
-  "total_titles_processed": 115,
+  "generated_at": "2026-08-09T02:50:35.374319+08:00",
+  "total_titles_processed": 125,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "万斯：伊朗已告知美国暂无霍尔木兹海峡通行费计划",
+          "url": "https://flash.jin10.com/detail/20260809021634984800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        },
+        {
+          "title": "据以色列第13频道：以色列继续为在没有美国支持的情况下重新独立对伊朗发动攻击的可能性做准备。",
+          "url": "https://flash.jin10.com/detail/20260809020537439800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        },
         {
           "title": "伊朗总统佩泽希齐扬：问题不能仅靠战争解决。致力于根据谅解备忘录的条款推进和平进程。",
           "url": "https://flash.jin10.com/detail/20260808225609300800",
@@ -46,6 +68,17 @@
           "time_info": "[00时43分 ~ 01时38分]"
         },
         {
+          "title": "“中东油轮受威胁程度已达伊朗战争爆发以来最高水平”",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0878314.html",
+          "source": "联合早报",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时50分]"
+        },
+        {
           "title": "美国副总统万斯：已经大幅削弱了伊朗的非对称军事能力。",
           "url": "https://flash.jin10.com/detail/20260808224916124800",
           "source": "金十数据",
@@ -56,6 +89,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 01时38分]"
+        },
+        {
+          "title": "万斯：美国在伊朗问题上“正处于博弈之中”",
+          "url": "https://flash.jin10.com/detail/20260809005907467800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时38分 ~ 02时50分]"
         },
         {
           "title": "据福克斯新闻：美国副总统万斯表示，伊朗已通知美国，尽管政权内部人士发表了将对霍尔木兹海峡征收过境费的声明，但伊朗不会征收此类费用。",
@@ -82,26 +127,15 @@
           "time_info": "[00时43分 ~ 01时38分]"
         },
         {
-          "title": "“中东油轮受威胁程度已达伊朗战争爆发以来最高水平”",
-          "url": "https://www.zaochenbao.com/news/politics/202608/0878314.html",
-          "source": "联合早报",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时38分]"
-        },
-        {
-          "title": "万斯：美国在伊朗问题上“正处于博弈之中”",
-          "url": "https://flash.jin10.com/detail/20260809005907467800",
+          "title": "土耳其外交部长：伊朗不是防御协议的目标，只要不攻击成员国，任何国家都不会成为目标。",
+          "url": "https://flash.jin10.com/detail/20260809012412977800",
           "source": "金十数据",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时38分"
+          "time_info": "02时50分"
         },
         {
           "title": "分析师：美国在伊朗战争中付出的代价之一是自身信誉的流失，或导致......",
@@ -139,19 +173,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时50分]"
         },
         {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
           "url": "https://wallstreetcn.com/articles/3778975",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时50分]"
         },
         {
           "title": "不理最高法院裁决 特朗普再威胁开除美联储理事",
@@ -161,8 +196,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时50分]"
         },
         {
           "title": "如何应对中国开源AI模型？特朗普政府内部争论升级",
@@ -172,19 +207,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时50分]"
         },
         {
           "title": "特朗普政府冻结石油大亨萨金特资产，施压其退出委内瑞拉",
           "url": "https://flash.jin10.com/detail/20260809002354192800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时38分 ~ 02时50分]"
         },
         {
           "title": "消息人士：若民主党赢得众议院，他们计划对特朗普进行调查而非弹劾",
@@ -211,8 +247,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时50分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -222,8 +258,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时50分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -233,8 +269,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时50分]"
         }
       ]
     },
@@ -247,11 +283,12 @@
           "url": "https://wallstreetcn.com/articles/3778993",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时50分]"
         }
       ]
     },
@@ -267,8 +304,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时50分]"
         }
       ]
     }
