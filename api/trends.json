@@ -1,35 +1,37 @@
 {
-  "generated_at": "2026-08-08T07:41:03.772697+08:00",
-  "total_titles_processed": 179,
+  "generated_at": "2026-08-08T10:07:31.653403+08:00",
+  "total_titles_processed": 220,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普下令对多晶硅开征15%关税 设最低进口价",
           "url": "https://www.zaochenbao.com/news/politics/202608/0778272.html",
           "source": "联合早报",
           "ranks": [
-            4
+            4,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 07时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 10时07分]"
         },
         {
           "title": "特朗普行政令打击“生育旅游” 美媒：或在法庭上受挑战",
           "url": "https://www.zaochenbao.com/news/politics/202608/0778267.html",
           "source": "联合早报",
           "ranks": [
-            9
+            9,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 07时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 10时07分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -85,6 +87,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "特朗普谈降息：希望利率下调，但这不完全取决于沃什一人",
+          "url": "https://wallstreetcn.com/articles/3778955",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "特朗普政府投38亿新元 强化关键矿产及电池供应链",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0878280.html",
+          "source": "联合早报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         },
         {
           "title": "美媒：特朗普推进罢免美联储理事库克 以“严重失职”为由正式启动罢免程序",
@@ -283,7 +307,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -291,11 +315,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 07时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 10时07分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -307,28 +332,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时06分 ~ 06时47分]"
-        },
-        {
-          "title": "金十图示：2026年08月07日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260808040607361800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时51分 ~ 07时41分]"
-        },
-        {
-          "title": "金十图示：2026年08月07日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260808040559195800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时51分 ~ 07时41分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -354,6 +357,30 @@
           "time_info": "[00时06分 ~ 07时41分]"
         },
         {
+          "title": "金十图示：2026年08月07日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260808040607361800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时51分 ~ 10时07分]"
+        },
+        {
+          "title": "金十图示：2026年08月07日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260808040559195800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时51分 ~ 10时07分]"
+        },
+        {
           "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
           "url": "https://www.cls.cn/detail/2448354",
           "source": "财联社热门",
@@ -373,8 +400,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时46分 ~ 07时41分]"
+          "appearance_count": 5,
+          "time_info": "[06时46分 ~ 10时07分]"
         },
         {
           "title": "美股收盘： 三大股指收涨 SpaceX大涨近16%",
@@ -386,6 +413,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时51分 ~ 07时41分]"
+        },
+        {
+          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
+          "url": "https://www.cls.cn/detail/2448991",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         }
       ]
     },
