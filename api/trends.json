@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T12:17:03.691136+08:00",
-  "total_titles_processed": 243,
+  "generated_at": "2026-08-08T13:49:18.633243+08:00",
+  "total_titles_processed": 260,
   "failed_sources": [
     "36kr"
   ],
@@ -16,11 +16,12 @@
           "ranks": [
             4,
             20,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时06分 ~ 12时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时06分 ~ 13时49分]"
         },
         {
           "title": "特朗普行政令打击“生育旅游” 美媒：或在法庭上受挑战",
@@ -80,6 +81,31 @@
           "time_info": "01时55分"
         },
         {
+          "title": "特朗普政府投38亿新元 强化关键矿产及电池供应链",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0878280.html",
+          "source": "联合早报",
+          "ranks": [
+            12,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时07分 ~ 13时49分]"
+        },
+        {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 13时49分]"
+        },
+        {
           "title": "特朗普谈降息：希望利率下调，但这不完全取决于沃什一人",
           "url": "https://wallstreetcn.com/articles/3778955",
           "source": "华尔街见闻",
@@ -89,29 +115,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时07分 ~ 12时17分]"
-        },
-        {
-          "title": "特朗普政府投38亿新元 强化关键矿产及电池供应链",
-          "url": "https://www.zaochenbao.com/news/politics/202608/0878280.html",
-          "source": "联合早报",
-          "ranks": [
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 12时17分]"
-        },
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 12时17分]"
         },
         {
           "title": "特朗普提名律师丹妮尔·图曼·塞弗斯出任美国联邦通信委员会（FCC）委员。",
@@ -330,11 +333,12 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时06分 ~ 12时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时06分 ~ 13时49分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -357,6 +361,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时06分 ~ 05时48分]"
+        },
+        {
+          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
+          "url": "https://www.cls.cn/detail/2448974",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时46分 ~ 13时49分]"
         },
         {
           "title": "韩股跌倒，美股吃饱！“受伤”的韩国散户大军重返华尔街怀抱",
@@ -395,18 +411,6 @@
           "time_info": "[04时51分 ~ 10时07分]"
         },
         {
-          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
-          "url": "https://www.cls.cn/detail/2448974",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时46分 ~ 12时17分]"
-        },
-        {
           "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
           "url": "https://www.cls.cn/detail/2448354",
           "source": "财联社热门",
@@ -426,8 +430,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 12时17分]"
+          "appearance_count": 4,
+          "time_info": "[10时07分 ~ 13时49分]"
         },
         {
           "title": "美股收盘： 三大股指收涨 SpaceX大涨近16%",
