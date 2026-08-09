@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-09T19:37:30.504853+08:00",
-  "total_titles_processed": 361,
+  "generated_at": "2026-08-09T21:07:09.490800+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
@@ -19,8 +19,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时24分 ~ 19时37分]"
+          "appearance_count": 11,
+          "time_info": "[12时24分 ~ 21时07分]"
         },
         {
           "title": "“中东油轮受威胁程度已达伊朗战争爆发以来最高水平”",
@@ -41,11 +41,12 @@
             1,
             5,
             10,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时53分 ~ 19时37分]"
+          "appearance_count": 8,
+          "time_info": "[16时53分 ~ 21时07分]"
         },
         {
           "title": "海湾国家担忧伊朗“以钱换通航”，但应对空间极为有限",
@@ -70,6 +71,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时37分 ~ 07时36分]"
+        },
+        {
+          "title": "伊朗提出重开霍尔木兹海峡多项要求 美媒：美国不太可能同意",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0978401.html",
+          "source": "联合早报",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时06分 ~ 21时07分]"
         },
         {
           "title": "伊朗外长阿拉格齐：一些中介国家仍在努力为重新谈判创造条件。在我们看来，只要美国未结束对《伊斯兰堡备忘录》的违反，且未对此做出弥补，就不可能重新开始谈判。",
@@ -136,6 +148,17 @@
           "time_info": "[15时07分 ~ 17时50分]"
         },
         {
+          "title": "美国对伊朗战争消耗大量武器 恐削弱对中俄威慑力",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0978398.html",
+          "source": "联合早报",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时06分 ~ 21时07分]"
+        },
+        {
           "title": "伊朗提六项要求 促美方纠正自身行为",
           "url": "https://www.zaochenbao.com/news/politics/202608/0978355.html",
           "source": "联合早报",
@@ -166,22 +189,12 @@
           "url": "https://flash.jin10.com/detail/20260809190537023800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时37分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：伊朗不攻击以色列，因为它意识到如果这样做，我们将给予它强有力的打击。",
-          "url": "https://flash.jin10.com/detail/20260809185800231800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时37分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时37分 ~ 21时07分]"
         },
         {
           "title": "美国中央司令部：美国海军在“亚伯拉罕·林肯”号航空母舰（CVN 72）飞行甲板上对F/A-18E“超级大黄蜂”战斗机进行维护，以确保航母打击群资产保持战备状态，执行美国对伊朗的海上封锁任务。",
@@ -195,6 +208,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时37分 ~ 05时38分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：伊朗不攻击以色列，因为它意识到如果这样做，我们将给予它强有力的打击。",
+          "url": "https://flash.jin10.com/detail/20260809185800231800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时37分 ~ 21时07分]"
         },
         {
           "title": "伊朗总统佩泽希齐扬：问题不能仅靠战争解决。致力于根据谅解备忘录的条款推进和平进程。",
@@ -282,6 +307,18 @@
           "time_info": "[17时49分 ~ 18时42分]"
         },
         {
+          "title": "伊朗央行禁止银行超额提款",
+          "url": "https://flash.jin10.com/detail/20260809183958442800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时37分 ~ 21时07分]"
+        },
+        {
           "title": "伊朗革命卫队：将保持对海峡控制至敌方接受全部条件",
           "url": "https://flash.jin10.com/detail/20260809181113625800",
           "source": "金十数据",
@@ -366,15 +403,26 @@
           "time_info": "[18时42分 ~ 19时37分]"
         },
         {
-          "title": "伊朗央行禁止银行超额提款",
-          "url": "https://flash.jin10.com/detail/20260809183958442800",
+          "title": "雷扎伊出任伊朗最高领袖驻最高国家安全委员会代表",
+          "url": "https://flash.jin10.com/detail/20260809192733431800",
           "source": "金十数据",
           "ranks": [
-            8
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时06分 ~ 21时07分]"
+        },
+        {
+          "title": "伊朗最高领袖与总统举行会谈",
+          "url": "https://flash.jin10.com/detail/20260809191842613800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时06分 ~ 21时07分]"
         },
         {
           "title": "分析师：美国在伊朗战争中付出的代价之一是自身信誉的流失，或导致......",
@@ -412,8 +460,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时43分 ~ 19时37分]"
+          "appearance_count": 23,
+          "time_info": "[00时43分 ~ 21时07分]"
         },
         {
           "title": "不理最高法院裁决 特朗普再威胁开除美联储理事",
@@ -442,11 +490,12 @@
           "url": "https://flash.jin10.com/detail/20260809185901644800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时37分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时37分 ~ 21时07分]"
         },
         {
           "title": "据塔斯社报道，美国中东问题特使威特科夫和特朗普高级顾问库什纳可能在接下来七到十天内访问基辅和莫斯科。",
@@ -525,7 +574,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -537,8 +586,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时24分 ~ 19时37分]"
+          "appearance_count": 11,
+          "time_info": "[12时24分 ~ 21时07分]"
         },
         {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
@@ -547,11 +596,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时43分 ~ 19时37分]"
+          "appearance_count": 23,
+          "time_info": "[00时43分 ~ 21时07分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -586,11 +636,23 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时17分 ~ 19时37分]"
+          "appearance_count": 13,
+          "time_info": "[10时17分 ~ 21时07分]"
+        },
+        {
+          "title": "一边买黄金，一边买美股",
+          "url": "https://wallstreetcn.com/articles/3779012",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时06分 ~ 21时07分]"
         }
       ]
     },
@@ -632,8 +694,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时43分 ~ 19时37分]"
+          "appearance_count": 23,
+          "time_info": "[00时43分 ~ 21时07分]"
         }
       ]
     },
