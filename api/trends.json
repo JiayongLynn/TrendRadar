@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-10T07:39:47.698757+08:00",
-  "total_titles_processed": 172,
+  "generated_at": "2026-08-10T10:24:13.025117+08:00",
+  "total_titles_processed": 237,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 07时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 10时24分]"
         },
         {
           "title": "伊朗提出重开霍尔木兹海峡多项要求 美媒：美国不太可能同意",
@@ -52,6 +52,28 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时45分 ~ 07时39分]"
+        },
+        {
+          "title": "伊朗高层人事变动 革命卫队前总司令任国安机构负责人",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1078422.html",
+          "source": "联合早报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时23分 ~ 10时24分]"
+        },
+        {
+          "title": "据伊朗媒体报道，巴勒斯坦伊斯兰圣战组织谴责以色列总理内塔尼亚胡反对加沙15点计划的行为，称此举公然否认停火协议，并直接反对美国的计划。",
+          "url": "https://flash.jin10.com/detail/20260810100917229800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时23分 ~ 10时24分]"
         },
         {
           "title": "在霍尔木兹海峡僵局中，伊朗为何自信能“耗过”美国？",
@@ -205,7 +227,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
         },
@@ -216,7 +238,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
         }
@@ -224,7 +246,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -238,13 +260,24 @@
           "time_info": "[00时45分 ~ 06时39分]"
         },
         {
+          "title": "特朗普称伊朗经济压力加大 美国“低调”静观其变",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1078421.html",
+          "source": "联合早报",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时23分 ~ 10时24分]"
+        },
+        {
           "title": "霍尔木兹协议临门一脚却卡死：伊朗抬高条件，特朗普突然降调改打“耐心牌”",
           "url": "https://flash.jin10.com/detail/20260810071953536800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
         },
@@ -326,6 +359,28 @@
           "time_info": "[00时45分 ~ 01时38分]"
         },
         {
+          "title": "内坦亚胡拒绝特朗普支持的15点加沙和平计划",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1078409.html",
+          "source": "联合早报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时23分 ~ 10时24分]"
+        },
+        {
+          "title": "美战机拦截特朗普球场附近飞机",
+          "url": "https://flash.jin10.com/detail/20260810094713330800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时23分 ~ 10时24分]"
+        },
+        {
           "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
           "url": "https://flash.jin10.com/detail/20260809212948063800",
           "source": "金十数据",
@@ -350,8 +405,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 07时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 10时24分]"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
@@ -370,11 +425,12 @@
           "url": "https://wallstreetcn.com/articles/3779012",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时40分 ~ 07时39分]"
+          "appearance_count": 8,
+          "time_info": "[03时40分 ~ 10时24分]"
         },
         {
           "title": "美股股指期货周一开盘涨跌不一，纳指期货涨0.16%，道指期货跌0.14%。",
