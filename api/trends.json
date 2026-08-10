@@ -1,24 +1,25 @@
 {
-  "generated_at": "2026-08-11T06:48:06.264030+08:00",
-  "total_titles_processed": 186,
+  "generated_at": "2026-08-11T07:43:16.261606+08:00",
+  "total_titles_processed": 206,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
           "url": "https://wallstreetcn.com/articles/3779034",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 06时48分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 07时43分]"
         },
         {
           "title": "特朗普支持率低迷 共和党失去经济安全领域优势",
@@ -28,8 +29,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 06时48分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 07时43分]"
+        },
+        {
+          "title": "特朗普“狮子大开口”向伊朗开出“赔偿清单”，霍尔木兹海峡协议前景瞬间黯淡",
+          "url": "https://flash.jin10.com/detail/20260811071100479800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时42分 ~ 07时43分]"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：消息人士表示，美国总统特朗普计划于当地时间周一签署一项有关儿童疫苗政策的行政命令。",
@@ -58,11 +70,12 @@
           "url": "https://flash.jin10.com/detail/20260811055607188800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时47分 ~ 06时48分]"
+          "appearance_count": 4,
+          "time_info": "[06时47分 ~ 07时43分]"
         },
         {
           "title": "特朗普称自沃什履新以来仅与其短暂交谈一次 否认频繁沟通",
@@ -191,8 +204,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 06时48分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 07时43分]"
         },
         {
           "title": "OpenAI：新的高级席位（Premium Seat）使用额度相比标准版提升5倍，无5小时使用限制，并提供可预测的每周使用额度重置。",
@@ -313,6 +326,138 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时51分]"
+        },
+        {
+          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时42分 ~ 07时43分]"
+        },
+        {
+          "title": "霍尔木兹僵局推油价大涨5%，英伟达\"循环融资\"担忧打压美股指，芯片指数跌3%，黄金续涨",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 06时48分]"
+        },
+        {
+          "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
+          "url": "https://www.cls.cn/detail/2450652",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时47分 ~ 07时43分]"
+        },
+        {
+          "title": "美股三大指数集体走低，纳指跌0.51%，道指跌0.25%， 标普500指数跌0.17%。",
+          "url": "https://flash.jin10.com/detail/20260811004521998800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 01时59分]"
+        },
+        {
+          "title": "金十图示：2026年08月10日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260811004311524800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 01时59分]"
+        },
+        {
+          "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
+          "url": "https://www.cls.cn/detail/2450678",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时42分 ~ 07时43分]"
+        },
+        {
+          "title": "金十图示：2026年08月10日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260811004202641800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
+        },
+        {
+          "title": "金十图示：2026年08月10日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260811040544089800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时51分]"
+        },
+        {
+          "title": "金十图示：2026年08月10日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260811040524679800",
+          "source": "金十数据",
+          "ranks": [
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时51分]"
+        },
+        {
+          "title": "美股收盘：三大股指收跌 金龙指数涨1.6%",
+          "url": "https://flash.jin10.com/detail/20260811040205708800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 10,
       "titles": [
@@ -324,8 +469,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 06时48分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 07时43分]"
         },
         {
           "title": "英国夫妇绝食三个月 抗议被伊朗以间谍罪拘捕",
@@ -335,8 +480,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 06时48分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 07时43分]"
         },
         {
           "title": "伊朗“圣城旅”指挥官到访巴格达 同伊拉克多方会晤",
@@ -427,115 +572,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时51分]"
-        },
-        {
-          "title": "霍尔木兹僵局推油价大涨5%，英伟达\"循环融资\"担忧打压美股指，芯片指数跌3%，黄金续涨",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时47分 ~ 06时48分]"
-        },
-        {
-          "title": "美股三大指数集体走低，纳指跌0.51%，道指跌0.25%， 标普500指数跌0.17%。",
-          "url": "https://flash.jin10.com/detail/20260811004521998800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 01时59分]"
-        },
-        {
-          "title": "金十图示：2026年08月10日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260811004311524800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 01时59分]"
-        },
-        {
-          "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
-          "url": "https://www.cls.cn/detail/2450652",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时47分 ~ 06时48分]"
-        },
-        {
-          "title": "金十图示：2026年08月10日（周一）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260811004202641800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "金十图示：2026年08月10日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260811040544089800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 05时51分]"
-        },
-        {
-          "title": "金十图示：2026年08月10日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260811040524679800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 05时51分]"
-        },
-        {
-          "title": "美股收盘：三大股指收跌 金龙指数涨1.6%",
-          "url": "https://flash.jin10.com/detail/20260811040205708800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
         }
       ]
     }
