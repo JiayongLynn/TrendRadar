@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T18:25:28.065976+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-08-10T19:54:47.114987+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [
     "36kr"
   ],
@@ -305,7 +305,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         }
@@ -432,11 +432,24 @@
           "source": "联合早报",
           "ranks": [
             9,
-            13
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时46分 ~ 19时54分]"
+        },
+        {
+          "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
+          "url": "https://wallstreetcn.com/articles/3779034",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时46分 ~ 18时25分]"
+          "time_info": "[18时25分 ~ 19时54分]"
         },
         {
           "title": "内塔尼亚胡认为在加沙计划上跟特朗普作对“没有风险”",
@@ -471,17 +484,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
-        },
-        {
-          "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
-          "url": "https://wallstreetcn.com/articles/3779034",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
         },
         {
           "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
@@ -592,11 +594,12 @@
             9,
             8,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时46分 ~ 18时25分]"
+          "appearance_count": 6,
+          "time_info": "[12时46分 ~ 19时54分]"
         }
       ]
     },
