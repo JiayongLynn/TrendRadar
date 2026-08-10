@@ -1,793 +1,251 @@
 {
-  "generated_at": "2026-08-10T23:07:35.802724+08:00",
-  "total_titles_processed": 620,
+  "generated_at": "2026-08-11T01:02:08.841290+08:00",
+  "total_titles_processed": 95,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
-          "url": "https://wallstreetcn.com/articles/3778994",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 10时24分]"
-        },
-        {
-          "title": "伊朗提出重开霍尔木兹海峡多项要求 美媒：美国不太可能同意",
-          "url": "https://www.zaochenbao.com/news/politics/202608/0978401.html",
-          "source": "联合早报",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 07时39分]"
-        },
-        {
-          "title": "美国对伊朗战争消耗大量武器 恐削弱对中俄威慑力",
-          "url": "https://www.zaochenbao.com/news/politics/202608/0978398.html",
-          "source": "联合早报",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 07时39分]"
-        },
-        {
-          "title": "霍尔木兹海峡：阿曼称会谈进展顺利，伊朗则警告协议不会打通海峡",
-          "url": "https://www.zaochenbao.com/news/politics/202608/0978383.html",
-          "source": "联合早报",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 07时39分]"
-        },
-        {
-          "title": "伊朗高层人事变动 革命卫队前总司令任国安机构负责人",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1078422.html",
-          "source": "联合早报",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时23分 ~ 14时17分]"
-        },
-        {
-          "title": "据伊朗媒体报道，巴勒斯坦伊斯兰圣战组织谴责以色列总理内塔尼亚胡反对加沙15点计划的行为，称此举公然否认停火协议，并直接反对美国的计划。",
-          "url": "https://flash.jin10.com/detail/20260810100917229800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 10时24分]"
-        },
-        {
-          "title": "在霍尔木兹海峡僵局中，伊朗为何自信能“耗过”美国？",
-          "url": "https://flash.jin10.com/detail/20260810022129742800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8,
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时53分 ~ 05时41分]"
-        },
-        {
-          "title": "据伊通社（IRNA）：伊朗总统府负责新闻与通信事务的副主任宣布，伊朗最高领袖穆杰塔巴任命穆赫辛·雷扎伊为其在国家安全委员会的代表。",
-          "url": "https://flash.jin10.com/detail/20260810015638671800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时53分 ~ 05时41分]"
-        },
         {
           "title": "伊朗：土巴沙防务协定凸显地区国家安全策略更依赖自身能力",
           "url": "https://www.zaochenbao.com/news/politics/202608/1078471.html",
           "source": "联合早报",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时07分"
-        },
-        {
-          "title": "据伊朗学生通讯社：伊朗举行经济关系协调委员会会议，重点讨论北部港口在保障基本商品供应中的作用。",
-          "url": "https://flash.jin10.com/detail/20260810032232973800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9,
-            17
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时40分 ~ 05时41分]"
-        },
-        {
-          "title": "伊朗任命雷扎伊为最高国家安全委员会秘书",
-          "url": "https://flash.jin10.com/detail/20260810041124163800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时42分 ~ 06时39分]"
-        },
-        {
-          "title": "据伊朗学生通讯社：伊朗商会会长表示，私营部门已准备好运用其观点和能力来设计相关机制，以巩固任何潜在协议对国家的经济利益，并保护其经济成果。他强调，各国之间健康、平衡的经济联系和共同利益越深厚，回归紧张局势的成本就越高。",
-          "url": "https://flash.jin10.com/detail/20260810035604925800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时42分 ~ 06时39分]"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：当今世界已经意识到伊朗是不可屈服的。",
-          "url": "https://flash.jin10.com/detail/20260810035338138800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时42分 ~ 06时39分]"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：伊斯兰体制正处于历史上最关键的时刻之一，在地区和全球安全与稳定中发挥着无可替代的作用。",
-          "url": "https://flash.jin10.com/detail/20260810035319895800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时42分 ~ 06时39分]"
-        },
-        {
-          "title": "伊朗总统：愿保持沟通，但绝不会坐等任何外部势力",
-          "url": "https://flash.jin10.com/detail/20260810011547418800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            6,
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时38分 ~ 04时42分]"
-        },
-        {
-          "title": "伊朗最高领袖任命佐勒加德尔为其政治顾问",
-          "url": "https://flash.jin10.com/detail/20260810045918536800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时40分 ~ 06时39分]"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
         },
         {
           "title": "英国夫妇绝食三个月 抗议被伊朗以间谍罪拘捕",
           "url": "https://www.zaochenbao.com/news/politics/202608/1078465.html",
           "source": "联合早报",
           "ranks": [
-            3,
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时25分 ~ 23时07分]"
+          "time_info": "[01时01分 ~ 01时02分]"
         },
         {
-          "title": "据沙特媒体哈达斯（Alhadath）：也门国家抵抗力量表示，胡塞武装是伊朗的工具，其决策权掌握在伊朗手中。该组织企图通过制造混乱、激化紧张局势来为伊朗服务，以帮助其缓解外部压力。也门国家抵抗力量强调，胡塞武装并非和平工具，而是“战争工具”，与其达成和平毫无可能。该组织同时警告，胡塞武装的冒险行为绝不会被姑息纵容。",
-          "url": "https://flash.jin10.com/detail/20260810003151519800",
+          "title": "伊朗最高领袖公布多项任命 调整武装力量领导层",
+          "url": "https://flash.jin10.com/detail/20260811003027747800",
           "source": "金十数据",
           "ranks": [
-            8,
-            12,
-            18
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 03时40分]"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
         },
         {
-          "title": "伊朗陆军司令称部队全面战备，警告美军勿踏足伊朗领土",
-          "url": "https://flash.jin10.com/detail/20260809234510218800",
+          "title": "市场消息：伊朗革命卫队海军司令表示，任何外国船只通过霍尔木兹海峡都会受到伊朗军队的识别、跟踪和监控。",
+          "url": "https://flash.jin10.com/detail/20260811001859720800",
           "source": "金十数据",
           "ranks": [
-            9,
-            21,
-            25
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 02时53分]"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
         },
         {
-          "title": "伊朗机场公司首席执行官：尽管遭受重大破坏，但受战争影响的机场已恢复运营。",
-          "url": "https://flash.jin10.com/detail/20260810122646591800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
-          "title": "伊朗外交部发言人：我们正与地区所有国家就增进信任与内生安全机制进行对话。",
-          "url": "https://flash.jin10.com/detail/20260810163121033800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时46分"
-        },
-        {
-          "title": "据半岛电视台：伊朗总统佩泽希齐扬表示，美国和以色列利用人工智能数据攻击伊朗。",
-          "url": "https://flash.jin10.com/detail/20260810224105875800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时07分"
-        },
-        {
-          "title": "伊朗外交部发言人：我们对任何有关美国军事实力的报告——无论正面还是负面——都不予采信。对伊朗而言，最重要的是保持自身处于最高水平的战备状态。",
-          "url": "https://flash.jin10.com/detail/20260810163047735800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时46分"
-        },
-        {
-          "title": "伊朗外交部发言人：无论是谈判秘密进行还是公开进行，伊朗人都是高明的“棋手”。",
-          "url": "https://flash.jin10.com/detail/20260810162939150800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时46分"
-        },
-        {
-          "title": "伊朗在谈判关键时刻撤换最高安全官员",
-          "url": "https://flash.jin10.com/detail/20260810064649628800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时39分"
-        },
-        {
-          "title": "伊朗公布美军基地遭袭前后最新卫星对比图",
-          "url": "https://flash.jin10.com/detail/20260810063550783800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时39分"
-        },
-        {
-          "title": "伊朗外交部发言人：霍尔木兹海峡的关闭并非源于伊朗与阿曼之间的分歧。",
-          "url": "https://flash.jin10.com/detail/20260810162519529800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时46分"
-        },
-        {
-          "title": "据伊朗媒体Fars News：也门无人机袭击目标直指沙特在摩卡地区的代理人。",
-          "url": "https://flash.jin10.com/detail/20260810222535115800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时07分"
-        },
-        {
-          "title": "雷扎伊任命显示伊朗军政宗教高层“协同加强”",
-          "url": "https://flash.jin10.com/detail/20260810222218882800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时07分"
-        },
-        {
-          "title": "巴基斯坦与伊朗外长通话 就地区局势交换意见",
-          "url": "https://flash.jin10.com/detail/20260810221826228800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时07分"
-        },
-        {
-          "title": "伊朗开复航条件，俄油回流G7：两股力量重塑能源定价 | Plus日报",
-          "url": "https://flash.jin10.com/detail/20260810221813827800",
+          "title": "伊朗和巴基斯坦外长在通话中讨论霍尔木兹海谈判及防务协议。",
+          "url": "https://flash.jin10.com/detail/20260810235617403800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
         },
         {
-          "title": "伊朗明确声明：当前重心为与阿曼谈判，并非华盛顿",
-          "url": "https://flash.jin10.com/detail/20260810173149746800",
+          "title": "市场消息：伊朗外长阿拉格齐与德国外交部长讨论了双边、地区和国际局势。",
+          "url": "https://flash.jin10.com/detail/20260810234432760800",
           "source": "金十数据",
           "ranks": [
-            25
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
+        },
+        {
+          "title": "市场消息：伊朗外交部长与德国外长通电话。",
+          "url": "https://flash.jin10.com/detail/20260810234334198800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 16,
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
       "titles": [
         {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
+          "title": "OpenAI：新的高级席位（Premium Seat）使用额度相比标准版提升5倍，无5小时使用限制，并提供可预测的每周使用额度重置。",
+          "url": "https://flash.jin10.com/detail/20260811005217914800",
+          "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 06时39分]"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
         },
         {
-          "title": "特朗普称伊朗经济压力加大 美国“低调”静观其变",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1078421.html",
-          "source": "联合早报",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时23分 ~ 14时17分]"
-        },
-        {
-          "title": "霍尔木兹协议临门一脚却卡死：伊朗抬高条件，特朗普突然降调改打“耐心牌”",
-          "url": "https://flash.jin10.com/detail/20260810071953536800",
+          "title": "OpenAI：限时期间，符合条件的工作区管理员每增加一个高级席位（Premium Seat），将获得价值100美元的额度奖励，最多可为5个席位获得总计500美元的额度。",
+          "url": "https://flash.jin10.com/detail/20260811005211685800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时39分"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
         },
         {
-          "title": "美国总统特朗普：自9月1日起，威尔·沙夫将接替大卫·沃灵顿，成为总统助理兼白宫法律顾问。",
-          "url": "https://flash.jin10.com/detail/20260810052934153800",
+          "title": "OpenAI：高级席位（Premium Seats）价格为每位用户每月125美元，按年付费则为每位用户每月100美元。",
+          "url": "https://flash.jin10.com/detail/20260811005131000800",
           "source": "金十数据",
           "ranks": [
-            1,
-            14,
-            29
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时40分 ~ 07时39分]"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
         },
         {
-          "title": "前美国安全官员警告：特朗普正按“独裁者剧本”行事，美国安全堪忧",
-          "url": "https://flash.jin10.com/detail/20260810030225732800",
+          "title": "OpenAI：为ChatGPT Business推出高级席位（Premium Seats）。",
+          "url": "https://flash.jin10.com/detail/20260811005120672800",
           "source": "金十数据",
           "ranks": [
-            4,
-            12,
-            20
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时40分 ~ 05时41分]"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
         },
         {
-          "title": "美媒：特朗普暂缓对伊动武，称正“低调处理”伊朗问题",
-          "url": "https://flash.jin10.com/detail/20260810010023977800",
+          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
+          "url": "https://wallstreetcn.com/articles/3779038",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
+        },
+        {
+          "title": "美股三大指数集体走低，纳指跌0.51%，道指跌0.25%， 标普500指数跌0.17%。",
+          "url": "https://flash.jin10.com/detail/20260811004521998800",
           "source": "金十数据",
           "ranks": [
-            3,
-            7,
-            13,
-            21
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时38分 ~ 04时42分]"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
         },
         {
-          "title": "内坦亚胡拒绝特朗普支持的15点加沙和平计划",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1078409.html",
-          "source": "联合早报",
+          "title": "金十图示：2026年08月10日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260811004311524800",
+          "source": "金十数据",
           "ranks": [
-            16,
-            22
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时23分 ~ 14时17分]"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
         },
+        {
+          "title": "金十图示：2026年08月10日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260811004202641800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 4,
+      "titles": [
         {
           "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
           "url": "https://wallstreetcn.com/articles/3779034",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            7,
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时25分 ~ 23时07分]"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
         },
         {
-          "title": "据英国金融时报：前美国安全官员警告，美国总统特朗普正在拆除美国的防护屏障。",
-          "url": "https://flash.jin10.com/detail/20260810025259260800",
+          "title": "特朗普要求伊朗赔偿 称将纳入未来谈判",
+          "url": "https://flash.jin10.com/detail/20260811003934129800",
           "source": "金十数据",
           "ranks": [
-            6,
-            14,
-            22
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时40分 ~ 05时41分]"
-        },
-        {
-          "title": "F-16拦截特朗普高尔夫俱乐部附近两架违规飞机",
-          "url": "https://flash.jin10.com/detail/20260810033626643800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时42分 ~ 05时41分]"
-        },
-        {
-          "title": "美战机拦截多架闯特朗普高球场禁飞区民机",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1078440.html",
-          "source": "联合早报",
-          "ranks": [
-            9,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时46分 ~ 19时54分]"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
         },
         {
           "title": "特朗普支持率低迷 共和党失去经济安全领域优势",
           "url": "https://www.zaochenbao.com/news/politics/202608/1078462.html",
           "source": "联合早报",
           "ranks": [
-            6,
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时25分 ~ 23时07分]"
+          "time_info": "[01时01分 ~ 01时02分]"
         },
         {
-          "title": "内塔尼亚胡认为在加沙计划上跟特朗普作对“没有风险”",
-          "url": "https://flash.jin10.com/detail/20260809224743402800",
+          "title": "美国总统特朗普：伊朗要求对过去五个月军事冲突中对其造成的损失进行赔偿。我同样要求伊朗赔偿。已指示我的代表们在未来的任何谈判中，都要坚定地提出这一点。",
+          "url": "https://flash.jin10.com/detail/20260811003419512800",
           "source": "金十数据",
           "ranks": [
-            14,
-            26
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时45分 ~ 01时38分]"
-        },
-        {
-          "title": "美战机拦截特朗普球场附近飞机",
-          "url": "https://flash.jin10.com/detail/20260810094713330800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 10时24分]"
-        },
-        {
-          "title": "美国高级国防官员科尔比：北约在美国总统特朗普领导下显著增强，实力远超以往。",
-          "url": "https://flash.jin10.com/detail/20260810122310879800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
-          "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
-          "url": "https://flash.jin10.com/detail/20260809212948063800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
-          "url": "https://wallstreetcn.com/articles/3778998",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 10时24分]"
-        },
-        {
-          "title": "一边买黄金，一边买美股",
-          "url": "https://wallstreetcn.com/articles/3779012",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时40分 ~ 16时46分]"
-        },
-        {
-          "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
-          "url": "https://www.cls.cn/detail/2449177",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 07时39分]"
-        },
-        {
-          "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时07分"
-        },
-        {
-          "title": "美股股指期货周一开盘涨跌不一，纳指期货涨0.16%，道指期货跌0.14%。",
-          "url": "https://flash.jin10.com/detail/20260810060135599800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时39分 ~ 07时39分]"
-        },
-        {
-          "title": "科技股延续涨势，美股盘前光模块集体走高，霍尔木兹谈判僵局推升油价，黄金维持高位",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时25分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-08-10）",
-          "url": "https://flash.jin10.com/detail/20260810205232720800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
-          "url": "https://wallstreetcn.com/articles/3779038",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时46分 ~ 23时07分]"
-        },
-        {
-          "title": "据The Information：微软认为，MAIA芯片能够以更低的成本运行其自主研发和OpenAI的模型。",
-          "url": "https://flash.jin10.com/detail/20260810210234815800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "非农意外转负助推金价，4300之后本周要看什么？",
-          "url": "https://flash.jin10.com/detail/20260810122012069800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
-          "title": "港股异动丨金价上涨拉动板块行情，黄金珠宝零售商走强，老铺黄金涨超9%",
-          "url": "https://www.gelonghui.com/news/5282562",
-          "source": "格隆汇",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌：为谷歌广告和谷歌分析添加人工智能和智能体功能。",
-          "url": "https://flash.jin10.com/detail/20260810223834412800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "技术刘Pro：黄金高位宽幅运行于密集区内部，关注POC对价格的关键作用",
-          "url": "https://flash.jin10.com/detail/20260810204910568800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周一汇市盘初持稳，美元兑日元USD/JPY跌0.08%、欧元兑美元EUR/USD涨0.03%、美元指数DXY跌0.04%。",
-          "url": "https://flash.jin10.com/detail/20260810053536334800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时39分 ~ 07时39分]"
+          "time_info": "[01时01分 ~ 01时02分]"
         }
       ]
     }
