@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-10T10:24:13.025117+08:00",
-  "total_titles_processed": 237,
+  "generated_at": "2026-08-10T12:46:41.982891+08:00",
+  "total_titles_processed": 293,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
@@ -52,17 +52,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时45分 ~ 07时39分]"
-        },
-        {
-          "title": "伊朗高层人事变动 革命卫队前总司令任国安机构负责人",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1078422.html",
-          "source": "联合早报",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 10时24分]"
         },
         {
           "title": "据伊朗媒体报道，巴勒斯坦伊斯兰圣战组织谴责以色列总理内塔尼亚胡反对加沙15点计划的行为，称此举公然否认停火协议，并直接反对美国的计划。",
@@ -183,6 +172,18 @@
           "time_info": "[01时38分 ~ 04时42分]"
         },
         {
+          "title": "伊朗高层人事变动 革命卫队前总司令任国安机构负责人",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1078422.html",
+          "source": "联合早报",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时23分 ~ 12时46分]"
+        },
+        {
           "title": "伊朗最高领袖任命佐勒加德尔为其政治顾问",
           "url": "https://flash.jin10.com/detail/20260810045918536800",
           "source": "金十数据",
@@ -221,6 +222,17 @@
           "time_info": "[00时45分 ~ 02时53分]"
         },
         {
+          "title": "伊朗机场公司首席执行官：尽管遭受重大破坏，但受战争影响的机场已恢复运营。",
+          "url": "https://flash.jin10.com/detail/20260810122646591800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
           "title": "伊朗在谈判关键时刻撤换最高安全官员",
           "url": "https://flash.jin10.com/detail/20260810064649628800",
           "source": "金十数据",
@@ -246,7 +258,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -258,17 +270,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时45分 ~ 06时39分]"
-        },
-        {
-          "title": "特朗普称伊朗经济压力加大 美国“低调”静观其变",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1078421.html",
-          "source": "联合早报",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 10时24分]"
         },
         {
           "title": "霍尔木兹协议临门一脚却卡死：伊朗抬高条件，特朗普突然降调改打“耐心牌”",
@@ -322,6 +323,18 @@
           "time_info": "[01时38分 ~ 04时42分]"
         },
         {
+          "title": "特朗普称伊朗经济压力加大 美国“低调”静观其变",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1078421.html",
+          "source": "联合早报",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时23分 ~ 12时46分]"
+        },
+        {
           "title": "据英国金融时报：前美国安全官员警告，美国总统特朗普正在拆除美国的防护屏障。",
           "url": "https://flash.jin10.com/detail/20260810025259260800",
           "source": "金十数据",
@@ -347,6 +360,18 @@
           "time_info": "[04时42分 ~ 05时41分]"
         },
         {
+          "title": "内坦亚胡拒绝特朗普支持的15点加沙和平计划",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1078409.html",
+          "source": "联合早报",
+          "ranks": [
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时23分 ~ 12时46分]"
+        },
+        {
           "title": "内塔尼亚胡认为在加沙计划上跟特朗普作对“没有风险”",
           "url": "https://flash.jin10.com/detail/20260809224743402800",
           "source": "金十数据",
@@ -359,17 +384,6 @@
           "time_info": "[00时45分 ~ 01时38分]"
         },
         {
-          "title": "内坦亚胡拒绝特朗普支持的15点加沙和平计划",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1078409.html",
-          "source": "联合早报",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 10时24分]"
-        },
-        {
           "title": "美战机拦截特朗普球场附近飞机",
           "url": "https://flash.jin10.com/detail/20260810094713330800",
           "source": "金十数据",
@@ -379,6 +393,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时23分 ~ 10时24分]"
+        },
+        {
+          "title": "美国高级国防官员科尔比：北约在美国总统特朗普领导下显著增强，实力远超以往。",
+          "url": "https://flash.jin10.com/detail/20260810122310879800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
         },
         {
           "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
@@ -409,6 +434,19 @@
           "time_info": "[00时45分 ~ 10时24分]"
         },
         {
+          "title": "一边买黄金，一边买美股",
+          "url": "https://wallstreetcn.com/articles/3779012",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时40分 ~ 12时46分]"
+        },
+        {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
           "url": "https://www.cls.cn/detail/2449177",
           "source": "财联社热门",
@@ -421,18 +459,6 @@
           "time_info": "[00时45分 ~ 07时39分]"
         },
         {
-          "title": "一边买黄金，一边买美股",
-          "url": "https://wallstreetcn.com/articles/3779012",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时40分 ~ 10时24分]"
-        },
-        {
           "title": "美股股指期货周一开盘涨跌不一，纳指期货涨0.16%，道指期货跌0.14%。",
           "url": "https://flash.jin10.com/detail/20260810060135599800",
           "source": "金十数据",
@@ -443,6 +469,51 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "非农意外转负助推金价，4300之后本周要看什么？",
+          "url": "https://flash.jin10.com/detail/20260810122012069800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
+          "title": "港股异动丨金价上涨拉动板块行情，黄金珠宝零售商走强，老铺黄金涨超9%",
+          "url": "https://www.gelonghui.com/news/5282562",
+          "source": "格隆汇",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
+          "url": "https://wallstreetcn.com/articles/3779038",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
         }
       ]
     },
