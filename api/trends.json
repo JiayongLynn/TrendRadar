@@ -1,656 +1,13 @@
 {
-  "generated_at": "2026-08-11T23:06:24.398257+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2026-08-12T03:14:07.605644+08:00",
+  "total_titles_processed": 92,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 27,
-      "titles": [
-        {
-          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
-          "url": "https://wallstreetcn.com/articles/3779107",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时14分 ~ 23时06分]"
-        },
-        {
-          "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
-          "url": "https://wallstreetcn.com/articles/3779034",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 07时43分]"
-        },
-        {
-          "title": "特朗普支持率低迷 共和党失去经济安全领域优势",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1078462.html",
-          "source": "联合早报",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 07时43分]"
-        },
-        {
-          "title": "特朗普：美国100%控制霍尔木兹海峡 但伊朗仍会制造麻烦",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1178492.html",
-          "source": "联合早报",
-          "ranks": [
-            2,
-            9,
-            19,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时14分 ~ 18时58分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-11）",
-          "url": "https://flash.jin10.com/detail/20260811184126216800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时57分 ~ 18时58分]"
-        },
-        {
-          "title": "美媒：因伊朗潜在威胁 特朗普上月秘密乘运输机离开土耳其",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1178497.html",
-          "source": "联合早报",
-          "ranks": [
-            4,
-            14,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时27分 ~ 18时58分]"
-        },
-        {
-          "title": "特朗普“狮子大开口”向伊朗开出“赔偿清单”，霍尔木兹海峡协议前景瞬间黯淡",
-          "url": "https://flash.jin10.com/detail/20260811071100479800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时42分 ~ 07时43分]"
-        },
-        {
-          "title": "据美国哥伦比亚广播公司（CBS）：消息人士表示，美国总统特朗普计划于当地时间周一签署一项有关儿童疫苗政策的行政命令。",
-          "url": "https://flash.jin10.com/detail/20260811015237329800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "美国总统特朗普：关于伊朗谈判，伊朗应对其给黎巴嫩、叙利亚、也门和加沙人民造成的损害及死亡负责。",
-          "url": "https://flash.jin10.com/detail/20260811014323156800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "特朗普向伊朗提索赔新要求 美伊协议前景趋暗",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1178481.html",
-          "source": "联合早报",
-          "ranks": [
-            13,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时14分 ~ 15时22分]"
-        },
-        {
-          "title": "特朗普称美军实际控制霍尔木兹并清除了水雷",
-          "url": "https://flash.jin10.com/detail/20260811055607188800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时47分 ~ 07时43分]"
-        },
-        {
-          "title": "特朗普下令削减美孩童疫苗接种引发争议",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1178533.html",
-          "source": "联合早报",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时23分 ~ 23时06分]"
-        },
-        {
-          "title": "特朗普据悉倾向经济施压 伊朗自认占上风",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1178478.html",
-          "source": "联合早报",
-          "ranks": [
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时14分 ~ 13时58分]"
-        },
-        {
-          "title": "和平希望又受挫！特朗普称美军已“100%控制”霍尔木兹，并向伊朗索赔",
-          "url": "https://www.cls.cn/detail/2450709",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时27分 ~ 17时08分]"
-        },
-        {
-          "title": "特朗普称自沃什履新以来仅与其短暂交谈一次 否认频繁沟通",
-          "url": "https://flash.jin10.com/detail/20260811042819105800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 05时51分]"
-        },
-        {
-          "title": "特朗普媒体科技集团(DJT.O)第二季度营收170万美元，第二季度净亏损2.381亿美元，调整后EBITDA亏损2.235亿美元。",
-          "url": "https://flash.jin10.com/detail/20260811042521507800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 05时51分]"
-        },
-        {
-          "title": "特朗普要求伊朗赔偿 称将纳入未来谈判",
-          "url": "https://flash.jin10.com/detail/20260811003934129800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗要求对过去五个月军事冲突中对其造成的损失进行赔偿。我同样要求伊朗赔偿。已指示我的代表们在未来的任何谈判中，都要坚定地提出这一点。",
-          "url": "https://flash.jin10.com/detail/20260811003419512800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "据Axios：特朗普政府正在制定一项行政命令，计划将儿童麻疹、腮腺炎和风疹联合疫苗拆分为三针，并要求在不同医疗就诊中分别接种。",
-          "url": "https://flash.jin10.com/detail/20260811022219908800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 03时11分]"
-        },
-        {
-          "title": "美国总统特朗普：如果国际足联出于任何原因甚至考虑更换主席因凡蒂诺，那将是一个巨大的错误。他非常出色，刚刚成功主持了有史以来最成功的世界杯——其成功程度是以往的四倍。如果他离任，世界杯将再也无法取得如此巨大的成功或盈利。",
-          "url": "https://flash.jin10.com/detail/20260811093238110800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
-        },
-        {
-          "title": "特朗普政府撤销超17.5万份外国人签证",
-          "url": "https://flash.jin10.com/detail/20260811021754743800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 03时11分]"
-        },
-        {
-          "title": "市场消息：美国公民自由联盟（ACLU）及其他法律团体请求美国法官阻止特朗普最新限制“出生公民权”的行动。",
-          "url": "https://flash.jin10.com/detail/20260811224133543800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
-        },
-        {
-          "title": "特朗普延长《琼斯法案》航运豁免90天 适用范围转向能源运输",
-          "url": "https://flash.jin10.com/detail/20260811011430495800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "特朗普称美军已“100%控制”霍尔木兹海峡 | 环球市场",
-          "url": "https://www.cls.cn/detail/2450675",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "白宫官员：美国总统特朗普延长了《琼斯法案》的豁免，但附加了一些限制。",
-          "url": "https://flash.jin10.com/detail/20260811011059897800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "美国总统特朗普：将《琼斯法案》航运豁免期限延长了90天，同时缩小了豁免范围。运输豁免范围限定于能源商品和化肥。",
-          "url": "https://flash.jin10.com/detail/20260811010308412800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "美国总统特朗普：我和内塔尼亚胡之间的关系非常好。",
-          "url": "https://flash.jin10.com/detail/20260811034348679800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 27,
-      "titles": [
-        {
-          "title": "伊朗：土巴沙防务协定凸显地区国家安全策略更依赖自身能力",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1078471.html",
-          "source": "联合早报",
-          "ranks": [
-            2,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时01分 ~ 13时58分]"
-        },
-        {
-          "title": "英国夫妇绝食三个月 抗议被伊朗以间谍罪拘捕",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1078465.html",
-          "source": "联合早报",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 07时43分]"
-        },
-        {
-          "title": "美国正在伊朗大量消耗武器，俄中或坐收渔利",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1178487.html",
-          "source": "联合早报",
-          "ranks": [
-            7,
-            14,
-            24,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时14分 ~ 18时58分]"
-        },
-        {
-          "title": "伊朗最高领袖正式任命六人担任高级军事职务",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1178510.html",
-          "source": "联合早报",
-          "ranks": [
-            1,
-            11,
-            16,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时22分 ~ 23时06分]"
-        },
-        {
-          "title": "伊朗外交部嘲讽美国对制裁“病态依赖”",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1178508.html",
-          "source": "联合早报",
-          "ranks": [
-            3,
-            13,
-            18,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时22分 ~ 23时06分]"
-        },
-        {
-          "title": "卡塔尔：阿曼与伊朗的谈判已进入“高级阶段”",
-          "url": "https://flash.jin10.com/detail/20260811183346473800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时57分 ~ 18时58分]"
-        },
-        {
-          "title": "中国山东地炼补库需求升温 有望提振伊朗原油进口",
-          "url": "https://www.zaochenbao.com/news/china/202608/1178517.html",
-          "source": "联合早报",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时08分"
-        },
-        {
-          "title": "伊朗“圣城旅”指挥官到访巴格达 同伊拉克多方会晤",
-          "url": "https://flash.jin10.com/detail/20260811045926051800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时51分 ~ 06时48分]"
-        },
-        {
-          "title": "布伦特原油和美国原油回吐部分涨幅，卡塔尔政府发言人表示阿曼与伊朗的谈判已进入高级阶段。",
-          "url": "https://flash.jin10.com/detail/20260811183204331800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时57分 ~ 18时58分]"
-        },
-        {
-          "title": "德国外长瓦德富尔：在与伊朗外长阿拉格奇的通话中，我敦促伊朗与地区邻国和美国进行建设性谈判，以结束冲突。霍尔木兹海峡必须无条件开放，确保所有船只自由安全地航行。",
-          "url": "https://flash.jin10.com/detail/20260811041240333800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 05时51分]"
-        },
-        {
-          "title": "伊朗最高领袖公布多项任命 调整武装力量领导层",
-          "url": "https://flash.jin10.com/detail/20260811003027747800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "卡塔尔外交发言人：阿曼与伊朗之间的谈判目前已进入“高级阶段”。",
-          "url": "https://flash.jin10.com/detail/20260811182333920800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时57分 ~ 18时58分]"
-        },
-        {
-          "title": "市场消息：伊朗革命卫队海军司令表示，任何外国船只通过霍尔木兹海峡都会受到伊朗军队的识别、跟踪和监控。",
-          "url": "https://flash.jin10.com/detail/20260811001859720800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "伊朗和巴基斯坦外长在通话中讨论霍尔木兹海谈判及防务协议。",
-          "url": "https://flash.jin10.com/detail/20260810235617403800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "市场消息：伊朗外长阿拉格齐与德国外交部长讨论了双边、地区和国际局势。",
-          "url": "https://flash.jin10.com/detail/20260810234432760800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "市场消息：伊朗外交部长与德国外长通电话。",
-          "url": "https://flash.jin10.com/detail/20260810234334198800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "分析人士：伊朗在霍尔木兹海峡的谈判筹码正在“贬值”",
-          "url": "https://flash.jin10.com/detail/20260811230011449800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
-        },
-        {
-          "title": "伊朗革命卫队海军司令：任何觊觎伊朗岛屿的人，我们都将予以坚决打击。",
-          "url": "https://flash.jin10.com/detail/20260811011553614800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "伊朗副外长：伊朗将于10月1日主办《德黑兰公约》缔约方第七次会议。",
-          "url": "https://flash.jin10.com/detail/20260811144412813800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "伊朗副外长：里海的安全不仅仅是一项区域性和内部责任，必须由沿岸国家通过商定的机制来保障。",
-          "url": "https://flash.jin10.com/detail/20260811144300942800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "伊朗副外长：里海沿岸国家比任何其他国家都更受该海域局势发展的影响，因此由它们承担确保里海安全、稳定和未来的首要责任也是理所当然的。",
-          "url": "https://flash.jin10.com/detail/20260811144251340800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "伊朗副外长：地区近期的事态发展，特别是犹太复国主义政权和美国最近对伊朗发动的军事行动及其后续影响，再次使里海的地缘政治和战略重要性变得更加凸显。这突显了这片水域在沿岸国家战略考量及区域关系中的地位。",
-          "url": "https://flash.jin10.com/detail/20260811144235498800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "伊朗副外长：在历史的许多时期，里海更多地充当了各国之间的桥梁，而非分裂的手段。",
-          "url": "https://flash.jin10.com/detail/20260811144200715800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "伊朗副外长：对于伊朗及其沿岸国家而言，里海一直不仅仅是一片水域。纵观历史，里海始终是周边国家地理格局、民族认同及国家关系的重要组成部分，并在塑造地区各族群之间的关系方面发挥了重要作用。",
-          "url": "https://flash.jin10.com/detail/20260811144144584800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "伊朗外交部：巴基斯坦内政部长与伊朗外长阿拉格齐举行会晤。",
-          "url": "https://flash.jin10.com/detail/20260811222206746800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
-        },
-        {
-          "title": "伊朗副外长：23年前的今天，五个里海沿岸国签署了《保护里海环境框架公约》（又称《德黑兰公约》），该公约的实施已满20年。",
-          "url": "https://flash.jin10.com/detail/20260811144123381800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "伊朗天然气日产能9月有望回升近1亿立方米",
-          "url": "https://flash.jin10.com/detail/20260811221953945800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 5,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -660,388 +17,141 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时42分 ~ 23时06分]"
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 03时14分]"
         },
         {
-          "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
-          "url": "https://www.cls.cn/detail/2450652",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时47分 ~ 15时22分]"
-        },
-        {
-          "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时51分]"
-        },
-        {
-          "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
-          "url": "https://www.cls.cn/detail/2450678",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时42分 ~ 15时22分]"
-        },
-        {
-          "title": "霍尔木兹僵局推油价大涨5%，英伟达\"循环融资\"担忧打压美股指，芯片指数跌3%，黄金续涨",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
+          "title": "美股异动｜Beyond Meat跌超19%，拟按1:30比例进行反向拆股",
+          "url": "https://www.gelonghui.com/news/5283801",
+          "source": "格隆汇",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时47分 ~ 06时48分]"
-        },
-        {
-          "title": "美股三大指数集体走低，纳指跌0.51%，道指跌0.25%， 标普500指数跌0.17%。",
-          "url": "https://flash.jin10.com/detail/20260811004521998800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 01时59分]"
-        },
-        {
-          "title": "金十图示：2026年08月10日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260811004311524800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 01时59分]"
-        },
-        {
-          "title": "金十图示：2026年08月10日（周一）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260811004202641800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "金十图示：2026年08月10日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260811040544089800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 05时51分]"
-        },
-        {
-          "title": "金十图示：2026年08月10日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260811040524679800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 05时51分]"
-        },
-        {
-          "title": "美股异动｜伯恩斯坦上调WFE支出预测，半导体设备板块走强，阿斯麦涨超4%",
-          "url": "https://www.gelonghui.com/news/5283793",
-          "source": "格隆汇",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
-        },
-        {
-          "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股期指走高，黄金冲高回落",
-          "url": "https://wallstreetcn.com/articles/3779161",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时23分"
+          "time_info": "[03时13分 ~ 03时14分]"
         },
         {
           "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
           "url": "https://wallstreetcn.com/articles/3779161",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 03时14分]"
+        },
+        {
+          "title": "美股异动｜伯恩斯坦上调WFE支出预测，半导体设备板块走强，阿斯麦涨超4%",
+          "url": "https://www.gelonghui.com/news/5283793",
+          "source": "格隆汇",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 03时14分]"
         },
         {
           "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
           "url": "https://www.cls.cn/detail/2451601",
           "source": "财联社热门",
           "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
-        },
-        {
-          "title": "美股异动｜Meta涨2.4%，官宣开源最新AI模型Muse Spark 1.2",
-          "url": "https://www.gelonghui.com/news/5283787",
-          "source": "格隆汇",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
-        },
-        {
-          "title": "美股收盘：三大股指收跌 金龙指数涨1.6%",
-          "url": "https://flash.jin10.com/detail/20260811040205708800",
-          "source": "金十数据",
-          "ranks": [
-            22
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 03时14分]"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 11,
+      "keyword_group": "伊朗",
+      "match_count": 5,
       "titles": [
         {
-          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
-          "url": "https://wallstreetcn.com/articles/3779038",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 07时43分]"
-        },
-        {
-          "title": "OpenAI：新的高级席位（Premium Seat）使用额度相比标准版提升5倍，无5小时使用限制，并提供可预测的每周使用额度重置。",
-          "url": "https://flash.jin10.com/detail/20260811005217914800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 01时59分]"
-        },
-        {
-          "title": "据悉OpenAI回购70亿美元员工股份",
-          "url": "https://flash.jin10.com/detail/20260811044344828800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时53分 ~ 06时48分]"
-        },
-        {
-          "title": "OpenAI：限时期间，符合条件的工作区管理员每增加一个高级席位（Premium Seat），将获得价值100美元的额度奖励，最多可为5个席位获得总计500美元的额度。",
-          "url": "https://flash.jin10.com/detail/20260811005211685800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 01时59分]"
-        },
-        {
-          "title": "OpenAI：高级席位（Premium Seats）价格为每位用户每月125美元，按年付费则为每位用户每月100美元。",
-          "url": "https://flash.jin10.com/detail/20260811005131000800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 01时59分]"
-        },
-        {
-          "title": "OpenAI：为ChatGPT Business推出高级席位（Premium Seats）。",
-          "url": "https://flash.jin10.com/detail/20260811005120672800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 01时59分]"
-        },
-        {
-          "title": "OpenAI：GPT-5.6-Cyber并未参与利用漏洞攻击Hugging Face，其他即将发布的模型也不存在参与相关事件的情况。",
-          "url": "https://flash.jin10.com/detail/20260811022757566800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 03时11分]"
-        },
-        {
-          "title": "OpenAI：自2026年9月1日起，要求Daybreak中的所有个人账户启用硬件安全密钥。",
-          "url": "https://flash.jin10.com/detail/20260811022645076800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 03时11分]"
-        },
-        {
-          "title": "OpenAI：强烈建议使用Codex的Daybreak客户，通过应用默认设置和界面功能，将“完全访问模式”切换至“自动审查模式”。",
-          "url": "https://flash.jin10.com/detail/20260811022632431800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 03时11分]"
-        },
-        {
-          "title": "美国得克萨斯州州长阿博特：OpenAI已经作出承诺，会严格遵循当地数据中心的相关规范标准。",
-          "url": "https://flash.jin10.com/detail/20260811021755846800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 03时11分]"
-        },
-        {
-          "title": "OpenAI推出GPT-5.6-Cyber 面向安全人员开放更强AI能力",
-          "url": "https://flash.jin10.com/detail/20260811012108617800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "雅培与谷歌推出首个合作项目，借助血糖洞察和人工智能改变日常健康管理。",
-          "url": "https://flash.jin10.com/detail/20260811210808524800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时23分"
-        },
-        {
-          "title": "雅培：与谷歌多年合作将雅培的Lingo生物可穿戴设备的血糖观察与谷歌健康技术相结合。",
-          "url": "https://flash.jin10.com/detail/20260811210739634800",
+          "title": "美国军方：该船不再违反美国封锁驶往伊朗。",
+          "url": "https://flash.jin10.com/detail/20260812030104095800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时23分"
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 03时14分]"
         },
         {
-          "title": "雅培：与谷歌的合作包括大规模研究，以更好地指导人工智能培训。",
-          "url": "https://flash.jin10.com/detail/20260811210715702800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股异动丨国际金价突破4400美元，黄金股普涨，湖南白银涨超6%",
-          "url": "https://www.gelonghui.com/news/5283178",
-          "source": "格隆汇",
+          "title": "巴基斯坦：美国和伊朗接近达成和平安排",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1178544.html",
+          "source": "联合早报",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
+          "time_info": "[03时13分 ~ 03时14分]"
+        },
+        {
+          "title": "美军情报评估伊朗战略重点已从核计划转向霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260812023416358800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 03时14分]"
+        },
+        {
+          "title": "伊朗最高领袖正式任命六人担任高级军事职务",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1178510.html",
+          "source": "联合早报",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 03时14分]"
+        },
+        {
+          "title": "伊朗外交部嘲讽美国对制裁“病态依赖”",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1178508.html",
+          "source": "联合早报",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 03时14分]"
         }
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 1,
+      "keyword_group": "特朗普",
+      "match_count": 2,
       "titles": [
         {
-          "title": "30年美债冲上5%，市场担心的不是通胀失控",
-          "url": "https://flash.jin10.com/detail/20260811205409548800",
-          "source": "金十数据",
+          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
+          "url": "https://wallstreetcn.com/articles/3779107",
+          "source": "华尔街见闻",
           "ranks": [
-            24
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时23分"
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 03时14分]"
+        },
+        {
+          "title": "特朗普下令削减美孩童疫苗接种引发争议",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1178533.html",
+          "source": "联合早报",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 03时14分]"
         }
       ]
     }
