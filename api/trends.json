@@ -1,14 +1,29 @@
 {
-  "generated_at": "2026-08-11T17:08:18.919145+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-08-11T18:58:00.512258+08:00",
+  "total_titles_processed": 533,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
+          "url": "https://wallstreetcn.com/articles/3779107",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时14分 ~ 18时58分]"
+        },
         {
           "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
           "url": "https://wallstreetcn.com/articles/3779034",
@@ -33,20 +48,6 @@
           "time_info": "[01时01分 ~ 07时43分]"
         },
         {
-          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
-          "url": "https://wallstreetcn.com/articles/3779107",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时14分 ~ 17时08分]"
-        },
-        {
           "title": "特朗普：美国100%控制霍尔木兹海峡 但伊朗仍会制造麻烦",
           "url": "https://www.zaochenbao.com/news/politics/202608/1178492.html",
           "source": "联合早报",
@@ -54,11 +55,37 @@
             2,
             9,
             19,
-            26
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时14分 ~ 18时58分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-11）",
+          "url": "https://flash.jin10.com/detail/20260811184126216800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时57分 ~ 18时58分]"
+        },
+        {
+          "title": "美媒：因伊朗潜在威胁 特朗普上月秘密乘运输机离开土耳其",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1178497.html",
+          "source": "联合早报",
+          "ranks": [
+            4,
+            14,
+            23,
+            25
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时14分 ~ 17时08分]"
+          "time_info": "[12时27分 ~ 18时58分]"
         },
         {
           "title": "特朗普“狮子大开口”向伊朗开出“赔偿清单”，霍尔木兹海峡协议前景瞬间黯淡",
@@ -92,19 +119,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
-        },
-        {
-          "title": "美媒：因伊朗潜在威胁 特朗普上月秘密乘运输机离开土耳其",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1178497.html",
-          "source": "联合早报",
-          "ranks": [
-            4,
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 17时08分]"
         },
         {
           "title": "特朗普向伊朗提索赔新要求 美伊协议前景趋暗",
@@ -294,7 +308,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗：土巴沙防务协定凸显地区国家安全策略更依赖自身能力",
@@ -328,11 +342,49 @@
             7,
             14,
             24,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时14分 ~ 17时08分]"
+          "appearance_count": 8,
+          "time_info": "[10时14分 ~ 18时58分]"
+        },
+        {
+          "title": "卡塔尔：阿曼与伊朗的谈判已进入“高级阶段”",
+          "url": "https://flash.jin10.com/detail/20260811183346473800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时57分 ~ 18时58分]"
+        },
+        {
+          "title": "伊朗最高领袖正式任命六人担任高级军事职务",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1178510.html",
+          "source": "联合早报",
+          "ranks": [
+            1,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时22分 ~ 18时58分]"
+        },
+        {
+          "title": "伊朗外交部嘲讽美国对制裁“病态依赖”",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1178508.html",
+          "source": "联合早报",
+          "ranks": [
+            3,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时22分 ~ 18时58分]"
         },
         {
           "title": "中国山东地炼补库需求升温 有望提振伊朗原油进口",
@@ -341,7 +393,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -358,28 +410,15 @@
           "time_info": "[05时51分 ~ 06时48分]"
         },
         {
-          "title": "伊朗最高领袖正式任命六人担任高级军事职务",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1178510.html",
-          "source": "联合早报",
+          "title": "布伦特原油和美国原油回吐部分涨幅，卡塔尔政府发言人表示阿曼与伊朗的谈判已进入高级阶段。",
+          "url": "https://flash.jin10.com/detail/20260811183204331800",
+          "source": "金十数据",
           "ranks": [
-            1,
-            11
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时22分 ~ 17时08分]"
-        },
-        {
-          "title": "伊朗外交部嘲讽美国对制裁“病态依赖”",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1178508.html",
-          "source": "联合早报",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 17时08分]"
+          "time_info": "[18时57分 ~ 18时58分]"
         },
         {
           "title": "德国外长瓦德富尔：在与伊朗外长阿拉格奇的通话中，我敦促伊朗与地区邻国和美国进行建设性谈判，以结束冲突。霍尔木兹海峡必须无条件开放，确保所有船只自由安全地航行。",
@@ -403,6 +442,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 01时02分]"
+        },
+        {
+          "title": "卡塔尔外交发言人：阿曼与伊朗之间的谈判目前已进入“高级阶段”。",
+          "url": "https://flash.jin10.com/detail/20260811182333920800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时57分 ~ 18时58分]"
         },
         {
           "title": "市场消息：伊朗革命卫队海军司令表示，任何外国船只通过霍尔木兹海峡都会受到伊朗军队的识别、跟踪和监控。",
@@ -684,8 +734,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时42分 ~ 17时08分]"
+          "appearance_count": 10,
+          "time_info": "[07时42分 ~ 18时58分]"
         },
         {
           "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
