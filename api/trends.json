@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-12T03:14:07.605644+08:00",
-  "total_titles_processed": 92,
+  "generated_at": "2026-08-12T04:57:21.947291+08:00",
+  "total_titles_processed": 120,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 04时57分]"
         },
         {
           "title": "美股异动｜Beyond Meat跌超19%，拟按1:30比例进行反向拆股",
@@ -28,19 +28,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 04时57分]"
         },
         {
           "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
           "url": "https://wallstreetcn.com/articles/3779161",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 04时57分]"
         },
         {
           "title": "美股异动｜伯恩斯坦上调WFE支出预测，半导体设备板块走强，阿斯麦涨超4%",
@@ -50,8 +51,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 04时57分]"
         },
         {
           "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
@@ -61,26 +62,48 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 04时57分]"
+        },
+        {
+          "title": "金十图示：2026年08月11日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260812040554787800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "金十图示：2026年08月11日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260812040523757800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "美股收盘：三大股指收跌 金龙指数跌近3%",
+          "url": "https://flash.jin10.com/detail/20260812040113623800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "美国军方：该船不再违反美国封锁驶往伊朗。",
-          "url": "https://flash.jin10.com/detail/20260812030104095800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 03时14分]"
-        },
         {
           "title": "巴基斯坦：美国和伊朗接近达成和平安排",
           "url": "https://www.zaochenbao.com/news/politics/202608/1178544.html",
@@ -89,15 +112,15 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 04时57分]"
         },
         {
-          "title": "美军情报评估伊朗战略重点已从核计划转向霍尔木兹海峡",
-          "url": "https://flash.jin10.com/detail/20260812023416358800",
+          "title": "美国军方：该船不再违反美国封锁驶往伊朗。",
+          "url": "https://flash.jin10.com/detail/20260812030104095800",
           "source": "金十数据",
           "ranks": [
-            14
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -111,8 +134,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 04时57分]"
         },
         {
           "title": "伊朗外交部嘲讽美国对制裁“病态依赖”",
@@ -122,8 +145,41 @@
             27
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 04时57分]"
+        },
+        {
+          "title": "美军情报评估伊朗战略重点已从核计划转向霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260812023416358800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时13分 ~ 03时14分]"
+        },
+        {
+          "title": "伊朗总统称加强与巴基斯坦的关系有助于提升地区安全",
+          "url": "https://flash.jin10.com/detail/20260812040643167800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "伊朗将军纳赫迪：即使冲突持续数年，伊朗也能维持导弹和无人机的生产。伊朗将保持发射弹道导弹的能力，直至战争结束。",
+          "url": "https://flash.jin10.com/detail/20260812035839670800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         }
       ]
     },
@@ -139,8 +195,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 04时57分]"
         },
         {
           "title": "特朗普下令削减美孩童疫苗接种引发争议",
@@ -150,8 +206,42 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 04时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据Business Insider：消息人士称，前OpenAI首席产品官凯文·韦尔正在为其新成立的AI科学初创公司寻求至少7.5亿美元估值。",
+          "url": "https://flash.jin10.com/detail/20260812035315552800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数11日上涨",
+          "url": "https://flash.jin10.com/detail/20260812032920147800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         }
       ]
     }
