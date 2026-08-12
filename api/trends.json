@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-12T18:15:29.995753+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-08-12T21:28:02.121720+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "巴基斯坦：美国和伊朗接近达成和平安排",
@@ -45,6 +45,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时13分 ~ 03时14分]"
+        },
+        {
+          "title": "伊朗新领导层更愿意与美对抗 欲塑“生存经济”持久抗争",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1278614.html",
+          "source": "联合早报",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 21时28分]"
         },
         {
           "title": "分析：伊朗以生存经济顶住美国压力",
@@ -140,6 +151,17 @@
           "time_info": "[03时13分 ~ 03时14分]"
         },
         {
+          "title": "伊朗最高国家安全委员会秘书：伊朗和巴基斯坦互为彼此的“战略资产”。",
+          "url": "https://flash.jin10.com/detail/20260812205043970800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 21时28分]"
+        },
+        {
           "title": "最高领袖久不露面，伊朗权力真空扩大：强硬派正抢占战争主导权",
           "url": "https://flash.jin10.com/detail/20260812133649340800",
           "source": "金十数据",
@@ -157,7 +179,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -179,7 +201,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -190,7 +212,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -201,7 +223,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -212,7 +234,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -223,7 +245,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -420,7 +442,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -454,7 +476,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -465,7 +487,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -487,11 +509,23 @@
           "source": "联合早报",
           "ranks": [
             7,
-            14
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 21时28分]"
+        },
+        {
+          "title": "特朗普称收到威胁 北约峰会后秘密换机是特勤局和军方安排",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1278610.html",
+          "source": "联合早报",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时25分 ~ 18时15分]"
+          "time_info": "[21时27分 ~ 21时28分]"
         },
         {
           "title": "中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税",
@@ -613,11 +647,12 @@
           "url": "https://www.zaochenbao.com/news/china/202608/1278599.html",
           "source": "联合早报",
           "ranks": [
-            1
+            1,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 21时28分]"
         }
       ]
     },
