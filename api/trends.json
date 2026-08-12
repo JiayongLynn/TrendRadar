@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-12T10:32:44.656830+08:00",
-  "total_titles_processed": 239,
+  "generated_at": "2026-08-12T12:54:38.597019+08:00",
+  "total_titles_processed": 293,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股异动｜Beyond Meat跌超19%，拟按1:30比例进行反向拆股",
@@ -54,8 +54,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时54分 ~ 10时32分]"
+          "appearance_count": 4,
+          "time_info": "[06时54分 ~ 12时54分]"
         },
         {
           "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
@@ -82,13 +82,24 @@
           "time_info": "[03时13分 ~ 07时51分]"
         },
         {
+          "title": "但斌旗下基金最新美股持仓曝光",
+          "url": "https://www.gelonghui.com/news/5283882",
+          "source": "格隆汇",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
           "title": "美股异动丨超微电脑夜盘大涨超7%，业绩、指引大超预期，毛利率翻倍",
           "url": "https://www.gelonghui.com/news/5283846",
           "source": "格隆汇",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -121,7 +132,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -188,17 +199,6 @@
           "time_info": "[03时13分 ~ 03时14分]"
         },
         {
-          "title": "波斯湾国家接受新常态：伊朗掌控海峡主导权",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1278567.html",
-          "source": "联合早报",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
           "title": "美军直接打击商船、胡塞再袭红海：伊朗称美国不满足条件，霍尔木兹不开",
           "url": "https://flash.jin10.com/detail/20260812070423579800",
           "source": "金十数据",
@@ -210,15 +210,16 @@
           "time_info": "07时51分"
         },
         {
-          "title": "分析：伊朗以生存经济顶住美国压力",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1278565.html",
+          "title": "波斯湾国家接受新常态：伊朗掌控海峡主导权",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1278567.html",
           "source": "联合早报",
           "ranks": [
-            3
+            1,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 12时54分]"
         },
         {
           "title": "伊朗石油部长：伊天然气日产能有望大幅回升",
@@ -231,6 +232,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时54分 ~ 07时51分]"
+        },
+        {
+          "title": "分析：伊朗以生存经济顶住美国压力",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1278565.html",
+          "source": "联合早报",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 12时54分]"
         },
         {
           "title": "伊朗最高领袖正式任命六人担任高级军事职务",
@@ -260,11 +273,24 @@
           "source": "财联社热门",
           "ranks": [
             13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时51分 ~ 12时54分]"
+        },
+        {
+          "title": "伊朗称在美国满足条件前霍尔木兹海峡不会重开 国际油价短线冲高",
+          "url": "https://www.cls.cn/detail/2451716",
+          "source": "财联社热门",
+          "ranks": [
+            12,
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时51分 ~ 10时32分]"
+          "time_info": "[10时32分 ~ 12时54分]"
         },
         {
           "title": "美军情报评估伊朗战略重点已从核计划转向霍尔木兹海峡",
@@ -287,17 +313,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
-        },
-        {
-          "title": "伊朗称在美国满足条件前霍尔木兹海峡不会重开 国际油价短线冲高",
-          "url": "https://www.cls.cn/detail/2451716",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
         },
         {
           "title": "伊朗将军纳赫迪：即使冲突持续数年，伊朗也能维持导弹和无人机的生产。伊朗将保持发射弹道导弹的能力，直至战争结束。",
@@ -346,11 +361,12 @@
           "source": "联合早报",
           "ranks": [
             1,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时51分 ~ 10时32分]"
+          "appearance_count": 3,
+          "time_info": "[07时51分 ~ 12时54分]"
         },
         {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
@@ -382,7 +398,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -436,6 +452,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "今晚CPI检验金价反弹成色，这条“危险线”须盯紧！",
+          "url": "https://flash.jin10.com/detail/20260812120053591800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         }
       ]
     },
