@@ -1,658 +1,135 @@
 {
-  "generated_at": "2026-08-12T21:28:02.121720+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2026-08-13T01:04:32.929714+08:00",
+  "total_titles_processed": 95,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 22,
-      "titles": [
-        {
-          "title": "巴基斯坦：美国和伊朗接近达成和平安排",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1178544.html",
-          "source": "联合早报",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时13分 ~ 07时51分]"
-        },
-        {
-          "title": "波斯湾国家接受新常态：伊朗掌控海峡主导权",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1278567.html",
-          "source": "联合早报",
-          "ranks": [
-            1,
-            8,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时32分 ~ 18时15分]"
-        },
-        {
-          "title": "美国军方：该船不再违反美国封锁驶往伊朗。",
-          "url": "https://flash.jin10.com/detail/20260812030104095800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 03时14分]"
-        },
-        {
-          "title": "伊朗新领导层更愿意与美对抗 欲塑“生存经济”持久抗争",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1278614.html",
-          "source": "联合早报",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时27分 ~ 21时28分]"
-        },
-        {
-          "title": "分析：伊朗以生存经济顶住美国压力",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1278565.html",
-          "source": "联合早报",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时32分 ~ 14时21分]"
-        },
-        {
-          "title": "伊朗官员称在伊方条件满足前霍尔木兹海峡不会开放 | 环球市场",
-          "url": "https://www.cls.cn/detail/2451814",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时51分 ~ 16时25分]"
-        },
-        {
-          "title": "美军直接打击商船、胡塞再袭红海：伊朗称美国不满足条件，霍尔木兹不开",
-          "url": "https://flash.jin10.com/detail/20260812070423579800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "伊朗石油部长：伊天然气日产能有望大幅回升",
-          "url": "https://flash.jin10.com/detail/20260812063020231800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时54分 ~ 07时51分]"
-        },
-        {
-          "title": "伊朗称在美国满足条件前霍尔木兹海峡不会重开 国际油价短线冲高",
-          "url": "https://www.cls.cn/detail/2451716",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时32分 ~ 14时21分]"
-        },
-        {
-          "title": "伊朗最高领袖正式任命六人担任高级军事职务",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1178510.html",
-          "source": "联合早报",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时13分 ~ 06时54分]"
-        },
-        {
-          "title": "伊朗外交部嘲讽美国对制裁“病态依赖”",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1178508.html",
-          "source": "联合早报",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时13分 ~ 06时54分]"
-        },
-        {
-          "title": "美军情报评估伊朗战略重点已从核计划转向霍尔木兹海峡",
-          "url": "https://flash.jin10.com/detail/20260812023416358800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 03时14分]"
-        },
-        {
-          "title": "伊朗最高国家安全委员会秘书：伊朗和巴基斯坦互为彼此的“战略资产”。",
-          "url": "https://flash.jin10.com/detail/20260812205043970800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时27分 ~ 21时28分]"
-        },
-        {
-          "title": "最高领袖久不露面，伊朗权力真空扩大：强硬派正抢占战争主导权",
-          "url": "https://flash.jin10.com/detail/20260812133649340800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 14时21分]"
-        },
-        {
-          "title": "日本首相高市早苗：伊朗总统佩泽希齐扬介绍了伊朗方面的立场，包括伊朗与阿曼围绕霍尔木兹海峡问题沟通的当前进展及未来前景。关于曼德海峡问题，佩泽希齐扬表示，伊朗正在与沙特保持对话，并努力推动问题解决。",
-          "url": "https://flash.jin10.com/detail/20260812175652547800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "伊朗总统称加强与巴基斯坦的关系有助于提升地区安全",
-          "url": "https://flash.jin10.com/detail/20260812040643167800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "日本首相高市早苗：从能源安全角度出发，我也表达了对曼德海峡当前局势的担忧，并要求伊朗向胡塞武装施加更强力度，促使其保持克制。",
-          "url": "https://flash.jin10.com/detail/20260812175618275800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "高市早苗再通话伊朗总统 呼吁缓和霍尔木兹局势",
-          "url": "https://flash.jin10.com/detail/20260812175528624800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "日本首相高市早苗：美国和伊朗有必要按照谅解备忘录开展磋商，并尽早就包括核问题在内的相关议题达成最终协议。同时，日本强烈期待通过外交手段实现中东局势尽快平息。",
-          "url": "https://flash.jin10.com/detail/20260812175516946800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "日本首相高市早苗：在霍尔木兹海峡局势进入关键阶段之际，考虑到伊朗正继续与相关国家就实现海峡开放展开沟通，日本认为，缓解当前军事紧张局势并尽快平息事态至关重要。",
-          "url": "https://flash.jin10.com/detail/20260812175424744800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "日本首相高市早苗：鉴于当前最新的中东局势，我与伊朗总统佩泽希齐扬进行了第四次电话会谈。",
-          "url": "https://flash.jin10.com/detail/20260812175416736800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "伊朗将军纳赫迪：即使冲突持续数年，伊朗也能维持导弹和无人机的生产。伊朗将保持发射弹道导弹的能力，直至战争结束。",
-          "url": "https://flash.jin10.com/detail/20260812035839670800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 5,
       "titles": [
         {
-          "title": "美股异动｜Beyond Meat跌超19%，拟按1:30比例进行反向拆股",
-          "url": "https://www.gelonghui.com/news/5283801",
-          "source": "格隆汇",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时13分 ~ 07时51分]"
-        },
-        {
-          "title": "美股收盘：美伊僵局施压三大指数续跌 存储&光通信概念整体反弹",
-          "url": "https://www.cls.cn/detail/2451784",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时54分 ~ 14时21分]"
-        },
-        {
-          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时13分 ~ 06时54分]"
-        },
-        {
-          "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
-          "url": "https://wallstreetcn.com/articles/3779161",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时13分 ~ 04时57分]"
-        },
-        {
-          "title": "美股异动丨Lumentum盘前大涨超7%，上季业绩、本季指引均超预期，毛利率突破50%",
-          "url": "https://www.gelonghui.com/news/5283999",
-          "source": "格隆汇",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2451601",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时13分 ~ 10时32分]"
-        },
-        {
-          "title": "美股异动｜伯恩斯坦上调WFE支出预测，半导体设备板块走强，阿斯麦涨超4%",
-          "url": "https://www.gelonghui.com/news/5283793",
-          "source": "格隆汇",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时13分 ~ 07时51分]"
-        },
-        {
-          "title": "但斌旗下基金最新美股持仓曝光",
-          "url": "https://www.gelonghui.com/news/5283882",
-          "source": "格隆汇",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时54分 ~ 14时21分]"
-        },
-        {
-          "title": "美股异动丨超微电脑夜盘大涨超7%，业绩、指引大超预期，毛利率翻倍",
-          "url": "https://www.gelonghui.com/news/5283846",
-          "source": "格隆汇",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "欧股悄悄跑赢美股！高盛：当市场开始质疑AI投入，“不追AI”的欧洲反而占优",
-          "url": "https://wallstreetcn.com/articles/3779165",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "金十图示：2026年08月11日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260812040554787800",
+          "title": "金十图示：2026年08月12日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260813003439020800",
           "source": "金十数据",
           "ranks": [
-            12
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时57分"
+          "time_info": "01时04分"
         },
         {
-          "title": "美股异动丨CoreWeave夜盘大涨15%，二季度收入倍增胜预期，积压逾千亿美元订单",
-          "url": "https://www.gelonghui.com/news/5283842",
+          "title": "金十图示：2026年08月12日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260813003436500800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        },
+        {
+          "title": "美股异动｜温蒂汉堡涨超14%，佩尔茨旗下Trian基金据报筹备私有化要约",
+          "url": "https://www.gelonghui.com/news/5284471",
           "source": "格隆汇",
           "ranks": [
-            13
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "01时04分"
         },
         {
-          "title": "金十图示：2026年08月11日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260812040523757800",
-          "source": "金十数据",
+          "title": "美通胀温和缓解加息压力，美股高开，光通信、存储芯片股领涨，Nebius涨15%，油价震荡",
+          "url": "https://wallstreetcn.com/articles/3779257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        },
+        {
+          "title": "美股异动｜SpaceX涨超6%，较前低反弹超35%，马斯克放话5年内AI将占估值的99%",
+          "url": "https://www.gelonghui.com/news/5284464",
+          "source": "格隆汇",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "美股收盘：三大股指收跌 金龙指数跌近3%",
-          "url": "https://flash.jin10.com/detail/20260812040113623800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "Coreweave(CRWV.O)美股盘后上涨10%。",
-          "url": "https://flash.jin10.com/detail/20260812043909627800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时54分"
+          "time_info": "01时04分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 3,
       "titles": [
         {
-          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
-          "url": "https://wallstreetcn.com/articles/3779107",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时13分 ~ 07时51分]"
-        },
-        {
-          "title": "不满伊朗提出新条件 特朗普也要求伊朗赔偿 海峡重开前景趋黯淡",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1278551.html",
+          "title": "特朗普称收到威胁 北约峰会后秘密换机是特勤局和军方安排",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1278610.html",
           "source": "联合早报",
           "ranks": [
-            1,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时51分 ~ 14时21分]"
-        },
-        {
-          "title": "前美外交官：特朗普在“挺以色列”形象与对内塔尼亚胡不满间挣扎",
-          "url": "https://flash.jin10.com/detail/20260812180539210800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时15分"
+          "time_info": "01时04分"
         },
         {
-          "title": "据华盛顿邮报：特朗普政府计划至少花费9亿美元用于白宫建设。",
-          "url": "https://flash.jin10.com/detail/20260812180318303800",
+          "title": "伊朗：美国国会应调查特朗普资产的增加情况",
+          "url": "https://flash.jin10.com/detail/20260812233824579800",
           "source": "金十数据",
           "ranks": [
-            3
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "特朗普下令削减美孩童疫苗接种引发争议",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1178533.html",
-          "source": "联合早报",
-          "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时13分 ~ 07时51分]"
+          "time_info": "01时04分"
         },
         {
           "title": "向特朗普加密货币投入1亿美元的华人买家是谁？",
           "url": "https://www.zaochenbao.com/news/Chronicles/202608/1278586.html",
           "source": "联合早报",
           "ranks": [
-            7,
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时25分 ~ 21时28分]"
-        },
-        {
-          "title": "特朗普称收到威胁 北约峰会后秘密换机是特勤局和军方安排",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1278610.html",
-          "source": "联合早报",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时27分 ~ 21时28分]"
-        },
-        {
-          "title": "中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税",
-          "url": "https://www.cls.cn/detail/2452049",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 18时15分]"
-        },
-        {
-          "title": "特朗普证实北约峰会后秘密换机 改搭军用飞机离开",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1278583.html",
-          "source": "联合早报",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 18时15分]"
-        },
-        {
-          "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
-          "url": "https://flash.jin10.com/detail/20260812053053264800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时54分 ~ 07时51分]"
-        },
-        {
-          "title": "特朗普据悉考虑削减资本利得税以提振中期选举",
-          "url": "https://flash.jin10.com/detail/20260812064319870800",
-          "source": "金十数据",
-          "ranks": [
-            11
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "特朗普回应秘密换机：收到很多威胁，“我听从他们安排”",
-          "url": "https://flash.jin10.com/detail/20260812095131122800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
-          "url": "https://flash.jin10.com/detail/20260812052220258800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
-          "title": "美国法官阻止邮政服务根据特朗普命令限制邮寄投票。",
-          "url": "https://flash.jin10.com/detail/20260812050519717800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时54分"
+          "time_info": "01时04分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
         {
-          "title": "亚马逊云服务(AWS)：OpenAI的Daybreak Red和Daybreak Blue现已面向Amazon Bedrock上的符合条件的客户开放。",
-          "url": "https://flash.jin10.com/detail/20260812055132698800",
+          "title": "谷歌(GOOG.O)：推出Pixel 11 Pro Fold。",
+          "url": "https://flash.jin10.com/detail/20260813001419372800",
           "source": "金十数据",
           "ranks": [
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时54分 ~ 07时51分]"
-        },
-        {
-          "title": "据Business Insider：消息人士称，前OpenAI首席产品官凯文·韦尔正在为其新成立的AI科学初创公司寻求至少7.5亿美元估值。",
-          "url": "https://flash.jin10.com/detail/20260812035315552800",
-          "source": "金十数据",
-          "ranks": [
-            22
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
+          "time_info": "01时04分"
+        },
         {
-          "title": "梁文锋财富一年激增3850% 跻身全球富豪榜前50",
-          "url": "https://www.zaochenbao.com/news/china/202608/1278599.html",
-          "source": "联合早报",
+          "title": "谷歌：推出谷歌Pixel Tag。",
+          "url": "https://flash.jin10.com/detail/20260812234819125800",
+          "source": "金十数据",
           "ranks": [
-            1,
-            17
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 21时28分]"
+          "appearance_count": 1,
+          "time_info": "01时04分"
         }
       ]
     },
@@ -661,32 +138,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "今晚CPI检验金价反弹成色，这条“危险线”须盯紧！",
-          "url": "https://flash.jin10.com/detail/20260812120053591800",
-          "source": "金十数据",
+          "title": "美国7月CPI通胀全面符合预期 美联储9月加息预期进一步降温 金价刷新日内高点",
+          "url": "https://www.cls.cn/detail/2452735",
+          "source": "财联社热门",
           "ranks": [
-            16
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时54分"
+          "time_info": "01时04分"
         }
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "伊朗",
       "match_count": 1,
       "titles": [
         {
-          "title": "美元指数11日上涨",
-          "url": "https://flash.jin10.com/detail/20260812032920147800",
-          "source": "金十数据",
+          "title": "伊朗新领导层更愿意与美对抗 欲塑“生存经济”持久抗争",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1278614.html",
+          "source": "联合早报",
           "ranks": [
-            27
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时57分"
+          "time_info": "01时04分"
         }
       ]
     }
