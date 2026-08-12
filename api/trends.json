@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T12:54:38.597019+08:00",
-  "total_titles_processed": 293,
+  "generated_at": "2026-08-12T14:21:13.700592+08:00",
+  "total_titles_processed": 326,
   "failed_sources": [
     "36kr"
   ],
@@ -20,6 +20,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时13分 ~ 07时51分]"
+        },
+        {
+          "title": "美股收盘：美伊僵局施压三大指数续跌 存储&光通信概念整体反弹",
+          "url": "https://www.cls.cn/detail/2451784",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时54分 ~ 14时21分]"
         },
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -43,19 +56,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时13分 ~ 04时57分]"
-        },
-        {
-          "title": "美股收盘：美伊僵局施压三大指数续跌 存储&光通信概念整体反弹",
-          "url": "https://www.cls.cn/detail/2451784",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时54分 ~ 12时54分]"
         },
         {
           "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
@@ -86,11 +86,12 @@
           "url": "https://www.gelonghui.com/news/5283882",
           "source": "格隆汇",
           "ranks": [
-            6
+            6,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时54分 ~ 14时21分]"
         },
         {
           "title": "美股异动丨超微电脑夜盘大涨超7%，业绩、指引大超预期，毛利率翻倍",
@@ -173,7 +174,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "巴基斯坦：美国和伊朗接近达成和平安排",
@@ -199,6 +200,30 @@
           "time_info": "[03时13分 ~ 03时14分]"
         },
         {
+          "title": "波斯湾国家接受新常态：伊朗掌控海峡主导权",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1278567.html",
+          "source": "联合早报",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时32分 ~ 14时21分]"
+        },
+        {
+          "title": "分析：伊朗以生存经济顶住美国压力",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1278565.html",
+          "source": "联合早报",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时32分 ~ 14时21分]"
+        },
+        {
           "title": "美军直接打击商船、胡塞再袭红海：伊朗称美国不满足条件，霍尔木兹不开",
           "url": "https://flash.jin10.com/detail/20260812070423579800",
           "source": "金十数据",
@@ -210,16 +235,17 @@
           "time_info": "07时51分"
         },
         {
-          "title": "波斯湾国家接受新常态：伊朗掌控海峡主导权",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1278567.html",
-          "source": "联合早报",
+          "title": "伊朗官员称在伊方条件满足前霍尔木兹海峡不会开放 | 环球市场",
+          "url": "https://www.cls.cn/detail/2451814",
+          "source": "财联社热门",
           "ranks": [
-            1,
-            8
+            13,
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 12时54分]"
+          "appearance_count": 5,
+          "time_info": "[07时51分 ~ 14时21分]"
         },
         {
           "title": "伊朗石油部长：伊天然气日产能有望大幅回升",
@@ -234,16 +260,16 @@
           "time_info": "[06时54分 ~ 07时51分]"
         },
         {
-          "title": "分析：伊朗以生存经济顶住美国压力",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1278565.html",
-          "source": "联合早报",
+          "title": "伊朗称在美国满足条件前霍尔木兹海峡不会重开 国际油价短线冲高",
+          "url": "https://www.cls.cn/detail/2451716",
+          "source": "财联社热门",
           "ranks": [
-            3,
-            10
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 12时54分]"
+          "appearance_count": 4,
+          "time_info": "[10时32分 ~ 14时21分]"
         },
         {
           "title": "伊朗最高领袖正式任命六人担任高级军事职务",
@@ -268,31 +294,6 @@
           "time_info": "[03时13分 ~ 06时54分]"
         },
         {
-          "title": "伊朗官员称在伊方条件满足前霍尔木兹海峡不会开放 | 环球市场",
-          "url": "https://www.cls.cn/detail/2451814",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时51分 ~ 12时54分]"
-        },
-        {
-          "title": "伊朗称在美国满足条件前霍尔木兹海峡不会重开 国际油价短线冲高",
-          "url": "https://www.cls.cn/detail/2451716",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 12时54分]"
-        },
-        {
           "title": "美军情报评估伊朗战略重点已从核计划转向霍尔木兹海峡",
           "url": "https://flash.jin10.com/detail/20260812023416358800",
           "source": "金十数据",
@@ -302,6 +303,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时13分 ~ 03时14分]"
+        },
+        {
+          "title": "最高领袖久不露面，伊朗权力真空扩大：强硬派正抢占战争主导权",
+          "url": "https://flash.jin10.com/detail/20260812133649340800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
         },
         {
           "title": "伊朗总统称加强与巴基斯坦的关系有助于提升地区安全",
@@ -344,6 +356,19 @@
           "time_info": "[03时13分 ~ 07时51分]"
         },
         {
+          "title": "不满伊朗提出新条件 特朗普也要求伊朗赔偿 海峡重开前景趋黯淡",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1278551.html",
+          "source": "联合早报",
+          "ranks": [
+            1,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时51分 ~ 14时21分]"
+        },
+        {
           "title": "特朗普下令削减美孩童疫苗接种引发争议",
           "url": "https://www.zaochenbao.com/news/politics/202608/1178533.html",
           "source": "联合早报",
@@ -354,19 +379,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时13分 ~ 07时51分]"
-        },
-        {
-          "title": "不满伊朗提出新条件 特朗普也要求伊朗赔偿 海峡重开前景趋黯淡",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1278551.html",
-          "source": "联合早报",
-          "ranks": [
-            1,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时51分 ~ 12时54分]"
         },
         {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
@@ -466,7 +478,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         }
