@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-13T19:56:00.331742+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-08-13T21:28:59.269375+08:00",
+  "total_titles_processed": 567,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普签署备忘录 授权动用网络工具打击跨国犯罪组织",
@@ -46,6 +46,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时55分 ~ 07时51分]"
+        },
+        {
+          "title": "伊学者：特朗普正酝酿大规模打击，欲为“不败”找台阶",
+          "url": "https://flash.jin10.com/detail/20260813211235613800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "特朗普称收到威胁 北约峰会后秘密换机是特勤局和军方安排",
@@ -200,171 +211,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
-          "url": "https://wallstreetcn.com/articles/3779257",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时51分 ~ 19时56分]"
-        },
-        {
-          "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
-          "url": "https://www.cls.cn/detail/2452897",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时51分 ~ 16时27分]"
-        },
-        {
-          "title": "美股异动｜温蒂汉堡涨超14%，佩尔茨旗下Trian基金据报筹备私有化要约",
-          "url": "https://www.gelonghui.com/news/5284471",
-          "source": "格隆汇",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 07时51分]"
-        },
-        {
-          "title": "金十图示：2026年08月12日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260813003439020800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "美股异动｜SpaceX涨超6%，较前低反弹超35%，马斯克放话5年内AI将占估值的99%",
-          "url": "https://www.gelonghui.com/news/5284464",
-          "source": "格隆汇",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 06时51分]"
-        },
-        {
-          "title": "美通胀温和缓解加息压力，美股高开，光通信、存储芯片股领涨，Nebius涨15%，油价震荡",
-          "url": "https://wallstreetcn.com/articles/3779257",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 05时55分]"
-        },
-        {
-          "title": "金十图示：2026年08月12日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260813040557554800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时55分 ~ 06时51分]"
-        },
-        {
-          "title": "金十图示：2026年08月12日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260813040554059800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时55分 ~ 06时51分]"
-        },
-        {
-          "title": "美温和通胀缓解加息压力，美股期指涨跌互现，光通信、存储芯片股盘前下跌，金油齐跌",
-          "url": "https://wallstreetcn.com/articles/3779338",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 19时56分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一，海力士涨9%",
-          "url": "https://flash.jin10.com/detail/20260813040109673800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时55分 ~ 05时55分]"
-        },
-        {
-          "title": "金十图示：2026年08月12日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260813003436500800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "美股异动｜思科盘前跌超6%，2027财年AI营收指引保守 订单转化效率存疑",
-          "url": "https://www.gelonghui.com/news/5284720",
-          "source": "格隆汇",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "美股异动丨Cerebras盘前大跌超18%，Q2硬件营收意外下滑",
-          "url": "https://www.gelonghui.com/news/5284718",
-          "source": "格隆汇",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "据伊朗媒体Fars News：伊朗在霍尔木兹海峡的石油泄漏清理工作进入最后阶段。",
@@ -403,6 +251,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时33分 ~ 16时27分]"
+        },
+        {
+          "title": "军事压力未奏效 美国又押注经济施压使伊朗屈服",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1378682.html",
+          "source": "联合早报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "承受伊朗战争冲击 英国第二季度经济增长0.4%",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1378681.html",
+          "source": "联合早报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "伊朗外交部发言人巴加埃：伊朗作为波斯湾和阿曼湾最长海岸线国家，要求所有受益于霍尔木兹海峡航运的各方承担责任，修复相关海域环境损害。",
@@ -510,6 +380,261 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
+          "url": "https://wallstreetcn.com/articles/3779257",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[06时51分 ~ 21时28分]"
+        },
+        {
+          "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
+          "url": "https://www.cls.cn/detail/2452897",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时51分 ~ 16时27分]"
+        },
+        {
+          "title": "美股异动｜温蒂汉堡涨超14%，佩尔茨旗下Trian基金据报筹备私有化要约",
+          "url": "https://www.gelonghui.com/news/5284471",
+          "source": "格隆汇",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 07时51分]"
+        },
+        {
+          "title": "金十图示：2026年08月12日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260813003439020800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        },
+        {
+          "title": "美股异动｜SpaceX涨超6%，较前低反弹超35%，马斯克放话5年内AI将占估值的99%",
+          "url": "https://www.gelonghui.com/news/5284464",
+          "source": "格隆汇",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时51分]"
+        },
+        {
+          "title": "美通胀温和缓解加息压力，美股高开，光通信、存储芯片股领涨，Nebius涨15%，油价震荡",
+          "url": "https://wallstreetcn.com/articles/3779257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 05时55分]"
+        },
+        {
+          "title": "美温和通胀缓解加息压力，美股期指涨跌互现，光通信、存储芯片股盘前下跌，金油齐跌",
+          "url": "https://wallstreetcn.com/articles/3779338",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时55分 ~ 21时28分]"
+        },
+        {
+          "title": "金十图示：2026年08月12日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260813040557554800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时55分 ~ 06时51分]"
+        },
+        {
+          "title": "金十图示：2026年08月12日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260813040554059800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时55分 ~ 06时51分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一，海力士涨9%",
+          "url": "https://flash.jin10.com/detail/20260813040109673800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时55分 ~ 05时55分]"
+        },
+        {
+          "title": "金十图示：2026年08月12日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260813003436500800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        },
+        {
+          "title": "美股异动｜思科盘前跌超6%，2027财年AI营收指引保守 订单转化效率存疑",
+          "url": "https://www.gelonghui.com/news/5284720",
+          "source": "格隆汇",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "美股异动丨Cerebras盘前大跌超18%，Q2硬件营收意外下滑",
+          "url": "https://www.gelonghui.com/news/5284718",
+          "source": "格隆汇",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
+          "url": "https://wallstreetcn.com/articles/3779306",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时33分 ~ 21时28分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
+          "url": "https://www.cls.cn/detail/2452920",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时33分 ~ 16时27分]"
+        },
+        {
+          "title": "DeepSeek发布V4 Pro正式版 多项测试水平逼近Fable 5",
+          "url": "https://www.zaochenbao.com/news/china/202608/1378675.html",
+          "source": "联合早报",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时55分 ~ 21时28分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
+          "url": "https://flash.jin10.com/detail/20260813050715033800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 06时51分]"
+        },
+        {
+          "title": "A股异动丨DeepSeek概念股集体上涨，DeepSeek正式发布V4 Pro型号",
+          "url": "https://www.gelonghui.com/news/5284540",
+          "source": "格隆汇",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "DeepSeek Harness公测，同步开放NPM插件生态",
+          "url": "https://flash.jin10.com/detail/20260813210558759800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
+          "url": "https://wallstreetcn.com/articles/3779377",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 6,
       "titles": [
@@ -580,72 +705,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
-          "url": "https://wallstreetcn.com/articles/3779306",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时33分 ~ 19时56分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
-          "url": "https://www.cls.cn/detail/2452920",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时33分 ~ 16时27分]"
-        },
-        {
-          "title": "DeepSeek发布V4 Pro正式版 多项测试水平逼近Fable 5",
-          "url": "https://www.zaochenbao.com/news/china/202608/1378675.html",
-          "source": "联合早报",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 19时56分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
-          "url": "https://flash.jin10.com/detail/20260813050715033800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时51分]"
-        },
-        {
-          "title": "A股异动丨DeepSeek概念股集体上涨，DeepSeek正式发布V4 Pro型号",
-          "url": "https://www.gelonghui.com/news/5284540",
-          "source": "格隆汇",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时33分"
         }
       ]
     },
