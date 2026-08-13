@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T16:27:59.347945+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-08-13T18:17:00.221907+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [
     "36kr"
   ],
@@ -210,11 +210,12 @@
           "ranks": [
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时51分 ~ 16时27分]"
+          "appearance_count": 9,
+          "time_info": "[06时51分 ~ 18时17分]"
         },
         {
           "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
@@ -333,7 +334,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -344,7 +345,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         }
@@ -352,7 +353,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "伊朗新领导层更愿意与美对抗 欲塑“生存经济”持久抗争",
@@ -408,13 +409,46 @@
           "time_info": "[04时55分 ~ 06时51分]"
         },
         {
+          "title": "伊朗情报部：在伊朗东南部摧毁了两个“恐怖极端组织”行动小组，逮捕了4名恐怖分子，并击毙了其中2名。",
+          "url": "https://flash.jin10.com/detail/20260813175612742800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 18时17分]"
+        },
+        {
+          "title": "战争叠加通胀 “先买后付”广告占领伊朗街头",
+          "url": "https://flash.jin10.com/detail/20260813175108889800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 18时17分]"
+        },
+        {
+          "title": "英分析人士：伊朗意在拖延战争，加大美国“痛感”",
+          "url": "https://flash.jin10.com/detail/20260813173802066800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 18时17分]"
+        },
+        {
           "title": "伊朗外长阿拉格齐：美国长期以来因情报失误而误判形势。典型例子就是对伊朗的战争。如今，在霍尔木兹海峡问题上，美国又犯下了一个更大的误判。",
           "url": "https://flash.jin10.com/detail/20260813155911323800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -436,7 +470,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -532,25 +566,26 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
-          "url": "https://www.cls.cn/detail/2452920",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时33分 ~ 16时27分]"
-        },
-        {
           "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
           "url": "https://wallstreetcn.com/articles/3779306",
           "source": "华尔街见闻",
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时33分 ~ 18时17分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
+          "url": "https://www.cls.cn/detail/2452920",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -592,11 +627,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 16时27分]"
+          "appearance_count": 6,
+          "time_info": "[12时59分 ~ 18时17分]"
         },
         {
           "title": "不加息也压不住？10年期美债中标收益率创金融危机以来最高！",
