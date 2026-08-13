@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-13T10:33:58.392965+08:00",
-  "total_titles_processed": 255,
+  "generated_at": "2026-08-13T12:59:51.074306+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "白宫：特朗普签署备忘录，授权美国执法部门使用网络工具打击在外国司法管辖区活动的犯罪组织。",
@@ -51,22 +51,12 @@
           "url": "https://www.zaochenbao.com/news/politics/202608/1378640.html",
           "source": "联合早报",
           "ranks": [
-            2
+            2,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        },
-        {
-          "title": "特朗普：最信任的新闻秘书莱维特将于本月底离职",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1378638.html",
-          "source": "联合早报",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 12时59分]"
         },
         {
           "title": "“特朗普消息付费抢先看”服务引发交易机构抵制",
@@ -80,6 +70,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时55分 ~ 06时51分]"
+        },
+        {
+          "title": "特朗普：最信任的新闻秘书莱维特将于本月底离职",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1378638.html",
+          "source": "联合早报",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 12时59分]"
         },
         {
           "title": "据Axios：特朗普政府批评以色列国防部长卡茨有关继续占领黎巴嫩南部的言论，并表示相关表态违背了以色列政府与美国及黎巴嫩签署协议中的承诺。",
@@ -106,6 +108,17 @@
           "time_info": "07时51分"
         },
         {
+          "title": "特朗普声称掌控霍尔木兹、伊朗坚决否认 海峡通行量跌至三个月最低",
+          "url": "https://www.cls.cn/detail/2452937",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
           "title": "特朗普：白宫新闻秘书莱维特将于本月底离任",
           "url": "https://flash.jin10.com/detail/20260813035525711800",
           "source": "金十数据",
@@ -123,7 +136,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         },
@@ -189,6 +202,32 @@
       "match_count": 10,
       "titles": [
         {
+          "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
+          "url": "https://wallstreetcn.com/articles/3779257",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时51分 ~ 12时59分]"
+        },
+        {
+          "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
+          "url": "https://www.cls.cn/detail/2452897",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时51分 ~ 12时59分]"
+        },
+        {
           "title": "美股异动｜温蒂汉堡涨超14%，佩尔茨旗下Trian基金据报筹备私有化要约",
           "url": "https://www.gelonghui.com/news/5284471",
           "source": "格隆汇",
@@ -200,31 +239,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时04分 ~ 07时51分]"
-        },
-        {
-          "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
-          "url": "https://wallstreetcn.com/articles/3779257",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时51分 ~ 10时33分]"
-        },
-        {
-          "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
-          "url": "https://www.cls.cn/detail/2452897",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时51分 ~ 10时33分]"
         },
         {
           "title": "金十图示：2026年08月12日（周三）美股热门股票行情一览（美股盘中）",
@@ -325,8 +339,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时51分 ~ 10时33分]"
+          "appearance_count": 4,
+          "time_info": "[06时51分 ~ 12时59分]"
         },
         {
           "title": "谷歌(GOOG.O)：推出Pixel 11 Pro Fold。",
@@ -433,11 +447,12 @@
           "url": "https://www.cls.cn/detail/2452922",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 12时59分]"
         },
         {
           "title": "伊朗“波斯湾海峡管理局”：霍尔木兹海峡仍关闭",
@@ -472,11 +487,24 @@
           "url": "https://www.cls.cn/detail/2452920",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 12时59分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
+          "url": "https://wallstreetcn.com/articles/3779306",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 12时59分]"
         },
         {
           "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
@@ -491,24 +519,13 @@
           "time_info": "[05时55分 ~ 06时51分]"
         },
         {
-          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
-          "url": "https://wallstreetcn.com/articles/3779306",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        },
-        {
           "title": "A股异动丨DeepSeek概念股集体上涨，DeepSeek正式发布V4 Pro型号",
           "url": "https://www.gelonghui.com/news/5284540",
           "source": "格隆汇",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         }
@@ -516,7 +533,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国7月CPI通胀全面符合预期 美联储9月加息预期进一步降温 金价刷新日内高点",
@@ -528,6 +545,45 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时04分 ~ 10时33分]"
+        },
+        {
+          "title": "CPI没有给新弹药，金价离下一关还差这个条件！",
+          "url": "https://flash.jin10.com/detail/20260813120555201800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "还在逼美联储加息？10年期美债发行收益率创金融危机以来最高！",
+          "url": "https://www.cls.cn/detail/2452988",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "短端加不动，长端压不住：美债如何破局？",
+          "url": "https://flash.jin10.com/detail/20260813122822904800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         }
       ]
     },
