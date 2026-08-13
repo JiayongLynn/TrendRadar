@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-14T06:53:16.026011+08:00",
-  "total_titles_processed": 140,
+  "generated_at": "2026-08-14T07:51:51.300142+08:00",
+  "total_titles_processed": 180,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "市场消息：美国总统特朗普明日将访问纽约市拿骚县警察学院。",
@@ -93,6 +93,17 @@
           "time_info": "[05时55分 ~ 06时53分]"
         },
         {
+          "title": "最高100%关税！特朗普突然对无人机下狠手，俄乌冲突让美国警醒",
+          "url": "https://flash.jin10.com/detail/20260814071926003800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
           "title": "白宫：美国总统特朗普将对英国输美无人机加征10%从价关税。",
           "url": "https://flash.jin10.com/detail/20260814052728079800",
           "source": "金十数据",
@@ -143,7 +154,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
         },
@@ -154,9 +165,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
+        },
+        {
+          "title": "美媒：肯尼迪中心决定将特朗普名字印在大楼外墙上",
+          "url": "https://flash.jin10.com/detail/20260814065155550800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
         }
       ]
     },
@@ -164,17 +186,6 @@
       "keyword_group": "美股",
       "match_count": 8,
       "titles": [
-        {
-          "title": "美股异动｜存储概念股涨幅扩大，闪迪涨超10%，SK海力士涨超7%",
-          "url": "https://www.gelonghui.com/news/5285279",
-          "source": "格隆汇",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 06时53分]"
-        },
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
           "url": "https://wallstreetcn.com/articles/3779257",
@@ -199,6 +210,18 @@
           "time_info": "[01时04分 ~ 06时53分]"
         },
         {
+          "title": "美股异动｜存储概念股涨幅扩大，闪迪涨超10%，SK海力士涨超7%",
+          "url": "https://www.gelonghui.com/news/5285279",
+          "source": "格隆汇",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 07时51分]"
+        },
+        {
           "title": "金十图示：2026年08月13日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260814003306234800",
           "source": "金十数据",
@@ -219,6 +242,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "美股收盘：三大指数齐升标普收新高 存储板块走强闪迪涨逾13%",
+          "url": "https://www.cls.cn/detail/2453979",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 07时51分]"
         },
         {
           "title": "美股异动｜光通信概念走强，Ciena涨超6%，迈威尔科技涨超5%",
@@ -242,17 +277,102 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时55分 ~ 06时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美国财长贝森特：我们将继续对伊朗经济实施制裁，并在霍尔木兹海峡保持持续的封锁。我们将禁止任何物品进出伊朗港口。",
+          "url": "https://flash.jin10.com/detail/20260814073702603800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
         },
         {
-          "title": "美股收盘：三大指数齐升标普收新高 存储板块走强闪迪涨逾13%",
-          "url": "https://www.cls.cn/detail/2453979",
-          "source": "财联社热门",
+          "title": "军事压力未奏效 美国又押注经济施压使伊朗屈服",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1378682.html",
+          "source": "联合早报",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 07时51分]"
+        },
+        {
+          "title": "承受伊朗战争冲击 英国第二季度经济增长0.4%",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1378681.html",
+          "source": "联合早报",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 07时51分]"
+        },
+        {
+          "title": "美国财长贝森特：我们正在针对伊朗的全球银行账户实施最大力度的施压，我们采取的施压行动使伊朗银行业崩溃。",
+          "url": "https://flash.jin10.com/detail/20260814073516828800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "美国财长贝森特：我们将针对伊朗采取前所未有的措施。",
+          "url": "https://flash.jin10.com/detail/20260814071558616800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时53分"
+          "time_info": "07时51分"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：巴勒斯坦消息人士称，以色列军队对加沙东部的多个地点发动了攻击。",
+          "url": "https://flash.jin10.com/detail/20260814071431945800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "美国能源部长赖特：我们对伊朗的制裁扼杀了其经济，使其在地区的影响力减弱。对其经济的压制最终将导致伊朗政权崩溃。",
+          "url": "https://flash.jin10.com/detail/20260814070112323800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "美国能源部长赖特：伊朗正试图以全球经济为要挟。",
+          "url": "https://flash.jin10.com/detail/20260814064748613800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
         }
       ]
     },
@@ -290,7 +410,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
         },
@@ -331,7 +451,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -343,8 +463,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 06时53分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 07时51分]"
         },
         {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
@@ -352,50 +472,35 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 06时53分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 07时51分]"
         },
         {
           "title": "DeepSeek发布V4 Pro正式版 多项测试水平逼近Fable 5",
           "url": "https://www.zaochenbao.com/news/china/202608/1378675.html",
           "source": "联合早报",
           "ranks": [
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 06时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "军事压力未奏效 美国又押注经济施压使伊朗屈服",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1378682.html",
-          "source": "联合早报",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 06时53分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 07时51分]"
         },
         {
-          "title": "承受伊朗战争冲击 英国第二季度经济增长0.4%",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1378681.html",
-          "source": "联合早报",
+          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
+          "url": "https://wallstreetcn.com/articles/3779385",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            9
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 06时53分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
         }
       ]
     },
@@ -412,8 +517,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 06时53分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 07时51分]"
         }
       ]
     }
