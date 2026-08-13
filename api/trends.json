@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T18:17:00.221907+08:00",
-  "total_titles_processed": 462,
+  "generated_at": "2026-08-13T19:56:00.331742+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [
     "36kr"
   ],
@@ -201,7 +201,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -214,8 +214,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时51分 ~ 18时17分]"
+          "appearance_count": 11,
+          "time_info": "[06时51分 ~ 19时56分]"
         },
         {
           "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
@@ -305,6 +305,17 @@
           "time_info": "[04时55分 ~ 06时51分]"
         },
         {
+          "title": "美温和通胀缓解加息压力，美股期指涨跌互现，光通信、存储芯片股盘前下跌，金油齐跌",
+          "url": "https://wallstreetcn.com/articles/3779338",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 19时56分]"
+        },
+        {
           "title": "美股收盘：三大股指涨跌不一，海力士涨9%",
           "url": "https://flash.jin10.com/detail/20260813040109673800",
           "source": "金十数据",
@@ -353,8 +364,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "据伊朗媒体Fars News：伊朗在霍尔木兹海峡的石油泄漏清理工作进入最后阶段。",
+          "url": "https://flash.jin10.com/detail/20260813195242338800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 19时56分]"
+        },
         {
           "title": "伊朗新领导层更愿意与美对抗 欲塑“生存经济”持久抗争",
           "url": "https://www.zaochenbao.com/news/politics/202608/1278614.html",
@@ -563,7 +585,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
@@ -576,8 +598,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时33分 ~ 18时17分]"
+          "appearance_count": 9,
+          "time_info": "[10时33分 ~ 19时56分]"
         },
         {
           "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
@@ -590,6 +612,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时33分 ~ 16时27分]"
+        },
+        {
+          "title": "DeepSeek发布V4 Pro正式版 多项测试水平逼近Fable 5",
+          "url": "https://www.zaochenbao.com/news/china/202608/1378675.html",
+          "source": "联合早报",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 19时56分]"
         },
         {
           "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
@@ -618,7 +651,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "还在逼美联储加息？10年期美债发行收益率创金融危机以来最高！",
@@ -635,6 +668,17 @@
           "time_info": "[12时59分 ~ 18时17分]"
         },
         {
+          "title": "英国央行：AI泡沫破裂或使资金同时撤出美股美债 并对英国产生冲击",
+          "url": "https://flash.jin10.com/detail/20260813195222740800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 19时56分]"
+        },
+        {
           "title": "不加息也压不住？10年期美债中标收益率创金融危机以来最高！",
           "url": "https://flash.jin10.com/detail/20260813141612887800",
           "source": "金十数据",
@@ -644,6 +688,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时24分 ~ 14时25分]"
+        },
+        {
+          "title": "市场消息：英国央行估计，AI泡沫破裂将可能使资金同时撤出美股美债，对英国产生连带冲击。",
+          "url": "https://flash.jin10.com/detail/20260813195006068800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 19时56分]"
         },
         {
           "title": "短端加不动，长端压不住：美债如何破局？",
@@ -660,7 +715,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美国7月CPI通胀全面符合预期 美联储9月加息预期进一步降温 金价刷新日内高点",
@@ -672,6 +727,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时04分 ~ 10时33分]"
+        },
+        {
+          "title": "宏观环境支撑国际金价 LBMA年末预测分歧巨大 | Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260813192900073800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 19时56分]"
         },
         {
           "title": "CPI没有给新弹药，金价离下一关还差这个条件！",
