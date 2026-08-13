@@ -1,277 +1,53 @@
 {
-  "generated_at": "2026-08-13T23:06:57.240319+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2026-08-14T01:04:18.520035+08:00",
+  "total_titles_processed": 94,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 17,
+      "keyword_group": "美股",
+      "match_count": 6,
       "titles": [
         {
-          "title": "特朗普签署备忘录 授权动用网络工具打击跨国犯罪组织",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1378640.html",
-          "source": "联合早报",
-          "ranks": [
-            2,
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时33分 ~ 16时27分]"
-        },
-        {
-          "title": "特朗普：最信任的新闻秘书莱维特将于本月底离职",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1378638.html",
-          "source": "联合早报",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时33分 ~ 14时25分]"
-        },
-        {
-          "title": "白宫：特朗普签署备忘录，授权美国执法部门使用网络工具打击在外国司法管辖区活动的犯罪组织。",
-          "url": "https://flash.jin10.com/detail/20260813054700329800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时55分 ~ 07时51分]"
-        },
-        {
-          "title": "伊学者：特朗普正酝酿大规模打击，欲为“不败”找台阶",
-          "url": "https://flash.jin10.com/detail/20260813211235613800",
-          "source": "金十数据",
+          "title": "美股异动｜存储概念股涨幅扩大，闪迪涨超10%，SK海力士涨超7%",
+          "url": "https://www.gelonghui.com/news/5285279",
+          "source": "格隆汇",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "特朗普称收到威胁 北约峰会后秘密换机是特勤局和军方安排",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1278610.html",
-          "source": "联合早报",
-          "ranks": [
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 07时51分]"
-        },
-        {
-          "title": "向特朗普加密货币投入1亿美元的华人买家是谁？",
-          "url": "https://www.zaochenbao.com/news/Chronicles/202608/1278586.html",
-          "source": "联合早报",
-          "ranks": [
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 07时51分]"
-        },
-        {
-          "title": "“特朗普消息付费抢先看”服务引发交易机构抵制",
-          "url": "https://flash.jin10.com/detail/20260813044836122800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时55分 ~ 06时51分]"
-        },
-        {
-          "title": "特朗普声称掌控霍尔木兹、伊朗坚决否认 海峡通行量跌至三个月最低",
-          "url": "https://www.cls.cn/detail/2452937",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 16时27分]"
-        },
-        {
-          "title": "据Axios：特朗普政府批评以色列国防部长卡茨有关继续占领黎巴嫩南部的言论，并表示相关表态违背了以色列政府与美国及黎巴嫩签署协议中的承诺。",
-          "url": "https://flash.jin10.com/detail/20260813043923903800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时55分 ~ 06时51分]"
-        },
-        {
-          "title": "白宫新闻秘书辞职，特朗普中期选举前痛失“最锋利的话筒”",
-          "url": "https://flash.jin10.com/detail/20260813064543456800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "特朗普：白宫新闻秘书莱维特将于本月底离任",
-          "url": "https://flash.jin10.com/detail/20260813035525711800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时55分"
-        },
-        {
-          "title": "每月最高10万美元卖“时间差”，特朗普被诉违宪！",
-          "url": "https://flash.jin10.com/detail/20260813100116657800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        },
-        {
-          "title": "白宫新闻秘书莱维特：特朗普总统已要求我在外部继续担任他的高级顾问，我将永远是MAGA和共和党的坚定代言人。",
-          "url": "https://flash.jin10.com/detail/20260813034627586800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时55分"
-        },
-        {
-          "title": "美国总统特朗普：莱维特将成为我的高级外部顾问之一，也是共和党内有影响力的声音。",
-          "url": "https://flash.jin10.com/detail/20260813033919055800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时55分"
-        },
-        {
-          "title": "美国总统特朗普：白宫新闻秘书莱维特将辞去职务，以便能有更多时间陪伴家人。",
-          "url": "https://flash.jin10.com/detail/20260813033648092800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时55分"
-        },
-        {
-          "title": "美国总统特朗普：白宫新闻秘书莱维特将于本月底离职。",
-          "url": "https://flash.jin10.com/detail/20260813033557637800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时55分"
-        },
-        {
-          "title": "伊朗：美国国会应调查特朗普资产的增加情况",
-          "url": "https://flash.jin10.com/detail/20260812233824579800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
           "time_info": "01时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 16,
-      "titles": [
+        },
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
           "url": "https://wallstreetcn.com/articles/3779257",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            4,
-            3,
-            2,
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时51分 ~ 23时06分]"
+          "appearance_count": 1,
+          "time_info": "01时04分"
         },
         {
-          "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
-          "url": "https://www.cls.cn/detail/2452897",
-          "source": "财联社热门",
+          "title": "金十图示：2026年08月13日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260814003306234800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时51分 ~ 16时27分]"
-        },
-        {
-          "title": "美股异动｜温蒂汉堡涨超14%，佩尔茨旗下Trian基金据报筹备私有化要约",
-          "url": "https://www.gelonghui.com/news/5284471",
-          "source": "格隆汇",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 07时51分]"
-        },
-        {
-          "title": "美股异动｜光通信概念走强，Ciena涨超6%，迈威尔科技涨超5%",
-          "url": "https://www.gelonghui.com/news/5285270",
-          "source": "格隆汇",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时06分"
+          "time_info": "01时04分"
         },
         {
-          "title": "金十图示：2026年08月12日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260813003439020800",
+          "title": "金十图示：2026年08月13日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260814003048572800",
           "source": "金十数据",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -284,446 +60,52 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
-        },
-        {
-          "title": "美股异动｜SpaceX涨超6%，较前低反弹超35%，马斯克放话5年内AI将占估值的99%",
-          "url": "https://www.gelonghui.com/news/5284464",
-          "source": "格隆汇",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 06时51分]"
-        },
-        {
-          "title": "美通胀温和缓解加息压力，美股高开，光通信、存储芯片股领涨，Nebius涨15%，油价震荡",
-          "url": "https://wallstreetcn.com/articles/3779257",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 05时55分]"
-        },
-        {
-          "title": "美温和通胀缓解加息压力，美股期指涨跌互现，光通信、存储芯片股盘前下跌，金油齐跌",
-          "url": "https://wallstreetcn.com/articles/3779338",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时55分 ~ 21时28分]"
-        },
-        {
-          "title": "金十图示：2026年08月12日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260813040557554800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时55分 ~ 06时51分]"
-        },
-        {
-          "title": "金十图示：2026年08月12日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260813040554059800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时55分 ~ 06时51分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一，海力士涨9%",
-          "url": "https://flash.jin10.com/detail/20260813040109673800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时55分 ~ 05时55分]"
-        },
-        {
-          "title": "金十图示：2026年08月12日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260813003436500800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
         },
         {
-          "title": "美股异动｜思科盘前跌超6%，2027财年AI营收指引保守 订单转化效率存疑",
-          "url": "https://www.gelonghui.com/news/5284720",
-          "source": "格隆汇",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "美股异动丨Cerebras盘前大跌超18%，Q2硬件营收意外下滑",
-          "url": "https://www.gelonghui.com/news/5284718",
+          "title": "美股异动｜光通信概念走强，Ciena涨超6%，迈威尔科技涨超5%",
+          "url": "https://www.gelonghui.com/news/5285270",
           "source": "格隆汇",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "美股异动｜贵金属板块走低，泛美白银跌近9%",
-          "url": "https://www.gelonghui.com/news/5285262",
-          "source": "格隆汇",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
+          "time_info": "01时04分"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 15,
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
       "titles": [
         {
-          "title": "据伊朗媒体Fars News：伊朗在霍尔木兹海峡的石油泄漏清理工作进入最后阶段。",
-          "url": "https://flash.jin10.com/detail/20260813195242338800",
+          "title": "OpenAI：丹尼斯·德雷瑟将在过渡期后离开OpenAI，寻求其他发展机会。",
+          "url": "https://flash.jin10.com/detail/20260814000639384800",
           "source": "金十数据",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 19时56分]"
-        },
-        {
-          "title": "伊朗新领导层更愿意与美对抗 欲塑“生存经济”持久抗争",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1278614.html",
-          "source": "联合早报",
-          "ranks": [
-            9,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 10时33分]"
-        },
-        {
-          "title": "军事压力未奏效 美国又押注经济施压使伊朗屈服",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1378682.html",
-          "source": "联合早报",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 23时06分]"
-        },
-        {
-          "title": "承受伊朗战争冲击 英国第二季度经济增长0.4%",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1378681.html",
-          "source": "联合早报",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 23时06分]"
-        },
-        {
-          "title": "伊朗称霍尔木兹海峡仍关闭 美军称已使59艘商船改变航线 | 环球市场",
-          "url": "https://www.cls.cn/detail/2452922",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时33分 ~ 16时27分]"
-        },
-        {
-          "title": "伊朗外交部发言人巴加埃：伊朗作为波斯湾和阿曼湾最长海岸线国家，要求所有受益于霍尔木兹海峡航运的各方承担责任，修复相关海域环境损害。",
-          "url": "https://flash.jin10.com/detail/20260813044926176800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            13,
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时55分 ~ 06时51分]"
+          "appearance_count": 1,
+          "time_info": "01时04分"
         },
         {
-          "title": "伊朗外交部发言人巴加埃：格什姆岛沿岸近日出现石油污染，初步调查显示污染源可能为一艘外国散货船，已有多个沿海区域及部分海面受影响。",
-          "url": "https://flash.jin10.com/detail/20260813044915142800",
+          "title": "OpenAI：与查德·皮茨和RPT Partners建立了战略合作伙伴关系。",
+          "url": "https://flash.jin10.com/detail/20260814000628612800",
           "source": "金十数据",
           "ranks": [
-            4,
-            14,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时55分 ~ 06时51分]"
-        },
-        {
-          "title": "伊朗情报部：在伊朗东南部摧毁了两个“恐怖极端组织”行动小组，逮捕了4名恐怖分子，并击毙了其中2名。",
-          "url": "https://flash.jin10.com/detail/20260813175612742800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 18时17分]"
-        },
-        {
-          "title": "战争叠加通胀 “先买后付”广告占领伊朗街头",
-          "url": "https://flash.jin10.com/detail/20260813175108889800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 18时17分]"
-        },
-        {
-          "title": "英分析人士：伊朗意在拖延战争，加大美国“痛感”",
-          "url": "https://flash.jin10.com/detail/20260813173802066800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 18时17分]"
-        },
-        {
-          "title": "英国海事贸易组织：伊朗革命卫队继续骚扰和监视商船，尽管在最新报告期内没有确认的攻击事件。",
-          "url": "https://flash.jin10.com/detail/20260813223530443800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：美国长期以来因情报失误而误判形势。典型例子就是对伊朗的战争。如今，在霍尔木兹海峡问题上，美国又犯下了一个更大的误判。",
-          "url": "https://flash.jin10.com/detail/20260813155911323800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "伊朗“波斯湾海峡管理局”：霍尔木兹海峡仍关闭",
-          "url": "https://flash.jin10.com/detail/20260813035429492800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时55分"
-        },
-        {
-          "title": "伊朗说将以持久战消耗美国",
-          "url": "https://flash.jin10.com/detail/20260813155211017800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "据伊朗媒体Fars News：也门胡塞武装对沙特雇佣军在摩卡港的阵地发动了无人机袭击。",
-          "url": "https://flash.jin10.com/detail/20260813033525851800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
-          "url": "https://wallstreetcn.com/articles/3779306",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时33分 ~ 23时06分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
-          "url": "https://www.cls.cn/detail/2452920",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时33分 ~ 16时27分]"
-        },
-        {
-          "title": "DeepSeek发布V4 Pro正式版 多项测试水平逼近Fable 5",
-          "url": "https://www.zaochenbao.com/news/china/202608/1378675.html",
-          "source": "联合早报",
-          "ranks": [
-            2,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时55分 ~ 23时06分]"
-        },
-        {
-          "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
-          "url": "https://wallstreetcn.com/articles/3779377",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 23时06分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
-          "url": "https://flash.jin10.com/detail/20260813050715033800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时51分]"
-        },
-        {
-          "title": "A股异动丨DeepSeek概念股集体上涨，DeepSeek正式发布V4 Pro型号",
-          "url": "https://www.gelonghui.com/news/5284540",
-          "source": "格隆汇",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        },
-        {
-          "title": "DeepSeek Harness公测，同步开放NPM插件生态",
-          "url": "https://flash.jin10.com/detail/20260813210558759800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
-          "url": "https://wallstreetcn.com/articles/3779285",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时51分 ~ 16时27分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)：推出Pixel 11 Pro Fold。",
-          "url": "https://flash.jin10.com/detail/20260813001419372800",
-          "source": "金十数据",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
         },
         {
-          "title": "消息人士：谷歌重组部门全力发展Gemini",
-          "url": "https://flash.jin10.com/detail/20260813021710644800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "谷歌：推出谷歌Pixel Tag。",
-          "url": "https://flash.jin10.com/detail/20260812234819125800",
+          "title": "OpenAI任命达利·拉季奇为首席营收官。",
+          "url": "https://flash.jin10.com/detail/20260814000501554800",
           "source": "金十数据",
           "ranks": [
             18
@@ -733,159 +115,116 @@
           "time_info": "01时04分"
         },
         {
-          "title": "消息人士称，上周谷歌(GOOG.O)高管召开全体员工大会，讨论人工智能部门重组事宜，以回应员工的担忧。",
-          "url": "https://flash.jin10.com/detail/20260813013509723800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "消息人士称，谷歌(GOOG.O)联合创始人谢尔盖·布林近几个月来敦促员工专注于将Gemini模型重新带回人工智能前沿。",
-          "url": "https://flash.jin10.com/detail/20260813013427834800",
+          "title": "OpenAI在不到一年内任命新首席营收官。",
+          "url": "https://flash.jin10.com/detail/20260813235531398800",
           "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时12分"
+          "time_info": "01时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
+          "url": "https://wallstreetcn.com/articles/3779377",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        },
+        {
+          "title": "DeepSeek智能体曝光！人人用得起的Agent？",
+          "url": "https://wallstreetcn.com/articles/3779332",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        },
+        {
+          "title": "DeepSeek发布V4 Pro正式版 多项测试水平逼近Fable 5",
+          "url": "https://www.zaochenbao.com/news/china/202608/1378675.html",
+          "source": "联合早报",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "军事压力未奏效 美国又押注经济施压使伊朗屈服",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1378682.html",
+          "source": "联合早报",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        },
+        {
+          "title": "承受伊朗战争冲击 英国第二季度经济增长0.4%",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1378681.html",
+          "source": "联合早报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "还在逼美联储加息？10年期美债发行收益率创金融危机以来最高！",
-          "url": "https://www.cls.cn/detail/2452988",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时59分 ~ 18时17分]"
-        },
-        {
-          "title": "英国央行：AI泡沫破裂或使资金同时撤出美股美债 并对英国产生冲击",
-          "url": "https://flash.jin10.com/detail/20260813195222740800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 19时56分]"
-        },
-        {
-          "title": "不加息也压不住？10年期美债中标收益率创金融危机以来最高！",
-          "url": "https://flash.jin10.com/detail/20260813141612887800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 14时25分]"
-        },
-        {
-          "title": "市场消息：英国央行估计，AI泡沫破裂将可能使资金同时撤出美股美债，对英国产生连带冲击。",
-          "url": "https://flash.jin10.com/detail/20260813195006068800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 19时56分]"
-        },
-        {
-          "title": "短端加不动，长端压不住：美债如何破局？",
-          "url": "https://flash.jin10.com/detail/20260813122822904800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
         {
           "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
           "url": "https://www.cls.cn/detail/2453615",
           "source": "财联社热门",
           "ranks": [
-            12
+            9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时06分"
+          "time_info": "01时04分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美国7月CPI通胀全面符合预期 美联储9月加息预期进一步降温 金价刷新日内高点",
-          "url": "https://www.cls.cn/detail/2452735",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 10时33分]"
-        },
-        {
-          "title": "宏观环境支撑国际金价 LBMA年末预测分歧巨大 | Live分析更新中",
-          "url": "https://flash.jin10.com/detail/20260813192900073800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 19时56分]"
-        },
-        {
-          "title": "CPI没有给新弹药，金价离下一关还差这个条件！",
-          "url": "https://flash.jin10.com/detail/20260813120555201800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
+      "keyword_group": "特朗普",
       "match_count": 1,
       "titles": [
         {
-          "title": "美元指数12日上涨",
-          "url": "https://flash.jin10.com/detail/20260813041909701800",
+          "title": "市场消息：美国总统特朗普明日将访问纽约市拿骚县警察学院。",
+          "url": "https://flash.jin10.com/detail/20260814004157850800",
           "source": "金十数据",
           "ranks": [
-            11,
-            21,
-            24
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时55分 ~ 06时51分]"
+          "appearance_count": 1,
+          "time_info": "01时04分"
         }
       ]
     }
