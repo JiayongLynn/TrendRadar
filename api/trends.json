@@ -1,690 +1,92 @@
 {
-  "generated_at": "2026-08-14T23:00:40.140539+08:00",
-  "total_titles_processed": 574,
+  "generated_at": "2026-08-15T06:32:25.192455+08:00",
+  "total_titles_processed": 94,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 3,
       "titles": [
         {
           "title": "移民改革会是特朗普的“尼克松访华”时刻吗？",
           "url": "https://www.zaochenbao.com/news/Chronicles/202608/1478755.html",
           "source": "联合早报",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时59分 ~ 23时00分]"
-        },
-        {
-          "title": "市场消息：美国总统特朗普明日将访问纽约市拿骚县警察学院。",
-          "url": "https://flash.jin10.com/detail/20260814004157850800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时04分"
+          "time_info": "06时32分"
         },
         {
-          "title": "特朗普：进口无人机及零部件最高征100%关税",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1478693.html",
-          "source": "联合早报",
+          "title": "伊朗副外长加里巴巴迪：（回应特朗普称将宣布霍尔木兹海峡为美国领土的言论）不会被美国的威胁或武力展示所吓倒。",
+          "url": "https://flash.jin10.com/detail/20260815050235011800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            19,
-            28,
-            30
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时32分 ~ 19时52分]"
+          "appearance_count": 1,
+          "time_info": "06时32分"
         },
         {
           "title": "特朗普政府对进口无人机征收关税 最高税率达100%",
           "url": "https://www.zaochenbao.com/news/politics/202608/1478743.html",
           "source": "联合早报",
           "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时23分 ~ 23时00分]"
-        },
-        {
-          "title": "美国总统特朗普请求最高法院允许白宫宴会厅继续建设。",
-          "url": "https://flash.jin10.com/detail/20260814211049947800",
-          "source": "金十数据",
-          "ranks": [
-            5
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时23分"
-        },
+          "time_info": "06时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
         {
-          "title": "特朗普对特定无人机进口加征100%关税",
-          "url": "https://flash.jin10.com/detail/20260814054149150800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时53分]"
-        },
-        {
-          "title": "澳大利亚总理阿尔巴尼斯：与美国总统特朗普进行了夜间交谈。",
-          "url": "https://flash.jin10.com/detail/20260814054026468800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时53分]"
-        },
-        {
-          "title": "知情者：肯尼迪董事会决定将特朗普姓名刻在中心外墙",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1478724.html",
+          "title": "赫格塞斯：美国可能对伊朗实施永久封锁 加大经济施压",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1478761.html",
           "source": "联合早报",
           "ranks": [
-            9,
-            15,
-            22
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时12分 ~ 21时23分]"
+          "appearance_count": 1,
+          "time_info": "06时32分"
         },
         {
-          "title": "据Axios：特朗普女婿库什纳预计下周前往开罗，与埃及调解人进行会谈。",
-          "url": "https://flash.jin10.com/detail/20260814053520853800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时53分]"
-        },
-        {
-          "title": "白宫：美国总统特朗普已指示国防部长，在CVN-81航母建造期间，将先进电磁弹射系统和先进武器升降机更换为传统的蒸汽和液压系统。",
-          "url": "https://flash.jin10.com/detail/20260814052949951800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时53分]"
-        },
-        {
-          "title": "白宫：美国总统特朗普签署的备忘录指示五角大楼参照“芬兰模式”，加大对美国造船工业基础的直接投资。",
-          "url": "https://flash.jin10.com/detail/20260814052933295800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时53分]"
-        },
-        {
-          "title": "白宫：美国总统特朗普已签署一份国家安全总统备忘录，旨在解决海军舰船建造与维修计划中长期存在的关键问题。",
-          "url": "https://flash.jin10.com/detail/20260814052911469800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时53分]"
-        },
-        {
-          "title": "最高100%关税！特朗普突然对无人机下狠手，俄乌冲突让美国警醒",
-          "url": "https://flash.jin10.com/detail/20260814071926003800",
+          "title": "据伊朗学生通讯社：伊朗外长阿拉格齐表示，尚未决定是否恢复与美国谈判。卡塔尔和巴基斯坦作为协调方正在与伊朗交换信息，但这并不意味着美伊已进入谈判。",
+          "url": "https://flash.jin10.com/detail/20260815050929790800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时51分"
+          "time_info": "06时32分"
         },
         {
-          "title": "白宫：美国总统特朗普将对英国输美无人机加征10%从价关税。",
-          "url": "https://flash.jin10.com/detail/20260814052728079800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "白宫：美国总统特朗普将对欧盟、日本、列支敦士登、韩国、瑞士输美的无人机及零部件加征15%从价关税。",
-          "url": "https://flash.jin10.com/detail/20260814052706154800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "白宫：美国总统特朗普将对特定尺寸或具备敏感性能的无人机加征100%从价关税。",
-          "url": "https://flash.jin10.com/detail/20260814052625841800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "白宫：美国总统特朗普将对部分缺乏特定能力的小型无人机加征25%从价关税，理由是相关产品涉及国家安全问题。",
-          "url": "https://flash.jin10.com/detail/20260814052554722800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "澳大利亚总理阿尔巴尼斯：美国总统特朗普同意考虑关于关税的请求。",
-          "url": "https://flash.jin10.com/detail/20260814054802462800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时53分"
-        },
-        {
-          "title": "澳大利亚总理阿尔巴尼斯：与美国总统特朗普谈及关税，敦促特朗普考虑给予全面豁免。",
-          "url": "https://flash.jin10.com/detail/20260814054634295800",
+          "title": "伊朗副外长加里巴巴迪：霍尔木兹海峡的开放或关闭只能由伊朗决定。",
+          "url": "https://flash.jin10.com/detail/20260815050027660800",
           "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时53分"
-        },
-        {
-          "title": "美媒：肯尼迪中心决定将特朗普名字印在大楼外墙上",
-          "url": "https://flash.jin10.com/detail/20260814065155550800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "特朗普与马斯克重修旧好：私人恩怨退场，政治利益重新把两人绑在一起",
-          "url": "https://flash.jin10.com/detail/20260814114351665800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "军事压力未奏效 美国又押注经济施压使伊朗屈服",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1378682.html",
-          "source": "联合早报",
-          "ranks": [
-            7,
-            11,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 14时20分]"
-        },
-        {
-          "title": "伊朗称格什姆岛沿岸石油污染系外国军事侵略所致",
-          "url": "https://flash.jin10.com/detail/20260814194600074800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时51分 ~ 19时52分]"
-        },
-        {
-          "title": "承受伊朗战争冲击 英国第二季度经济增长0.4%",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1378681.html",
-          "source": "联合早报",
-          "ranks": [
-            8,
-            12,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 14时20分]"
-        },
-        {
-          "title": "伊朗称拦截并摧毁一架MQ-9无人机",
-          "url": "https://flash.jin10.com/detail/20260814193446202800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时51分 ~ 19时52分]"
-        },
-        {
-          "title": "美国财长贝森特：我们将继续对伊朗经济实施制裁，并在霍尔木兹海峡保持持续的封锁。我们将禁止任何物品进出伊朗港口。",
-          "url": "https://flash.jin10.com/detail/20260814073702603800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "伊朗战争推高油价 中国电动重卡出口激增",
-          "url": "https://www.zaochenbao.com/news/china/202608/1478702.html",
-          "source": "联合早报",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时32分 ~ 14时20分]"
-        },
-        {
-          "title": "美防长称可无限期封锁伊朗 美联储官员重申现在必须加息 | 环球市场",
-          "url": "https://www.cls.cn/detail/2454017",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时32分 ~ 14时20分]"
-        },
-        {
-          "title": "美国财长贝森特：我们正在针对伊朗的全球银行账户实施最大力度的施压，我们采取的施压行动使伊朗银行业崩溃。",
-          "url": "https://flash.jin10.com/detail/20260814073516828800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "美国财长贝森特：我们将针对伊朗采取前所未有的措施。",
-          "url": "https://flash.jin10.com/detail/20260814071558616800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "据伊朗法尔斯通讯社：巴勒斯坦消息人士称，以色列军队对加沙东部的多个地点发动了攻击。",
-          "url": "https://flash.jin10.com/detail/20260814071431945800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "美国能源部长赖特：我们对伊朗的制裁扼杀了其经济，使其在地区的影响力减弱。对其经济的压制最终将导致伊朗政权崩溃。",
-          "url": "https://flash.jin10.com/detail/20260814070112323800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "美国能源部长赖特：伊朗正试图以全球经济为要挟。",
-          "url": "https://flash.jin10.com/detail/20260814064748613800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
-          "url": "https://wallstreetcn.com/articles/3779257",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 06时53分]"
-        },
-        {
-          "title": "美PPI数据再缓加息压力，美股高开，Cerebras跌12%，金油齐跌",
-          "url": "https://wallstreetcn.com/articles/3779338",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 06时53分]"
-        },
-        {
-          "title": "美股收盘：三大指数齐升标普收新高 存储板块走强闪迪涨逾13%",
-          "url": "https://www.cls.cn/detail/2453979",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时53分 ~ 14时20分]"
-        },
-        {
-          "title": "美股异动｜存储概念股涨幅扩大，闪迪涨超10%，SK海力士涨超7%",
-          "url": "https://www.gelonghui.com/news/5285279",
-          "source": "格隆汇",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 07时51分]"
-        },
-        {
-          "title": "金十图示：2026年08月13日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260814003306234800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "金十图示：2026年08月13日（周四）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260814003048572800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "美股异动｜光通信概念走强，Ciena涨超6%，迈威尔科技涨超5%",
-          "url": "https://www.gelonghui.com/news/5285270",
-          "source": "格隆汇",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 06时53分]"
-        },
-        {
-          "title": "Reddit(RDDT.N)美股盘后涨超12%。",
-          "url": "https://flash.jin10.com/detail/20260814053317827800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时53分]"
-        },
-        {
-          "title": "美股异动丨Reddit大涨超16%，获纳入标普500指数成分股",
-          "url": "https://www.gelonghui.com/news/5286344",
-          "source": "格隆汇",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时59分 ~ 23时00分]"
-        },
-        {
-          "title": "美股三大股指均转跌。",
-          "url": "https://flash.jin10.com/detail/20260814222241849800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时59分 ~ 23时00分]"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-08-14）",
-          "url": "https://flash.jin10.com/detail/20260814210622788800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "市场消息：OpenAI年化营收在IPO前已突破400亿美元。",
-          "url": "https://flash.jin10.com/detail/20260814053819730800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时53分]"
-        },
-        {
-          "title": "据Axios：OpenAI在IPO前进行高管更换。",
-          "url": "https://flash.jin10.com/detail/20260814173053117800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时12分"
-        },
-        {
-          "title": "OpenAI：丹尼斯·德雷瑟将在过渡期后离开OpenAI，寻求其他发展机会。",
-          "url": "https://flash.jin10.com/detail/20260814000639384800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "据悉OpenAI年化营收突破400亿美元",
-          "url": "https://flash.jin10.com/detail/20260814055506381800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时53分"
-        },
-        {
-          "title": "OpenAI：与查德·皮茨和RPT Partners建立了战略合作伙伴关系。",
-          "url": "https://flash.jin10.com/detail/20260814000628612800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "OpenAI任命达利·拉季奇为首席营收官。",
-          "url": "https://flash.jin10.com/detail/20260814000501554800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "OpenAI在不到一年内任命新首席营收官。",
-          "url": "https://flash.jin10.com/detail/20260813235531398800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "time_info": "06时32分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
-          "url": "https://wallstreetcn.com/articles/3779377",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 19时52分]"
-        },
-        {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时32分 ~ 21时23分]"
-        },
-        {
-          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
-          "url": "https://wallstreetcn.com/articles/3779385",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时51分 ~ 19时52分]"
-        },
-        {
-          "title": "DeepSeek智能体曝光！人人用得起的Agent？",
-          "url": "https://wallstreetcn.com/articles/3779332",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 07时51分]"
-        },
-        {
-          "title": "DeepSeek发布V4 Pro正式版 多项测试水平逼近Fable 5",
-          "url": "https://www.zaochenbao.com/news/china/202608/1378675.html",
-          "source": "联合早报",
-          "ranks": [
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 07时51分]"
-        },
         {
           "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
           "url": "https://wallstreetcn.com/articles/3779418",
@@ -693,74 +95,42 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时23分 ~ 23时00分]"
+          "appearance_count": 1,
+          "time_info": "06时32分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
           "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
           "url": "https://wallstreetcn.com/articles/3779403",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时55分 ~ 23时00分]"
-        },
-        {
-          "title": "加息降温压不下收益率，40万亿美债要付出什么代价？",
-          "url": "https://flash.jin10.com/detail/20260814194148583800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时51分 ~ 19时52分]"
-        },
-        {
-          "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
-          "url": "https://www.cls.cn/detail/2453615",
-          "source": "财联社热门",
-          "ranks": [
-            9,
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 07时51分]"
-        },
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "零售数据疲软打压加息预期 短期美债应声上涨",
-          "url": "https://flash.jin10.com/detail/20260814222728376800",
-          "source": "金十数据",
+          "title": "美疲弱零售销售数据再挫加息预期，美股涨跌互现，存储芯片股普涨，闪迪涨约7%，金涨油跌",
+          "url": "https://wallstreetcn.com/articles/3779437",
+          "source": "华尔街见闻",
           "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时59分 ~ 23时00分]"
-        },
-        {
-          "title": "美联储抗通胀信誉面临大考！华尔街借“蝴蝶”策略押注美债反转",
-          "url": "https://flash.jin10.com/detail/20260814171830547800",
-          "source": "金十数据",
-          "ranks": [
-            19
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时12分"
+          "time_info": "06时32分"
         }
       ]
     }
