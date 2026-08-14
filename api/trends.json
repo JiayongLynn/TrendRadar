@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-14T10:32:33.325580+08:00",
-  "total_titles_processed": 244,
+  "generated_at": "2026-08-14T12:55:40.515890+08:00",
+  "total_titles_processed": 298,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "市场消息：美国总统特朗普明日将访问纽约市拿骚县警察学院。",
@@ -93,6 +93,18 @@
           "time_info": "[05时55分 ~ 06时53分]"
         },
         {
+          "title": "特朗普：进口无人机及零部件最高征100%关税",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1478693.html",
+          "source": "联合早报",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 12时55分]"
+        },
+        {
           "title": "最高100%关税！特朗普突然对无人机下狠手，俄乌冲突让美国警醒",
           "url": "https://flash.jin10.com/detail/20260814071926003800",
           "source": "金十数据",
@@ -124,17 +136,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
-        },
-        {
-          "title": "特朗普：进口无人机及零部件最高征100%关税",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1478693.html",
-          "source": "联合早报",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
         },
         {
           "title": "白宫：美国总统特朗普将对特定尺寸或具备敏感性能的无人机加征100%从价关税。",
@@ -190,6 +191,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
+        },
+        {
+          "title": "特朗普与马斯克重修旧好：私人恩怨退场，政治利益重新把两人绑在一起",
+          "url": "https://flash.jin10.com/detail/20260814114351665800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         }
       ]
     },
@@ -197,6 +209,34 @@
       "keyword_group": "伊朗",
       "match_count": 10,
       "titles": [
+        {
+          "title": "军事压力未奏效 美国又押注经济施压使伊朗屈服",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1378682.html",
+          "source": "联合早报",
+          "ranks": [
+            7,
+            11,
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 12时55分]"
+        },
+        {
+          "title": "承受伊朗战争冲击 英国第二季度经济增长0.4%",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1378681.html",
+          "source": "联合早报",
+          "ranks": [
+            8,
+            12,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 12时55分]"
+        },
         {
           "title": "美国财长贝森特：我们将继续对伊朗经济实施制裁，并在霍尔木兹海峡保持持续的封锁。我们将禁止任何物品进出伊朗港口。",
           "url": "https://flash.jin10.com/detail/20260814073702603800",
@@ -213,37 +253,24 @@
           "url": "https://www.zaochenbao.com/news/china/202608/1478702.html",
           "source": "联合早报",
           "ranks": [
-            4
+            4,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 12时55分]"
         },
         {
-          "title": "军事压力未奏效 美国又押注经济施压使伊朗屈服",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1378682.html",
-          "source": "联合早报",
+          "title": "美防长称可无限期封锁伊朗 美联储官员重申现在必须加息 | 环球市场",
+          "url": "https://www.cls.cn/detail/2454017",
+          "source": "财联社热门",
           "ranks": [
-            7,
             11,
-            24
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 10时32分]"
-        },
-        {
-          "title": "承受伊朗战争冲击 英国第二季度经济增长0.4%",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1378681.html",
-          "source": "联合早报",
-          "ranks": [
-            8,
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 10时32分]"
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 12时55分]"
         },
         {
           "title": "美国财长贝森特：我们正在针对伊朗的全球银行账户实施最大力度的施压，我们采取的施压行动使伊朗银行业崩溃。",
@@ -255,17 +282,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
-        },
-        {
-          "title": "美防长称可无限期封锁伊朗 美联储官员重申现在必须加息 | 环球市场",
-          "url": "https://www.cls.cn/detail/2454017",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
         },
         {
           "title": "美国财长贝森特：我们将针对伊朗采取前所未有的措施。",
@@ -353,6 +369,18 @@
           "time_info": "[01时04分 ~ 07时51分]"
         },
         {
+          "title": "美股收盘：三大指数齐升标普收新高 存储板块走强闪迪涨逾13%",
+          "url": "https://www.cls.cn/detail/2453979",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时53分 ~ 12时55分]"
+        },
+        {
           "title": "金十图示：2026年08月13日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260814003306234800",
           "source": "金十数据",
@@ -373,18 +401,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
-        },
-        {
-          "title": "美股收盘：三大指数齐升标普收新高 存储板块走强闪迪涨逾13%",
-          "url": "https://www.cls.cn/detail/2453979",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时53分 ~ 10时32分]"
         },
         {
           "title": "美股异动｜光通信概念走强，Ciena涨超6%，迈威尔科技涨超5%",
@@ -498,8 +514,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 10时32分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 12时55分]"
         },
         {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
@@ -535,25 +551,26 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时51分 ~ 10时32分]"
+          "appearance_count": 3,
+          "time_info": "[07时51分 ~ 12时55分]"
         },
         {
           "title": "DeepSeek Harness 来了，它不想做下一个Codex",
           "url": "https://wallstreetcn.com/articles/3779390",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 12时55分]"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
@@ -566,6 +583,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时04分 ~ 07时51分]"
+        },
+        {
+          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
+          "url": "https://wallstreetcn.com/articles/3779403",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         }
       ]
     }
