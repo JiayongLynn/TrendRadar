@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-14T14:20:43.798500+08:00",
-  "total_titles_processed": 335,
+  "generated_at": "2026-08-14T18:12:37.007722+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "市场消息：美国总统特朗普明日将访问纽约市拿骚县警察学院。",
@@ -50,11 +50,12 @@
           "source": "联合早报",
           "ranks": [
             13,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时32分 ~ 14时20分]"
+          "appearance_count": 4,
+          "time_info": "[10时32分 ~ 18时12分]"
         },
         {
           "title": "据Axios：特朗普女婿库什纳预计下周前往开罗，与埃及调解人进行会谈。",
@@ -103,6 +104,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时55分 ~ 06时53分]"
+        },
+        {
+          "title": "知情者：肯尼迪董事会决定将特朗普姓名刻在中心外墙",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1478724.html",
+          "source": "联合早报",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "最高100%关税！特朗普突然对无人机下狠手，俄乌冲突让美国警醒",
@@ -430,7 +442,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "市场消息：OpenAI年化营收在IPO前已突破400亿美元。",
@@ -443,6 +455,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时55分 ~ 06时53分]"
+        },
+        {
+          "title": "据Axios：OpenAI在IPO前进行高管更换。",
+          "url": "https://flash.jin10.com/detail/20260814173053117800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "OpenAI：丹尼斯·德雷瑟将在过渡期后离开OpenAI，寻求其他发展机会。",
@@ -515,8 +538,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 14时20分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 18时12分]"
+        },
+        {
+          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
+          "url": "https://wallstreetcn.com/articles/3779385",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时51分 ~ 18时12分]"
         },
         {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
@@ -532,16 +568,17 @@
           "time_info": "[01时04分 ~ 07时51分]"
         },
         {
-          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
-          "url": "https://wallstreetcn.com/articles/3779385",
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
           "source": "华尔街见闻",
           "ranks": [
-            9,
+            10,
+            8,
             7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时51分 ~ 14时20分]"
+          "time_info": "[10时32分 ~ 18时12分]"
         },
         {
           "title": "DeepSeek发布V4 Pro正式版 多项测试水平逼近Fable 5",
@@ -554,24 +591,12 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时04分 ~ 07时51分]"
-        },
-        {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时32分 ~ 14时20分]"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
@@ -591,11 +616,23 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 14时20分]"
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 18时12分]"
+        },
+        {
+          "title": "美联储抗通胀信誉面临大考！华尔街借“蝴蝶”策略押注美债反转",
+          "url": "https://flash.jin10.com/detail/20260814171830547800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         }
       ]
     }
