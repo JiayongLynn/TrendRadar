@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-14T19:52:03.205971+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-08-14T21:23:29.501540+08:00",
+  "total_titles_processed": 518,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "市场消息：美国总统特朗普明日将访问纽约市拿骚县警察学院。",
@@ -33,6 +33,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时32分 ~ 19时52分]"
+        },
+        {
+          "title": "特朗普政府对进口无人机征收关税 最高税率达100%",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1478743.html",
+          "source": "联合早报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
+          "title": "美国总统特朗普请求最高法院允许白宫宴会厅继续建设。",
+          "url": "https://flash.jin10.com/detail/20260814211049947800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         },
         {
           "title": "特朗普对特定无人机进口加征100%关税",
@@ -64,11 +86,12 @@
           "source": "联合早报",
           "ranks": [
             9,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时12分 ~ 19时52分]"
+          "appearance_count": 4,
+          "time_info": "[18时12分 ~ 21时23分]"
         },
         {
           "title": "据Axios：特朗普女婿库什纳预计下周前往开罗，与埃及调解人进行会谈。",
@@ -368,7 +391,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -461,6 +484,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时55分 ~ 06时53分]"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-08-14）",
+          "url": "https://flash.jin10.com/detail/20260814210622788800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         }
       ]
     },
@@ -550,7 +584,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -566,6 +600,20 @@
           "time_info": "[01时04分 ~ 19时52分]"
         },
         {
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时32分 ~ 21时23分]"
+        },
+        {
           "title": "DeepSeek Harness 开发者预览版：一切皆插件",
           "url": "https://wallstreetcn.com/articles/3779385",
           "source": "华尔街见闻",
@@ -577,19 +625,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时51分 ~ 19时52分]"
-        },
-        {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时32分 ~ 19时52分]"
         },
         {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
@@ -615,6 +650,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时04分 ~ 07时51分]"
+        },
+        {
+          "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
+          "url": "https://wallstreetcn.com/articles/3779418",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         }
       ]
     },
@@ -640,11 +686,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时55分 ~ 19时52分]"
+          "appearance_count": 6,
+          "time_info": "[12时55分 ~ 21时23分]"
         },
         {
           "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
