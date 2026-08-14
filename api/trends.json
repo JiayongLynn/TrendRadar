@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T12:55:40.515890+08:00",
-  "total_titles_processed": 298,
+  "generated_at": "2026-08-14T14:20:43.798500+08:00",
+  "total_titles_processed": 335,
   "failed_sources": [
     "36kr"
   ],
@@ -43,6 +43,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时55分 ~ 06时53分]"
+        },
+        {
+          "title": "特朗普：进口无人机及零部件最高征100%关税",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1478693.html",
+          "source": "联合早报",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时32分 ~ 14时20分]"
         },
         {
           "title": "据Axios：特朗普女婿库什纳预计下周前往开罗，与埃及调解人进行会谈。",
@@ -91,18 +103,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时55分 ~ 06时53分]"
-        },
-        {
-          "title": "特朗普：进口无人机及零部件最高征100%关税",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1478693.html",
-          "source": "联合早报",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 12时55分]"
         },
         {
           "title": "最高100%关税！特朗普突然对无人机下狠手，俄乌冲突让美国警醒",
@@ -199,7 +199,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         }
@@ -220,8 +220,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 12时55分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 14时20分]"
         },
         {
           "title": "承受伊朗战争冲击 英国第二季度经济增长0.4%",
@@ -234,8 +234,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 12时55分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 14时20分]"
         },
         {
           "title": "美国财长贝森特：我们将继续对伊朗经济实施制裁，并在霍尔木兹海峡保持持续的封锁。我们将禁止任何物品进出伊朗港口。",
@@ -257,8 +257,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 12时55分]"
+          "appearance_count": 3,
+          "time_info": "[10时32分 ~ 14时20分]"
         },
         {
           "title": "美防长称可无限期封锁伊朗 美联储官员重申现在必须加息 | 环球市场",
@@ -266,11 +266,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 12时55分]"
+          "appearance_count": 3,
+          "time_info": "[10时32分 ~ 14时20分]"
         },
         {
           "title": "美国财长贝森特：我们正在针对伊朗的全球银行账户实施最大力度的施压，我们采取的施压行动使伊朗银行业崩溃。",
@@ -357,6 +358,18 @@
           "time_info": "[01时04分 ~ 06时53分]"
         },
         {
+          "title": "美股收盘：三大指数齐升标普收新高 存储板块走强闪迪涨逾13%",
+          "url": "https://www.cls.cn/detail/2453979",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时53分 ~ 14时20分]"
+        },
+        {
           "title": "美股异动｜存储概念股涨幅扩大，闪迪涨超10%，SK海力士涨超7%",
           "url": "https://www.gelonghui.com/news/5285279",
           "source": "格隆汇",
@@ -367,18 +380,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时04分 ~ 07时51分]"
-        },
-        {
-          "title": "美股收盘：三大指数齐升标普收新高 存储板块走强闪迪涨逾13%",
-          "url": "https://www.cls.cn/detail/2453979",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时53分 ~ 12时55分]"
         },
         {
           "title": "金十图示：2026年08月13日（周四）美股热门股票行情一览（美股盘中）",
@@ -514,8 +515,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 12时55分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 14时20分]"
         },
         {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
@@ -531,6 +532,18 @@
           "time_info": "[01时04分 ~ 07时51分]"
         },
         {
+          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
+          "url": "https://wallstreetcn.com/articles/3779385",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时51分 ~ 14时20分]"
+        },
+        {
           "title": "DeepSeek发布V4 Pro正式版 多项测试水平逼近Fable 5",
           "url": "https://www.zaochenbao.com/news/china/202608/1378675.html",
           "source": "联合早报",
@@ -543,18 +556,6 @@
           "time_info": "[01时04分 ~ 07时51分]"
         },
         {
-          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
-          "url": "https://wallstreetcn.com/articles/3779385",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时51分 ~ 12时55分]"
-        },
-        {
           "title": "DeepSeek Harness 来了，它不想做下一个Codex",
           "url": "https://wallstreetcn.com/articles/3779390",
           "source": "华尔街见闻",
@@ -563,8 +564,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 12时55分]"
+          "appearance_count": 3,
+          "time_info": "[10时32分 ~ 14时20分]"
         }
       ]
     },
@@ -589,11 +590,12 @@
           "url": "https://wallstreetcn.com/articles/3779403",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 14时20分]"
         }
       ]
     }
