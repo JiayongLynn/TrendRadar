@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T18:12:37.007722+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-08-14T19:52:03.205971+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [
     "36kr"
   ],
@@ -19,6 +19,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "特朗普：进口无人机及零部件最高征100%关税",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1478693.html",
+          "source": "联合早报",
+          "ranks": [
+            13,
+            19,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时32分 ~ 19时52分]"
         },
         {
           "title": "特朗普对特定无人机进口加征100%关税",
@@ -45,17 +59,16 @@
           "time_info": "[05时55分 ~ 06时53分]"
         },
         {
-          "title": "特朗普：进口无人机及零部件最高征100%关税",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1478693.html",
+          "title": "知情者：肯尼迪董事会决定将特朗普姓名刻在中心外墙",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1478724.html",
           "source": "联合早报",
           "ranks": [
-            13,
-            19,
-            28
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时32分 ~ 18时12分]"
+          "appearance_count": 3,
+          "time_info": "[18时12分 ~ 19时52分]"
         },
         {
           "title": "据Axios：特朗普女婿库什纳预计下周前往开罗，与埃及调解人进行会谈。",
@@ -104,17 +117,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时55分 ~ 06时53分]"
-        },
-        {
-          "title": "知情者：肯尼迪董事会决定将特朗普姓名刻在中心外墙",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1478724.html",
-          "source": "联合早报",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
         },
         {
           "title": "最高100%关税！特朗普突然对无人机下狠手，俄乌冲突让美国警醒",
@@ -219,7 +221,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "军事压力未奏效 美国又押注经济施压使伊朗屈服",
@@ -236,6 +238,17 @@
           "time_info": "[01时04分 ~ 14时20分]"
         },
         {
+          "title": "伊朗称格什姆岛沿岸石油污染系外国军事侵略所致",
+          "url": "https://flash.jin10.com/detail/20260814194600074800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
+        },
+        {
           "title": "承受伊朗战争冲击 英国第二季度经济增长0.4%",
           "url": "https://www.zaochenbao.com/news/politics/202608/1378681.html",
           "source": "联合早报",
@@ -248,6 +261,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时04分 ~ 14时20分]"
+        },
+        {
+          "title": "伊朗称拦截并摧毁一架MQ-9无人机",
+          "url": "https://flash.jin10.com/detail/20260814193446202800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
         },
         {
           "title": "美国财长贝森特：我们将继续对伊朗经济实施制裁，并在霍尔木兹海峡保持持续的封锁。我们将禁止任何物品进出伊朗港口。",
@@ -463,7 +487,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -538,8 +562,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 18时12分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 19时52分]"
         },
         {
           "title": "DeepSeek Harness 开发者预览版：一切皆插件",
@@ -551,8 +575,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时51分 ~ 18时12分]"
+          "appearance_count": 7,
+          "time_info": "[07时51分 ~ 19时52分]"
+        },
+        {
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时32分 ~ 19时52分]"
         },
         {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
@@ -566,19 +603,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时04分 ~ 07时51分]"
-        },
-        {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时32分 ~ 18时12分]"
         },
         {
           "title": "DeepSeek发布V4 Pro正式版 多项测试水平逼近Fable 5",
@@ -596,8 +620,32 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "加息降温压不下收益率，40万亿美债要付出什么代价？",
+          "url": "https://flash.jin10.com/detail/20260814194148583800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
+        },
+        {
+          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
+          "url": "https://wallstreetcn.com/articles/3779403",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时55分 ~ 19时52分]"
+        },
         {
           "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
           "url": "https://www.cls.cn/detail/2453615",
@@ -611,26 +659,13 @@
           "time_info": "[01时04分 ~ 07时51分]"
         },
         {
-          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
-          "url": "https://wallstreetcn.com/articles/3779403",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 18时12分]"
-        },
-        {
           "title": "美联储抗通胀信誉面临大考！华尔街借“蝴蝶”策略押注美债反转",
           "url": "https://flash.jin10.com/detail/20260814171830547800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         }
