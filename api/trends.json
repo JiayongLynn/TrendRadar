@@ -1,14 +1,25 @@
 {
-  "generated_at": "2026-08-14T21:23:29.501540+08:00",
-  "total_titles_processed": 518,
+  "generated_at": "2026-08-14T23:00:40.140539+08:00",
+  "total_titles_processed": 574,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "移民改革会是特朗普的“尼克松访华”时刻吗？",
+          "url": "https://www.zaochenbao.com/news/Chronicles/202608/1478755.html",
+          "source": "联合早报",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时59分 ~ 23时00分]"
+        },
         {
           "title": "市场消息：美国总统特朗普明日将访问纽约市拿骚县警察学院。",
           "url": "https://flash.jin10.com/detail/20260814004157850800",
@@ -39,11 +50,12 @@
           "url": "https://www.zaochenbao.com/news/politics/202608/1478743.html",
           "source": "联合早报",
           "ranks": [
-            3
+            3,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时23分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时23分 ~ 23时00分]"
         },
         {
           "title": "美国总统特朗普请求最高法院允许白宫宴会厅继续建设。",
@@ -52,7 +64,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
         },
@@ -391,7 +403,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -486,13 +498,35 @@
           "time_info": "[05时55分 ~ 06时53分]"
         },
         {
+          "title": "美股异动丨Reddit大涨超16%，获纳入标普500指数成分股",
+          "url": "https://www.gelonghui.com/news/5286344",
+          "source": "格隆汇",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时59分 ~ 23时00分]"
+        },
+        {
+          "title": "美股三大股指均转跌。",
+          "url": "https://flash.jin10.com/detail/20260814222241849800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时59分 ~ 23时00分]"
+        },
+        {
           "title": "金十数据整理：每日美股市场要闻速递（2026-08-14）",
           "url": "https://flash.jin10.com/detail/20260814210622788800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
         }
@@ -658,16 +692,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时23分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时23分 ~ 23时00分]"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
+          "url": "https://wallstreetcn.com/articles/3779403",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时55分 ~ 23时00分]"
+        },
         {
           "title": "加息降温压不下收益率，40万亿美债要付出什么代价？",
           "url": "https://flash.jin10.com/detail/20260814194148583800",
@@ -680,20 +729,6 @@
           "time_info": "[19时51分 ~ 19时52分]"
         },
         {
-          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
-          "url": "https://wallstreetcn.com/articles/3779403",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时55分 ~ 21时23分]"
-        },
-        {
           "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
           "url": "https://www.cls.cn/detail/2453615",
           "source": "财联社热门",
@@ -704,6 +739,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时04分 ~ 07时51分]"
+        },
+        {
+          "title": "零售数据疲软打压加息预期 短期美债应声上涨",
+          "url": "https://flash.jin10.com/detail/20260814222728376800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时59分 ~ 23时00分]"
         },
         {
           "title": "美联储抗通胀信誉面临大考！华尔街借“蝴蝶”策略押注美债反转",
