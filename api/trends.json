@@ -1,218 +1,118 @@
 {
-  "generated_at": "2026-08-15T10:59:44.124084+08:00",
-  "total_titles_processed": 161,
+  "generated_at": "2026-08-16T06:33:06.768525+08:00",
+  "total_titles_processed": 93,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 12,
+      "keyword_group": "伊朗",
+      "match_count": 5,
       "titles": [
         {
-          "title": "伊朗回应特朗普涉霍尔木兹海峡言论",
-          "url": "https://flash.jin10.com/detail/20260815092948437800",
+          "title": "美国中央司令部：以圣地亚哥为母港的“亚伯拉罕·林肯”号于去年11月启程执行部署任务，并于1月抵达中东。该打击群已成功执行数千次作战飞行任务，以支持“史诗狂怒”行动、地区安全任务以及美国目前对伊朗实施的海上封锁。",
+          "url": "https://flash.jin10.com/detail/20260816055833172800",
           "source": "金十数据",
           "ranks": [
-            3,
-            8
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时42分 ~ 10时59分]"
+          "time_info": "[06时32分 ~ 06时33分]"
         },
         {
-          "title": "相比普京，特朗普秘密换机不过是“小儿科”",
-          "url": "https://www.zaochenbao.com/news/Chronicles/202608/1578779.html",
-          "source": "联合早报",
+          "title": "伊朗能源优化组织负责人：第一种方案中，汽油价格保持不变，但总分配量上限为1.21亿升，一旦用完，加油口将关闭。第二种方案中，每日生产的1.21亿升汽油将分配给各车辆，任何希望超出配额的人必须按自由市场价格购买汽油；第三种方案中，汽油配额分配给民众，每人每月30升，且允许进行配额转让、购买和出售。",
+          "url": "https://flash.jin10.com/detail/20260816050035901800",
+          "source": "金十数据",
           "ranks": [
-            3,
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时42分 ~ 10时59分]"
+          "time_info": "[06时32分 ~ 06时33分]"
         },
         {
-          "title": "移民改革会是特朗普的“尼克松访华”时刻吗？",
-          "url": "https://www.zaochenbao.com/news/Chronicles/202608/1478755.html",
-          "source": "联合早报",
-          "ranks": [
-            10,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时32分 ~ 10时59分]"
-        },
-        {
-          "title": "特朗普敦促美国人接受更高油价",
-          "url": "https://flash.jin10.com/detail/20260815091119294800",
+          "title": "伊朗能源优化组织负责人：作为正在审议的三项管理伊朗汽油供应方案的一部分，伊朗正在考虑一项提案，即每月向每人分配30升汽油，且该配额可转让、可交易。",
+          "url": "https://flash.jin10.com/detail/20260816045907477800",
           "source": "金十数据",
           "ranks": [
-            7,
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时42分 ~ 10时59分]"
+          "time_info": "[06时32分 ~ 06时33分]"
+        },
+        {
+          "title": "卡塔尔外交部：卡塔尔曾于4月邀请伊朗代表团访问卡塔尔，听取搜救行动的详细情况，但伊朗方面迄今尚未对该邀请作出回应。",
+          "url": "https://flash.jin10.com/detail/20260816024442715800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 06时33分]"
+        },
+        {
+          "title": "卡塔尔外交部：搜救队发现一名伊朗飞行员的遗骸，已联系伊朗方面商讨移交事宜。",
+          "url": "https://flash.jin10.com/detail/20260816024231719800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 06时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
+          "url": "https://www.cls.cn/detail/2455058",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 06时33分]"
         },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
           "url": "https://www.cls.cn/detail/2455050",
           "source": "财联社热门",
           "ranks": [
-            10,
-            9
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时42分 ~ 10时59分]"
+          "time_info": "[06时32分 ~ 06时33分]"
         },
         {
-          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
-          "url": "https://www.cls.cn/detail/2455058",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时42分 ~ 10时59分]"
-        },
-        {
-          "title": "美国总统特朗普周六日程一览",
-          "url": "https://flash.jin10.com/detail/20260815081700535800",
+          "title": "美国总统特朗普在社交平台上发布图片，图中他佩戴“Trump 2028”的帽子，并配文“我们将会赢（We are going to win）”。",
+          "url": "https://flash.jin10.com/detail/20260816042803106800",
           "source": "金十数据",
           "ranks": [
-            15,
-            20
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时42分 ~ 10时59分]"
+          "time_info": "[06时32分 ~ 06时33分]"
         },
         {
-          "title": "特朗普下令美国新航母弃用电磁弹射系统",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1578767.html",
+          "title": "相比普京，特朗普秘密换机不过是“小儿科”",
+          "url": "https://www.zaochenbao.com/news/Chronicles/202608/1578779.html",
           "source": "联合早报",
           "ranks": [
-            15,
-            23
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时42分 ~ 10时59分]"
-        },
-        {
-          "title": "特朗普证实部署中东的“林肯”号航母将被替换",
-          "url": "https://flash.jin10.com/detail/20260815081235064800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时42分 ~ 10时59分]"
-        },
-        {
-          "title": "特朗普：很快会宣布霍尔木兹海峡属于美国",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1578783.html",
-          "source": "联合早报",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "伊朗副外长加里巴巴迪：（回应特朗普称将宣布霍尔木兹海峡为美国领土的言论）不会被美国的威胁或武力展示所吓倒。",
-          "url": "https://flash.jin10.com/detail/20260815050235011800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "特朗普政府对进口无人机征收关税 最高税率达100%",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1478743.html",
-          "source": "联合早报",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "以媒：伊朗导弹库存恢复速度令以色列方面感到震惊",
-          "url": "https://flash.jin10.com/detail/20260815100007836800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "伊朗跟美国、以色列打仗 还能撑多久？",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1578780.html",
-          "source": "联合早报",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时42分 ~ 10时59分]"
-        },
-        {
-          "title": "赫格塞斯：美国可能对伊朗实施永久封锁 加大经济施压",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1478761.html",
-          "source": "联合早报",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 09时42分]"
-        },
-        {
-          "title": "据伊朗学生通讯社：伊朗外长阿拉格齐表示，尚未决定是否恢复与美国谈判。卡塔尔和巴基斯坦作为协调方正在与伊朗交换信息，但这并不意味着美伊已进入谈判。",
-          "url": "https://flash.jin10.com/detail/20260815050929790800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "伊朗副外长加里巴巴迪：霍尔木兹海峡的开放或关闭只能由伊朗决定。",
-          "url": "https://flash.jin10.com/detail/20260815050027660800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时32分"
+          "time_info": "[06时32分 ~ 06时33分]"
         }
       ]
     },
@@ -221,112 +121,88 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "据华尔街日报：消息人士称，英伟达(NVDA.O)与OpenAI已修订在俄亥俄州10千兆瓦数据中心项目的交易提议结构。英伟达将保证5吉瓦的项目，将担保金额从2500亿美元降低至不足1200亿美元。",
-          "url": "https://flash.jin10.com/detail/20260815080428529800",
-          "source": "金十数据",
+          "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
+          "url": "https://www.cls.cn/detail/2455147",
+          "source": "财联社热门",
           "ranks": [
-            19,
-            24
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时42分 ~ 10时59分]"
+          "time_info": "[06时32分 ~ 06时33分]"
         },
         {
-          "title": "英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
-          "url": "https://flash.jin10.com/detail/20260815090110907800",
+          "title": "OpenAI Codex产品负责人：让Sol为你管理一支高效的Luna代理团队。这些模型彼此非常熟悉，能够通力合作，以惊人的速度和效率达成目标。",
+          "url": "https://flash.jin10.com/detail/20260816043254635800",
           "source": "金十数据",
           "ranks": [
-            8
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时42分"
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 06时33分]"
         },
         {
-          "title": "据悉英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
-          "url": "https://flash.jin10.com/detail/20260815090110907800",
+          "title": "据TheInformation：英伟达(NVDA.O)正在洽谈向SB Energy投资30亿美元，作为OpenAI数据中心交易的一部分。",
+          "url": "https://flash.jin10.com/detail/20260816031526828800",
           "source": "金十数据",
           "ranks": [
-            13
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 06时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿贝尔掌舵半年伯克希尔大举增持谷歌、A类股晋升前五重仓，Q2加码航空和房产股",
+          "url": "https://wallstreetcn.com/articles/3779490",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 06时33分]"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "美股指小幅收跌，存储、光通信股集体拉升，闪迪涨超7%，金油齐涨，美债跌",
           "url": "https://wallstreetcn.com/articles/3779437",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时42分 ~ 10时59分]"
-        },
-        {
-          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
-          "url": "https://wallstreetcn.com/articles/3779403",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时32分"
+          "time_info": "[06时32分 ~ 06时33分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
           "url": "https://www.cls.cn/detail/2455043",
           "source": "财联社热门",
           "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时42分 ~ 10时59分]"
-        },
-        {
-          "title": "美疲弱零售销售数据再挫加息预期，美股涨跌互现，存储芯片股普涨，闪迪涨约7%，金涨油跌",
-          "url": "https://wallstreetcn.com/articles/3779437",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
-          "url": "https://wallstreetcn.com/articles/3779418",
-          "source": "华尔街见闻",
-          "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时32分"
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 06时33分]"
         }
       ]
     }
