@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-16T14:53:06.812185+08:00",
-  "total_titles_processed": 196,
+  "generated_at": "2026-08-16T17:35:37.965200+08:00",
+  "total_titles_processed": 248,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
@@ -18,19 +18,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时32分 ~ 14时53分]"
+          "appearance_count": 9,
+          "time_info": "[06时32分 ~ 17时35分]"
         },
         {
           "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
           "url": "https://wallstreetcn.com/articles/3779521",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时52分 ~ 14时53分]"
+          "appearance_count": 3,
+          "time_info": "[14时52分 ~ 17时35分]"
         },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
@@ -40,8 +41,36 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时32分 ~ 14时53分]"
+          "appearance_count": 7,
+          "time_info": "[06时32分 ~ 17时35分]"
+        },
+        {
+          "title": "我曾是切尼的心脏科医生，特朗普看起来身体不太好",
+          "url": "https://www.zaochenbao.com/news/Chronicles/202608/1678849.html",
+          "source": "联合早报",
+          "ranks": [
+            4,
+            15,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时49分 ~ 17时35分]"
+        },
+        {
+          "title": "配餐车“偷运”总统：特朗普秘密换机细节曝光",
+          "url": "https://www.zaochenbao.com/news/Chronicles/202608/1678848.html",
+          "source": "联合早报",
+          "ranks": [
+            5,
+            16,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时49分 ~ 17时35分]"
         },
         {
           "title": "美国总统特朗普：参议院必须尽快投票通过《不再改变时钟法案》。白天多些阳光总是好的（还能打击犯罪！），但更重要的，别再每年两次荒唐地来回拨时钟和手表了，又混乱又麻烦。赶紧把它搞定！",
@@ -53,32 +82,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
-        },
-        {
-          "title": "我曾是切尼的心脏科医生，特朗普看起来身体不太好",
-          "url": "https://www.zaochenbao.com/news/Chronicles/202608/1678849.html",
-          "source": "联合早报",
-          "ranks": [
-            4,
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时49分 ~ 14时53分]"
-        },
-        {
-          "title": "配餐车“偷运”总统：特朗普秘密换机细节曝光",
-          "url": "https://www.zaochenbao.com/news/Chronicles/202608/1678848.html",
-          "source": "联合早报",
-          "ranks": [
-            5,
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时49分 ~ 14时53分]"
         },
         {
           "title": "据CNN：71%的人认为美国总统特朗普在降低日常商品价格方面的努力还不够，较去年58%的比例有所上升。",
@@ -161,6 +164,17 @@
           "time_info": "[09时49分 ~ 11时08分]"
         },
         {
+          "title": "特朗普上传与金正恩合影 或释放重启朝美会谈信号",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1678875.html",
+          "source": "联合早报",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
           "title": "特朗普称将宣告霍尔木兹海峡为美国领土 伊朗叫美国放弃幻想",
           "url": "https://www.zaochenbao.com/news/politics/202608/1678838.html",
           "source": "联合早报",
@@ -186,7 +200,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 16,
       "titles": [
         {
           "title": "美国中央司令部：以圣地亚哥为母港的“亚伯拉罕·林肯”号于去年11月启程执行部署任务，并于1月抵达中东。该打击群已成功执行数千次作战飞行任务，以支持“史诗狂怒”行动、地区安全任务以及美国目前对伊朗实施的海上封锁。",
@@ -202,15 +216,27 @@
           "time_info": "[06时32分 ~ 11时08分]"
         },
         {
+          "title": "据伊朗媒体Fars News：伊朗梅赫兰市市长称，几分钟前在梅赫兰听到的爆炸声是由于在伊拉克境内销毁战争遗留弹药的操作所致。",
+          "url": "https://flash.jin10.com/detail/20260816165308429800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
           "title": "伊朗外交部强烈谴责以色列对黎袭击",
           "url": "https://flash.jin10.com/detail/20260816144217334800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时52分 ~ 14时53分]"
+          "appearance_count": 3,
+          "time_info": "[14时52分 ~ 17时35分]"
         },
         {
           "title": "伊朗能源优化组织负责人：第一种方案中，汽油价格保持不变，但总分配量上限为1.21亿升，一旦用完，加油口将关闭。第二种方案中，每日生产的1.21亿升汽油将分配给各车辆，任何希望超出配额的人必须按自由市场价格购买汽油；第三种方案中，汽油配额分配给民众，每人每月30升，且允许进行配额转让、购买和出售。",
@@ -236,6 +262,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时49分 ~ 14时53分]"
+        },
+        {
+          "title": "伊朗称三名飞行员遭扣押六个月 卡塔尔否认",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1678857.html",
+          "source": "联合早报",
+          "ranks": [
+            7,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时08分 ~ 17时35分]"
         },
         {
           "title": "伊朗能源优化组织负责人：作为正在审议的三项管理伊朗汽油供应方案的一部分，伊朗正在考虑一项提案，即每月向每人分配30升汽油，且该配额可转让、可交易。",
@@ -271,18 +310,6 @@
           "time_info": "[06时32分 ~ 07时28分]"
         },
         {
-          "title": "伊朗称三名飞行员遭扣押六个月 卡塔尔否认",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1678857.html",
-          "source": "联合早报",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时08分 ~ 14时53分]"
-        },
-        {
           "title": "贝森特称将对伊朗施加经济压力 美媒列五大可能措施",
           "url": "https://www.zaochenbao.com/news/politics/202608/1678855.html",
           "source": "联合早报",
@@ -304,78 +331,67 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时52分 ~ 14时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
-          "url": "https://www.cls.cn/detail/2455147",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时32分 ~ 14时53分]"
         },
         {
-          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
-          "url": "https://www.cls.cn/detail/2455237",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时49分 ~ 14时53分]"
-        },
-        {
-          "title": "OpenAI Codex产品负责人：让Sol为你管理一支高效的Luna代理团队。这些模型彼此非常熟悉，能够通力合作，以惊人的速度和效率达成目标。",
-          "url": "https://flash.jin10.com/detail/20260816043254635800",
+          "title": "伊朗商会会长：伊朗经济已走出战争冲击",
+          "url": "https://flash.jin10.com/detail/20260816161606856800",
           "source": "金十数据",
           "ranks": [
-            14
+            8
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时32分 ~ 07时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
-          "title": "据TheInformation：英伟达(NVDA.O)正在洽谈向SB Energy投资30亿美元，作为OpenAI数据中心交易的一部分。",
-          "url": "https://flash.jin10.com/detail/20260816031526828800",
+          "title": "指两外交官非法介入 伊朗警告法国勿干涉内政",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1678872.html",
+          "source": "联合早报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "伊朗武装部队总参谋部：在彻底击败敌人之前，我们绝不会退缩",
+          "url": "https://flash.jin10.com/detail/20260816151427691800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗革命卫队表示，卡塔尔应该允许伊朗的专家团队入驻调查失踪的飞行员事件，而不是否认对飞行员采取了拘留措施。",
+          "url": "https://flash.jin10.com/detail/20260816145833255800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时32分 ~ 07时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
-          "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
-          "url": "https://wallstreetcn.com/articles/3779526",
-          "source": "华尔街见闻",
+          "title": "据伊朗塔斯尼姆通讯社：伊朗军方失踪人员负责人表示，卡塔尔必须允许伊朗空军的调查团进入该国。",
+          "url": "https://flash.jin10.com/detail/20260816144950823800",
+          "source": "金十数据",
           "ranks": [
-            7
+            22
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时52分 ~ 14时53分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -385,8 +401,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时52分 ~ 14时53分]"
+          "appearance_count": 3,
+          "time_info": "[14时52分 ~ 17时35分]"
         },
         {
           "title": "阿里巴巴AI模型下载量突破30亿次 超越Meta和谷歌",
@@ -421,6 +437,84 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时52分 ~ 14时53分]"
+        },
+        {
+          "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
+          "url": "https://wallstreetcn.com/articles/3779522",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
+          "url": "https://www.cls.cn/detail/2455147",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时32分 ~ 17时35分]"
+        },
+        {
+          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://www.cls.cn/detail/2455237",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时49分 ~ 17时35分]"
+        },
+        {
+          "title": "OpenAI Codex产品负责人：让Sol为你管理一支高效的Luna代理团队。这些模型彼此非常熟悉，能够通力合作，以惊人的速度和效率达成目标。",
+          "url": "https://flash.jin10.com/detail/20260816043254635800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时32分 ~ 07时28分]"
+        },
+        {
+          "title": "据TheInformation：英伟达(NVDA.O)正在洽谈向SB Energy投资30亿美元，作为OpenAI数据中心交易的一部分。",
+          "url": "https://flash.jin10.com/detail/20260816031526828800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时32分 ~ 07时28分]"
+        },
+        {
+          "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
+          "url": "https://wallstreetcn.com/articles/3779526",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时52分 ~ 17时35分]"
         }
       ]
     },
@@ -465,8 +559,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时32分 ~ 14时53分]"
+          "appearance_count": 9,
+          "time_info": "[06时32分 ~ 17时35分]"
         }
       ]
     }
