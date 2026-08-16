@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-17T04:31:43.193695+08:00",
-  "total_titles_processed": 140,
+  "generated_at": "2026-08-17T06:30:00.749615+08:00",
+  "total_titles_processed": 153,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
         {
           "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
@@ -17,8 +17,52 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时30分]"
+        },
+        {
+          "title": "特朗普上传与金正恩合影 或释放重启朝美会谈信号",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1678875.html",
+          "source": "联合早报",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时30分]"
+        },
+        {
+          "title": "我曾是切尼的心脏科医生，特朗普看起来身体不太好",
+          "url": "https://www.zaochenbao.com/news/Chronicles/202608/1678849.html",
+          "source": "联合早报",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时30分]"
+        },
+        {
+          "title": "配餐车“偷运”总统：特朗普秘密换机细节曝光",
+          "url": "https://www.zaochenbao.com/news/Chronicles/202608/1678848.html",
+          "source": "联合早报",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时30分]"
+        },
+        {
+          "title": "特朗普称要大幅缩减美韩联合军演",
+          "url": "https://flash.jin10.com/detail/20260817054805585800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 06时30分]"
         },
         {
           "title": "据阿拉比亚电视台：特朗普高级顾问库什纳与加沙和平委员会的会晤已结束。",
@@ -44,39 +88,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时26分 ~ 02时39分]"
-        },
-        {
-          "title": "特朗普上传与金正恩合影 或释放重启朝美会谈信号",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1678875.html",
-          "source": "联合早报",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 04时31分]"
-        },
-        {
-          "title": "我曾是切尼的心脏科医生，特朗普看起来身体不太好",
-          "url": "https://www.zaochenbao.com/news/Chronicles/202608/1678849.html",
-          "source": "联合早报",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 04时31分]"
-        },
-        {
-          "title": "配餐车“偷运”总统：特朗普秘密换机细节曝光",
-          "url": "https://www.zaochenbao.com/news/Chronicles/202608/1678848.html",
-          "source": "联合早报",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 04时31分]"
         },
         {
           "title": "埃及、约旦、阿联酋、卡塔尔、印度尼西亚、沙特阿拉伯、土耳其和巴基斯坦的联合声明称，以色列的拒绝态度威胁到特朗普为结束加沙战争所作的加大力度的努力。",
@@ -156,33 +167,91 @@
           "url": "https://flash.jin10.com/detail/20260817031430338800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时31分 ~ 06时30分]"
         },
         {
           "title": "哈马斯方面表示，他们是否同意特朗普计划的第二阶段，取决于是否能实现永久停火和以色列撤军。",
           "url": "https://flash.jin10.com/detail/20260817031406099800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时31分 ~ 06时30分]"
         },
         {
           "title": "哈马斯方面表示，由哈立德·哈亚率领的组织领导层代表团今日在埃及会见了加沙协议的调解方和担保方，组织已向担保方通报，同意特朗普计划的第二阶段。",
           "url": "https://flash.jin10.com/detail/20260817030717074800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时31分 ~ 06时30分]"
+        },
+        {
+          "title": "特朗普：欢迎沙土巴三国签署共同防务协议",
+          "url": "https://flash.jin10.com/detail/20260817053245864800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 06时30分]"
+        },
+        {
+          "title": "特朗普：已要求大幅削减与韩国的联合军演规模",
+          "url": "https://flash.jin10.com/detail/20260817051255445800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 06时30分]"
+        },
+        {
+          "title": "美国总统特朗普：我对美国很久以前就同意与韩国进行联合军事演习这一事实感到不满。我已指示战争部长赫格塞思大幅减少联合军事演习。",
+          "url": "https://flash.jin10.com/detail/20260817050745376800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 06时30分]"
+        },
+        {
+          "title": "美国总统特朗普：非常高兴看到沙特、土耳其和巴基斯坦最近终于签署了麦加联合防御协议。",
+          "url": "https://flash.jin10.com/detail/20260817050503839800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 06时30分]"
+        },
+        {
+          "title": "美国总统特朗普表示，他度过了一个“很棒”的周末，进行了“许多会议”。",
+          "url": "https://flash.jin10.com/detail/20260817043331858800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 06时30分]"
         },
         {
           "title": "特朗普女婿库什纳：埃及是美国在中东的重要合作伙伴。",
@@ -213,15 +282,15 @@
       "match_count": 11,
       "titles": [
         {
-          "title": "据半岛电视台：伊朗议会议长表示，我们必须达到一种威慑水平，以免陷入战争、和平再到战争消耗的循环中。",
-          "url": "https://flash.jin10.com/detail/20260817040612612800",
-          "source": "金十数据",
+          "title": "伊朗指责卡塔尔阻查飞行员下落",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1678887.html",
+          "source": "联合早报",
           "ranks": [
-            1
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时31分"
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时30分]"
         },
         {
           "title": "伊朗第一副总统：物价高涨已达到令人不安的程度，敌人的策略就是利用这一点。",
@@ -262,6 +331,18 @@
           "time_info": "[00时34分 ~ 02时39分]"
         },
         {
+          "title": "据半岛电视台：伊朗议会议长表示，我们必须达到一种威慑水平，以免陷入战争、和平再到战争消耗的循环中。",
+          "url": "https://flash.jin10.com/detail/20260817040612612800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时31分 ~ 06时30分]"
+        },
+        {
           "title": "伊朗第一副总统：敌人企图通过经济战来弥补其军事上的失败，我们必须予以应对。",
           "url": "https://flash.jin10.com/detail/20260817010814570800",
           "source": "金十数据",
@@ -278,22 +359,12 @@
           "url": "https://flash.jin10.com/detail/20260817033655350800",
           "source": "金十数据",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "伊朗指责卡塔尔阻查飞行员下落",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1678887.html",
-          "source": "联合早报",
-          "ranks": [
-            8
+            4,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 04时31分]"
+          "appearance_count": 3,
+          "time_info": "[04时31分 ~ 06时30分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗议会议长卡利巴夫表示，这是美国和以色列政权遭受的绝对最惨痛的失败。",
@@ -302,7 +373,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -313,7 +384,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -324,7 +395,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -353,8 +424,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时30分]"
         },
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
@@ -364,8 +435,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时30分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -375,8 +446,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时30分]"
         },
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
@@ -387,8 +458,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时30分]"
         }
       ]
     },
@@ -404,8 +475,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时30分]"
         },
         {
           "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
@@ -415,8 +486,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时30分]"
         }
       ]
     }
