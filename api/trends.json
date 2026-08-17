@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-17T22:36:35.992188+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2026-08-17T23:33:17.923954+08:00",
+  "total_titles_processed": 629,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
@@ -33,6 +33,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时07分 ~ 19时33分]"
+        },
+        {
+          "title": "八伊斯兰国谴责以色列拒绝特朗普加沙和平计划",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1778971.html",
+          "source": "联合早报",
+          "ranks": [
+            1,
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时58分 ~ 23时33分]"
         },
         {
           "title": "特朗普上传与金正恩合影 或释放重启朝美会谈信号",
@@ -66,19 +79,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时34分 ~ 07时28分]"
-        },
-        {
-          "title": "八伊斯兰国谴责以色列拒绝特朗普加沙和平计划",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1778971.html",
-          "source": "联合早报",
-          "ranks": [
-            1,
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时58分 ~ 22时36分]"
         },
         {
           "title": "民调：过半选民认为特朗普任内生活状况恶化",
@@ -202,6 +202,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时26分 ~ 02时39分]"
+        },
+        {
+          "title": "特朗普威胁：若阿曼阻碍美伊和平协议 将对其发动轰炸",
+          "url": "https://www.cls.cn/detail/2456389",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时36分 ~ 23时33分]"
         },
         {
           "title": "据阿拉比亚电视台：特朗普高级顾问库什纳和加沙和平事务高级特使姆拉迪诺夫拒绝了哈马斯关于“储存武器”的提议。",
@@ -347,6 +359,17 @@
           "time_info": "[06时29分 ~ 06时30分]"
         },
         {
+          "title": "以色列总统：今天在耶路撒冷总统府会见了美国特使库什纳、“和平委员会”加沙高级代表姆拉德诺夫以及他们的团队。他们正根据特朗普总统提出的20点计划推动加沙下一阶段的落实工作。我强调，下一阶段必须确保以色列国及其公民的安全，并为该地区所有民族带来稳定以及更加美好的未来。",
+          "url": "https://flash.jin10.com/detail/20260817223608155800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时32分 ~ 23时33分]"
+        },
+        {
           "title": "称与金正恩关系好 特朗普下令缩减美韩军演",
           "url": "https://www.zaochenbao.com/news/politics/202608/1778896.html",
           "source": "联合早报",
@@ -367,17 +390,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
-        },
-        {
-          "title": "特朗普威胁：若阿曼阻碍美伊和平协议 将对其发动轰炸",
-          "url": "https://www.cls.cn/detail/2456389",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
         },
         {
           "title": "特朗普要求“大幅减少”美韩军演：因成本高昂，还释放不当“敌意信号”",
@@ -408,7 +420,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时36分"
         },
@@ -419,7 +431,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时36分"
         },
@@ -441,7 +453,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时36分"
         },
@@ -485,7 +497,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时36分"
         },
@@ -515,7 +527,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "伊朗指责卡塔尔阻查飞行员下落",
@@ -527,6 +539,30 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时34分 ~ 07时28分]"
+        },
+        {
+          "title": "美国屡次“违约”，伊朗强硬派放弃对美幻想，被曝秘密扩军备战“新一轮对抗”",
+          "url": "https://wallstreetcn.com/articles/3779592",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时33分 ~ 23时33分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：美国再次派遣间谍气球飞越伊拉克埃尔比勒上空。",
+          "url": "https://flash.jin10.com/detail/20260817231127618800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时32分 ~ 23时33分]"
         },
         {
           "title": "伊朗第一副总统：物价高涨已达到令人不安的程度，敌人的策略就是利用这一点。",
@@ -552,19 +588,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时34分 ~ 02时39分]"
-        },
-        {
-          "title": "美国屡次“违约”，伊朗强硬派放弃对美幻想，被曝秘密扩军备战“新一轮对抗”",
-          "url": "https://wallstreetcn.com/articles/3779592",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时33分 ~ 22时36分]"
         },
         {
           "title": "据伊通社（IRNA）：伊朗陆军总司表示，我们确信，林肯号航空母舰至少被伊朗发射的弹药击中一次，以至于在一段时间内，舰上所有战斗机均无法起飞。",
@@ -604,6 +627,19 @@
           "time_info": "[01时26分 ~ 02时39分]"
         },
         {
+          "title": "未寄希望于谈判 消息指伊朗秘密计划升级战争",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1778966.html",
+          "source": "联合早报",
+          "ranks": [
+            6,
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时58分 ~ 23时33分]"
+        },
+        {
           "title": "伊朗媒体Fars News：伊朗革命卫队政治副司令表示，迄今为止，我们的行动一直是防御性的；但未来可能会转为进攻性。武装部队将采取变革性策略，并在必要时采取任何捍卫国家的行动。",
           "url": "https://flash.jin10.com/detail/20260817033655350800",
           "source": "金十数据",
@@ -628,17 +664,37 @@
           "time_info": "[11时07分 ~ 12时53分]"
         },
         {
-          "title": "未寄希望于谈判 消息指伊朗秘密计划升级战争",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1778966.html",
-          "source": "联合早报",
+          "title": "伊朗称政策转向全面进攻，宇树科技上市时间确定",
+          "url": "https://flash.jin10.com/detail/20260817225828181800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            9,
-            16
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时58分 ~ 22时36分]"
+          "appearance_count": 2,
+          "time_info": "[23时32分 ~ 23时33分]"
+        },
+        {
+          "title": "据伊朗学生通讯社：沙特使用炮火袭击了位于也门萨达省边境地区拉齐赫市的阿尔舒瓦尔克（Al-Shawarq）地区村庄。",
+          "url": "https://flash.jin10.com/detail/20260817225427186800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时32分 ~ 23时33分]"
+        },
+        {
+          "title": "据伊朗学生通讯社：沙特阿拉伯袭击也门边境地区 。",
+          "url": "https://flash.jin10.com/detail/20260817225338494800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时32分 ~ 23时33分]"
         },
         {
           "title": "欲经济孤立伊朗 美国或伤及自身",
@@ -669,7 +725,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时36分"
         },
@@ -801,7 +857,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时36分"
         },
@@ -823,7 +879,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时36分"
         }
@@ -831,7 +887,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -906,6 +962,17 @@
           "time_info": "[12时52分 ~ 15时09分]"
         },
         {
+          "title": "市场消息：美国金融服务公司Synchrony宣布与OpenAI达成企业合作协议，Synchrony将部署GPT-5.6 Sol、Terra和Luna模型，还将推出ChatGPT插件。",
+          "url": "https://flash.jin10.com/detail/20260817230059912800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时32分 ~ 23时33分]"
+        },
+        {
           "title": "OpenAI：Ports-Pike项目预计将在截至2032年的六年建设期内创造3.5万个建筑业就业岗位，并长期创造2500个运营岗位。",
           "url": "https://flash.jin10.com/detail/20260817210940922800",
           "source": "金十数据",
@@ -920,7 +987,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "上美股份(02145.HK)拟8月27日举行董事会会议审批中期业绩",
@@ -949,11 +1016,34 @@
           "url": "https://www.cls.cn/detail/2456385",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时47分 ~ 23时33分]"
+        },
+        {
+          "title": "美联储加息预期降温，AI情绪回暖，美股指涨跌互现，存储芯片股普涨，金油齐涨",
+          "url": "https://wallstreetcn.com/articles/3779603",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时47分 ~ 22时36分]"
+          "time_info": "[23时32分 ~ 23时33分]"
+        },
+        {
+          "title": "美股异动丨耐克跌幅扩大至3.2%，股价跌至2014年以来新低",
+          "url": "https://www.gelonghui.com/news/5287443",
+          "source": "格隆汇",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时32分 ~ 23时33分]"
         },
         {
           "title": "华尔街“恐慌指数”触及年内低点，机构警告美股秋季抛售风险加剧",
@@ -962,7 +1052,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时36分"
         },
@@ -973,7 +1063,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时36分"
         }
@@ -1035,8 +1125,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时52分 ~ 22时36分]"
+          "appearance_count": 9,
+          "time_info": "[12时52分 ~ 23时33分]"
         },
         {
           "title": "美债总规模将破40万亿大关，美银：做多黄金是明智之举",
