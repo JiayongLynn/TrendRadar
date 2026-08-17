@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-17T20:58:36.708926+08:00",
-  "total_titles_processed": 487,
+  "generated_at": "2026-08-17T21:47:56.239474+08:00",
+  "total_titles_processed": 537,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
@@ -68,6 +68,18 @@
           "time_info": "[00时34分 ~ 07时28分]"
         },
         {
+          "title": "八伊斯兰国谴责以色列拒绝特朗普加沙和平计划",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1778971.html",
+          "source": "联合早报",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 21时47分]"
+        },
+        {
           "title": "民调：过半选民认为特朗普任内生活状况恶化",
           "url": "https://www.zaochenbao.com/news/politics/202608/1778917.html",
           "source": "联合早报",
@@ -80,15 +92,15 @@
           "time_info": "[11时07分 ~ 12时53分]"
         },
         {
-          "title": "八伊斯兰国谴责以色列拒绝特朗普加沙和平计划",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1778971.html",
-          "source": "联合早报",
+          "title": "美国最高法院拒绝特朗普再次请求审理其针对E. Jean Carroll 500万美元判决结果的上诉。",
+          "url": "https://flash.jin10.com/detail/20260817213146460800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时58分"
+          "time_info": "21时47分"
         },
         {
           "title": "美国称数十国助中国避特朗普关税",
@@ -373,7 +385,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -447,7 +459,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗指责卡塔尔阻查飞行员下落",
@@ -555,8 +567,20 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时33分 ~ 21时47分]"
+        },
+        {
+          "title": "未寄希望于谈判 消息指伊朗秘密计划升级战争",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1778966.html",
+          "source": "联合早报",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时33分 ~ 20时58分]"
+          "time_info": "[20时58分 ~ 21时47分]"
         },
         {
           "title": "欲经济孤立伊朗 美国或伤及自身",
@@ -581,24 +605,13 @@
           "time_info": "[11时07分 ~ 11时08分]"
         },
         {
-          "title": "未寄希望于谈判 消息指伊朗秘密计划升级战争",
-          "url": "https://www.zaochenbao.com/news/politics/202608/1778966.html",
-          "source": "联合早报",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
           "title": "据路透社：伊朗高级官员表示，伊朗设定的时间框架将通过调解人传达给美国及地区国家。伊朗不会无限期等待美国继续实施海上封锁。",
           "url": "https://flash.jin10.com/detail/20260817202957499800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -609,7 +622,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -620,7 +633,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -680,6 +693,17 @@
           "time_info": "15时09分"
         },
         {
+          "title": "伊朗伊斯兰革命卫队否认与美国通过秘密渠道对话",
+          "url": "https://flash.jin10.com/detail/20260817210906330800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
           "title": "卡塔尔外交部：首相强调，各方必须坚持对话与外交，落实美国与伊朗之间谅解备忘录中达成的共识，包括确保霍尔木兹海的航行自由，以维护地区安全，保护已取得的成就，并增强地区稳定。",
           "url": "https://flash.jin10.com/detail/20260817025315208800",
           "source": "金十数据",
@@ -716,7 +740,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -768,6 +792,17 @@
           "time_info": "[00时34分 ~ 07时28分]"
         },
         {
+          "title": "英伟达(NVDA.O)上涨0.8%，OpenAI承诺将在2030年前大规模部署英伟达AI基础设施。",
+          "url": "https://flash.jin10.com/detail/20260817213122179800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
           "title": "OpenAI内部动荡加剧：重组不断，员工疲惫，高管离职潮持续，上市计划悄然推迟",
           "url": "https://wallstreetcn.com/articles/3779533",
           "source": "华尔街见闻",
@@ -778,6 +813,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时52分 ~ 15时09分]"
+        },
+        {
+          "title": "OpenAI：Ports-Pike项目预计将在截至2032年的六年建设期内创造3.5万个建筑业就业岗位，并长期创造2500个运营岗位。",
+          "url": "https://flash.jin10.com/detail/20260817210940922800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         }
       ]
     },
@@ -823,8 +869,47 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "上美股份(02145.HK)拟8月27日举行董事会会议审批中期业绩",
+          "url": "https://www.gelonghui.com/news/5287354",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "美股开盘，道指跌0.3%，标普500指数接近平开，纳指涨0.2%。存储概念股上涨，美光科技(MU.O)涨3.6%，闪迪(SNDK.O)涨4.5%。Alphabet(GOOG.O)涨0.2%，伯克希尔二季度继续加仓Alphabet。阿里巴巴(BABA.N)上涨1.6%，公司以15亿美元的价格出售游戏业务。",
+          "url": "https://flash.jin10.com/detail/20260817213040526800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
+          "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2456385",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
@@ -837,25 +922,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时52分 ~ 20时58分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 6,
+          "time_info": "[12时52分 ~ 21时47分]"
+        },
         {
-          "title": "上美股份(02145.HK)拟8月27日举行董事会会议审批中期业绩",
-          "url": "https://www.gelonghui.com/news/5287354",
-          "source": "格隆汇",
+          "title": "美债总规模将破40万亿大关，美银：做多黄金是明智之举",
+          "url": "https://flash.jin10.com/detail/20260817210832512800",
+          "source": "金十数据",
           "ranks": [
-            2
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时58分"
+          "time_info": "21时47分"
         }
       ]
     }
