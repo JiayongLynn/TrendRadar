@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-17T21:47:56.239474+08:00",
-  "total_titles_processed": 537,
+  "generated_at": "2026-08-17T22:36:35.992188+08:00",
+  "total_titles_processed": 588,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 43,
       "titles": [
         {
           "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
@@ -73,11 +73,12 @@
           "source": "联合早报",
           "ranks": [
             1,
-            4
+            4,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 21时47分]"
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 22时36分]"
         },
         {
           "title": "民调：过半选民认为特朗普任内生活状况恶化",
@@ -98,7 +99,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
         },
@@ -368,6 +369,17 @@
           "time_info": "19时33分"
         },
         {
+          "title": "特朗普威胁：若阿曼阻碍美伊和平协议 将对其发动轰炸",
+          "url": "https://www.cls.cn/detail/2456389",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
+        },
+        {
           "title": "特朗普要求“大幅减少”美韩军演：因成本高昂，还释放不当“敌意信号”",
           "url": "https://flash.jin10.com/detail/20260817063335924800",
           "source": "金十数据",
@@ -390,6 +402,28 @@
           "time_info": "20时58分"
         },
         {
+          "title": "阿曼又被特朗普“点名”，分析人士称其惯于“雷声大雨点小”",
+          "url": "https://flash.jin10.com/detail/20260817215735050800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
+        },
+        {
+          "title": "美国白宫：特朗普政府和TrumpRx使处方药价格正在大幅下降，承诺已兑现。",
+          "url": "https://flash.jin10.com/detail/20260817215345128800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
+        },
+        {
           "title": "特朗普威胁阿曼：若妨碍美国 将对其进行轰炸",
           "url": "https://flash.jin10.com/detail/20260817191721703800",
           "source": "金十数据",
@@ -399,6 +433,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
+        },
+        {
+          "title": "美国能源部长赖特：美国在天然气产量方面处于全球领先地位。得益于特朗普总统推动的“美国能源主导”议程，我们将在未来几十年继续保持领先地位。",
+          "url": "https://flash.jin10.com/detail/20260817215308369800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         },
         {
           "title": "特朗普女婿库什纳：埃及是美国在中东的重要合作伙伴。",
@@ -434,6 +479,17 @@
           "time_info": "19时33分"
         },
         {
+          "title": "据CNN：美国特使库什纳敦促内塔尼亚胡推进特朗普支持的加沙停火计划，“不要制造障碍”<br/>。",
+          "url": "https://flash.jin10.com/detail/20260817215058439800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
+        },
+        {
           "title": "据福克斯新闻：特朗普表示，他可能会在以色列选举中支持某位候选人。",
           "url": "https://flash.jin10.com/detail/20260817191247640800",
           "source": "金十数据",
@@ -459,7 +515,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "伊朗指责卡塔尔阻查飞行员下落",
@@ -496,6 +552,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时34分 ~ 02时39分]"
+        },
+        {
+          "title": "美国屡次“违约”，伊朗强硬派放弃对美幻想，被曝秘密扩军备战“新一轮对抗”",
+          "url": "https://wallstreetcn.com/articles/3779592",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时33分 ~ 22时36分]"
         },
         {
           "title": "据伊通社（IRNA）：伊朗陆军总司表示，我们确信，林肯号航空母舰至少被伊朗发射的弹药击中一次，以至于在一段时间内，舰上所有战斗机均无法起飞。",
@@ -559,28 +628,17 @@
           "time_info": "[11时07分 ~ 12时53分]"
         },
         {
-          "title": "美国屡次“违约”，伊朗强硬派放弃对美幻想，被曝秘密扩军备战“新一轮对抗”",
-          "url": "https://wallstreetcn.com/articles/3779592",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时33分 ~ 21时47分]"
-        },
-        {
           "title": "未寄希望于谈判 消息指伊朗秘密计划升级战争",
           "url": "https://www.zaochenbao.com/news/politics/202608/1778966.html",
           "source": "联合早报",
           "ranks": [
             6,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 21时47分]"
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 22时36分]"
         },
         {
           "title": "欲经济孤立伊朗 美国或伤及自身",
@@ -603,6 +661,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时07分 ~ 11时08分]"
+        },
+        {
+          "title": "伊朗最高领袖：我们将保持警惕，积极维护伊朗的利益。",
+          "url": "https://flash.jin10.com/detail/20260817220418677800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         },
         {
           "title": "据路透社：伊朗高级官员表示，伊朗设定的时间框架将通过调解人传达给美国及地区国家。伊朗不会无限期等待美国继续实施海上封锁。",
@@ -699,7 +768,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
         },
@@ -726,6 +795,17 @@
           "time_info": "15时09分"
         },
         {
+          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：也门方面表示，解决危机的唯一安全且低成本的方式是结束封锁并停止干涉也门内政。",
+          "url": "https://flash.jin10.com/detail/20260817214959031800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
+        },
+        {
           "title": "伊朗战争，正在掏空美国弹药库",
           "url": "https://flash.jin10.com/detail/20260816211830849800",
           "source": "金十数据",
@@ -735,6 +815,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：也门方面表示，沙特政权任何加剧紧张局势的举动都将遭到对等回应。",
+          "url": "https://flash.jin10.com/detail/20260817214935540800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         }
       ]
     },
@@ -798,7 +889,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
         },
@@ -821,9 +912,70 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "上美股份(02145.HK)拟8月27日举行董事会会议审批中期业绩",
+          "url": "https://www.gelonghui.com/news/5287354",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "美股开盘，道指跌0.3%，标普500指数接近平开，纳指涨0.2%。存储概念股上涨，美光科技(MU.O)涨3.6%，闪迪(SNDK.O)涨4.5%。Alphabet(GOOG.O)涨0.2%，伯克希尔二季度继续加仓Alphabet。阿里巴巴(BABA.N)上涨1.6%，公司以15亿美元的价格出售游戏业务。",
+          "url": "https://flash.jin10.com/detail/20260817213040526800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
+          "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2456385",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时47分 ~ 22时36分]"
+        },
+        {
+          "title": "华尔街“恐慌指数”触及年内低点，机构警告美股秋季抛售风险加剧",
+          "url": "https://flash.jin10.com/detail/20260817220603052800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
+        },
+        {
+          "title": "美股异动丨捷蓝航空盘初再跌超4%，海港研究下调评级至“中性”",
+          "url": "https://www.gelonghui.com/news/5287430",
+          "source": "格隆汇",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         }
       ]
     },
@@ -869,45 +1021,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "上美股份(02145.HK)拟8月27日举行董事会会议审批中期业绩",
-          "url": "https://www.gelonghui.com/news/5287354",
-          "source": "格隆汇",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "美股开盘，道指跌0.3%，标普500指数接近平开，纳指涨0.2%。存储概念股上涨，美光科技(MU.O)涨3.6%，闪迪(SNDK.O)涨4.5%。Alphabet(GOOG.O)涨0.2%，伯克希尔二季度继续加仓Alphabet。阿里巴巴(BABA.N)上涨1.6%，公司以15亿美元的价格出售游戏业务。",
-          "url": "https://flash.jin10.com/detail/20260817213040526800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时47分"
-        },
-        {
-          "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2456385",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -922,8 +1035,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时52分 ~ 21时47分]"
+          "appearance_count": 7,
+          "time_info": "[12时52分 ~ 22时36分]"
         },
         {
           "title": "美债总规模将破40万亿大关，美银：做多黄金是明智之举",
@@ -932,7 +1045,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
         }
