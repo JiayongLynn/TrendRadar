@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-18T07:30:33.477293+08:00",
-  "total_titles_processed": 98,
+  "generated_at": "2026-08-18T17:41:38.457980+08:00",
+  "total_titles_processed": 191,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普威胁：若阿曼阻碍美伊和平协议 将对其发动轰炸",
@@ -21,6 +21,17 @@
           "time_info": "07时30分"
         },
         {
+          "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
+          "url": "https://wallstreetcn.com/articles/3779635",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
           "title": "特朗普拒绝延长美伊停火协议，警告阿曼别“挡路”，否则将遭轰炸",
           "url": "https://flash.jin10.com/detail/20260818063446465800",
           "source": "金十数据",
@@ -30,6 +41,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
+        },
+        {
+          "title": "美国金融史上最明目张胆的一次？特朗普家族持股加密公司获批银行牌照",
+          "url": "https://www.cls.cn/detail/2456722",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "民调显示特朗普支持率创第二任期内新低",
@@ -43,6 +65,39 @@
           "time_info": "07时30分"
         },
         {
+          "title": "特朗普支持率降至任内新低 八成美国人料美伊战事长期持续",
+          "url": "https://www.cls.cn/detail/2456808",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
+          "title": "特朗普：吞并霍尔木兹海峡，这主意不错",
+          "url": "https://www.cls.cn/detail/2456977",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
+          "title": "特朗普支持率跌至33% 与上届任期最低水平持平",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1879031.html",
+          "source": "联合早报",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
           "title": "八伊斯兰国谴责以色列拒绝特朗普加沙和平计划",
           "url": "https://www.zaochenbao.com/news/politics/202608/1778971.html",
           "source": "联合早报",
@@ -52,6 +107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
+        },
+        {
+          "title": "特朗普下令缩减韩美军演 美战争部：正积极落实",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1879028.html",
+          "source": "联合早报",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "土耳其总统埃尔多安告诉美国总统特朗普，以色列正在加沙袭击巴勒斯坦人，而和平计划第二阶段本应在此时生效。",
@@ -112,8 +178,20 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "中东风险推高油价，美股美债齐跌，存储芯片、光通信逆势大涨，黄金涨回4400",
+          "url": "https://wallstreetcn.com/articles/3779603",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 17时41分]"
+        },
         {
           "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
           "url": "https://wallstreetcn.com/articles/3779560",
@@ -137,15 +215,26 @@
           "time_info": "07时30分"
         },
         {
-          "title": "中东风险推高油价，美股美债齐跌，存储芯片、光通信逆势大涨，黄金涨回4400",
-          "url": "https://wallstreetcn.com/articles/3779603",
+          "title": "美债抛售潮加剧！30年期美债收益率创2007年以来最高",
+          "url": "https://www.cls.cn/detail/2456636",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
+          "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
+          "url": "https://wallstreetcn.com/articles/3779638",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时30分"
+          "time_info": "17时41分"
         },
         {
           "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
@@ -157,6 +246,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
+        },
+        {
+          "title": "6月外国持美债规模下降 日本中国减持最显著",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1879011.html",
+          "source": "联合早报",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         }
       ]
     },
