@@ -1,31 +1,136 @@
 {
-  "generated_at": "2026-08-20T07:31:07.097104+08:00",
-  "total_titles_processed": 97,
+  "generated_at": "2026-08-20T19:35:29.996027+08:00",
+  "total_titles_processed": 192,
   "failed_sources": [
     "36kr"
   ],
   "trends": [
     {
-      "keyword_group": "美债",
-      "match_count": 5,
+      "keyword_group": "特朗普",
+      "match_count": 9,
       "titles": [
         {
-          "title": "美国财政部宣布扩大国债回购规模 美债收益率应声回落",
-          "url": "https://www.cls.cn/detail/2458743",
-          "source": "财联社热门",
+          "title": "特朗普宣布对伊朗采取史上最严厉的经济制裁措施",
+          "url": "https://flash.jin10.com/detail/20260820070635390800",
+          "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时30分 ~ 07时31分]"
         },
         {
+          "title": "美国总统特朗普：宣布对伊朗采取史上最严厉的经济制裁措施，这将是前所未有的经济战争和孤立。",
+          "url": "https://flash.jin10.com/detail/20260820070150023800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
+        },
+        {
+          "title": "日程空白但实际联系，美参议员要求沃什披露与特朗普的谈话",
+          "url": "https://flash.jin10.com/detail/20260820065218665800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
+        },
+        {
+          "title": "特朗普试图扩大对伊朗“经济围剿”，专家称实施难度很大",
+          "url": "https://flash.jin10.com/detail/20260820191217290800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "特朗普称掌握可严厉制裁伊朗措施",
+          "url": "https://flash.jin10.com/detail/20260820055932495800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
+        },
+        {
+          "title": "华尔街怎么看美财政部意外出手？变种QT来了，又一次“特朗普看跌期权”，沃什控通胀麻烦了",
+          "url": "https://wallstreetcn.com/articles/3779827",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "特朗普公布白宫直升机停机坪设计",
+          "url": "https://www.zaochenbao.com/news/politics/202608/2079190.html",
+          "source": "联合早报",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "李在明：对特朗普努力创造朝美对话条件表敬意",
+          "url": "https://www.zaochenbao.com/news/politics/202608/2079189.html",
+          "source": "联合早报",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "朝鲜回应特朗普缩减美韩军演规模：“对我们毫无吸引力”",
+          "url": "https://www.zaochenbao.com/news/politics/202608/2079175.html",
+          "source": "联合早报",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 7,
+      "titles": [
+        {
           "title": "长期美债收益率应声下跌！美财政部将长债回购上限提高至少一倍",
           "url": "https://wallstreetcn.com/articles/3779819",
           "source": "华尔街见闻",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时30分 ~ 19时35分]"
+        },
+        {
+          "title": "美国财政部宣布扩大国债回购规模 美债收益率应声回落",
+          "url": "https://www.cls.cn/detail/2458743",
+          "source": "财联社热门",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -63,12 +168,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时30分 ~ 07时31分]"
+        },
+        {
+          "title": "以“索罗斯风格”来救美债！从汇率管到利率，贝森特能赢市场吗？",
+          "url": "https://wallstreetcn.com/articles/3779843",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "贝森特“救美债”就是“放弃美元”，花旗：强烈看多黄金！",
+          "url": "https://wallstreetcn.com/articles/3779856",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "美国财政部出手救长债！美股终结三连跌，Moderna暴涨177%，美元跌破99，黄金、加密货币大涨",
@@ -80,6 +207,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时30分 ~ 07时31分]"
+        },
+        {
+          "title": "美国财政部出手救长债！美股终结三连跌，Moderna暴涨177%，黄金、加密货币大涨",
+          "url": "https://wallstreetcn.com/articles/3779750",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "美国财政部出手稳定债市 美股期指全线上涨 | 今夜看点",
@@ -113,56 +251,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时30分 ~ 07时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "特朗普宣布对伊朗采取史上最严厉的经济制裁措施",
-          "url": "https://flash.jin10.com/detail/20260820070635390800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 07时31分]"
         },
         {
-          "title": "美国总统特朗普：宣布对伊朗采取史上最严厉的经济制裁措施，这将是前所未有的经济战争和孤立。",
-          "url": "https://flash.jin10.com/detail/20260820070150023800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 07时31分]"
-        },
-        {
-          "title": "日程空白但实际联系，美参议员要求沃什披露与特朗普的谈话",
-          "url": "https://flash.jin10.com/detail/20260820065218665800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 07时31分]"
-        },
-        {
-          "title": "特朗普称掌握可严厉制裁伊朗措施",
-          "url": "https://flash.jin10.com/detail/20260820055932495800",
+          "title": "Meta Platforms(META.O)和微软(MSFT.O)美股盘前一度上涨1.6%。",
+          "url": "https://flash.jin10.com/detail/20260820190315675800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 07时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         }
       ]
     },
@@ -197,6 +296,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时30分 ~ 07时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "最大贸易伙伴阿联酋实施禁运 伊朗重要经济命脉恐遭切断",
+          "url": "https://www.zaochenbao.com/news/politics/202608/2079172.html",
+          "source": "联合早报",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         }
       ]
     }
